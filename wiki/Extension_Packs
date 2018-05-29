@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Extension Packs - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Extension_Packs","wgTitle":"Extension Packs","wgCurRevisionId":1448,"wgRevisionId":1448,"wgArticleId":575,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Extensions","Pages with broken file links"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Extension_Packs","wgRelevantArticleId":575,"wgRequestId":"535d7f242e20552cfe072770","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Extension_Packs rootpage-Extension_Packs skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img4.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Extension_Packs#mw-head">navigation</a>,
+          <a href="Extension_Packs#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Extension Packs</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Extension Packs</b> are a collection of free extensions created by developers of the <a href="Clickteam_Community" class="mw-redirect" title="Clickteam Community">Clickteam Community</a>. For <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2">Multimedia Fusion 2</a>, these packs can be downloaded and installed through an installer, whereas <a href="Fusion_2.5" class="mw-redirect" title="Fusion 2.5">Fusion 2.5</a> users can install them from the <a href="Extension_Manager" title="Extension Manager">Extension Manager</a>. Extensions from these packs are compatible with <a href="Fusion_2.5" class="mw-redirect" title="Fusion 2.5">Fusion 2.5</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Extension_Packs#Bonus_Pack_1"><span class="tocnumber">1</span> <span class="toctext">Bonus Pack 1</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="Extension_Packs#Standard_Version"><span class="tocnumber">1.1</span> <span class="toctext">Standard Version</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="Extension_Packs#Developer_Version"><span class="tocnumber">1.2</span> <span class="toctext">Developer Version</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="Extension_Packs#Bonus_Pack_2"><span class="tocnumber">2</span> <span class="toctext">Bonus Pack 2</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="Extension_Packs#z33z_Pack"><span class="tocnumber">3</span> <span class="toctext">z33z Pack</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="Extension_Packs#LIJI_Pack_1"><span class="tocnumber">4</span> <span class="toctext">LIJI Pack 1</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Bonus_Pack_1">Bonus Pack 1</span></h2>
+<p>This pack mostly contains <a href="MMF2" class="mw-redirect" title="MMF2">MMF2</a> versions of some older <a href="MMF1" class="mw-redirect" title="MMF1">MMF1</a> extensions, plus a couple of brand new extensions.
+</p>
+<table>
+<tr>
+<td> <img alt="FileSystem Download.png" src="../w/images/b/b2/FileSystem_Download.png" width="24" height="24" />
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.clickteam.com/webftp/files/mmf2/Exts/MMF2ExtPack1.exe">Download</a> (for <a href="MMF2" class="mw-redirect" title="MMF2">MMF2</a>)
+</td></tr>
+<tr>
+<td> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td> Available via the <a href="Extension_Manager" title="Extension Manager">Extension Manager</a>.
+</td></tr></table>
+<h4><span class="mw-headline" id="Standard_Version">Standard Version</span></h4>
+<table class="wikitable">
+<tr>
+<th colspan="2"> Extension
+</th>
+<th> Developer
+</th></tr>
+<tr>
+<td> <a href="./File:Icon_Advanced_Direction_Object.png" class="image"><img alt="Icon Advanced Direction Object.png" src="../w/images/e/e7/Icon_Advanced_Direction_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Advanced_Direction_Object&amp;action=edit&amp;redlink=1" class="new" title="Advanced Direction Object (page does not exist)">Advanced Direction Object</a>
+</td>
+<td> Olle Fredriksson (Fodo)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Advanced_Game_Board.png" class="image"><img alt="Icon Advanced Game Board.png" src="../w/images/f/f5/Icon_Advanced_Game_Board.png" width="30" height="30" /></a>
+</td>
+<td> <a href="/w/index.php?title=Advanced_Game_Board_Object&amp;action=edit&amp;redlink=1" class="new" title="Advanced Game Board Object (page does not exist)">Advanced Game Board Object</a>
+</td>
+<td> Anders Riggelsen (Andos)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Advanced_Path_Movement.png" class="image"><img alt="Icon Advanced Path Movement.png" src="../w/images/8/81/Icon_Advanced_Path_Movement.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Advanced_Path_Movement&amp;action=edit&amp;redlink=1" class="new" title="Advanced Path Movement (page does not exist)">Advanced Path Movement</a>
+</td>
+<td> David Clark (Alien)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Alpha_Channel_Object.png" class="image"><img alt="Icon Alpha Channel Object.png" src="../w/images/c/c6/Icon_Alpha_Channel_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Alpha_Channel_Object&amp;action=edit&amp;redlink=1" class="new" title="Alpha Channel Object (page does not exist)">Alpha Channel Object</a>
+</td>
+<td> Chris Branch (FireMonkey)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Animated_Picture.png" class="image"><img alt="Icon Animated Picture.png" src="../w/images/4/48/Icon_Animated_Picture.png" width="28" height="28" /></a>
+</td>
+<td> <a href="/w/index.php?title=Animated_Picture&amp;action=edit&amp;redlink=1" class="new" title="Animated Picture (page does not exist)">Animated Picture</a>
+</td>
+<td> Daniel Rehn &amp; Jonas Rehn
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Binary_Object.png" class="image"><img alt="Icon Binary Object.png" src="../w/images/5/5b/Icon_Binary_Object.png" width="30" height="30" /></a>
+</td>
+<td> <a href="/w/index.php?title=Binary_Object&amp;action=edit&amp;redlink=1" class="new" title="Binary Object (page does not exist)">Binary Object</a>
+</td>
+<td> 3EE
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Blowfish_Object.png" class="image"><img alt="Icon Blowfish Object.png" src="../w/images/9/9a/Icon_Blowfish_Object.png" width="23" height="22" /></a>
+</td>
+<td> <a href="/w/index.php?title=Blowfish_Object&amp;action=edit&amp;redlink=1" class="new" title="Blowfish Object (page does not exist)">Blowfish Object</a>
+</td>
+<td> Matt Galanto
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Calendar_Object.png" class="image"><img alt="Icon Calendar Object.png" src="../w/images/c/c8/Icon_Calendar_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Calender_Object&amp;action=edit&amp;redlink=1" class="new" title="Calender Object (page does not exist)">Calender Object</a>
+</td>
+<td> Chris Newhouse and updated by Chris Branch
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Color_Selector.png" class="image"><img alt="Icon Color Selector.png" src="../w/images/d/db/Icon_Color_Selector.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Color_Selector&amp;action=edit&amp;redlink=1" class="new" title="Color Selector (page does not exist)">Color Selector</a>
+</td>
+<td> Chris Newhouse
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Common_Dialog_Object.png" class="image"><img alt="Icon Common Dialog Object.png" src="../w/images/4/4e/Icon_Common_Dialog_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Common_Dialog_Object&amp;action=edit&amp;redlink=1" class="new" title="Common Dialog Object (page does not exist)">Common Dialog Object</a>
+</td>
+<td> 3EE
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Dynamic_Array.png" class="image"><img alt="Icon Dynamic Array.png" src="../w/images/c/c6/Icon_Dynamic_Array.png" width="30" height="30" /></a>
+</td>
+<td> <a href="/w/index.php?title=Dynamic_Array&amp;action=edit&amp;redlink=1" class="new" title="Dynamic Array (page does not exist)">Dynamic Array</a>
+</td>
+<td> 3EE
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Dictionary_Object.png" class="image"><img alt="Icon Dictionary Object.png" src="../w/images/0/08/Icon_Dictionary_Object.png" width="30" height="29" /></a>
+</td>
+<td> <a href="/w/index.php?title=Dictionary_Object&amp;action=edit&amp;redlink=1" class="new" title="Dictionary Object (page does not exist)">Dictionary Object</a>
+</td>
+<td> 3EE
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Easy_Grid_Object.png" class="image"><img alt="Icon Easy Grid Object.png" src="../w/images/e/e1/Icon_Easy_Grid_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Easy_Grid&amp;action=edit&amp;redlink=1" class="new" title="Easy Grid (page does not exist)">Easy Grid</a>
+</td>
+<td> Ashley Gullen (Tigerworks)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_IconList_Object.png" class="image"><img alt="Icon IconList Object.png" src="../w/images/f/f1/Icon_IconList_Object.png" width="21" height="21" /></a>
+</td>
+<td> <a href="/w/index.php?title=IconList_Object&amp;action=edit&amp;redlink=1" class="new" title="IconList Object (page does not exist)">IconList Object</a>
+</td>
+<td> Rich Whilding (Herb)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_IconView_Object.png" class="image"><img alt="Icon IconView Object.png" src="../w/images/8/81/Icon_IconView_Object.png" width="31" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=IconView_Object&amp;action=edit&amp;redlink=1" class="new" title="IconView Object (page does not exist)">IconView Object</a>
+</td>
+<td> Ashley Gullen (Tigerworks)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Image_Manipulator.png" class="image"><img alt="Icon Image Manipulator.png" src="../w/images/6/6f/Icon_Image_Manipulator.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Image_Manipulator&amp;action=edit&amp;redlink=1" class="new" title="Image Manipulator (page does not exist)">Image Manipulator</a>
+</td>
+<td> Rich Whilding (Herb)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Int64_Object.png" class="image"><img alt="Icon Int64 Object.png" src="../w/images/9/92/Icon_Int64_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Int64_Object&amp;action=edit&amp;redlink=1" class="new" title="Int64 Object (page does not exist)">Int64 Object</a>
+</td>
+<td> Ashley Gullen (Tigerworks)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Isometric_Grid_Object.png" class="image"><img alt="Icon Isometric Grid Object.png" src="../w/images/8/88/Icon_Isometric_Grid_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Isometric_Grid_Object&amp;action=edit&amp;redlink=1" class="new" title="Isometric Grid Object (page does not exist)">Isometric Grid Object</a>
+</td>
+<td> Ashley Gullen (Tigerworks)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Lens.png" class="image"><img alt="Icon Lens.png" src="../w/images/5/59/Icon_Lens.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Lens&amp;action=edit&amp;redlink=1" class="new" title="Lens (page does not exist)">Lens</a>
+</td>
+<td> Anders Riggelsen (Andos)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Lua_Object.png" class="image"><img alt="Icon Lua Object.png" src="../w/images/c/c3/Icon_Lua_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Lua_Object&amp;action=edit&amp;redlink=1" class="new" title="Lua Object (page does not exist)">Lua Object</a>
+</td>
+<td> Donald May (Vortex2)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_MagicDeque_Object.png" class="image"><img alt="Icon MagicDeque Object.png" src="../w/images/f/f1/Icon_MagicDeque_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=MagicDeque&amp;action=edit&amp;redlink=1" class="new" title="MagicDeque (page does not exist)">MagicDeque</a>
+</td>
+<td> Chris Branch (FireMonkey)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_MT_Random_Object.png" class="image"><img alt="Icon MT Random Object.png" src="../w/images/a/a6/Icon_MT_Random_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=MT_Random_Object&amp;action=edit&amp;redlink=1" class="new" title="MT Random Object (page does not exist)">Mersenne Twister (known as MT Random Object)</a>
+</td>
+<td> Chris Branch (FireMonkey)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_modfx3_sound.png" class="image"><img alt="Icon modfx3 sound.png" src="../w/images/a/aa/Icon_modfx3_sound.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=ModFX_3:_ModFusion_eX&amp;action=edit&amp;redlink=1" class="new" title="ModFX 3: ModFusion eX (page does not exist)">ModFX 3: ModFusion eX</a>
+</td>
+<td> Josh Whelchel
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_MoveIt.png" class="image"><img alt="Icon MoveIt.png" src="../w/images/8/86/Icon_MoveIt.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=MoveIt&amp;action=edit&amp;redlink=1" class="new" title="MoveIt (page does not exist)">MoveIt</a>
+</td>
+<td> Anders Riggelsen (Andos)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Move_Safely_2_Object.png" class="image"><img alt="Icon Move Safely 2 Object.png" src="../w/images/a/a1/Icon_Move_Safely_2_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Move_Safely_2_Object&amp;action=edit&amp;redlink=1" class="new" title="Move Safely 2 Object (page does not exist)">Move Safely 2 Object</a>
+</td>
+<td> David Clark (Alien)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Named_Variable_Object.png" class="image"><img alt="Icon Named Variable Object.png" src="../w/images/6/66/Icon_Named_Variable_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Named_Variable_Object&amp;action=edit&amp;redlink=1" class="new" title="Named Variable Object (page does not exist)">Named Variable Object</a>
+</td>
+<td> z33z
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Numeric_Up-Down_Control.png" class="image"><img alt="Icon Numeric Up-Down Control.png" src="../w/images/0/03/Icon_Numeric_Up-Down_Control.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Numeric_Up-Down_Control&amp;action=edit&amp;redlink=1" class="new" title="Numeric Up-Down Control (page does not exist)">Numeric Up-Down Control</a>
+</td>
+<td> GreyHill
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Particle_Spray_Object.png" class="image"><img alt="Icon Particle Spray Object.png" src="../w/images/a/a2/Icon_Particle_Spray_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Particle_Spray&amp;action=edit&amp;redlink=1" class="new" title="Particle Spray (page does not exist)">Particle Spray</a>
+</td>
+<td> Mattis Lorentzon
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Platform_Movement_Object.png" class="image"><img alt="Icon Platform Movement Object.png" src="../w/images/5/5d/Icon_Platform_Movement_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Platform_Movement_Object&amp;action=edit&amp;redlink=1" class="new" title="Platform Movement Object (page does not exist)">Platform Movement Object</a>
+</td>
+<td> Olle Fredriksson (Fodo)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Progress_Bar_Object.png" class="image"><img alt="Icon Progress Bar Object.png" src="../w/images/6/60/Icon_Progress_Bar_Object.png" width="28" height="12" /></a>
+</td>
+<td> <a href="/w/index.php?title=Progress_Bar_Object&amp;action=edit&amp;redlink=1" class="new" title="Progress Bar Object (page does not exist)">Progress Bar Object</a>
+</td>
+<td> Chris Branch (FireMonkey)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Random_Pool.png" class="image"><img alt="Icon Random Pool.png" src="../w/images/1/16/Icon_Random_Pool.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Random_Pool&amp;action=edit&amp;redlink=1" class="new" title="Random Pool (page does not exist)">Random Pool</a>
+</td>
+<td> Mokhtar M. Khorshid and Michael Saad
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Save_Game_Object.png" class="image"><img alt="Icon Save Game Object.png" src="../w/images/a/ac/Icon_Save_Game_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Save_Game_Object&amp;action=edit&amp;redlink=1" class="new" title="Save Game Object (page does not exist)">Save Game Object</a>
+</td>
+<td>  Olle Fredriksson (Fodo)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Speech_Bubble.png" class="image"><img alt="Icon Speech Bubble.png" src="../w/images/6/6b/Icon_Speech_Bubble.png" width="28" height="23" /></a>
+</td>
+<td> <a href="/w/index.php?title=Speech_Bubble&amp;action=edit&amp;redlink=1" class="new" title="Speech Bubble (page does not exist)">Speech Bubble</a>
+</td>
+<td> David Clark (Alien)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_String_Parser.png" class="image"><img alt="Icon String Parser.png" src="../w/images/d/db/Icon_String_Parser.png" width="30" height="30" /></a>
+</td>
+<td> <a href="/w/index.php?title=String_Parser&amp;action=edit&amp;redlink=1" class="new" title="String Parser (page does not exist)">String Parser 2</a>
+</td>
+<td> 3EE
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Text_Blitter.png" class="image"><img alt="Icon Text Blitter.png" src="../w/images/1/19/Icon_Text_Blitter.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Text_Blitter&amp;action=edit&amp;redlink=1" class="new" title="Text Blitter (page does not exist)">Text Blitter</a>
+</td>
+<td> Christopher Lightfoot
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_YASO_Extension.png" class="image"><img alt="Icon YASO Extension.png" src="../w/images/b/bb/Icon_YASO_Extension.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=YASO_Object&amp;action=edit&amp;redlink=1" class="new" title="YASO Object (page does not exist)">YASO Object</a>
+</td>
+<td> Jack Webster (Jax)
+</td></tr>
+</table>
+<h4><span class="mw-headline" id="Developer_Version">Developer Version</span></h4>
+<p>Includes all of the extensions from the Standard Version, plus:
+</p>
+<table class="wikitable">
+<tr>
+<th colspan="2"> Extension
+</th>
+<th> Developer
+</th></tr>
+<tr>
+<td> <a href="./File:Icon_E-mail_Object.png" class="image"><img alt="Icon E-mail Object.png" src="../w/images/7/72/Icon_E-mail_Object.png" width="28" height="19" /></a>
+</td>
+<td> <a href="/w/index.php?title=Email_Object&amp;action=edit&amp;redlink=1" class="new" title="Email Object (page does not exist)">Email Object</a>
+</td>
+<td> z33z
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Masked_Edit.png" class="image"><img alt="Icon Masked Edit.png" src="../w/images/9/9c/Icon_Masked_Edit.png" width="31" height="31" /></a>
+</td>
+<td> <a href="/w/index.php?title=Masked_Edit&amp;action=edit&amp;redlink=1" class="new" title="Masked Edit (page does not exist)">Masked Edit</a>
+</td>
+<td> Chris Newhouse
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_ProcessViewer_Extension.png" class="image"><img alt="Icon ProcessViewer Extension.png" src="../w/images/b/b4/Icon_ProcessViewer_Extension.png" width="32" height="32" /></a>
+</td>
+<td> <a href="Process_Viewer" title="Process Viewer">Process Viewer</a>
+</td>
+<td> Chris Newhouse
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_QuickHash_Object.png" class="image"><img alt="Icon QuickHash Object.png" src="../w/images/a/a3/Icon_QuickHash_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=QuickHash_Object&amp;action=edit&amp;redlink=1" class="new" title="QuickHash Object (page does not exist)">QuickHash Object</a>
+</td>
+<td> Rich Whilding (Herb)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Regular_Expressions_Object.png" class="image"><img alt="Icon Regular Expressions Object.png" src="../w/images/0/00/Icon_Regular_Expressions_Object.png" width="32" height="28" /></a>
+</td>
+<td> <a href="/w/index.php?title=Regular_Expressions_Object&amp;action=edit&amp;redlink=1" class="new" title="Regular Expressions Object (page does not exist)">Regular Expressions Object</a>
+</td>
+<td> Chris Branch (FireMonkey)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Spellcheck_Object.png" class="image"><img alt="Icon Spellcheck Object.png" src="../w/images/c/c8/Icon_Spellcheck_Object.png" width="30" height="30" /></a>
+</td>
+<td> <a href="/w/index.php?title=Spellcheck_Object&amp;action=edit&amp;redlink=1" class="new" title="Spellcheck Object (page does not exist)">Spellcheck Object</a>
+</td>
+<td> Jack Webster (Jax)
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_XML_Object.png" class="image"><img alt="Icon XML Object.png" src="../w/images/6/67/Icon_XML_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=XML_Parser_Object&amp;action=edit&amp;redlink=1" class="new" title="XML Parser Object (page does not exist)">XML Parser Object</a>
+</td>
+<td> Mokhtar M. Khorshid
+</td></tr></table>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Bonus_Pack_2">Bonus Pack 2</span></h2>
+<p>This pack contains <a href="MMF2" class="mw-redirect" title="MMF2">MMF2</a> versions of <a href="MMF1" class="mw-redirect" title="MMF1">MMF1</a> extensions created by Cellosoft, plus the <a href="/w/index.php?title=Direction_Calculator&amp;action=edit&amp;redlink=1" class="new" title="Direction Calculator (page does not exist)">Direction Calculator</a> object by Philip Williams. The features are the same as the <a href="MMF1.5" class="mw-redirect" title="MMF1.5">MMF1.5</a> version, with bugs fixed.
+</p><p>The installer message states that the <b>Clipboard</b> and <b>Window Title</b> objects are provided for compatiblity reasons only.
+</p>
+<table>
+<tr>
+<td> <img alt="FileSystem Download.png" src="../w/images/b/b2/FileSystem_Download.png" width="24" height="24" />
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.clickteam.com/webftp/files/mmf2/Exts/MMF2ExtPack2.exe">Download</a> (for <a href="MMF2" class="mw-redirect" title="MMF2">MMF2</a>)
+</td></tr>
+<tr>
+<td> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td> Available via the <a href="Extension_Manager" title="Extension Manager">Extension Manager</a>.
+</td></tr></table>
+<p><br />
+</p>
+<table class="wikitable">
+<tr>
+<th colspan="2"> Extension
+</th>
+<th> Developer
+</th></tr>
+<tr>
+<td> <a href="./File:Icon_Advanced_Math_Object.png" class="image"><img alt="Icon Advanced Math Object.png" src="../w/images/d/d0/Icon_Advanced_Math_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Advanced_Math_Object&amp;action=edit&amp;redlink=1" class="new" title="Advanced Math Object (page does not exist)">Advanced Math Object</a>
+</td>
+<td> Cellosoft
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Special:Upload&amp;wpDestFile=Icon_Clipboard_Object.png" class="new" title="File:Icon Clipboard Object.png">32px</a>
+</td>
+<td> <a href="/w/index.php?title=Clipboard_Object&amp;action=edit&amp;redlink=1" class="new" title="Clipboard Object (page does not exist)">Clipboard Object</a>
+</td>
+<td> Cellosoft
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Data_Store_2_Object.png" class="image"><img alt="Icon Data Store 2 Object.png" src="../w/images/0/01/Icon_Data_Store_2_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Data_Store_2_Object&amp;action=edit&amp;redlink=1" class="new" title="Data Store 2 Object (page does not exist)">Data Store 2 Object</a>
+</td>
+<td> Cellosoft
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Direction_Calculator.png" class="image"><img alt="Icon Direction Calculator.png" src="../w/images/6/6f/Icon_Direction_Calculator.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Direction_Calculator&amp;action=edit&amp;redlink=1" class="new" title="Direction Calculator (page does not exist)">Direction Calculator</a>
+</td>
+<td> Philip Williams
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Fast_Function_Object.png" class="image"><img alt="Icon Fast Function Object.png" src="../w/images/9/95/Icon_Fast_Function_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Fast_Function&amp;action=edit&amp;redlink=1" class="new" title="Fast Function (page does not exist)">Fast Function</a>
+</td>
+<td> Cellosoft
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Fast_Loop_Object.png" class="image"><img alt="Icon Fast Loop Object.png" src="../w/images/e/ec/Icon_Fast_Loop_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Fast_Loop&amp;action=edit&amp;redlink=1" class="new" title="Fast Loop (page does not exist)">Fast Loop</a>
+</td>
+<td> Cellosoft
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Windows_Focus_Object.png" class="image"><img alt="Icon Windows Focus Object.png" src="../w/images/6/61/Icon_Windows_Focus_Object.png" width="24" height="24" /></a>
+</td>
+<td> <a href="/w/index.php?title=Windows_Focus_Object&amp;action=edit&amp;redlink=1" class="new" title="Windows Focus Object (page does not exist)">Focus Object</a>
+</td>
+<td> Cellosoft
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Input_Object.png" class="image"><img alt="Icon Input Object.png" src="../w/images/5/58/Icon_Input_Object.png" width="25" height="15" /></a>
+</td>
+<td> <a href="/w/index.php?title=Input_Object&amp;action=edit&amp;redlink=1" class="new" title="Input Object (page does not exist)">Input Object</a>
+</td>
+<td> Cellosoft
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Mode_7_ex.png" class="image"><img alt="Icon Mode 7 ex.png" src="../w/images/3/30/Icon_Mode_7_ex.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Mode_7_Ex&amp;action=edit&amp;redlink=1" class="new" title="Mode 7 Ex (page does not exist)">Mode 7 Ex</a>
+</td>
+<td> Cellosoft
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Mouse_object.png" class="image"><img alt="Icon Mouse object.png" src="../w/images/e/e4/Icon_Mouse_object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Mouse_Object&amp;action=edit&amp;redlink=1" class="new" title="Mouse Object (page does not exist)">Mouse Object</a>
+</td>
+<td> Cellosoft
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Popup_Message_Object_2.png" class="image"><img alt="Icon Popup Message Object 2.png" src="../w/images/8/86/Icon_Popup_Message_Object_2.png" width="26" height="15" /></a>
+</td>
+<td> <a href="/w/index.php?title=Popup_Message_2_Object&amp;action=edit&amp;redlink=1" class="new" title="Popup Message 2 Object (page does not exist)">Popup Message 2 Object</a>
+</td>
+<td> Cellosoft
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Randomizer_Object.png" class="image"><img alt="Icon Randomizer Object.png" src="../w/images/7/7a/Icon_Randomizer_Object.png" width="23" height="21" /></a>
+</td>
+<td> <a href="/w/index.php?title=Randomizer_Object&amp;action=edit&amp;redlink=1" class="new" title="Randomizer Object (page does not exist)">Randomizer Object</a>
+</td>
+<td> Cellosoft
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Timer_Object.png" class="image"><img alt="Icon Timer Object.png" src="../w/images/1/17/Icon_Timer_Object.png" width="19" height="23" /></a>
+</td>
+<td> <a href="/w/index.php?title=Timer_Object_(Cellosoft)&amp;action=edit&amp;redlink=1" class="new" title="Timer Object (Cellosoft) (page does not exist)">Timer Object</a>
+</td>
+<td> Cellosoft
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Tokens_Object.png" class="image"><img alt="Icon Tokens Object.png" src="../w/images/9/98/Icon_Tokens_Object.png" width="22" height="22" /></a>
+</td>
+<td> <a href="/w/index.php?title=Token_Object&amp;action=edit&amp;redlink=1" class="new" title="Token Object (page does not exist)">Token Object</a>
+</td>
+<td> Cellosoft
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Special:Upload&amp;wpDestFile=Icon_Window_Title_Object.png" class="new" title="File:Icon Window Title Object.png">32px</a>
+</td>
+<td> <a href="/w/index.php?title=Window_Title_Object&amp;action=edit&amp;redlink=1" class="new" title="Window Title Object (page does not exist)">Window Title Object</a>
+</td>
+<td> Cellosoft
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Tray_Icon_Object.png" class="image"><img alt="Icon Tray Icon Object.png" src="../w/images/b/b3/Icon_Tray_Icon_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Tray_Icon_Object&amp;action=edit&amp;redlink=1" class="new" title="Tray Icon Object (page does not exist)">Tray Icon Object</a>
+</td>
+<td> Cellosoft
+</td></tr>
+</table>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="z33z_Pack">z33z Pack</span></h2>
+<p>This pack contains <a href="MMF2" class="mw-redirect" title="MMF2">MMF2</a> versions of z33z's <a href="MMF1" class="mw-redirect" title="MMF1">MMF1</a> extensions.
+</p>
+<table>
+<tr>
+<td> <img alt="FileSystem Download.png" src="../w/images/b/b2/FileSystem_Download.png" width="24" height="24" />
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.clickteam.com/webftp/files/mmf2/Exts/MMF2z33zExtPack.exe">Download</a> (for <a href="MMF2" class="mw-redirect" title="MMF2">MMF2</a>)
+</td></tr>
+<tr>
+<td> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td> Available via the <a href="Extension_Manager" title="Extension Manager">Extension Manager</a>.
+</td></tr></table>
+<p><br />
+</p>
+<table class="wikitable">
+<tr>
+<th colspan="2"> Extension
+</th>
+<th> Developer
+</th></tr>
+<tr>
+<td> <a href="./File:Icon_Control_X.png" class="image"><img alt="Icon Control X.png" src="../w/images/b/b3/Icon_Control_X.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Control_X&amp;action=edit&amp;redlink=1" class="new" title="Control X (page does not exist)">Control X</a>
+</td>
+<td> z33z
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Flag_Object.png" class="image"><img alt="Icon Flag Object.png" src="../w/images/c/c6/Icon_Flag_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Flag_Object&amp;action=edit&amp;redlink=1" class="new" title="Flag Object (page does not exist)">Flag Object</a>
+</td>
+<td> z33z
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Global_Store_X.png" class="image"><img alt="Icon Global Store X.png" src="../w/images/8/8c/Icon_Global_Store_X.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Global_Store_X&amp;action=edit&amp;redlink=1" class="new" title="Global Store X (page does not exist)">Global Store X</a>
+</td>
+<td> z33z
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Joypad_object.png" class="image"><img alt="Icon Joypad object.png" src="../w/images/3/37/Icon_Joypad_object.png" width="26" height="24" /></a>
+</td>
+<td> <a href="/w/index.php?title=Joypad_Object&amp;action=edit&amp;redlink=1" class="new" title="Joypad Object (page does not exist)">Joypad Object</a>
+</td>
+<td> z33z
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Pathfinding_Object.png" class="image"><img alt="Icon Pathfinding Object.png" src="../w/images/b/b4/Icon_Pathfinding_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Pathfinding_Object&amp;action=edit&amp;redlink=1" class="new" title="Pathfinding Object (page does not exist)">Pathfinding Object</a>
+</td>
+<td> z33z
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Sort_X_Object.png" class="image"><img alt="Icon Sort X Object.png" src="../w/images/d/d1/Icon_Sort_X_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Sort_X_Object&amp;action=edit&amp;redlink=1" class="new" title="Sort X Object (page does not exist)">Sort X Object</a>
+</td>
+<td> z33z
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Stringsort_X_Object.png" class="image"><img alt="Icon Stringsort X Object.png" src="../w/images/f/ff/Icon_Stringsort_X_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=String_Sort_X_Object&amp;action=edit&amp;redlink=1" class="new" title="String Sort X Object (page does not exist)">String Sort X Object</a>
+</td>
+<td> z33z
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Store_X.png" class="image"><img alt="Icon Store X.png" src="../w/images/d/d1/Icon_Store_X.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Store_X&amp;action=edit&amp;redlink=1" class="new" title="Store X (page does not exist)">Store X</a>
+</td>
+<td> z33z
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Time_X.png" class="image"><img alt="Icon Time X.png" src="../w/images/8/81/Icon_Time_X.png" width="24" height="24" /></a>
+</td>
+<td> <a href="/w/index.php?title=Time_X&amp;action=edit&amp;redlink=1" class="new" title="Time X (page does not exist)">Time X</a>
+</td>
+<td> z33z
+</td></tr></table>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="LIJI_Pack_1">LIJI Pack 1</span></h2>
+<p>This pack contains <a href="MMF2" class="mw-redirect" title="MMF2">MMF2</a> versions of z33z's <a href="MMF1" class="mw-redirect" title="MMF1">MMF1</a> extensions.
+</p>
+<table>
+<tr>
+<td> <img alt="FileSystem Download.png" src="../w/images/b/b2/FileSystem_Download.png" width="24" height="24" />
+</td>
+<td> <a rel="nofollow" class="external text" href="http://castles-of-britain.com/LIJIBonusPack.exe">Download</a> (for <a href="MMF2" class="mw-redirect" title="MMF2">MMF2</a>) <sup>(<a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/82875-LIJI-Extension-Bonus-Pack?highlight=marv+liji+bonus+pack">Kindly mirrored by Marv</a>)</sup>
+</td></tr>
+<tr>
+<td> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td> Available via the <a href="Extension_Manager" title="Extension Manager">Extension Manager</a>.
+</td></tr></table>
+<p><br />
+</p>
+<table class="wikitable">
+<tr>
+<th colspan="2"> Extension
+</th>
+<th> Developer
+</th></tr>
+<tr>
+<td> <a href="./File:Icon_3DActives.png" class="image"><img alt="Icon 3DActives.png" src="../w/images/3/30/Icon_3DActives.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=3D_Actives&amp;action=edit&amp;redlink=1" class="new" title="3D Actives (page does not exist)">3D Actives</a>
+</td>
+<td> LIJI
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Colorizer.png" class="image"><img alt="Icon Colorizer.png" src="../w/images/8/83/Icon_Colorizer.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Colorizer&amp;action=edit&amp;redlink=1" class="new" title="Colorizer (page does not exist)">Colorizer</a>
+</td>
+<td> LIJI
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Crasher.png" class="image"><img alt="Icon Crasher.png" src="../w/images/5/53/Icon_Crasher.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Crasher&amp;action=edit&amp;redlink=1" class="new" title="Crasher (page does not exist)">Crasher</a>
+</td>
+<td> LIJI
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Easy_Detector.png" class="image"><img alt="Icon Easy Detector.png" src="../w/images/d/d3/Icon_Easy_Detector.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Easy_Detector&amp;action=edit&amp;redlink=1" class="new" title="Easy Detector (page does not exist)">Easy Detector</a>
+</td>
+<td> LIJI
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Get_Movement.png" class="image"><img alt="Icon Get Movement.png" src="../w/images/a/a3/Icon_Get_Movement.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Get_Movement&amp;action=edit&amp;redlink=1" class="new" title="Get Movement (page does not exist)">Get Movement</a>
+</td>
+<td> LIJI
+</td></tr>
+<tr>
+<td> <a href="./File:Icon_Pixel_Object.png" class="image"><img alt="Icon Pixel Object.png" src="../w/images/5/56/Icon_Pixel_Object.png" width="32" height="32" /></a>
+</td>
+<td> <a href="/w/index.php?title=Pixel_Object&amp;action=edit&amp;redlink=1" class="new" title="Pixel Object (page does not exist)">Pixel Object</a>
+</td>
+<td> LIJI
+</td></tr>
+</table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180529155151
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 1.120 seconds
+Real time usage: 1.145 seconds
+Preprocessor visited node count: 34/1000000
+Preprocessor generated node count: 62/1000000
+Post‐expand include size: 336/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   12.724      1 - -total
+ 66.04%    8.403      4 - Template:CF2.5
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:575-0!*!0!!en!5!* and timestamp 20180529155149 and revision id 1448
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Lh37&amp;action=edit&amp;redlink=1" class="new" title="User:Lh37 (page does not exist)">Lh37</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Extension_Packs&amp;oldid=1448">http://clickwiki.net/w/index.php?title=Extension_Packs&amp;oldid=1448</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="./Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="./Category:Extensions" title="Category:Extensions">Extensions</a></li><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li></ul></div></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Extension+Packs"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1669});});</script>
+  </body>
+</html>

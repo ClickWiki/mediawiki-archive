@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Chowdren/Platforms - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chowdren/Platforms","wgTitle":"Chowdren/Platforms","wgCurRevisionId":2089,"wgRevisionId":2089,"wgArticleId":56,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Chowdren"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chowdren/Platforms","wgRelevantArticleId":56,"wgRequestId":"b2cf7a4675fbbded62fef848","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Chowdren_Platforms rootpage-Chowdren_Platforms skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../../w/resources/assets/bkgndcycle/img4.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="../Main_Page"><img src="../../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="../Category:Clickteam" id="n-Clickteam"><img src="../../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="../Category:Products" id="n-Products"><img src="../../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="../Exporters" id="n-Exporters"><img src="../../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="../Category:Extensions" id="n-Extensions"><img src="../../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="../Category:Community" id="n-Community"><img src="../../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="../Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="../Category:Interface" id="n-Interface"><img src="../../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="../Category:File_Extensions" id="n-File-Extensions"><img src="../../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="../Category:Chowdren" id="n-Chowdren"><img src="../../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Platforms#mw-head">navigation</a>,
+          <a href="Platforms#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Chowdren/Platforms</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>This page is dedicated to explaining the steps to get <a href="../Chowdren.1" title="Chowdren">Chowdren</a> running on a particular target platform. Instructions are provided as a rough indicator and may not be 100% accurate or up-to-date. <b>Proceed at your own risk.</b>
+</p><p>Console platforms require a development kit and/or a license to develop applications for that platform.
+</p><p><br />
+</p>
+<center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Warning.png" src="../../w/images/c/c5/BoxSymbol_Warning.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>Missing Instructions.</b>
+</td></tr>
+<tr>
+<td> This page is incomplete and currently has no contributors to complete the instructions for other platforms.
+</td></tr></table>
+</div></center>
+<p><br />
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Platforms#Windows"><span class="tocnumber">1</span> <span class="toctext">Windows</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="Platforms#Exporter"><span class="tocnumber">1.1</span> <span class="toctext">Exporter</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="Platforms#Command_Line"><span class="tocnumber">1.2</span> <span class="toctext">Command Line</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="Platforms#Mac"><span class="tocnumber">2</span> <span class="toctext">Mac</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="Platforms#Linux"><span class="tocnumber">3</span> <span class="toctext">Linux</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="Platforms#Ubuntu.2FDebian"><span class="tocnumber">3.1</span> <span class="toctext">Ubuntu/Debian</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="Platforms#Android"><span class="tocnumber">4</span> <span class="toctext">Android</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="Platforms#Wii_U"><span class="tocnumber">5</span> <span class="toctext">Wii U</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="Platforms#Nintendo_3DS"><span class="tocnumber">6</span> <span class="toctext">Nintendo 3DS</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="Platforms#PlayStation_4"><span class="tocnumber">7</span> <span class="toctext">PlayStation 4</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="Platforms#PlayStation_Vita"><span class="tocnumber">8</span> <span class="toctext">PlayStation Vita</span></a></li>
+</ul>
+</div>
+
+<hr />
+<div class="floatright"><img alt="Supported Windows.png" src="../../w/images/0/07/Supported_Windows.png" width="64" height="64" /></div>
+<h2><span class="mw-headline" id="Windows">Windows</span></h2>
+<h3><span class="mw-headline" id="Exporter">Exporter</span></h3>
+<p>You can use the exporter to easily create a Chowdren-powered Windows Executable (EXE).
+</p>
+<pre><a rel="nofollow" class="external free" href="http://mp2.dk/chowdren/setup.exe">http://mp2.dk/chowdren/setup.exe</a>
+</pre>
+<p><b>This adds new build options:</b>
+</p>
+<ul><li> Chowdren (Windows)</li>
+<li> Chowdren (Windows + Source)</li>
+<li> Chowdren (Source)</li>
+<li> Chowdren (<a href="/w/index.php?title=CCN&amp;action=edit&amp;redlink=1" class="new" title="CCN (page does not exist)">CCN</a>)</li></ul>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Command_Line">Command Line</span></h3>
+<p><a href="../OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <b>Instructions for Windows systems.</b>
+</p><p>Maithas has provided a pre-compiled command line tool to quickly get started. <small><a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/74080-Chowdren-Blazingly-fast-Fusion-exporter-for-desktop-mobile-and-consoles?p=678350&amp;viewfull=1#post678350">(Source Forum Post)</a></small>
+</p><p>1) Download the Chowdren command-line tool, and extract it somewhere:
+</p>
+<pre>  <a rel="nofollow" class="external free" href="http://mp2.dk/chowdren/chowdren-cmdtool.zip">http://mp2.dk/chowdren/chowdren-cmdtool.zip</a>
+</pre>
+<p>2) Run <b>chowdren-update.bat</b>. This updates Chowdren to the newest version.
+</p><p>3) Install the Chowdren exporter plugin, if you have not done so already.
+</p>
+<pre>  <a rel="nofollow" class="external free" href="http://mp2.dk/chowdren/setup.exe">http://mp2.dk/chowdren/setup.exe</a>
+</pre>
+<p>4) Export the game using the "Chowdren (CCN)" build option to <b>e.g.</b> <i>cmdtool/game.ccn</i>.
+</p><p>5) Open <b>chowdren-cmd.bat</b> and run the following command:
+</p>
+<pre>  python -m chowdren.run game.ccn gamesrc
+</pre>
+<p>6) Install CMake using the Win32 installer:
+</p>
+<pre>  <a rel="nofollow" class="external free" href="http://www.cmake.org/download/">http://www.cmake.org/download/</a>
+</pre>
+<p>7) Install Visual Studio 2015:
+</p>
+<pre>  <a rel="nofollow" class="external free" href="https://go.microsoft.com/fwlink/?LinkId=532606&amp;clcid=0x409">https://go.microsoft.com/fwlink/?LinkId=532606&amp;clcid=0x409</a>
+</pre>
+<p>8)
+</p>
+<ul><li> Open the CMake GUI</li>
+<li> Set the source directory to <i>cmdtool/gamesrc</i></li>
+<li> Set the build directory to <i>cmdtool/gamesrc/build</i></li>
+<li> Click "Configure", and generate a project file using the 'Visual Studio 14 2015' generator.</li>
+<li> Set CMAKE_BUILD_TYPE to "Release".</li></ul>
+<p>9) Open <b>build/Chowdren.sln</b> in Visual Studio 2015 and click "Build".
+</p><p>10) Copy the '<b>OpenAL32.dll'</b> and '<b>SDL2.dll'</b> files from <b>anaconda-master/Chowdren/base/bin/win32</b> to the <b>gamesrc/build/Release</b> directory.
+</p><p>11) <b>Done!</b> Your new executable can be found at <b><i>gamesrc/build/</i>Release/Chowdren.exe</b>.
+</p><p><br />
+</p>
+<hr />
+<div class="floatright"><img alt="Supported OSX.png" src="../../w/images/b/be/Supported_OSX.png" width="64" height="64" /></div>
+<h2><span class="mw-headline" id="Mac">Mac</span></h2>
+<p>Not yet documented.
+</p><p><br />
+</p>
+<hr />
+<div class="floatright"><img alt="Supported Linux.png" src="../../w/images/e/e2/Supported_Linux.png" width="64" height="64" /></div>
+<h2><span class="mw-headline" id="Linux">Linux</span></h2>
+<p>There are literally hundreds of Linux distributions out there. Depending on which distribution(s) you are targeting, take care as the following instructions may need tweaking to work on other distributions. <a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/74080-Chowdren-Blazingly-fast-Fusion-exporter-for-desktop-amp-consoles?p=647305&amp;viewfull=1#post647305">It has warned that cross-distro Linux applications are more involved.</a>
+</p><p>Many major distributions are free and can even be ran directly from disc as a "live session" without installing to a system.
+</p><p><a href="../OS_Compatibility#GNU.2FLinux" title="This product is compatible with GNU/Linux"><img alt="This product is compatible with GNU/Linux" src="../../w/images/e/e2/Supported_Linux.png" width="24" height="24" /></a> <b>Instructions for Linux-based systems.</b>
+</p>
+<h4><span class="mw-headline" id="Ubuntu.2FDebian">Ubuntu/Debian</span></h4>
+<p>These steps are correct for <a rel="nofollow" class="external text" href="http://www.ubuntu.com/download/desktop">Ubuntu 14.04</a> and <a rel="nofollow" class="external text" href="https://wiki.ubuntu.com/UbuntuFlavors">it's derivatives</a>, and are provided as a rough indicator.
+</p><p>1. Start by opening a terminal. For many desktop environments, you can press <b>CTRL+ALT+T</b>.
+</p><p>2. Install the necessary packages on your system.
+</p>
+<pre>sudo apt-get install python pip git cmake cmake-qt-gui libboost-python1.54.0 libopenal-dev libboost-dev libsdl2-dev libvorbis-dev libboost-dev
+</pre>
+<p><br />
+2. You'll also need to install additional modules for Python.
+</p>
+<pre>sudo python -m pip install setuptools
+sudo python -m pip install Pillow Cython
+</pre>
+<p><br />
+3. Next, download the Chowdren Command Line tool.
+</p>
+<pre><a rel="nofollow" class="external free" href="http://mp2.dk/chowdren/cmdtool.zip">http://mp2.dk/chowdren/cmdtool.zip</a>
+</pre>
+<p><br />
+4. Enter the directory, and start building. In the meantime, use the <b>Chowdren Exporter</b> and export as a <b>"Chowdren (CCN)"</b> file to the "Chowdren" folder.
+</p>
+<pre>cd anaconda-master
+python build.py build_ext -f --inplace
+</pre>
+<p><br />
+5. Assuming you saved the file as <b>myapp.ccn</b> and saved it into the <b>Chowdren</b> folder:
+</p>
+<pre>cd Chowdren
+python -m chowdren.run <b>myapp</b>.ccn <b>myapp</b>src
+cmake-gui
+</pre>
+<p><br />
+6. In the <b>cmake-gui</b> application:
+</p>
+<ul><li> Set source directory to "anaconda-master/Chowdren/<b>myapp</b>src"</li>
+<li> Set build directory to "anaconda-master/Chowdren/<b>myapp</b>src/build"</li>
+<li> Click "Configure".</li>
+<li> Accept a dialog confirmation to use "Unix Makefiles" and "Use default native compilers"</li>
+<li> Enter a value for CMAKE_BUILD_TYPE. This is either "Release" or "Debug".</li>
+<li> Click "Configure", and then "Generate", providing there are no errors.</li></ul>
+<p><br />
+If you get an error about missing Boost libraries, install this additional package:
+</p>
+<pre>sudo apt-get install libboost-all-dev
+</pre>
+<p><br />
+7. With the make files in place, it's now time to build the actual program.
+</p>
+<pre>cd <b>myapp</b>src/build
+make
+</pre>
+<p><br />
+<b>Tip:</b> For a much faster compile time for processors with 2 or more cores, add the <b>-j2</b> parameter at the end of <b>make</b>, changing the "2" to the amount of cores you have.
+</p><p><br />
+8. <b>Done!</b> Providing all of your events are <a href="Compatibility" title="Chowdren/Compatibility">compatible</a>, the build will complete successfully. If not, <b>make</b> will output errors of the code that isn't implemented in Chowdren. To execute the generated binary program:
+</p>
+<pre>cd .. 
+./build/Chowdren
+</pre>
+<p><br />
+If you get an error about a segmentation fault, this generally means you are in the wrong working directory.
+</p><p><br />
+</p>
+<hr />
+<div class="floatright"><img alt="Runtime Android.png" src="../../w/images/c/c3/Runtime_Android.png" width="64" height="64" /></div>
+<h2><span class="mw-headline" id="Android">Android</span></h2>
+<p><a href="../OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <b>Instructions for Windows systems.</b>
+</p><p>Get 32-bit builds of all the installers mentioned below.
+</p><p>1) Install Python 2.7 (remember to enable the 'set PATH' option)
+</p>
+<pre>  <a rel="nofollow" class="external free" href="http://www.python.org/downloads">http://www.python.org/downloads</a>
+</pre>
+<p>2) Install the Microsoft Visual C++ Compiler Package for Python 2.7:
+</p>
+<pre>  <a rel="nofollow" class="external free" href="http://www.microsoft.com/en-us/download/details.aspx?id=44266">http://www.microsoft.com/en-us/download/details.aspx?id=44266</a>
+</pre>
+<p>3) Run the following command in a console:
+</p>
+<pre>  python -m pip install setuptools Pillow Cython
+</pre>
+<p>4) Install CMake (enable 'set PATH for all users')
+</p>
+<pre>  <a rel="nofollow" class="external free" href="http://www.cmake.org/download/">http://www.cmake.org/download/</a>
+</pre>
+<p>5) Download Anaconda/Chowdren here:
+</p>
+<pre>  <a rel="nofollow" class="external free" href="https://github.com/matpow2/anaconda">https://github.com/matpow2/anaconda</a>
+</pre>
+<p>Note: Downloading the ZIP is fine, but you may want to use Git if you need to update Chowdren often.
+</p><p>The Git command is:
+</p>
+<pre> git clone <a rel="nofollow" class="external free" href="https://github.com/matpow2/anaconda.git">https://github.com/matpow2/anaconda.git</a>
+</pre>
+<p><br />
+6) Run <b>build_all.bat</b> in the root directory
+</p><p>7) Export your Fusion game somewhere, e.g. <b>anaconda/Chowdren/Game.ccn</b>.
+Use the Chowdren exporter plugin with the build option "<b>Chowdren (CCN)</b>".
+</p><p>8) Open a Command Prompt and type
+</p>
+<pre>  cd C:\somepathhere\anaconda\Chowdren
+  python -m chowdren.run Game.ccn gamesrc --platform android
+  cd gamesrc
+  python ../base/build.py
+</pre>
+<p>9) <b>Done!</b> File is in <b>apk/release.apk</b>.
+</p>
+<hr />
+<div class="floatright"><img alt="Supported WiiU.png" src="../../w/images/5/58/Supported_WiiU.png" width="100" height="32" /></div>
+<h2><span class="mw-headline" id="Wii_U">Wii U</span></h2>
+<p>Not yet documented.
+</p>
+<hr />
+<div class="floatright"><img alt="Supported 3DS.png" src="../../w/images/9/91/Supported_3DS.png" width="150" height="18" /></div>
+<h2><span class="mw-headline" id="Nintendo_3DS">Nintendo 3DS</span></h2>
+<p>Not yet documented.
+</p>
+<hr />
+<div class="floatright"><img alt="Supported PS4.png" src="../../w/images/5/5f/Supported_PS4.png" width="64" height="50" /></div>
+<h2><span class="mw-headline" id="PlayStation_4">PlayStation 4</span></h2>
+<p>Not yet documented.
+</p>
+<hr />
+<div class="floatright"><img alt="Supported PSVita.png" src="../../w/images/2/2b/Supported_PSVita.png" width="100" height="16" /></div>
+<h2><span class="mw-headline" id="PlayStation_Vita">PlayStation Vita</span></h2>
+<p>Not yet documented.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155147
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.210 seconds
+Real time usage: 0.213 seconds
+Preprocessor visited node count: 71/1000000
+Preprocessor generated node count: 152/1000000
+Post‐expand include size: 861/2097152 bytes
+Template argument size: 135/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   26.114      1 - -total
+ 38.21%    9.979      1 - Template:InfoBox
+ 24.52%    6.402      2 - Template:Windows
+ 23.00%    6.007      1 - Template:Linux
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:56-0!*!0!!en!5!* and timestamp 20180529155147 and revision id 2089
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (7.4%), <a href="/w/index.php?title=User:Peter&amp;action=edit&amp;redlink=1" class="new" title="User:Peter (page does not exist)">Peter</a> (1.5%), <a href="/w/index.php?title=User:Lh37&amp;action=edit&amp;redlink=1" class="new" title="User:Lh37 (page does not exist)">Lh37</a> (91.1%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Chowdren/Platforms&amp;oldid=2089">http://clickwiki.net/w/index.php?title=Chowdren/Platforms&amp;oldid=2089</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="../Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="../Category:Chowdren" title="Category:Chowdren">Chowdren</a></li></ul></div></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Chowdren%2FPlatforms"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="../Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":512});});</script>
+  </body>
+</html>

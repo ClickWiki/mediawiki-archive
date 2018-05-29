@@ -1,0 +1,857 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>DataGrid Object - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"DataGrid_Object","wgTitle":"DataGrid Object","wgCurRevisionId":1883,"wgRevisionId":1883,"wgArticleId":894,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"DataGrid_Object","wgRelevantArticleId":894,"wgRequestId":"68cac17a139139564ee05698","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-DataGrid_Object rootpage-DataGrid_Object skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img5.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="DataGrid_Object#mw-head">navigation</a>,
+          <a href="DataGrid_Object#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">DataGrid Object</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="wikitable" style="float:right;">
+
+<tr style="text-align:center;">
+<td colspan="2"><a href="./File:Icon_DataGrid_Object.png" class="image"><img alt="Icon DataGrid Object.png" src="../w/images/a/a4/Icon_DataGrid_Object.png" width="32" height="32" /></a>
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td><a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a>
+</td></tr>
+<tr>
+<td><b>Status</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Released
+</td></tr>
+<tr>
+<td><b>Release Date</b>
+</td>
+<td>Unknown
+</td></tr>
+<tr style="display: none;">
+<td> <b>Last Updated</b>
+</td>
+<td> {{{LastUpdated}}}
+</td></tr>
+<tr>
+<td><b>Available for</b>
+</td>
+<td><a href="Multimedia_Fusion_2#Developer" title="Multimedia Fusion Developer 2"><img alt="Multimedia Fusion Developer 2" src="../w/images/d/de/Icon_MMF2Dev.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>Supported Runtimes</b>
+</td>
+<td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial"><a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>License</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Free
+</td></tr>
+<tr>
+<td> <b>Attributes</b>
+</td>
+<td> <a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a> <a href="Comparison" title="Only available for the Developer editions of Clickteam Fusion 2.5 and Multimedia Fusion 2."><img alt="Only available for the Developer editions of Clickteam Fusion 2.5 and Multimedia Fusion 2." src="../w/images/1/12/Icon_DevOnly.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<th colspan="2"> Download
+</th></tr>
+<tr>
+<td><b>Includes Examples</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Includes Help Files</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Links</b>
+</td>
+<td style="text-align:center;width:24px"> <div class="center"><div class="floatnone"><a href="Extension_Manager" title="Downloadable via the Extension Manager"><img alt="Downloadable via the Extension Manager" src="../w/images/5/53/ExtManagerIcon.png" width="24" height="28" /></a></div></div> <i>Included by default.</i>
+</td></tr>
+
+<tr style="display: none;">
+<td> <b>Alternates</b>
+</td>
+<td> {{{Alternates}}}
+</td></tr>
+</table>
+<p>The DataGrid object is a grid control designed to present your data in a structured, grid way, like in Excel. The DataGrid object allows extensive control on the layout, editing of the content, and printing.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="DataGrid_Object#Properties"><span class="tocnumber">1</span> <span class="toctext">Properties</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="DataGrid_Object#Array_setup"><span class="tocnumber">1.1</span> <span class="toctext">Array setup</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="DataGrid_Object#Horizontal_titles"><span class="tocnumber">1.1.1</span> <span class="toctext">Horizontal titles</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="DataGrid_Object#Vertical_titles"><span class="tocnumber">1.1.2</span> <span class="toctext">Vertical titles</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="DataGrid_Object#Line_resize"><span class="tocnumber">1.1.3</span> <span class="toctext">Line resize</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="DataGrid_Object#Column_resize"><span class="tocnumber">1.1.4</span> <span class="toctext">Column resize</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="DataGrid_Object#Editable"><span class="tocnumber">1.1.5</span> <span class="toctext">Editable</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="DataGrid_Object#List_mode"><span class="tocnumber">1.1.6</span> <span class="toctext">List mode</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="DataGrid_Object#Sort_on_click"><span class="tocnumber">1.1.7</span> <span class="toctext">Sort on click</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="DataGrid_Object#Title_tips"><span class="tocnumber">1.1.8</span> <span class="toctext">Title tips</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="DataGrid_Object#Allow_selection"><span class="tocnumber">1.1.9</span> <span class="toctext">Allow selection</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="DataGrid_Object#Display"><span class="tocnumber">1.2</span> <span class="toctext">Display</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="DataGrid_Object#Show_vertical_lines"><span class="tocnumber">1.2.1</span> <span class="toctext">Show vertical lines</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="DataGrid_Object#Show_horizontal_lines"><span class="tocnumber">1.2.2</span> <span class="toctext">Show horizontal lines</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="DataGrid_Object#Visible_at_start"><span class="tocnumber">1.2.3</span> <span class="toctext">Visible at start</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="DataGrid_Object#Border"><span class="tocnumber">1.2.4</span> <span class="toctext">Border</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-17"><a href="DataGrid_Object#Content_of_the_Datagrid_object"><span class="tocnumber">1.3</span> <span class="toctext">Content of the Datagrid object</span></a>
+<ul>
+<li class="toclevel-3 tocsection-18"><a href="DataGrid_Object#New_column"><span class="tocnumber">1.3.1</span> <span class="toctext">New column</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="DataGrid_Object#Delete_column"><span class="tocnumber">1.3.2</span> <span class="toctext">Delete column</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="DataGrid_Object#Set_column_title"><span class="tocnumber">1.3.3</span> <span class="toctext">Set column title</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="DataGrid_Object#New_line"><span class="tocnumber">1.3.4</span> <span class="toctext">New line</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="DataGrid_Object#Delete_line"><span class="tocnumber">1.3.5</span> <span class="toctext">Delete line</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="DataGrid_Object#Set_line_title"><span class="tocnumber">1.3.6</span> <span class="toctext">Set line title</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="DataGrid_Object#Set_number_of_line"><span class="tocnumber">1.3.7</span> <span class="toctext">Set number of line</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="DataGrid_Object#Set_number_of_columns"><span class="tocnumber">1.3.8</span> <span class="toctext">Set number of columns</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="DataGrid_Object#Erase"><span class="tocnumber">1.3.9</span> <span class="toctext">Erase</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="DataGrid_Object#Save"><span class="tocnumber">1.3.10</span> <span class="toctext">Save</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="DataGrid_Object#Load"><span class="tocnumber">1.3.11</span> <span class="toctext">Load</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="DataGrid_Object#Text"><span class="tocnumber">1.3.12</span> <span class="toctext">Text</span></a>
+<ul>
+<li class="toclevel-4 tocsection-30"><a href="DataGrid_Object#Font_color"><span class="tocnumber">1.3.12.1</span> <span class="toctext">Font color</span></a></li>
+<li class="toclevel-4 tocsection-31"><a href="DataGrid_Object#Back_color"><span class="tocnumber">1.3.12.2</span> <span class="toctext">Back color</span></a></li>
+<li class="toclevel-4 tocsection-32"><a href="DataGrid_Object#Horizontal_Alignment"><span class="tocnumber">1.3.12.3</span> <span class="toctext">Horizontal Alignment</span></a></li>
+<li class="toclevel-4 tocsection-33"><a href="DataGrid_Object#Vertical_Alignment"><span class="tocnumber">1.3.12.4</span> <span class="toctext">Vertical Alignment</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-34"><a href="DataGrid_Object#Conditions"><span class="tocnumber">2</span> <span class="toctext">Conditions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-35"><a href="DataGrid_Object#Click"><span class="tocnumber">2.1</span> <span class="toctext">Click</span></a>
+<ul>
+<li class="toclevel-3 tocsection-36"><a href="DataGrid_Object#Clicked_with_left_button."><span class="tocnumber">2.1.1</span> <span class="toctext">Clicked with left button.</span></a></li>
+<li class="toclevel-3 tocsection-37"><a href="DataGrid_Object#Clicked_with_right_button."><span class="tocnumber">2.1.2</span> <span class="toctext">Clicked with right button.</span></a></li>
+<li class="toclevel-3 tocsection-38"><a href="DataGrid_Object#Double_click."><span class="tocnumber">2.1.3</span> <span class="toctext">Double click.</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-39"><a href="DataGrid_Object#Window"><span class="tocnumber">2.2</span> <span class="toctext">Window</span></a>
+<ul>
+<li class="toclevel-3 tocsection-40"><a href="DataGrid_Object#Is_object_visible."><span class="tocnumber">2.2.1</span> <span class="toctext">Is object visible.</span></a></li>
+<li class="toclevel-3 tocsection-41"><a href="DataGrid_Object#Is_object_enabled."><span class="tocnumber">2.2.2</span> <span class="toctext">Is object enabled.</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-42"><a href="DataGrid_Object#Enumeration"><span class="tocnumber">2.3</span> <span class="toctext">Enumeration</span></a>
+<ul>
+<li class="toclevel-3 tocsection-43"><a href="DataGrid_Object#On_enumeration."><span class="tocnumber">2.3.1</span> <span class="toctext">On enumeration.</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-44"><a href="DataGrid_Object#Actions"><span class="tocnumber">3</span> <span class="toctext">Actions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-45"><a href="DataGrid_Object#Edit"><span class="tocnumber">3.1</span> <span class="toctext">Edit</span></a>
+<ul>
+<li class="toclevel-3 tocsection-46"><a href="DataGrid_Object#Insert_line"><span class="tocnumber">3.1.1</span> <span class="toctext">Insert line</span></a></li>
+<li class="toclevel-3 tocsection-47"><a href="DataGrid_Object#Insert_column"><span class="tocnumber">3.1.2</span> <span class="toctext">Insert column</span></a></li>
+<li class="toclevel-3 tocsection-48"><a href="DataGrid_Object#Set_line_height"><span class="tocnumber">3.1.3</span> <span class="toctext">Set line height</span></a></li>
+<li class="toclevel-3 tocsection-49"><a href="DataGrid_Object#Set_column_width"><span class="tocnumber">3.1.4</span> <span class="toctext">Set column width</span></a></li>
+<li class="toclevel-3 tocsection-50"><a href="DataGrid_Object#Autosize_line"><span class="tocnumber">3.1.5</span> <span class="toctext">Autosize line</span></a></li>
+<li class="toclevel-3 tocsection-51"><a href="DataGrid_Object#Autosize_column"><span class="tocnumber">3.1.6</span> <span class="toctext">Autosize column</span></a></li>
+<li class="toclevel-3 tocsection-52"><a href="DataGrid_Object#Delete_line_2"><span class="tocnumber">3.1.7</span> <span class="toctext">Delete line</span></a></li>
+<li class="toclevel-3 tocsection-53"><a href="DataGrid_Object#Delete_column_2"><span class="tocnumber">3.1.8</span> <span class="toctext">Delete column</span></a></li>
+<li class="toclevel-3 tocsection-54"><a href="DataGrid_Object#Delete_all"><span class="tocnumber">3.1.9</span> <span class="toctext">Delete all</span></a></li>
+<li class="toclevel-3 tocsection-55"><a href="DataGrid_Object#Print"><span class="tocnumber">3.1.10</span> <span class="toctext">Print</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-56"><a href="DataGrid_Object#Grid"><span class="tocnumber">3.2</span> <span class="toctext">Grid</span></a>
+<ul>
+<li class="toclevel-3 tocsection-57"><a href="DataGrid_Object#Set_horizontal_grid_lines_ON_.2F_OFF."><span class="tocnumber">3.2.1</span> <span class="toctext">Set horizontal grid lines ON / OFF.</span></a></li>
+<li class="toclevel-3 tocsection-58"><a href="DataGrid_Object#Set_vertical_grid_lines_ON_.2F_OFF."><span class="tocnumber">3.2.2</span> <span class="toctext">Set vertical grid lines ON / OFF.</span></a></li>
+<li class="toclevel-3 tocsection-59"><a href="DataGrid_Object#Display_horizontal_title_line_ON_.2F_OFF."><span class="tocnumber">3.2.3</span> <span class="toctext">Display horizontal title line ON / OFF.</span></a></li>
+<li class="toclevel-3 tocsection-60"><a href="DataGrid_Object#Display_vertical_title_line_ON_.2F_OFF."><span class="tocnumber">3.2.4</span> <span class="toctext">Display vertical title line ON / OFF.</span></a></li>
+<li class="toclevel-3 tocsection-61"><a href="DataGrid_Object#Editable_ON_.2F_OFF."><span class="tocnumber">3.2.5</span> <span class="toctext">Editable ON / OFF.</span></a></li>
+<li class="toclevel-3 tocsection-62"><a href="DataGrid_Object#Set_line_resize_ON_.2F_OFF."><span class="tocnumber">3.2.6</span> <span class="toctext">Set line resize ON / OFF.</span></a></li>
+<li class="toclevel-3 tocsection-63"><a href="DataGrid_Object#Set_column_resize_ON_.2F_OFF."><span class="tocnumber">3.2.7</span> <span class="toctext">Set column resize ON / OFF.</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-64"><a href="DataGrid_Object#Cell"><span class="tocnumber">3.3</span> <span class="toctext">Cell</span></a>
+<ul>
+<li class="toclevel-3 tocsection-65"><a href="DataGrid_Object#Set_cell_text"><span class="tocnumber">3.3.1</span> <span class="toctext">Set cell text</span></a></li>
+<li class="toclevel-3 tocsection-66"><a href="DataGrid_Object#Ensure_cell_is_visible"><span class="tocnumber">3.3.2</span> <span class="toctext">Ensure cell is visible</span></a></li>
+<li class="toclevel-3 tocsection-67"><a href="DataGrid_Object#Select_cells"><span class="tocnumber">3.3.3</span> <span class="toctext">Select cells</span></a></li>
+<li class="toclevel-3 tocsection-68"><a href="DataGrid_Object#Unselect_cells"><span class="tocnumber">3.3.4</span> <span class="toctext">Unselect cells</span></a></li>
+<li class="toclevel-3 tocsection-69"><a href="DataGrid_Object#Align_text_on_the_left"><span class="tocnumber">3.3.5</span> <span class="toctext">Align text on the left</span></a></li>
+<li class="toclevel-3 tocsection-70"><a href="DataGrid_Object#Center_text"><span class="tocnumber">3.3.6</span> <span class="toctext">Center text</span></a></li>
+<li class="toclevel-3 tocsection-71"><a href="DataGrid_Object#Align_text_on_the_right"><span class="tocnumber">3.3.7</span> <span class="toctext">Align text on the right</span></a></li>
+<li class="toclevel-3 tocsection-72"><a href="DataGrid_Object#Center_text_vertically"><span class="tocnumber">3.3.8</span> <span class="toctext">Center text vertically</span></a></li>
+<li class="toclevel-3 tocsection-73"><a href="DataGrid_Object#Allign_text_on_top"><span class="tocnumber">3.3.9</span> <span class="toctext">Allign text on top</span></a></li>
+<li class="toclevel-3 tocsection-74"><a href="DataGrid_Object#Set_background_color"><span class="tocnumber">3.3.10</span> <span class="toctext">Set background color</span></a></li>
+<li class="toclevel-3 tocsection-75"><a href="DataGrid_Object#Set_font_color"><span class="tocnumber">3.3.11</span> <span class="toctext">Set font color</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-76"><a href="DataGrid_Object#File"><span class="tocnumber">3.4</span> <span class="toctext">File</span></a>
+<ul>
+<li class="toclevel-3 tocsection-77"><a href="DataGrid_Object#Load_2"><span class="tocnumber">3.4.1</span> <span class="toctext">Load</span></a></li>
+<li class="toclevel-3 tocsection-78"><a href="DataGrid_Object#Save_2"><span class="tocnumber">3.4.2</span> <span class="toctext">Save</span></a></li>
+<li class="toclevel-3 tocsection-79"><a href="DataGrid_Object#Load_ascii"><span class="tocnumber">3.4.3</span> <span class="toctext">Load ascii</span></a></li>
+<li class="toclevel-3 tocsection-80"><a href="DataGrid_Object#Save_ascii"><span class="tocnumber">3.4.4</span> <span class="toctext">Save ascii</span></a></li>
+<li class="toclevel-3 tocsection-81"><a href="DataGrid_Object#Load_from_array_object"><span class="tocnumber">3.4.5</span> <span class="toctext">Load from array object</span></a></li>
+<li class="toclevel-3 tocsection-82"><a href="DataGrid_Object#Save_to_array_object"><span class="tocnumber">3.4.6</span> <span class="toctext">Save to array object</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-83"><a href="DataGrid_Object#Enumeration_2"><span class="tocnumber">3.5</span> <span class="toctext">Enumeration</span></a>
+<ul>
+<li class="toclevel-3 tocsection-84"><a href="DataGrid_Object#Enumerate_selected_cells"><span class="tocnumber">3.5.1</span> <span class="toctext">Enumerate selected cells</span></a></li>
+<li class="toclevel-3 tocsection-85"><a href="DataGrid_Object#Enumerate_all_cells"><span class="tocnumber">3.5.2</span> <span class="toctext">Enumerate all cells</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-86"><a href="DataGrid_Object#Window_2"><span class="tocnumber">3.6</span> <span class="toctext">Window</span></a>
+<ul>
+<li class="toclevel-3 tocsection-87"><a href="DataGrid_Object#Set_width"><span class="tocnumber">3.6.1</span> <span class="toctext">Set width</span></a></li>
+<li class="toclevel-3 tocsection-88"><a href="DataGrid_Object#Set_height"><span class="tocnumber">3.6.2</span> <span class="toctext">Set height</span></a></li>
+<li class="toclevel-3 tocsection-89"><a href="DataGrid_Object#Hide"><span class="tocnumber">3.6.3</span> <span class="toctext">Hide</span></a></li>
+<li class="toclevel-3 tocsection-90"><a href="DataGrid_Object#Show"><span class="tocnumber">3.6.4</span> <span class="toctext">Show</span></a></li>
+<li class="toclevel-3 tocsection-91"><a href="DataGrid_Object#Enable"><span class="tocnumber">3.6.5</span> <span class="toctext">Enable</span></a></li>
+<li class="toclevel-3 tocsection-92"><a href="DataGrid_Object#Disable"><span class="tocnumber">3.6.6</span> <span class="toctext">Disable</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-93"><a href="DataGrid_Object#Expressions"><span class="tocnumber">4</span> <span class="toctext">Expressions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-94"><a href="DataGrid_Object#Indexes"><span class="tocnumber">4.1</span> <span class="toctext">Indexes</span></a>
+<ul>
+<li class="toclevel-3 tocsection-95"><a href="DataGrid_Object#Get_selected_line"><span class="tocnumber">4.1.1</span> <span class="toctext">Get selected line</span></a></li>
+<li class="toclevel-3 tocsection-96"><a href="DataGrid_Object#Get_selected_column"><span class="tocnumber">4.1.2</span> <span class="toctext">Get selected column</span></a></li>
+<li class="toclevel-3 tocsection-97"><a href="DataGrid_Object#Get_line_at_click"><span class="tocnumber">4.1.3</span> <span class="toctext">Get line at click</span></a></li>
+<li class="toclevel-3 tocsection-98"><a href="DataGrid_Object#Get_column_at_click"><span class="tocnumber">4.1.4</span> <span class="toctext">Get column at click</span></a></li>
+<li class="toclevel-3 tocsection-99"><a href="DataGrid_Object#Get_line_at_coordinate"><span class="tocnumber">4.1.5</span> <span class="toctext">Get line at coordinate</span></a></li>
+<li class="toclevel-3 tocsection-100"><a href="DataGrid_Object#Get_column_at_coordinate"><span class="tocnumber">4.1.6</span> <span class="toctext">Get column at coordinate</span></a></li>
+<li class="toclevel-3 tocsection-101"><a href="DataGrid_Object#Get_cell_X_left_coordinate"><span class="tocnumber">4.1.7</span> <span class="toctext">Get cell X left coordinate</span></a></li>
+<li class="toclevel-3 tocsection-102"><a href="DataGrid_Object#Get_cell_Y_top_coordinate"><span class="tocnumber">4.1.8</span> <span class="toctext">Get cell Y top coordinate</span></a></li>
+<li class="toclevel-3 tocsection-103"><a href="DataGrid_Object#Get_cell_X_right_coordinate"><span class="tocnumber">4.1.9</span> <span class="toctext">Get cell X right coordinate</span></a></li>
+<li class="toclevel-3 tocsection-104"><a href="DataGrid_Object#Get_cell_Y_bottom_coordinate"><span class="tocnumber">4.1.10</span> <span class="toctext">Get cell Y bottom coordinate</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-105"><a href="DataGrid_Object#Information"><span class="tocnumber">4.2</span> <span class="toctext">Information</span></a>
+<ul>
+<li class="toclevel-3 tocsection-106"><a href="DataGrid_Object#Get_cell_text"><span class="tocnumber">4.2.1</span> <span class="toctext">Get cell text</span></a></li>
+<li class="toclevel-3 tocsection-107"><a href="DataGrid_Object#Get_number_of_lines"><span class="tocnumber">4.2.2</span> <span class="toctext">Get number of lines</span></a></li>
+<li class="toclevel-3 tocsection-108"><a href="DataGrid_Object#Get_number_of_columns"><span class="tocnumber">4.2.3</span> <span class="toctext">Get number of columns</span></a></li>
+<li class="toclevel-3 tocsection-109"><a href="DataGrid_Object#Get_line_height"><span class="tocnumber">4.2.4</span> <span class="toctext">Get line height</span></a></li>
+<li class="toclevel-3 tocsection-110"><a href="DataGrid_Object#Get_column_width"><span class="tocnumber">4.2.5</span> <span class="toctext">Get column width</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-111"><a href="DataGrid_Object#Enumeration_3"><span class="tocnumber">4.3</span> <span class="toctext">Enumeration</span></a>
+<ul>
+<li class="toclevel-3 tocsection-112"><a href="DataGrid_Object#Get_enumerated_line"><span class="tocnumber">4.3.1</span> <span class="toctext">Get enumerated line</span></a></li>
+<li class="toclevel-3 tocsection-113"><a href="DataGrid_Object#Get_enumerated_column"><span class="tocnumber">4.3.2</span> <span class="toctext">Get enumerated column</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-114"><a href="DataGrid_Object#Size"><span class="tocnumber">4.4</span> <span class="toctext">Size</span></a>
+<ul>
+<li class="toclevel-3 tocsection-115"><a href="DataGrid_Object#Get_width"><span class="tocnumber">4.4.1</span> <span class="toctext">Get width</span></a></li>
+<li class="toclevel-3 tocsection-116"><a href="DataGrid_Object#Get_height"><span class="tocnumber">4.4.2</span> <span class="toctext">Get height</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-117"><a href="DataGrid_Object#Count"><span class="tocnumber">4.5</span> <span class="toctext">Count</span></a>
+<ul>
+<li class="toclevel-3 tocsection-118"><a href="DataGrid_Object#Number_of_objects"><span class="tocnumber">4.5.1</span> <span class="toctext">Number of objects</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Properties">Properties</span></h2>
+<h3><span class="mw-headline" id="Array_setup">Array setup</span></h3>
+<h4><span class="mw-headline" id="Horizontal_titles">Horizontal titles</span></h4>
+<p>Displays the first column as horizontal titles (grayed). 
+</p>
+<h4><span class="mw-headline" id="Vertical_titles">Vertical titles</span></h4>
+<p>Displays the first line as vertical titles (grayed). 
+</p>
+<h4><span class="mw-headline" id="Line_resize">Line resize</span></h4>
+<p>Allows the user to resize the lines with the mouse. 
+</p>
+<h4><span class="mw-headline" id="Column_resize">Column resize</span></h4>
+<p>Allows the user to resize the columns with the mouse. 
+</p>
+<h4><span class="mw-headline" id="Editable">Editable</span></h4>
+<p>Allows the user to edit the content of each cell, with a double click. 
+</p>
+<h4><span class="mw-headline" id="List_mode">List mode</span></h4>
+<p>When list mode is selected, the cells are not selectable, you select a complete line, like in a ListView object. 
+</p>
+<h4><span class="mw-headline" id="Sort_on_click">Sort on click</span></h4>
+<p>This option is selectable if the previous one is selected. Automatically sorts the items in alphabetical order when the user clicks on the title of a column. 
+</p>
+<h4><span class="mw-headline" id="Title_tips">Title tips</span></h4>
+<p>Displays a tip window if the entire text cannot be displayed in a cell. 
+</p>
+<h4><span class="mw-headline" id="Allow_selection">Allow selection</span></h4>
+<p>Allows the user to select the cells with the mouse pointer.
+</p>
+<h3><span class="mw-headline" id="Display">Display</span></h3>
+<h4><span class="mw-headline" id="Show_vertical_lines">Show vertical lines</span></h4>
+<p>displays vertical lines between the columns. 
+</p>
+<h4><span class="mw-headline" id="Show_horizontal_lines">Show horizontal lines</span></h4>
+<p>displays horizontal lines between the lines. 
+</p>
+<h4><span class="mw-headline" id="Visible_at_start">Visible at start</span></h4>
+<p>makes the object visible when the frame starts. 
+</p>
+<h4><span class="mw-headline" id="Border">Border</span></h4>
+<ul><li><b>No border</b>: avoids drawing a border around the object </li>
+<li><b>Thin border</b>: draws a thin border (one pixel) around the object </li></ul>
+<h3><span class="mw-headline" id="Content_of_the_Datagrid_object">Content of the Datagrid object</span></h3>
+<p>A click on the EDIT button will open the content setting dialog box, where you can enter the default content of the object.
+</p><p><a href="./File:DataGrid_Object_Setup.PNG" class="image"><img alt="DataGrid Object Setup.PNG" src="../w/images/8/8f/DataGrid_Object_Setup.PNG" width="500" height="306" /></a>
+</p><p>The dialog box shows a datagrid ready to be filled with data. Simply click twice on the cell you wish to edit, and enter the text. This dialog box contains a certain number of buttons to control the layout of the datagrid.
+</p>
+<h5><span class="mw-headline" id="New_column">New column</span></h5>
+<p>Inserts a new column at the current position 
+</p>
+<h5><span class="mw-headline" id="Delete_column">Delete column</span></h5>
+<p>Deletes the current column. 
+</p>
+<h5><span class="mw-headline" id="Set_column_title">Set column title</span></h5>
+<p>Opens a dialog box to enter the title of the column. 
+</p>
+<h5><span class="mw-headline" id="New_line">New line</span></h5>
+<p>Enters a new line at the current position. 
+</p>
+<h5><span class="mw-headline" id="Delete_line">Delete line</span></h5>
+<p>Deletes the current line. 
+</p>
+<h5><span class="mw-headline" id="Set_line_title">Set line title</span></h5>
+<p>Opens a dialog box to set the title of the line. 
+</p>
+<h5><span class="mw-headline" id="Set_number_of_line">Set number of line</span></h5>
+<p>Opens a dialog box asking for a number. This number will be the number of lines of the datagrid object. 
+</p>
+<h5><span class="mw-headline" id="Set_number_of_columns">Set number of columns</span></h5>
+<p>Opens a dialog box asking for a number. This number will be the number of columns of the datagrid object. 
+</p>
+<h5><span class="mw-headline" id="Erase">Erase</span></h5>
+<p>Erases the whole content of the object. 
+</p>
+<h5><span class="mw-headline" id="Save">Save</span></h5>
+<p>Saves the content of the object into a file. 
+</p>
+<h5><span class="mw-headline" id="Load">Load</span></h5>
+<p>Loads the content of a previously saved file. 
+</p>
+<h4><span class="mw-headline" id="Text">Text</span></h4>
+<h5><span class="mw-headline" id="Font_color">Font color</span></h5>
+<p>Click on "choose a new color" to open a color selector. This option will change the color of the selected cells (select the whole array to change the colors of the whole array) 
+</p>
+<h5><span class="mw-headline" id="Back_color">Back color</span></h5>
+<p>Click on "choose a new color" to open a color selector. This option will change the color of the background of the selected cells. 
+</p>
+<h5><span class="mw-headline" id="Horizontal_Alignment">Horizontal Alignment</span></h5>
+<ul><li>Left aligned: aligns the text of the selected cells to the left </li>
+<li>Horizontally centered: centers the text in the cell </li>
+<li>Right aligned: aligns the text of the selected cells to the right </li></ul>
+<h5><span class="mw-headline" id="Vertical_Alignment">Vertical Alignment</span></h5>
+<ul><li>Aligned on the top: displays the text of the cells on the top </li>
+<li>Vertically centered: centers the text vertically in the cell</li>
+<li>Aligned on the bottom: displays the text in the bottom of the cells</li></ul>
+<h2><span class="mw-headline" id="Conditions">Conditions</span></h2>
+<h3><span class="mw-headline" id="Click">Click</span></h3>
+<h4><span class="mw-headline" id="Clicked_with_left_button.">Clicked with left button.</span></h4>
+<p>This condition is true if the user clicks on the object with the left mouse button.
+</p>
+<h4><span class="mw-headline" id="Clicked_with_right_button.">Clicked with right button.</span></h4>
+<p>This condition is true if the user clicks on the object with the right mouse button.
+</p>
+<h4><span class="mw-headline" id="Double_click.">Double click.</span></h4>
+<p>This condition is true if the user double clicks with the left mouse button on the object.
+</p>
+<ul><li>Important: for all the above "click" conditions, the object stores in its internal datazone the line and column where the click has happened. You can use specific expressions to get this information later.</li></ul>
+<h3><span class="mw-headline" id="Window">Window</span></h3>
+<h4><span class="mw-headline" id="Is_object_visible.">Is object visible.</span></h4>
+<p>Returns TRUE if the object is visible in the frame.
+</p>
+<h4><span class="mw-headline" id="Is_object_enabled.">Is object enabled.</span></h4>
+<p>Returns TRUE if the DataGrid control object is enabled (active).
+</p>
+<h3><span class="mw-headline" id="Enumeration">Enumeration</span></h3>
+<h4><span class="mw-headline" id="On_enumeration.">On enumeration.</span></h4>
+<p>Use in conjunction with the enumeration actions. Catches the event generated by the enumeration. Please refer to these actions for more information.
+</p>
+<h2><span class="mw-headline" id="Actions">Actions</span></h2>
+<h3><span class="mw-headline" id="Edit">Edit</span></h3>
+<h4><span class="mw-headline" id="Insert_line">Insert line</span></h4>
+<p>Inserts a new line in the grid. This action will ask for the number of the line where the insertion has to take place, and the text of the title of the line. 
+</p>
+<h4><span class="mw-headline" id="Insert_column">Insert column</span></h4>
+<p>Inserts a new column in the grid. This action will ask for the number of the column where the insertion has to take place, and the text of the title of the column. 
+</p>
+<h4><span class="mw-headline" id="Set_line_height">Set line height</span></h4>
+<p>Sets the height in pixels of a given line. Asks for the number of the line and the new height. 
+</p>
+<h4><span class="mw-headline" id="Set_column_width">Set column width</span></h4>
+<p>Sets the width in pixels of a given column. Asks for the number of the column, and the new width. 
+</p>
+<h4><span class="mw-headline" id="Autosize_line">Autosize line</span></h4>
+<p>Resizes the line to match the height of the largest cell on the line. 
+</p>
+<h4><span class="mw-headline" id="Autosize_column">Autosize column</span></h4>
+<p>Resizes the column to match the width of the largest cell on the line. 
+</p>
+<h4><span class="mw-headline" id="Delete_line_2">Delete line</span></h4>
+<p>Destroys a given line. 
+</p>
+<h4><span class="mw-headline" id="Delete_column_2">Delete column</span></h4>
+<p>Destroys a given column.==== 
+</p>
+<h4><span class="mw-headline" id="Delete_all">Delete all</span></h4>
+<p>Destroys the entire content of the grid.
+</p>
+<h4><span class="mw-headline" id="Print">Print</span></h4>
+<p>Prints the content of the array.
+</p>
+<h3><span class="mw-headline" id="Grid">Grid</span></h3>
+<h4><span class="mw-headline" id="Set_horizontal_grid_lines_ON_.2F_OFF.">Set horizontal grid lines ON / OFF.</span></h4>
+<p>Turns on or off the horizontal grid lines on the display.
+</p>
+<h4><span class="mw-headline" id="Set_vertical_grid_lines_ON_.2F_OFF.">Set vertical grid lines ON / OFF.</span></h4>
+<p>Turns on or off the vertical grid lines on the display.
+</p>
+<h4><span class="mw-headline" id="Display_horizontal_title_line_ON_.2F_OFF.">Display horizontal title line ON / OFF.</span></h4>
+<p>Displays the first line of the grid as a title (unselectable).
+</p>
+<h4><span class="mw-headline" id="Display_vertical_title_line_ON_.2F_OFF.">Display vertical title line ON / OFF.</span></h4>
+<p>Displays the first column of the grid as a title (unselectable).
+</p>
+<h4><span class="mw-headline" id="Editable_ON_.2F_OFF.">Editable ON / OFF.</span></h4>
+<p>Sets the grid editable or not. When editable, a double click on a cell allows you to edit it.
+====Enable selection ON / OFF.
+Allows the user to select more than one cell with the mouse cursor.
+</p>
+<h4><span class="mw-headline" id="Set_line_resize_ON_.2F_OFF.">Set line resize ON / OFF.</span></h4>
+<p>Allows the user to resize the lines with the mouse cursor.
+</p>
+<h4><span class="mw-headline" id="Set_column_resize_ON_.2F_OFF.">Set column resize ON / OFF.</span></h4>
+<p>Allows the user to resize the columns with the mouse pointer.
+</p>
+<h3><span class="mw-headline" id="Cell">Cell</span></h3>
+<h4><span class="mw-headline" id="Set_cell_text">Set cell text</span></h4>
+<p>Changes the text of a specific cell. Will ask for three parameters, the line and the column of the cell, then the new text.
+</p>
+<h4><span class="mw-headline" id="Ensure_cell_is_visible">Ensure cell is visible</span></h4>
+<p>Moves the grid to bring a specific cell into view. Asks for two parameters, the indexes of the cell to display.
+</p>
+<h4><span class="mw-headline" id="Select_cells">Select cells</span></h4>
+<p>Selects a number of cells. You have to enter the indexes (line and column) of the top left cell of the selection, and the indexes of the bottom right cell of the selection.
+</p>
+<h4><span class="mw-headline" id="Unselect_cells">Unselect cells</span></h4>
+<p>Unselects all the cells on the grid.
+</p>
+<h4><span class="mw-headline" id="Align_text_on_the_left">Align text on the left</span></h4>
+<p>Aligns the text of a cell on the left. Will ask for line and column of the cell.
+</p>
+<h4><span class="mw-headline" id="Center_text">Center text</span></h4>
+<p>Centers the text of a cell
+Will ask for line and column of the cell.
+</p>
+<h4><span class="mw-headline" id="Align_text_on_the_right">Align text on the right</span></h4>
+<p>Aligns the text of a cell on the right. Will ask for line and column of the cell.
+</p>
+<h4><span class="mw-headline" id="Center_text_vertically">Center text vertically</span></h4>
+<p>Centers the text of a cell vertically. Will ask for line and column of the cell.
+</p>
+<h4><span class="mw-headline" id="Allign_text_on_top">Allign text on top</span></h4>
+<p>Makes the text of a cell start on the top of the cell. Will ask for line and column of the cell.
+</p>
+<h4><span class="mw-headline" id="Set_background_color">Set background color</span></h4>
+<p>Changes the color of the background of a cell. Will ask for the line and column of the cell, and the new color to use.
+</p>
+<h4><span class="mw-headline" id="Set_font_color">Set font color</span></h4>
+<p>Changes the color of the font of a cell. Will ask for the line and column of the cell, and the new color to use.
+</p>
+<h3><span class="mw-headline" id="File">File</span></h3>
+<h4><span class="mw-headline" id="Load_2">Load</span></h4>
+<p>Loads the grid from a file. Warning, this action only works with files saved by the Save action (or saved in the setup box of the object). The file format retains all the characteristics of the array, and all the options.
+</p>
+<h4><span class="mw-headline" id="Save_2">Save</span></h4>
+<p>Saves the content of the array into a file. To be loaded with the "Load" action.
+</p>
+<h4><span class="mw-headline" id="Load_ascii">Load ascii</span></h4>
+<p>Loads the content of a structured ASCII file. An example of file understood by this action is the files saved by Excel in text mode. Each line of text represents a line, and the different cells are separated by TABs or commas. This action will ask for two parameters: the first one is the name of the file to load, the second is a string representing the delimiter used in the file. Enter an empty string to use TAB, or for example "," to use a comma.
+</p>
+<h4><span class="mw-headline" id="Save_ascii">Save ascii</span></h4>
+<p>Saves the content of the grid into a structured ASCII file. Each cell is delimited by a delimiter and a line of text represents a line in the grid. This action asks for two parameters, first the name of the file to save, then the delimiter itself. You can choose for example to enter "," to use a comma. To use a tabulation, leave the string empty.
+</p>
+<h4><span class="mw-headline" id="Load_from_array_object">Load from array object</span></h4>
+<p>Loads a file saved by the array object.
+</p>
+<h4><span class="mw-headline" id="Save_to_array_object">Save to array object</span></h4>
+<p>Saves the content of the grid in a format compatible with the array object. This action asks for two parameters, the first is the name of the file to save, the second determines how to save the data: 0 will save the data as texts, 1 will save the data as numbers (text cells will be converted to zeros).
+</p>
+<h3><span class="mw-headline" id="Enumeration_2">Enumeration</span></h3>
+<h4><span class="mw-headline" id="Enumerate_selected_cells">Enumerate selected cells</span></h4>
+<p>Starts the enumeration of the currently selected cells. This action generates an event for each cell. This event can be caught with the condition "On enumerate". It works like the fast loop option in Clickteam Fusion 2.5. Have a look at the DataGrid example to see it at work.
+</p>
+<h4><span class="mw-headline" id="Enumerate_all_cells">Enumerate all cells</span></h4>
+<p>Starts enumerating all the cells of the grid. As for the previous action, this action generates an event for each one of the cell: you should catch this event with the "On enumerate" condition.
+</p>
+<h3><span class="mw-headline" id="Window_2">Window</span></h3>
+<h4><span class="mw-headline" id="Set_width">Set width</span></h4>
+<p>Changes the width of the object.
+</p>
+<h4><span class="mw-headline" id="Set_height">Set height</span></h4>
+<p>Changes the height of the object.
+</p>
+<h4><span class="mw-headline" id="Hide">Hide</span></h4>
+<p>Hides the grid object.
+</p>
+<h4><span class="mw-headline" id="Show">Show</span></h4>
+<p>Shows the grid object if it was hidden.
+</p>
+<h4><span class="mw-headline" id="Enable">Enable</span></h4>
+<p>Enables the grid object if it was disabled.
+</p>
+<h4><span class="mw-headline" id="Disable">Disable</span></h4>
+<p>Disables the grid object: it will not respond to any mouse or keyboard input.
+</p>
+<h2><span class="mw-headline" id="Expressions">Expressions</span></h2>
+<p><b>Note:</b> The expression code provided below assume that the DataGrid object in your frame is named <b>DataGrid Object</b>, which is the default. If it is not, then you must switch it out in your expression code. For example, if your DataGrid object is named <b>hello</b>, then <b>SelLine( "DataGrid Object" )</b> becomes <b>SelLine( "hello" )</b>.
+</p>
+<h3><span class="mw-headline" id="Indexes">Indexes</span></h3>
+<h4><span class="mw-headline" id="Get_selected_line">Get selected line</span></h4>
+<pre>SelLine( "DataGrid Object" )
+</pre>
+<p>Returns the number of the currently selected line. 
+</p>
+<h4><span class="mw-headline" id="Get_selected_column">Get selected column</span></h4>
+<pre>SelColumn( "DataGrid Object" )
+</pre>
+<p>Returns the number of the currently selected column. 
+</p>
+<h4><span class="mw-headline" id="Get_line_at_click">Get line at click</span></h4>
+<pre>LineClick( "DataGrid Object" )
+</pre>
+<p>Returns the number of the line where the user last clicked. Warning, this value can be different from the one returned by "Get selected line", as the user can use the keyboard to move the selection. 
+</p>
+<h4><span class="mw-headline" id="Get_column_at_click">Get column at click</span></h4>
+<pre>ColumnClick( "DataGrid Object" )
+</pre>
+<p>Returns the number of the column where the user last clicked. Same remark as for the previous expression. 
+</p>
+<h4><span class="mw-headline" id="Get_line_at_coordinate">Get line at coordinate</span></h4>
+<pre>Line( "DataGrid Object", &gt;X Coordinate&lt;, &gt;Y Coordinate&lt; )
+</pre>
+<p>Returns the number of a line at a given position on the screen. Will ask for the X and Y coordinates of the position to test. 
+</p>
+<h4><span class="mw-headline" id="Get_column_at_coordinate">Get column at coordinate</span></h4>
+<pre>Column( "DataGrid Object", &gt;X Coordinate&lt;, &gt;Y Coordinate&lt; )
+</pre>
+<p>Returns the number of the column at a given position on the screen. Will ask for X and Y coordinates of the position to test. 
+</p>
+<h4><span class="mw-headline" id="Get_cell_X_left_coordinate">Get cell X left coordinate</span></h4>
+<pre>dgXLeft( "DataGrid Object", &gt;Line number&lt;, &gt;Column number&lt; )
+</pre>
+<p>Returns the left coordinate of a cell's rectangle. The expression asks for two parameters: the number of the line and the number of the column.
+</p>
+<h4><span class="mw-headline" id="Get_cell_Y_top_coordinate">Get cell Y top coordinate</span></h4>
+<pre>dgYTop( "DataGrid Object", &gt;Line number&lt;, &gt;Column number&lt; )
+</pre>
+<p>Returns the top coordinate of a cell's rectangle. The expression asks for two parameters: the number of the line and the number of the column.
+</p>
+<h4><span class="mw-headline" id="Get_cell_X_right_coordinate">Get cell X right coordinate</span></h4>
+<pre>dgXRight( "DataGrid Object", &gt;Line number&lt;, &gt;Column number&lt; )
+</pre>
+<p>Returns the right coordinate of a cell's rectangle. The expression asks for two parameters: the number of the line and the number of the column.
+</p>
+<h4><span class="mw-headline" id="Get_cell_Y_bottom_coordinate">Get cell Y bottom coordinate</span></h4>
+<pre>dgYBottom( "DataGrid Object", &gt;Line number&lt;, &gt;Column number&lt; )
+</pre>
+<p>Returns the bottom coordinate of a cell's rectangle. The expression asks for two parameters: the number of the line and the number of the column.
+</p>
+<h3><span class="mw-headline" id="Information">Information</span></h3>
+<h4><span class="mw-headline" id="Get_cell_text">Get cell text</span></h4>
+<pre>Text$( "DataGrid Object", &gt;Enter line number&lt;, &gt;Enter column number&lt; )
+</pre>
+<p>Returns the text contained in a given cell. Will ask for the line and column of the cell.
+</p>
+<h4><span class="mw-headline" id="Get_number_of_lines">Get number of lines</span></h4>
+<pre>NLines( "DataGrid Object" )
+</pre>
+<p>Returns the number of lines currently defined in the grid.
+</p>
+<h4><span class="mw-headline" id="Get_number_of_columns">Get number of columns</span></h4>
+<pre>NColumns( "DataGrid Object" )
+</pre>
+<p>Returns the number of columns currently defined in the grid.
+</p>
+<h4><span class="mw-headline" id="Get_line_height">Get line height</span></h4>
+<pre>LineSize( "DataGrid Object", &gt;Line number&lt; )
+</pre>
+<p>Returns the height of a given line. Asks for the number of the line.
+</p>
+<h4><span class="mw-headline" id="Get_column_width">Get column width</span></h4>
+<pre>ColumnSize( "DataGrid Object", &gt;Column number&lt; )
+</pre>
+<p>Returns the width of a given column. Asks for the number of the column.
+</p>
+<h3><span class="mw-headline" id="Enumeration_3">Enumeration</span></h3>
+<h4><span class="mw-headline" id="Get_enumerated_line">Get enumerated line</span></h4>
+<pre>EnumLine( "DataGrid Object" )
+</pre>
+<p>Returns the current enumerated cell's line. Use this expression in conjunction with the enumeration actions and conditions.
+</p>
+<h4><span class="mw-headline" id="Get_enumerated_column">Get enumerated column</span></h4>
+<pre>EnumColumn( "DataGrid Object" )
+</pre>
+<p>Returns the currently enumerated column. Use this expression in conjunction with the enumeration actions and conditions.
+</p>
+<h3><span class="mw-headline" id="Size">Size</span></h3>
+<h4><span class="mw-headline" id="Get_width">Get width</span></h4>
+<pre>Width( "DataGrid Object" )
+</pre>
+<p>Returns the width of the grid object.
+</p>
+<h4><span class="mw-headline" id="Get_height">Get height</span></h4>
+<pre>Height( "DataGrid Object" )
+</pre>
+<p>Returns the height of the grid object.
+</p>
+<h3><span class="mw-headline" id="Count">Count</span></h3>
+<h4><span class="mw-headline" id="Number_of_objects">Number of objects</span></h4>
+<pre>NObjects( "DataGrid Object" )
+</pre>
+<p>Returns the number of DataGrid objects currently in the frame.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155317
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.370 seconds
+Real time usage: 0.368 seconds
+Preprocessor visited node count: 546/1000000
+Preprocessor generated node count: 977/1000000
+Post‐expand include size: 2891/2097152 bytes
+Template argument size: 1464/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   85.093      1 - Template:InfoExtension
+100.00%   85.093      1 - -total
+ 16.78%   14.280      1 - Template:Partial
+ 10.58%    9.006      4 - Template:Yes
+  7.78%    6.621      2 - Template:ClickteamExtension
+  7.78%    6.617      1 - Template:ExtManager
+  7.40%    6.297      1 - Template:MMF2Dev
+  7.32%    6.227      1 - Template:EXE
+  7.28%    6.198      1 - Template:DevOnly
+  7.15%    6.083      1 - Template:CF2.5Dev
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:894-0!*!*!!en!5!* and timestamp 20180529155317 and revision id 1883
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=DataGrid_Object&amp;oldid=1883">http://clickwiki.net/w/index.php?title=DataGrid_Object&amp;oldid=1883</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=DataGrid+Object"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":681});});</script>
+  </body>
+</html>

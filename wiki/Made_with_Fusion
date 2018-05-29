@@ -1,0 +1,1645 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Made with Fusion - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Made_with_Fusion","wgTitle":"Made with Fusion","wgCurRevisionId":2092,"wgRevisionId":2092,"wgArticleId":74,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["ClickWiki","Community"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Made_with_Fusion","wgRelevantArticleId":74,"wgRequestId":"8940607c837009decd60c7e0","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Made_with_Fusion rootpage-Made_with_Fusion skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img2.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Made_with_Fusion#mw-head">navigation</a>,
+          <a href="Made_with_Fusion#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Made with Fusion</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>Hundreds of games and applications have been created with Fusion. This page is a place for listing new and old releases of applications and games.
+</p>
+<h3><span class="mw-headline" id="Applications">Applications</span></h3>
+<table class="wikitable sortable">
+<tr>
+<th style="width:20%"> Name
+</th>
+<th style="width:8%"> Genre
+</th>
+<th style="width:12%"> Release Date
+</th>
+<th style="width:15%"> Author(s)
+</th>
+<th style="width:3%"> Engine
+</th>
+<th style="width:10%"> Platforms
+</th>
+<th style="width:30%"> Description
+</th></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://fusioncharacterani.wix.com/helloworld">Fusion Character Animator</a>
+</td>
+<td> Graphic devtool
+</td>
+<td data-sort-value="03/Jan/2014"> 3<sup>rd</sup> January 2014
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.evrika-web.fr/">Evrika</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> A small tool to facilitate Sprites animation 2D characters for developers.<br />
+<p><a rel="nofollow" class="external text" href="http://fusioncharacterani.wix.com/helloworld#!bonus/c1983">Free Downloads</a>, <a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/apps/fusion-character-animator">Buy On ClickStore</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/91764-Fusion-Sheets-A-sprite-sheet-maker-made-with-and-for-Clickteam-Fusion">Fusion Sheets</a>
+</td>
+<td> Graphic devtool
+</td>
+<td data-sort-value="13/Apr/2015"> 13<sup>th</sup> April 2015
+</td>
+<td> GASPOP
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> It will take sprite image files and create a sprite sheet template, letting you set up hotspot and actionspot coordinates beforehand and then easily import them into Clickteam Fusion as a boxed-sprite sheet.<br />
+<p><a rel="nofollow" class="external text" href="http://www.gaspop.com/download/fusionSheets12.zip">Download 1.2</a>, <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=AESrsP6GdPI">Video</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.nutriupp.cl/nutriuppe/">NutriUpp</a>
+</td>
+<td> Health/Nutrition
+</td>
+<td data-sort-value="05/Oct/2014"> 5<sup>th</sup> October 2014
+</td>
+<td> Manuel Novoa
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="ClickConverse" title="ClickConverse">ClickConverse</a>
+</td>
+<td> Chat
+</td>
+<td data-sort-value="22/Mar/2012"> 22<sup>nd</sup> March 2012
+</td>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5109-Simon">Simon</a> (<a href="Clickteam" title="Clickteam">Clickteam</a>)
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> The official chat client for Clickteam and its forum members.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/65019-ExtensionView-by-Jaffob">ExtensionView</a>
+</td>
+<td> Management
+</td>
+<td data-sort-value="06/Jul/2011"> 6<sup>th</sup> July 2011
+</td>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/7749-Jaffob">Jaffob</a>
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> Manages and downloads extensions for <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2">Multimedia Fusion 2</a>.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/83446-DigiGraph-3">DigiGraph 3</a>
+</td>
+<td> Graphics
+</td>
+<td data-sort-value="06/Feb/2014"> 6<sup>th</sup> February 2014
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.knighttrek.com/">KnightTrek Productions</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> A powerful and professional digital graph paper tool to create detailed artwork with speed and ease.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.gwiz-productions.com/JadyPaint.zip">JadyPaint</a>
+</td>
+<td> Graphics
+</td>
+<td data-sort-value="28/Feb/2008"> 28<sup>th</sup> February 2008
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.gwiz-productions.com/index.html">George Harjung</a>
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> A Paint program for children under 6 years old. Large, colorful graphics are fun and make it easy to be creative. Go ahead and be as messy as you want!
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://github.com/DOHP/mydohp-old">myDOHP Custom Tree-Shirts (Original Shirt Designer App)</a>
+</td>
+<td>Custom Shirt Designer
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td><a rel="nofollow" class="external text" href="https://advaith.tk/">Advaith</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a>
+</td>
+<td>The original myDOHP Custom Tree-Shirt Designer app by <a rel="nofollow" class="external text" href="https://goo.gl/dZpC8F">D.O.H.P. (Decorate Our Home Planet)</a> Note: App retired, available <a rel="nofollow" class="external text" href="https://goo.gl/dPP75M">here</a>.
+</td></tr></table>
+<h3><span class="mw-headline" id="Games">Games</span></h3>
+<table class="wikitable sortable">
+<tr>
+<th style="width:20%"> Name
+</th>
+<th style="width:8%"> Genre
+</th>
+<th style="width:12%"> Release Date
+</th>
+<th style="width:15%"> Author(s)
+</th>
+<th style="width:3%"> Engine
+</th>
+<th style="width:10%"> Platforms
+</th>
+<th style="width:30%"> Description
+</th></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="http://indiegames.clickteam.com/921/distraint.html">DISTRAINT</a>
+</td>
+<td>Horror
+</td>
+<td data-sort-value="22/Sep/2015"> 22<sup>nd</sup> September 2015
+</td>
+<td>Jesse Makkonen
+</td>
+<td style="text-align: center"><a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"><a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td>
+<td>In order to gain a partnership from a famous company Price seizes a property of an old woman.<br />
+<p>In that very moment he finds out he sold his humanity rather cheap.
+</p>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="http://indiegames.clickteam.com/549/quadle.html">Quadle</a>
+</td>
+<td>Casual, Strategy
+</td>
+<td data-sort-value="27/Jul/2015"> 27<sup>rd</sup> July 2015
+</td>
+<td>Gamesare Studios
+</td>
+<td style="text-align: center"><a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"><a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td>
+<td>A brand new arcade puzzler from Gamesare Studios, invoking the memory of classic arcade cabinet games but adding a new twist.<br />
+<p><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/quadle">On Clickstore</a>, <a rel="nofollow" class="external text" href="http://store.steampowered.com/app/384210/">On Steam</a>
+</p>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="http://store.steampowered.com/app/319480">Odallus: The Dark Call</a>
+</td>
+<td>
+</td>
+<td data-sort-value="27/Jul/2015"> 27<sup>th</sup> July 2015
+</td>
+<td>Joymasher
+</td>
+<td style="text-align: center"><a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"><a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td>
+<td>Odallus is a classic exploration/action game, inspired by Ghosts’n Goblins, Demon’s Crest and Castlevania.
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="http://dohp3trees.wixsite.com/hanzogreen/game">Save The World</a>
+</td>
+<td>
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">In Development
+</td>
+<td><a rel="nofollow" class="external text" href="https://dohp.com/">D.O.H.P.</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td>Official Game based on the <a rel="nofollow" class="external text" href="http://dohp3trees.wixsite.com/hanzogreen/story-1">Hanzo Green Story</a> by <a rel="nofollow" class="external text" href="https://goo.gl/dZpC8F">D.O.H.P. (Decorate Our Home Planet)</a>.
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="http://cupcakeescape.advaith.tk/">Cupcake Escape!</a>
+</td>
+<td>
+</td>
+<td data-sort-value="11/Jan/2015"> 11<sup>th</sup> January 2016
+</td>
+<td><a rel="nofollow" class="external text" href="https://advaith.tk/">Advaith</a> &amp; Nikhitha
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a>
+</td>
+<td>Use the mouse to move the cupcake. Make sure you don't touch the balls!
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="http://advaith1.wix.com/games#!the-pile/z6ul3">The Pile</a>
+</td>
+<td>
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td rowspan="5"> <a rel="nofollow" class="external text" href="https://advaith.tk/">Advaith</a>
+</td>
+<td rowspan="3" style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td rowspan="2" style="text-align: center"> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td>Stack the boxes up to make a mountain!
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="http://advaith1.wix.com/games#!blank-1/otakb">PLANETS: Learn Mode</a>
+</td>
+<td>Education
+</td>
+<td data-sort-value="27/Nov/2015"> 27<sup>th</sup> November 2015
+</td>
+<td>An interactive app that lets you learn about the planets! Move the spaceship around to dock on a planet and learn more! <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/planets-learn-mode/id1121762094?mt=8">Download on the App Store</a>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="http://advaith1.wix.com/games#!blank-2/i30ex">PLANETS: Play Mode</a>
+</td>
+<td>
+</td>
+<td>In Preview
+</td>
+<td style="text-align: center"> <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a>
+</td>
+<td>You decide to go on a mission to collect the gems and return power to the ISS!
+<p>Mercury and Venus previews available now!
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://advaith1.wix.com/games#!catch-me-if-you-can/sy4uu">Catch me if you Can!</a>
+</td>
+<td> Multi-Genre
+</td>
+<td rowspan="2" data-sort-value="14/Jul/2015"> 14<sup>th</sup> July 2015
+</td>
+<td rowspan="2" style="text-align: center"> <a href="Multimedia_Fusion_2#Developer" title="Multimedia Fusion Developer 2"><img alt="Multimedia Fusion Developer 2" src="../w/images/d/de/Icon_MMF2Dev.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="OS_Compatibility#OS_X" title="This product is compatible with Mac OS X"><img alt="This product is compatible with Mac OS X" src="../w/images/b/be/Supported_OSX.png" width="24" height="24" /></a> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a>
+</td>
+<td> Adventure across the world to find the evil Mouse- or free him!<br />
+<p><a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/93059-Catch-Me-If-You-Can!?p=668578#post668578">Forum Post</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://advaith1.wix.com/games#!blank/icljz">Hide And Seek: Alien vs. Ant</a>
+</td>
+<td> Hide And Seek
+</td>
+<td style="text-align: center"> <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="OS_Compatibility#OS_X" title="This product is compatible with Mac OS X"><img alt="This product is compatible with Mac OS X" src="../w/images/b/be/Supported_OSX.png" width="24" height="24" /></a> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td> Hide and Seek time! You are the alien. Your job is to find the ant who is trying to run and hide!<br />
+<p><a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/93054-Hide-And-Seek-Alien-vs-Ant">Forum Post</a> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/hide-and-seek-alien-vs.-ant/id1131368417?mt=8">Download on the App Store</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://gamejolt.com/games/the-end-duck-world-3/56563">THE END (Duck World 3)</a>
+</td>
+<td> Survival, Horror
+</td>
+<td data-sort-value="03/Feb/2016" style="background:#E4E4E4;vertical-align:middle;text-align:center;">To Be Released 3<sup>rd</sup> February 2016
+</td>
+<td> <a rel="nofollow" class="external text" href="http://skyegreen424.wix.com/indie">Skye Green</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="Chowdren/Platforms#Mac" title="Powered by Chowdren. Runs on OS X."><img alt="Powered by Chowdren. Runs on OS X." src="../w/images/7/7b/Chowdren_Mac.png" width="24" height="24" /></a>
+</td>
+<td> "The End" is a survival horror game that takes place after the post-apocalypse.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=com.mugheadstudios.onepath">OnePath - Puzzle World</a>
+</td>
+<td> Puzzle
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.mugheadstudios.com/">MugHead Studios</a>
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="text-align: center"> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a>
+</td>
+<td> OnePath is a new and exciting isometric puzzle world from MugHead Studios.<br />
+<p>Navigate your way through the labyrinth by unlocking doors and find different worlds.
+Make sure you find the diamond in each level to complete the game 100%.
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://diabolicseasons.com/">Diabolic Seasons</a>
+</td>
+<td>
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td> Pierre-Etienne NOBLE
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="text-align: center"> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a>
+</td>
+<td> Fairly easy to manage at first, it’s quite easy to lose control!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.donutcoffeeshopstudios.com/bunny-battle.html">Bunny Battle Arena</a>
+</td>
+<td> Fighting
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.donutcoffeeshopstudios.com/index.html">Donut Coffeeshop Studios</a>
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="text-align: center"> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td> Play with Princess Yasmin, fighting through bunnies hordes in this survivor mode fight game. A dynamic fighting system that will test your skills and reflexes, different combination of attacks and extensive combos. Bunny Battle Arena is a Survivor mode fighting game, to play anytime anywhere.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://nowifigames.itch.io/running-core">Running</a>
+</td>
+<td> Platformer
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td> <a rel="nofollow" class="external text" href="http://nowifigames.itch.io/">No WiFi Games</a>
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> Simplistic running and jumping!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.tisnart.com/retro-invasion.html">Retro Invasion</a>
+</td>
+<td> Space shooter, Retro
+</td>
+<td data-sort-value="07/Sep/2010">7<sup>th</sup> September 2010
+</td>
+<td rowspan="2"> <a rel="nofollow" class="external text" href="http://www.tisnart.com/">Tisnart</a>
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a>
+</td>
+<td> Prepare for an onslaught of aliens that come wave after wave! Shoot your way through 100 waves. <br />
+<p>Shoot spaceships for weapon upgrades like the Atomic Blast or a Laser.
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.tisnart.com/tisnart-tiles.html">Tisnart Tiles</a>
+</td>
+<td> Match 3, Puzzle
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> Tisnart Tiles takes you beyond the ordinary match 3 games!... 120 levels of entertaining twists and surprises along the way. Is gravity traveling up or is it traveling down? Power-Ups, Bombs, what's next?<br />
+<p><a rel="nofollow" class="external text" href="http://steamcommunity.com/sharedfiles/filedetails/?id=457246230">On Steam Greenlight</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://indiegames.clickteam.com/585/spuds-quest.html">Spud's Quest</a>
+</td>
+<td> Adventure
+</td>
+<td data-sort-value="31/Jul/2014">31<sup>st</sup> July 2014
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.mouldytoofstudios.com/">Mouldy Toof Studios</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td>
+<td> Take on the role of Spud and his friend Prince Charming on a journey to uncover four ancient elemental essences that have the power to remove a curse upon the royal family.<br />
+<p><a rel="nofollow" class="external text" href="http://www.spudsquest.com/">Official Site</a> <a rel="nofollow" class="external text" href="http://store.steampowered.com/app/315610">Buy on Steam</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://indiegames.clickteam.com/245/bit-odyssey.html">Bit Odyssey</a>
+</td>
+<td> Sci-Fi
+</td>
+<td data-sort-value="06/Apr/2015">6<sup>th</sup> April 2015
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.gamesare.com">Gamesare Studios</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a>
+</td>
+<td> As the Captain of your own Starship begin your journey of literally endless worlds by first selecting and editing your randomly generated race and ship, then set out for the stars.<br />
+<p><a rel="nofollow" class="external text" href="http://store.steampowered.com/app/328740/">Buy on Steam</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://indiegames.clickteam.com/515/silence-of-the-sleep.html">Silence of the Sleep</a>
+</td>
+<td>
+</td>
+<td data-sort-value="09/Jul/2015">9<sup>th</sup> July 2015
+</td>
+<td> Jesse Makkonen
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td>
+<td> Jacob Reeves has lost his reason to live. He throws himself into a blackness to end his misery, but instead of it being the end he wakes up without a memory of his life before.<br />
+<p><a rel="nofollow" class="external text" href="http://www.silenceofthesleep.com/">Official Site</a> <a rel="nofollow" class="external text" href="http://store.steampowered.com/app/321870/">Buy on Steam</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://indiegames.clickteam.com/405/not-a-hero.html">NOT A HERO</a>
+</td>
+<td>
+</td>
+<td data-sort-value="14/Apr/2015">10<sup>th</sup> April 2015
+</td>
+<td> Roll7
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td>
+<td> Professional assassin turned amateur campaign manager Steve is charged with cleaning up the city by an anthropomorphic rabbit and mayoral candidate from the future named BunnyLord.<br />
+<p><a rel="nofollow" class="external text" href="http://www.notahe.ro/">Official Site</a> <a rel="nofollow" class="external text" href="http://store.steampowered.com/app/274270">Buy on Steam</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://indiegames.clickteam.com/448/room13.html">room13</a>
+</td>
+<td>
+</td>
+<td data-sort-value="13/May/2015">13<sup>th</sup> May 2015
+</td>
+<td> <a rel="nofollow" class="external text" href="http://thepaperrobot.com/">The Paper Robot</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a> <a href="Chowdren/Platforms#Wii_U" title="Compatible with the Wii U"><img alt="Compatible with the Wii U" src="../w/images/5/58/Supported_WiiU.png" width="32" height="10" /></a>
+</td>
+<td> Travel room by room emptying your magazine into hordes of the undead as you unlock the secrets of the labyrinth you find yourself trapped in.<br />
+<p><a rel="nofollow" class="external text" href="http://store.steampowered.com/app/314590">Available on Steam Early Access</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://indiegames.clickteam.com/638/pitiri-1977.html">Pitiri 1977</a>
+</td>
+<td> Jump n Run
+</td>
+<td data-sort-value="14/Oct/2014">14<sup>th</sup> October 2014
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.ilikescifi.com/">ILIKESCIFI Games</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td>
+<td> Enter a seventies science fiction utopia with hand-drawn levels and characters. A platformer adventure with a soundtrack from the past. Are you ready for 1977?<br />
+<p><a rel="nofollow" class="external text" href="http://www.pitiri.at/">Official Site</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://www.kickstarter.com/projects/ryanestevens/rock-rock-rocket">ROCK ROCK ROCKET</a>
+</td>
+<td> Shooter
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">In Development
+</td>
+<td> <a rel="nofollow" class="external text" href="https://www.kickstarter.com/projects/ryanestevens/rock-rock-rocket/creator_bio">Ryan Stevens</a>
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="text-align: center"> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a>
+</td>
+<td> A Stylised, Pocket-Sized, Real-Time, Open-World Shooter, created from the ground up for iPhone and iOS.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://del-duio.itch.io/equin-the-lantern-demo">Equin: The Lantern</a>
+</td>
+<td> Rougelike
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;"> v1.3ST Coming August 2016
+</td>
+<td rowspan="2"> <a rel="nofollow" class="external text" href="http://dxfgames.com/">DXF Games</a>
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td rowspan="2" style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> Equin: The Lantern is my fun little roguelike with some wholly original ideas. Conquer the 50 floor dungeon and its evil in of the joint to find the mysterious lantern itself. This is a game for those who like a good challenge.<br />
+<p><a rel="nofollow" class="external text" href="http://www.payloadz.com/go/sip/?id=1877112">Buy v1.2CT</a>, <a rel="nofollow" class="external text" href="http://www.roguebasin.com/index.php?title=Equin:_The_Lantern">Wiki Page</a>, <a rel="nofollow" class="external text" href="http://forums.tigsource.com/index.php?topic=29832.0/">Forum Thread</a> <a rel="nofollow" class="external text" href="https://steamcommunity.com/sharedfiles/filedetails/?id=727282097">Steam Greenlight (v1.3ST)</a>, <a rel="nofollow" class="external text" href="http://dxfgames.com/ETLV1.3_DEMO.zip">Demo (v1.3ST)</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://dxfgames.com/Hasslevania/Hasslevania.htm">Hasslevania: The Quest for Shuteye</a>
+</td>
+<td> Metroidvania
+</td>
+<td data-sort-value="01/Jan/2007">2007
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_1.5" title="Multimedia Fusion 1.5"><img alt="Multimedia Fusion 1.5" src="../w/images/f/f7/Icon_MMF1.5.png" width="24" height="24" /></a>
+</td>
+<td> Castlevania spoof
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://indiegames.clickteam.com/523/freedom-planet.html">Freedom Planet</a>
+</td>
+<td>
+</td>
+<td data-sort-value="09/Jul/2015">9<sup>th</sup> July 2015
+</td>
+<td> <a rel="nofollow" class="external text" href="http://galaxytrail.com/games/">GalaxyTrail Games</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Chowdren/Platforms#Windows" title="Powered by Chowdren. Runs on Windows."><img alt="Powered by Chowdren. Runs on Windows." src="../w/images/f/fb/Chowdren_Windows.png" width="24" height="24" /></a> <a href="Chowdren/Platforms#Mac" title="Powered by Chowdren. Runs on OS X."><img alt="Powered by Chowdren. Runs on OS X." src="../w/images/7/7b/Chowdren_Mac.png" width="24" height="24" /></a> <a href="Chowdren/Platforms#Linux" title="Powered by Chowdren. Runs on Linux."><img alt="Powered by Chowdren. Runs on Linux." src="../w/images/3/38/Chowdren_Linux.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a> <a href="Chowdren/Platforms#Wii_U" title="Compatible with the Wii U"><img alt="Compatible with the Wii U" src="../w/images/5/58/Supported_WiiU.png" width="32" height="10" /></a>
+</td>
+<td> <a rel="nofollow" class="external text" href="http://freedomplanet.galaxytrail.com">Official Site</a> ,<a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/78639-Freedom-Planet-High-Speed-Platform-Game">Forum Thread 1</a>, <a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/88153-Freedom-Planet-Now-Available-on-Steam!">Forum Thread 2</a>
+</td></tr>
+<tr>
+<td> <a href="Eternal_Daughter" title="Eternal Daughter">Eternal Daughter</a>
+</td>
+<td> Action-Adventure
+</td>
+<td data-sort-value="21/Jun/2002">21<sup>st</sup> June 2002
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.derekyu.com/">Derek Yu</a> and <a rel="nofollow" class="external text" href="http://www.jonperry.com/">Jon Perry</a>
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_1.5" title="Multimedia Fusion 1.5"><img alt="Multimedia Fusion 1.5" src="../w/images/f/f7/Icon_MMF1.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://indiegames.clickteam.com/613/five-nights-at-freddys.html">Five Nights At Freddy's</a>
+</td>
+<td rowspan="4"> Horror
+</td>
+<td data-sort-value="24/Jul/2014">24<sup>th</sup> July 2014
+</td>
+<td rowspan="4"> <a rel="nofollow" class="external text" href="http://scottgames.com">Scott Cawthon</a>
+</td>
+<td rowspan="2" style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td rowspan="4"> Try to survive the night with your new summer job at Freddy Fazbear's Pizza, where you must avoid the unpredictable animatronic characters.<br />
+<p><a rel="nofollow" class="external text" href="http://freddy-fazbears-pizza.wikia.com/wiki/Five_Nights_at_Freddy%27s_Wiki">Wiki</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://indiegames.clickteam.com/608/five-nights-at-freddys-2.html">Five Nights at Freddy's 2</a>
+</td>
+<td data-sort-value="11/Nov/2014">11<sup>th</sup> November 2014
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="XNA_Runtime" title="This App is compatible with the Windows Phone OS"><img alt="This App is compatible with the Windows Phone OS" src="../w/images/e/e3/Supported_WinPhone.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://indiegames.clickteam.com/326/five-nights-at-freddys-3.html">Five Nights at Freddy's 3</a>
+</td>
+<td data-sort-value="02/Mar/2015">2<sup>nd</sup> March 2015
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td>
+<td rowspan="2" style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://indiegames.clickteam.com/557/five-nights-at-freddys-4.html">Five Nights at Freddy's 4</a>
+</td>
+<td data-sort-value="27/Jul/2015">27<sup>th</sup> July 2015
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://play.google.com/store/apps/details?id=com.henryhissa.likemadness">Bread Madness</a>
+</td>
+<td> Casual
+</td>
+<td data-sort-value="28/Mar/2015">28<sup>th</sup> March 2015
+</td>
+<td> Henry Hissa
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a>
+</td>
+<td> The love for bread, madness and craziness.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/82422-Mine-Wolrd-My-Own-Little-World-(Minecraft-clone-with-physics-and-lights)-(pre-alpha)">Mine World</a>
+</td>
+<td> Physics
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/82422-Mine-Wolrd-My-Own-Little-World-(Minecraft-clone-with-physics-and-lights)-(pre-alpha)">Gunia Studios</a>
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> Pre-alpha Minecraft clone with physics and lights.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.desura.com/games/mutant-colossus-from-outer-space">Mutant Colossus from Outer Space</a>
+</td>
+<td> Platformer
+</td>
+<td data-sort-value="01/Oct/2013"> October 2013
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.desura.com/games/mutant-colossus-from-outer-space">Stormy Mountain Games</a>
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> One silent and dark night Ava is driving through the country side just minding her own business...
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/81872-Everworld-Island-Indiegogo">Everworld Island</a>
+</td>
+<td> Platformer
+</td>
+<td data-sort-value="02/Aug/2013">2<sup>nd</sup> August 2013
+</td>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/81872-Everworld-Island-Indiegogo">Pharanygitis</a>
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> Sandbox game like Super Mario with an editor for maps and with full multiplayer support over LAN.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.escapistmagazine.com/content/indie-speed-run/?game=696">Picklevania</a>
+</td>
+<td> Metroidvania
+</td>
+<td data-sort-value="03/Nov/2013">3<sup>rd</sup> November 2013
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.escapistmagazine.com/content/indie-speed-run/?game=696">UltimateWalrus</a>
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> An atmospheric single-screen metroidvania. For every power you get, you'll also get a "phobia," an added vulnerability to enemies on the map.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://puddinghatgames.com/projects/core-of-innocence/">Core of Innocence</a>
+</td>
+<td> Platformer
+</td>
+<td data-sort-value="01/Dec/2013">December 2013
+</td>
+<td> <a rel="nofollow" class="external text" href="http://puddinghatgames.com/projects/core-of-innocence/">Puddinghat Games</a>
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.glorioustrainwrecks.com/node/6734">Gnomus Maximus</a>
+</td>
+<td> Platformer
+</td>
+<td data-sort-value="29/Dec/2013">29<sup>th</sup> December 2013
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.glorioustrainwrecks.com/node/6734">let-off studios</a>
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> A platform arcade game featuring 8 levels, 4 game modes, unlockable achievements and more.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://indiegames.clickteam.com/187/fort-meow.html">Fort Meow</a>
+</td>
+<td> Physics
+</td>
+<td data-sort-value="15/Dec/2013">15<sup>th</sup> December 2013
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.rhysd.com/#">Rhys Davies</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a>
+</td>
+<td> Build up your pillow fort to defend against the snuggle seeking cats who want your warm lap like it's about to go out of fashion!<br />
+<p><a rel="nofollow" class="external text" href="http://www.fortmeow.com/">Official Site</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/84059-Loot-Hero-just-released!-)">Loot Hero</a>
+</td>
+<td> RPG
+</td>
+<td data-sort-value="28/Dec/2013">28<sup>th</sup> December 2013
+</td>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/84059-Loot-Hero-just-released!-)">Outcast</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a>
+</td>
+<td> Run, Battle ever harder enemies, Collect XP and Loot, Buy better equipment, Level Up, Do it all over again!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://store.steampowered.com/app/99700/">NightSky</a>
+</td>
+<td> Strategy
+</td>
+<td data-sort-value="01/Mar/2011">1<sup>st</sup> March 2011
+</td>
+<td> <a rel="nofollow" class="external text" href="http://store.steampowered.com/app/99700/">Nicalis</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td>
+<td> An ambient action-puzzle game that offers a gameplay experience unlike any other—cerebral challenges fill uniquely designed picturesque worlds.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.thespiritengine.com/tse2-info.html">The Spirit Engine 2</a>
+</td>
+<td rowspan="2"> RPG
+</td>
+<td data-sort-value="30/Jul/2008">30<sup>st</sup> July 2008
+</td>
+<td rowspan="2">  <a rel="nofollow" class="external text" href="http://www.thespiritengine.com/tse2-info.html">Natomic Studios</a>
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td rowspan="2" style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> The title is an improved spiritual sequel to The Spirit Engine, a freeware 2D RPG released in 2003.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.thespiritengine.com/tse1.html">The Spirit Engine</a>
+</td>
+<td data-sort-value="01/Nov/2003">November 2003
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_1.5" title="Multimedia Fusion 1.5"><img alt="Multimedia Fusion 1.5" src="../w/images/f/f7/Icon_MMF1.5.png" width="24" height="24" /></a>
+</td>
+<td> A 2D, sidescrolling adventure/RPG game with a simple story and a straightforward, innovative real-time combat system.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.pixelprospector.com/neva/">Neva</a>
+</td>
+<td> Action Platformer/Puzzler
+</td>
+<td data-sort-value="20/May/2010">20<sup>th</sup> May 2010
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.pixelprospector.com/neva/">PixelProspector</a>
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> Neva is a futuristic hybrid between an action platformer and an action puzzler.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.bigfishgames.com/games/5085/enlightenus/?pc">Enlightenus</a>
+</td>
+<td> Adventure
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td> A reclusive author has asked for your help! Travel to the mysterious world of Enlightenus and use your detective skills to track down Edgar Lee`s missing novels!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://luorgame.free.fr/">LUOR</a>
+</td>
+<td> Shoot 'em up
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td> Clement Willay
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> Luor is a litte Shoot 'em Up with a classic gameplay, but its style is quite particular.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://store.steampowered.com/app/201570/">Really Big Sky</a>
+</td>
+<td> Action
+</td>
+<td data-sort-value="24/Feb/2012">24<sup>th</sup> February 2012
+</td>
+<td> <a rel="nofollow" class="external text" href="http://store.steampowered.com/app/201570/">Boss Baddie</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td>
+<td> REALLY BIG SKY! A super fast, twin analogue shooter for the modern age!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://splotchesgame.com/">Splotches</a>
+</td>
+<td> Puzzle
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td> <a rel="nofollow" class="external text" href="http://splotchesgame.com/">Jolly Crouton Media Ltd</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> Make a mess! Splotches is a colorful, splattery puzzle game littered with paint and explosions.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/awesome-land/id497675375?mt=8">AWESOME Land</a>
+</td>
+<td>
+</td>
+<td data-sort-value="20/Nov/2012">20<sup>th</sup> November 2012
+</td>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/awesome-land/id497675375?mt=8">FreakZone Games</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td> Manley's motorcycle has been stolen by evil aliens! It's up to you to help him kick some alien hide and claim it back in this incredible parody of the great platform games of the past!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://indiegames.clickteam.com/903/concrete-jungle.html">Concrete Jungle</a>
+</td>
+<td> Planning
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">In Developement
+</td>
+<td rowspan="2"> <a rel="nofollow" class="external text" href="http://colepowered.com/home/">ColePowered Games</a>
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="Mac_Runtime" title="Compatible with the Mac Runtime"><img alt="Compatible with the Mac Runtime" src="../w/images/8/85/Supported_Mac.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td>
+<td> Concrete Jungle is an indie game about city planning and deck-building! <br />
+<p><a rel="nofollow" class="external text" href="http://concretejunglegame.com">Website</a> <a rel="nofollow" class="external text" href="http://store.steampowered.com/app/400160/">On Steam</a>, <a rel="nofollow" class="external text" href="http://colepowered.com/forums/forum/cj/">Forum</a>,<a rel="nofollow" class="external text" href="http://concretejungle.gamepedia.com/Concrete_Jungle_Wiki">Wiki</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://colepowered.com/megacity-hd/">Megacity HD</a>
+</td>
+<td> Puzzle
+</td>
+<td data-sort-value="27/Apr/2013">27<sup>th</sup> April 2013
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a> <a href="XNA_Runtime" title="This App is compatible with the Windows Phone OS"><img alt="This App is compatible with the Windows Phone OS" src="../w/images/e/e3/Supported_WinPhone.png" width="24" height="24" /></a> <a href="XNA_Runtime" title="This App is compatible with the Xbox 360 Console."><img alt="This App is compatible with the Xbox 360 Console." src="../w/images/4/49/Supported_Xbox360.png" width="24" height="24" /></a> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a>
+</td>
+<td> MegaCity is a highly original and fun 'one-more-go' style city building puzzle game.<br />
+<p><a rel="nofollow" class="external text" href="http://colepowered.com/how-to-play-megacity/">Gameplay Guide</a>, <a rel="nofollow" class="external text" href="http://www.kongregate.com/games/colepowered/megacity-deluxe-hd">Play</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/vincere-totus-astrum/id432786792?mt=8">Vincere Totus Astrum</a>
+</td>
+<td> Strategy
+</td>
+<td data-sort-value="07/Nov/2011">7<sup>th</sup> November 2011
+</td>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/vincere-totus-astrum/id432786792?mt=8">Gamesare Studios</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td> Prepare to conquer the known galaxy in this easy to pick fast paced game of galactic intrigue!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/color-machine/id456379208?l=es&amp;mt=8&amp;ls=1">Color Machine</a>
+</td>
+<td>
+</td>
+<td data-sort-value="01/Jan/2014">1<sup>st</sup> January 2014
+</td>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/color-machine/id456379208?l=es&amp;mt=8&amp;ls=1">Mediatech Game Studio</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/pocket-ninjas/id494871208?ls=1&amp;mt=8">Pocket Ninjas</a>
+</td>
+<td> Action
+</td>
+<td data-sort-value="01/May/2013">1<sup>st</sup> May 2013
+</td>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/pocket-ninjas/id494871208?ls=1&amp;mt=8">The Paper Robot LLC</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td> The most ninja action possible........without having to go to the trouble of actually being a ninja.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/app/stromfeld/id501045146?mt=8">Stromfeld</a>
+</td>
+<td> Shoot 'em Up
+</td>
+<td data-sort-value="22/Aug/2014">22<sup>nd</sup> August 2014
+</td>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/app/stromfeld/id501045146?mt=8">ILIKESCIFI Games</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td> Stromfeld is a Classic Top Down Shoot Em Up with a focus on fast gameplay and action.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/faerie-solitaire-mobile-hd/id442227406?mt=8">Faerie Solitaire HD</a>
+</td>
+<td> Cards
+</td>
+<td data-sort-value="22/Aug/2012">22<sup>nd</sup> August 2012
+</td>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/faerie-solitaire-mobile-hd/id442227406?mt=8">Subsoap</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td> Have magical fun in the addicting Card game, Faerie Solitaire Mobile HD! Chain together combos to fill up your energy meter and save the Faeries!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/alphabet-learn/id458759722?ls=1&amp;mt=8">Alphabet Learn</a>
+</td>
+<td> Education
+</td>
+<td data-sort-value="11/Jan/2015">11<sup>th</sup> January 2015
+</td>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/alphabet-learn/id458759722?ls=1&amp;mt=8">Keith Adler</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td> A fantastic learning experience that teaches and reinforces the alphabet for children of all ages.
+</td></tr>
+
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/deadly-rooms/id483936749?mt=8&amp;ign-mpt=uo=2">Deadly Rooms</a>
+</td>
+<td> Horror
+</td>
+<td data-sort-value="10/Mar/2012">10<sup>th</sup> March 2012
+</td>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/deadly-rooms/id483936749?mt=8&amp;ign-mpt=uo=2">Ben Aprigliano</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td> A topdown horror puzzle adventure game where you need to survive multiple rooms, using your instinct and skills.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/epic-stack/id454778989#">Epic Stack</a>
+</td>
+<td> Arcade
+</td>
+<td data-sort-value="15/Feb/2013">15<sup>th</sup> February 2013
+</td>
+<td> <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/epic-stack/id454778989#">Robin Christensen</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td> Stack to the top in this slick arcade game!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://happyfroggamesonline.com/2016/05/echobyte-heroes-alpha-0-1-0-0-released/">Echobyte Heroes</a>
+</td>
+<td> Shoot 'em Up
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">TBD, in Open Alpha
+</td>
+<td rowspan="7"><a rel="nofollow" class="external text" href="http://happyfroggamesonline.com/">Happy Frog Games</a>
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2#Developer" title="Multimedia Fusion Developer 2"><img alt="Multimedia Fusion Developer 2" src="../w/images/d/de/Icon_MMF2Dev.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a>
+</td>
+<td>Echobyte Heroes is a fast-paced 360 degree shoot 'em up where you can copy enemy weapons by simply getting close enough and scanning them.
+<p>Previously Galactic Battle.
+</p>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://gamejolt.com/games/robovania-dark-rebellion/117860">Robovania: Dark Rebellion</a>
+</td>
+<td rowspan="2">RTS/Shooter
+</td>
+<td data-sort-value="19/Jul/2016">2016
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td>
+<td rowspan="2" style="text-align: center"> <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td>A free prequel to War for Robovania. If you want to get a feel of how War for Robovania plays before it's out, this is your chance!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/87771-Upcoming-Real-time-strategy-game-War-for-Robovania">War for Robovania</a>
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">TBD, Coming Soon!
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2#Developer" title="Multimedia Fusion Developer 2"><img alt="Multimedia Fusion Developer 2" src="../w/images/d/de/Icon_MMF2Dev.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td>
+<td>Robovania's factories have been captured! Take back the factories to re-start production on Robovania's robot soldiers, and use your newly-earned troops to take back more factories!
+<p><a rel="nofollow" class="external text" href="http://happyfroggamesonline.com/play-here/official-pages-for-our-games/war-for-robovania-wip/">Mecha Info</a>, <a rel="nofollow" class="external text" href="https://www.youtube.com/playlist?list=PLnV8Bfr_Ago4preKcdO-Cmygo8aDPx9_4">YouTube Playlist</a>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://gamejolt.com/games/elecmythic_mysteries/237160">ElecMythic Mysteries: The Humanity Legend</a>
+</td>
+<td>RPG/Fighter
+</td>
+<td data-sort-value="09/Nov/2016">9<sup>th</sup> November 2016
+</td>
+<td rowspan="4" style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a>
+</td>
+<td>A mixture of fighting games and RPG, using a simple 3-attack 2-direction control scheme for battles, and also features some DOS-inspired retro style graphics. It was originally made for the Weirder Stuff <a href="/w/index.php?title=ClickJam&amp;action=edit&amp;redlink=1" class="new" title="ClickJam (page does not exist)">ClickJam</a>, but has received a few minor improvements since then, including a better difficulty curve.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://gamejolt.com/games/404_past_not_found/172472">404: Past Not Found</a>
+</td>
+<td>Action RPG
+</td>
+<td rowspan="2" style="background:#E4E4E4;vertical-align:middle;text-align:center;">Early Access
+</td>
+<td rowspan="3" style="text-align: center"> <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td>404: Past Not Found is a scifi grid-based action RPG with 256-color-but-sometimes-more-when-needed retro style graphics. In this game, you play as a mysterious robot who has no memories of his past.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://gamejolt.com/games/adventure-of-the-star-twins/1616292">Adventure of the Star Twins</a>
+</td>
+<td>Platformer
+</td>
+<td>Adventure of the Star Twins is a retro run-and-gun platformer with 2-player cooperative multiplayer. Shoot down armies of evil robot drones to stop an evil scientist!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://happy_frog_games.gamejolt.io/quadratic_attack_3d/">Quadratic Attack 3D</a>
+</td>
+<td>3D Platformer
+</td>
+<td data-sort-value="03/Dec/2016">3<sup>rd</sup> December 2016 (beta)
+</td>
+<td>Quadratic Attack 3D is an in-beta retro 3D platform shooter. The objective of the game is fairly simple: Advance forwards, shoot enemies, press switches to open doors, watch out for stage hazards like electrified floors, dodge projectiles, destroy bosses when you reach them, etc.
+</td></tr>
+<tr>
+<td> Geminoe
+</td>
+<td>
+</td>
+<td data-sort-value="13/Jun/2014">13<sup>th</sup> June 2014
+</td>
+<td rowspan="3"> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/7340-piscesdreams">Esperware Interactive</a>
+</td>
+<td rowspan="3" style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> Castlevania - The Bloodletting
+</td>
+<td>
+</td>
+<td data-sort-value="01/Jan/2009">2009
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> The last beta of this game was released in 2009, but, due to a disaster, it was never released.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.anathemagame.com">Anathema</a>
+</td>
+<td>
+</td>
+<td data-sort-value="01/Jan/2016" style="background:#E4E4E4;vertical-align:middle;text-align:center;">To be released 2016
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td>
+<td> <a rel="nofollow" class="external text" href="http://steamcommunity.com/sharedfiles/filedetails/?id=441396045">On Steam Greenlight</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.evolutionary.co.za/petal.html">Petal Puzzler</a>
+</td>
+<td> Puzzle
+</td>
+<td data-sort-value="01/Jan/2015">2015
+</td>
+<td rowspan="2"> <a rel="nofollow" class="external text" href="http://www.evolutionary.co.za/">Evolutionary Games</a>
+</td>
+<td rowspan="2" style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td rowspan="2" style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> 5 Different puzzle games all built on using petals as a theme that requires you to use logic and / or memory to complete them.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.evolutionary.co.za/funfill.html">Fun Fill Factory</a>
+</td>
+<td> Arcade / Casual
+</td>
+<td data-sort-value="01/Jan/2015">2015
+</td>
+<td> A non-violent space invaders type game with a completely new twist that requires accuracy and precision rather than fast shooting. Super cute characters.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=com.level81.laserwalls&amp;hl=en">Lazer Walls</a>
+</td>
+<td> Arcade / Reaction
+</td>
+<td data-sort-value="01/Jan/2014">2014
+</td>
+<td rowspan="5"> <a rel="nofollow" class="external text" href="http://bit.ly/nT2idZ">level81 (mickarrow)</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td rowspan="2" style="text-align: center"> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a>
+</td>
+<td> Bounce the energy ball around and keep it in play, as long as you can, by activating the lasers around the play-field.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=com.level81.gunzy&amp;hl=en">Gunzy</a>
+</td>
+<td> Shooting
+</td>
+<td data-sort-value="01/Jan/2010">2010
+</td>
+<td rowspan="4" style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td> Get ready to draw your gun and start shooting!!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.newgrounds.com/portal/view/579270">Coco Drop</a>
+</td>
+<td> Typing
+</td>
+<td data-sort-value="01/Jan/2011">2011
+</td>
+<td rowspan="3" style="text-align: center"> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a>
+</td>
+<td> Monkeys are throwing coconuts at the jungle explorers. Type as fast at you can to crack the coconuts.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.newgrounds.com/portal/view/558420">SnowBalls</a>
+</td>
+<td> Shooting
+</td>
+<td data-sort-value="01/Jan/2011">2011
+</td>
+<td> Throw snowballs at the targets as quickly as possible.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.newgrounds.com/portal/view/552239">Zombies versus Pumpkins</a>
+</td>
+<td> Shooting
+</td>
+<td data-sort-value="01/Jan/2010">2010
+</td>
+<td> Help Jack o' Lantern to defend his pumpkin patch against those pumpkin eating zombies and shoot them with your pumpkin cannon!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://winterglass.blogspot.com/2013/06/new-game-release-invader-defender.html">Invader Defender</a>
+</td>
+<td> Arcade
+</td>
+<td data-sort-value="01/Jan/2013">2013
+</td>
+<td rowspan="3"> <a rel="nofollow" class="external text" href="http://winterglass.blogspot.com/p/free-games.html">winterglass</a>
+</td>
+<td rowspan="3" style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a>
+</td>
+<td> Just another invader game! With upgrades! <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=com.winterglass.InvaderDefender">Get on Google Play</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://winterglass.blogspot.com/2012/09/new-game-release-smack-lot-titan.html">Smack A Lot: Titan</a>
+</td>
+<td> Arcade
+</td>
+<td data-sort-value="01/Jan/2012">2012
+</td>
+<td rowspan="2" style="text-align: center"> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a>
+</td>
+<td> Another smack a lot game. Keep smacking the titan!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://winterglass.blogspot.com/2011/09/new-game-release-zombie-vs-pinball.html">Zombie VS Pinball</a>
+</td>
+<td> Pinball
+</td>
+<td data-sort-value="01/Jan/2011">2011
+</td>
+<td> Done with the B2D physics library. A zombie themed pinball game! Do give it a try!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.pixhitt.com/comeonrio">Come on Rio</a>
+</td>
+<td> Puzzle
+</td>
+<td data-sort-value="01/Jan/2013">2013
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.pixhitt.com/">Pixhitt Entretenimento</a>
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td> More than a game, Come On Rio it’s an amazing touristic guide of Rio de Janeiro “Cidade Maravilhosa” - Brazil!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.gwiz-productions.com/TileMakerV4c.exe">U-Tile-It</a>
+</td>
+<td> Puzzle
+</td>
+<td data-sort-value="22/Jun/2010">22<sup>nd</sup> June 2010
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.gwiz-productions.com/index.html">George Harjung</a>
+</td>
+<td style="text-align: center"> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> Remember those old plastic movable tile games? Well here's your chance to play again with any picture of your choice. Play with a 3x3 grid or go big with a 4x4 grid. Three levels of ""mixing up"" ensure you will be challenged.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=com.karmasoft.futurepolicelite">Future Police</a>
+</td>
+<td> Action / First Person Shooter
+</td>
+<td data-sort-value="05/Oct/2015"> 5<sup>th</sup> October 2015
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.karma-soft.net/">KarmaSoft</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a>
+</td>
+<td> Blast your way through 10 highly challenging stages in this action packed point-and-click shooter! This game offers stunning neon graphics and smooth animations while challenging your speed, reflexes and intelligence.
+<p><small><a rel="nofollow" class="external text" href="https://youtu.be/xNEdqJIMYH0">YouTube Video</a></small>
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=com.fdantas.flappingdolan">Flapping Dolan</a>
+</td>
+<td rowspan="2"> Arcade
+</td>
+<td data-sort-value="08/Dec/2014"> 8<sup>th</sup> December 2014
+</td>
+<td rowspan="2"> <a rel="nofollow" class="external text" href="http://jogoseapps.com.br">FDantas Jogos e Apps</a>
+</td>
+<td rowspan="2" style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td>
+<td rowspan="2" style="text-align: center"> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a>
+</td>
+<td> Casual game with Dolan, Patatex and Bogs jumping like Flappy Bird!
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=com.fdantas.quartoescuro">Dolan in Dark Rooms</a>
+</td>
+<td data-sort-value="13/May/2016"> 13<sup>th</sup> May 2016
+</td>
+<td> Help Dolan Duck out of the abandoned house through several dark rooms full of spikes.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://superportalc.wix.com/main#!games/j7r1m">Tank Wars</a>
+</td>
+<td>Arcade
+</td>
+<td data-sort-value="1/Aug/2016"> 1<sup>st</sup> August 2016
+</td>
+<td><a rel="nofollow" class="external text" href="http://superportalc.wix.com/main">lololol</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a>
+</td>
+<td> A easy tank game with virtual controls. Also god mode lol. Made by a passionate beginner. Ask me and i'll send you the mfa file.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://goo.gl/j5EKoc">Gring's Ging</a>
+</td>
+<td> Arcade, Color-Matching, Shooter
+</td>
+<td data-sort-value="14/Aug/2016"> 14<sup>th</sup> August 2016
+</td>
+<td><a rel="nofollow" class="external text" href="http://armastronics.blogspot.com/">Armastronics</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a>
+</td>
+<td> In the game there is Ging, a falling object with three color variants: red, green, and blue. The player must prevent the Gings reaching the health barrier at the bottom by shooting it with the right color.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://btstudios.weebly.com/fallen.html">FALLEN</a>
+</td>
+<td> Puzzle, Platformer, Horror, Action
+</td>
+<td data-sort-value="2/Dec/2016"> 2<sup>nd</sup> December 2016
+</td>
+<td><a rel="nofollow" class="external text" href="http://btstudios.weebly.com/">BT Studios</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td>
+<td>A challenging and fun platformer
+<p>Story of a Father who is in search of his son who has fallen in a cave.This game has also local multiplayer which can be played upto four players. 
+</p>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://store.steampowered.com/app/571520/Kalaban/">Kalaban</a>
+</td>
+<td> Action-Adventure
+</td>
+<td data-sort-value="29/Dec/2016"> 29<sup>th</sup> December 2016
+</td>
+<td><a rel="nofollow" class="external text" href="https://twitter.com/rayhousecompany?lang=en">Rayhouse Productions</a>
+</td>
+<td style="text-align: center"> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td>
+<td style="text-align: center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td>
+<td>Kalaban is a horror-themed 2D action-adventure by Rayhouse Productions. The game focuses on story-telling and open-ended gameplay.
+</td></tr>
+</table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180529151451
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 2.580 seconds
+Real time usage: 2.629 seconds
+Preprocessor visited node count: 373/1000000
+Preprocessor generated node count: 2535/1000000
+Post‐expand include size: 19553/2097152 bytes
+Template argument size: 178/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  496.941      1 - -total
+  4.49%   22.324     30 - Template:Unknown
+  3.79%   18.831      2 - Template:MMF
+  3.61%   17.928     46 - Template:EXE
+  2.97%   14.767     38 - Template:CF2.5
+  2.60%   12.914     15 - Template:CF2.5Dev
+  2.59%   12.848     27 - Template:IOS
+  2.35%   11.668     20 - Template:Steam
+  2.30%   11.426     18 - Template:MMF2
+  2.14%   10.610      8 - Template:Windows
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:74-0!*!0!!*!5!* and timestamp 20180529151448 and revision id 2092
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (47.5%), <a href="/w/index.php?title=User:Henryhissa&amp;action=edit&amp;redlink=1" class="new" title="User:Henryhissa (page does not exist)">Henryhissa</a> (5.2%), <a href="/w/index.php?title=User:Lh37&amp;action=edit&amp;redlink=1" class="new" title="User:Lh37 (page does not exist)">Lh37</a> (47.3%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Made_with_Fusion&amp;oldid=2092">http://clickwiki.net/w/index.php?title=Made_with_Fusion&amp;oldid=2092</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="./Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="./Category:ClickWiki" title="Category:ClickWiki">ClickWiki</a></li><li><a href="./Category:Community" title="Category:Community">Community</a></li></ul></div></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Made+with+Fusion"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":247});});</script>
+  </body>
+</html>

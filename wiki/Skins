@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Skins - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Skins","wgTitle":"Skins","wgCurRevisionId":2084,"wgRevisionId":2084,"wgArticleId":537,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Interface"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Skins","wgRelevantArticleId":537,"wgRequestId":"0a1447ec130308403657f817","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Skins rootpage-Skins skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img4.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Skins#mw-head">navigation</a>,
+          <a href="Skins#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Skins</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>Skins are a feature within <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5">Clickteam Fusion 2.5</a> which allow you to modify how the <a href="Event_Editor" title="Event Editor">Event Editor</a>, <a href="Event_List_Editor" title="Event List Editor">Event List Editor</a>, <a href="/w/index.php?title=Object_Box&amp;action=edit&amp;redlink=1" class="new" title="Object Box (page does not exist)">Object Box</a>, and <a href="Storyboard_Editor" title="Storyboard Editor">Storyboard Editor</a> appear during edit time. This does not include the toolbar backgrounds or dialog boxes as they are controlled by the Windows Themes.
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Skins#Changing_Skins"><span class="tocnumber">1</span> <span class="toctext">Changing Skins</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="Skins#Choosing_a_Skin"><span class="tocnumber">2</span> <span class="toctext">Choosing a Skin</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="Skins#Fusion_Skins"><span class="tocnumber">2.1</span> <span class="toctext">Fusion Skins</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="Skins#Available_from_the_ClickStore"><span class="tocnumber">2.2</span> <span class="toctext">Available from the ClickStore</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="Skins#Downloading_skins"><span class="tocnumber">3</span> <span class="toctext">Downloading skins</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="Skins#How_Skins_Work"><span class="tocnumber">4</span> <span class="toctext">How Skins Work</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="Skins#Making_and_Editing_Skins"><span class="tocnumber">5</span> <span class="toctext">Making and Editing Skins</span></a></li>
+</ul>
+</div>
+
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Changing_Skins">Changing Skins</span></h2>
+<table>
+<tr>
+<td> <b>1.</b> On the menu bar, go to <b>Tools</b> → <b>Preferences</b>.
+</td>
+<td> <b>2.</b> Click on the <b>Workspace</b> tab.
+</td>
+<td> <b>3.</b> Select a skin from the drop down list. If you have recently added a skin, you may need to restart Fusion.
+</td></tr>
+<tr>
+<td> <a href="./File:ChangeSkinStep2.png" class="image"><img alt="ChangeSkinStep2.png" src="../w/images/d/d6/ChangeSkinStep2.png" width="243" height="198" /></a>
+</td>
+<td> <a href="./File:WorkspaceTab.png" class="image"><img alt="WorkspaceTab.png" src="../w/images/9/96/WorkspaceTab.png" width="490" height="83" /></a>
+</td>
+<td> <a href="./File:ChangeSkinStep4.png" class="image"><img alt="ChangeSkinStep4.png" src="../w/images/0/0c/ChangeSkinStep4.png" width="606" height="260" /></a>
+</td></tr></table>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Choosing_a_Skin">Choosing a Skin</span></h2>
+<p>These are many skins available for <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5">Clickteam Fusion 2.5</a>.
+</p>
+<ul><li> Users can make their own custom skins by editing the files within a skin's folder. This <a rel="nofollow" class="external text" href="http://www.xable.us/clickteam-fusion-skins.php">tutorial</a> fleshes out more details on making skins within <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5">Clickteam Fusion 2.5</a>.</li>
+<li> Additional skins may be purchased and downloaded at the <a href="ClickStore" title="ClickStore">ClickStore</a>.</li></ul>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Fusion_Skins">Fusion Skins</span></h3>
+<p>These are the skins that come with Fusion:
+</p>
+<table class="wikitable" style="width:100%">
+<tr>
+<th style="width:20%">
+</th>
+<th style="width:20%"> Dark
+</th>
+<th style="width:20%"> Default
+</th>
+<th style="width:20%"> Pinky Girly
+</th>
+<th style="width:20%"> Glossy
+</th></tr>
+
+<tr>
+<th> Description
+</th>
+<td> A simple dark theme.
+</td>
+<td> A simple light theme. Used by default.
+</td>
+<td> A girly theme featuring a pink/white gradient and a cartoon girl.
+</td>
+<td> A glossy looking skin. It features the Fusion logo on the bottom-right corner.
+</td></tr>
+
+<tr>
+<th> Storyboard Editor
+</th>
+<td> <a href="./File:DarkStoryboard.png" class="image" title="Storyboard Editor with Dark Skin."><img alt="Storyboard Editor with Dark Skin." src="../w/images/6/6f/DarkStoryboard.png" width="200" height="154" /></a>
+</td>
+<td> <a href="./File:DefaultStoryboard.png" class="image" title="Storyboard Editor with Default Skin."><img alt="Storyboard Editor with Default Skin." src="../w/images/1/1a/DefaultStoryboard.png" width="200" height="154" /></a>
+</td>
+<td> <a href="./File:PinkyGirlyStoryboard.png" class="image" title="Storyboard Editor With Pinky Girly Skin."><img alt="Storyboard Editor With Pinky Girly Skin." src="../w/images/a/ad/PinkyGirlyStoryboard.png" width="200" height="154" /></a>
+</td>
+<td> <a href="./File:GlossyStoryboard.png" class="image" title="Storyboard Editor with Glossy skin."><img alt="Storyboard Editor with Glossy skin." src="../w/images/1/19/GlossyStoryboard.png" width="200" height="154" /></a>
+</td></tr>
+
+<tr>
+<th> Event Editor
+</th>
+<td> <a href="./File:DarkEvent.png" class="image" title="Event Editor with Dark Skin."><img alt="Event Editor with Dark Skin." src="../w/images/0/05/DarkEvent.png" width="200" height="154" /></a>
+</td>
+<td> <a href="./File:DefaultEvent.png" class="image" title="Event Editor with Default Skin."><img alt="Event Editor with Default Skin." src="../w/images/7/78/DefaultEvent.png" width="200" height="154" /></a>
+</td>
+<td> <a href="./File:PinkyGirlyEvent.png" class="image" title="Event Editor with Pinky Girly Skin."><img alt="Event Editor with Pinky Girly Skin." src="../w/images/c/cc/PinkyGirlyEvent.png" width="200" height="154" /></a>
+</td>
+<td> <a href="./File:GlossyEvent.png" class="image" title="Event Editor with Glossy Skin."><img alt="Event Editor with Glossy Skin." src="../w/images/d/de/GlossyEvent.png" width="200" height="154" /></a>
+</td></tr>
+
+<tr>
+<th> Event List Editor
+</th>
+<td> <a href="./File:DarkEventList.png" class="image" title="Event List Editor with Dark Skin."><img alt="Event List Editor with Dark Skin." src="../w/images/e/ea/DarkEventList.png" width="200" height="154" /></a>
+</td>
+<td> <a href="./File:DefaultEventList.png" class="image" title="Event List Editor with Default Skin."><img alt="Event List Editor with Default Skin." src="../w/images/7/71/DefaultEventList.png" width="200" height="154" /></a>
+</td>
+<td> <a href="./File:PinkyGirlyEventList.png" class="image" title="Even List Editor with Pinky Girly Skin."><img alt="Even List Editor with Pinky Girly Skin." src="../w/images/4/43/PinkyGirlyEventList.png" width="200" height="154" /></a>
+</td>
+<td> <a href="./File:GlossyEventList2.png" class="image" title="Event List Editor with Glossy Skin."><img alt="Event List Editor with Glossy Skin." src="../w/images/9/90/GlossyEventList2.png" width="200" height="154" /></a>
+</td></tr></table>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Available_from_the_ClickStore">Available from the <a href="ClickStore" title="ClickStore">ClickStore</a></span></h3>
+<p>These are the skins available from the ClickStore. You can get them <a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins">here</a>.
+</p>
+<table class="wikitable">
+<tr>
+<th> ClickStore Name
+</th>
+<th> Default Fusion Name
+</th>
+<th> Author
+</th>
+<th> ClickStore
+</th></tr>
+<tr>
+<td>Classic MMF2 Skin
+</td>
+<td>Classic MMF2
+</td>
+<td rowspan="4"><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/index.php?route=product/manufacturer/info&amp;manufacturer_id=38">ProdigyX</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins/mmf2-classic-skin">Free</a>
+</td></tr>
+<tr>
+<td>Cocoa Icing Skin
+</td>
+<td>Cocoa Icing
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins?product_id=222">Free</a>
+</td></tr>
+<tr>
+<td>Minimal Card Skin
+</td>
+<td>Minimal Card
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins?product_id=225">Free</a>
+</td></tr>
+<tr>
+<td>Brix Skin
+</td>
+<td>Brix
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins?product_id=226">Free</a>
+</td></tr>
+<tr>
+<td>Dark Mist Skin
+</td>
+<td>DarkMist
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/runonetworks">RunoNetworks</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins/dark-mist-skin">Free</a>
+</td></tr>
+<tr>
+<td>Steam Powered Phénix skin
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/seyjin">Seyjin</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins/steam_powered_phenix_skin">Free</a>
+</td></tr>
+<tr>
+<td>Glowed - Dark Gray Skin
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/baddoge">BadDoge</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins/glowed_skin">Free</a>
+</td></tr>
+<tr>
+<td>Howl Theme
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td rowspan="3"><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/burutaru">burutaru</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins/howl_skin">$1.99</a>
+</td></tr>
+<tr>
+<td>Harana dark
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td rowspan="2"><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins/harana">$0.99</a>
+</td></tr>
+<tr>
+<td>Harana light
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td></tr>
+<tr>
+<td>iOS 7 Theme by Pixhitt
+</td>
+<td>iOS 7 by Brevo
+</td>
+<td rowspan="2"><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/index.php?route=product/manufacturer/info&amp;manufacturer_id=42">Bernardo Dias</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins/ios7-theme-skin">$0.50</a>
+</td></tr>
+<tr>
+<td>Android Lollipop Theme by Pixhitt
+</td>
+<td>Lollipop
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins?product_id=283">$0.50</a>
+</td></tr>
+<tr>
+<td>Dark Clockwork
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td rowspan="2"><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/lucky13">lucky13</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins/dark-clockwork">$1.99</a>
+</td></tr>
+<tr>
+<td>Neon Night - Dark skin
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins/Neon-Night-Dark-skin">$1.89</a>
+</td></tr>
+<tr>
+<td>C-Fusion Black Skin
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td rowspan="2"><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/crayzor_echos">crayzor-echos</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins/c-fusion-black-skin">$1.99</a>
+</td></tr>
+<tr>
+<td>Fusion Neon Skin
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins/fusion_neon_skin">$2.99</a>
+</td></tr>
+<tr>
+<td>Smooth Cyan
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/Softwarewolf">SoftWarewolf</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins/smooth_cyan_skin">$0.99</a>
+</td></tr>
+<tr>
+<td>Productiva
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/volnaiskra">Volnaiskra</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins/productiva_skin">$1.99</a>
+</td></tr>
+<tr>
+<td>Port; SKIN
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/danjo">Danjo</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/skins/port_skin">$0.99</a>
+</td></tr></table>
+<p>Up to date as of 7/16/2017
+</p>
+<h2><span class="mw-headline" id="Downloading_skins">Downloading skins</span></h2>
+<p>In the zip file, you should find a folder with many images and a few other files. Copy the folder into the <b>Skins</b> directory in Fusion's Program Files.
+</p>
+<h2><span class="mw-headline" id="How_Skins_Work">How Skins Work</span></h2>
+<p>Image splicing splits an individual image into nine subsections. These sections are repeated as needed over a space until the entire space is filled with these subsections.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Making_and_Editing_Skins">Making and Editing Skins</span></h2>
+<p>Skins are made of images and an info.ini file. To learn about what each image and info.ini section do, read <a rel="nofollow" class="external text" href="https://sites.google.com/site/clickwikifiles/editing-skins">this document</a>.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155206
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.270 seconds
+Real time usage: 0.276 seconds
+Preprocessor visited node count: 67/1000000
+Preprocessor generated node count: 149/1000000
+Post‐expand include size: 840/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   16.500      1 - -total
+ 55.13%    9.096     12 - Template:Unknown
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:537-0!*!0!!en!5!* and timestamp 20180529155206 and revision id 2084
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Lh37&amp;action=edit&amp;redlink=1" class="new" title="User:Lh37 (page does not exist)">Lh37</a> (13.4%), <a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (59.2%), <a href="/w/index.php?title=User:ProdigyXable&amp;action=edit&amp;redlink=1" class="new" title="User:ProdigyXable (page does not exist)">ProdigyXable</a> (27.4%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Skins&amp;oldid=2084">http://clickwiki.net/w/index.php?title=Skins&amp;oldid=2084</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="./Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="./Category:Interface" title="Category:Interface">Interface</a></li></ul></div></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Skins"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":588});});</script>
+  </body>
+</html>

@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Install Creator 2 - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Install_Creator_2","wgTitle":"Install Creator 2","wgCurRevisionId":1898,"wgRevisionId":1898,"wgArticleId":559,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Products"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Install_Creator_2","wgRelevantArticleId":559,"wgRequestId":"0f6b15220dfbae648ee8f563","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Install_Maker","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false},"wgInternalRedirectTargetUrl":"/wiki/Install_Creator_2#Install_Maker"});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="http://clickwiki.net/wiki/Install_Creator_2#Install_Maker"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Install_Creator_2 rootpage-Install_Creator_2 skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img6.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Install_Maker#mw-head">navigation</a>,
+          <a href="Install_Maker#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Install Creator 2</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ><span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=Install_Maker&amp;redirect=no" class="mw-redirect" title="Install Maker">Install Maker</a>)</span></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="wikitable" style="float:right;">
+
+<tr style="text-align:center;">
+<td colspan="2"><a href="./File:InstallCreator2Screenshot.jpg" class="image"><img alt="InstallCreator2Screenshot.jpg" src="../w/images/0/0b/InstallCreator2Screenshot.jpg" width="262" height="200" /></a>
+</td></tr>
+<tr style="text-align:center;">
+<td colspan="2">Screenshot of Install Creator Pro Version 2.0 (Build #45)
+</td></tr>
+<tr>
+<td><b>Developer</b>
+</td>
+<td><a href="Clickteam" title="Clickteam">Clickteam</a>
+</td></tr>
+<tr>
+<td><b>Status</b>
+</td>
+<td>Released
+</td></tr>
+<tr style="display: none;">
+<td> <b>Initial Release</b>
+</td>
+<td>  <small>(<strong class="error">Expression error: Unexpected * operator.</strong> <strong class="error">Expression error: Unexpected * operator.</strong>)</small>
+</td></tr>
+<tr>
+<td> <b>Stable Release</b>
+</td>
+<td> Version 2.0 (Build #45) <small>(2&#160;years ago)</small>
+</td></tr>
+<tr style="display: none;">
+<td> <b>Beta Release</b>
+</td>
+<td>  <small>(<strong class="error">Expression error: Unexpected * operator.</strong> <strong class="error">Expression error: Unexpected * operator.</strong>)</small>
+</td></tr>
+<tr>
+<td><b>Platforms</b>
+</td>
+<td><a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>Languages</b>
+</td>
+<td>English, Français
+</td></tr>
+<tr style="display: none;">
+<td><b>Purchase</b>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Links</b>
+</td>
+<td><a rel="nofollow" class="external text" href="http://community.clickteam.com/forums/195-Install-Creator-and-Patch-Maker">Support Forum</a>
+<p><a rel="nofollow" class="external text" href="http://www.clickteam.com/install-creator-2">Learn More about Install Creator 2</a><br />
+<a rel="nofollow" class="external text" href="http://www.clickteam.com/webftp/files/4/5/icinst.exe">Download Install Creator 2 (Free Version)</a><br />
+<a rel="nofollow" class="external text" href="https://shop.clickteam.com">Clickteam Shop</a>
+</p>
+</td></tr>
+<tr>
+<td> <b>Predecessor</b>
+</td>
+<td> <a href="Install_Maker" class="mw-redirect" title="Install Maker">Install Maker</a>
+</td></tr>
+<tr style="display: none;">
+<td> <b>Successor</b>
+</td>
+<td>
+</td></tr></table>
+<div class="thumb tright"><div class="thumbinner" style="width:122px;"><a href="./File:InstallCreatorLogo.png" class="image"><img alt="" src="../w/images/4/4c/InstallCreatorLogo.png" width="120" height="117" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="./File:InstallCreatorLogo.png" class="internal" title="Enlarge"></a></div>Logo</div></div></div>
+<p><strong class="selflink">Install Creator</strong> is a program by <a href="Clickteam" title="Clickteam">Clickteam</a> that lets you make installers for any project. Install Creator is the companion product to <a href="Patch_Maker" title="Patch Maker">Patch Maker</a> and a stripped down version is included with <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2">Multimedia Fusion 2</a> and <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5">Clickteam Fusion 2.5</a><sup> [Where?]</sup>. It features a step-by-step wizard to easily set up files, the presentation (such as images) and various pages of text to your installer. Uninstallers can be also created too.
+</p><p>In the Options menu, there is an option labeled Run As Administrator. If this is unchecked, then users will not have to enter an administrator password to run the installer. The user will still be able to run it as admin by right-clicking the file and clicking Run As Administrator. If the program <b>is not</b> run as admin, it will give an error when attempted to install into admin-protected areas (including the Program Files folders).
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Install_Maker#Editions"><span class="tocnumber">1</span> <span class="toctext">Editions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="Install_Maker#Registered"><span class="tocnumber">1.1</span> <span class="toctext">Registered</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="Install_Maker#Unregistered"><span class="tocnumber">1.2</span> <span class="toctext">Unregistered</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="Install_Maker#Install_Creator_Pro"><span class="tocnumber">1.3</span> <span class="toctext">Install Creator Pro</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="Install_Maker#Feature_Comparison"><span class="tocnumber">2</span> <span class="toctext">Feature Comparison</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="Install_Maker#Install_Maker"><span class="tocnumber">3</span> <span class="toctext">Install Maker</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="Install_Maker#Differences_Between_Install_Creator_2_.26_Install_Maker"><span class="tocnumber">3.1</span> <span class="toctext">Differences Between Install Creator 2 &amp; Install Maker</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="Install_Maker#Error_Messages"><span class="tocnumber">4</span> <span class="toctext">Error Messages</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="Install_Maker#Error_21FC_-_This_file_contains_invalid_data."><span class="tocnumber">4.1</span> <span class="toctext">Error 21FC - This file contains invalid data.</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Editions">Editions</span></h2>
+<h3><span class="mw-headline" id="Registered">Registered</span></h3>
+<p>Install Creator can be bought from the <a rel="nofollow" class="external text" href="https://shop.clickteam.com">Clickteam Shop</a>.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Unregistered">Unregistered</span></h3>
+<p>The Free version of Install Creator has the same features of the registered version, but there is an extra page at the end about Clickteam and Install Creator.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Install_Creator_Pro">Install Creator Pro</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:127px;"><a href="./File:InstallCreatorProLogo.png" class="image"><img alt="InstallCreatorProLogo.png" src="../w/images/6/6f/InstallCreatorProLogo.png" width="125" height="95" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="./File:InstallCreatorProLogo.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<p>Install Creator Pro has more features, such as the ability to put multiple software options in one installer. It is targeted for professional use, such as product keys, download support, and multiple installation versions. The product can be purchased from the <a rel="nofollow" class="external text" href="https://shop.clickteam.com">Clickteam Shop</a>
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Feature_Comparison">Feature Comparison</span></h2>
+<p>See the <a href="Comparison#Install_Creator" title="Comparison">comparison table</a>.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Install_Maker">Install Maker</span></h2>
+<p>Install Maker is the older version of Install Creator.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:82px;"><a href="./File:Icon_InstallMaker.png" class="image"><img alt="" src="../w/images/4/40/Icon_InstallMaker.png" width="80" height="80" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="./File:Icon_InstallMaker.png" class="internal" title="Enlarge"></a></div>Install Maker Icon</div></div></div>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Differences_Between_Install_Creator_2_.26_Install_Maker">Differences Between Install Creator 2 &amp; Install Maker</span></h3>
+<p>(Users of Install Maker please add information)
+</p>
+<h2><span class="mw-headline" id="Error_Messages">Error Messages</span></h2>
+<h4><span class="mw-headline" id="Error_21FC_-_This_file_contains_invalid_data.">Error 21FC - This file contains invalid data.</span></h4>
+<p>Possible causes:
+</p>
+<ul><li> <b>Hardware Failure</b> - Faulty RAM may cause a corruption when decompressing the files.
+<ul><li> Try the installation on another computer.</li>
+<li> Try running a memory test to check for any RAM errors.</li></ul></li>
+<li> <b>File is corrupt</b> - This could be due to a hard drive fault or transfer issue, or a malicious program injecting the original file.
+<ul><li> Try re-obtaining the file, either through backups, or download again (if applicable).</li>
+<li> If the file is from a disc, try cleaning the surface.</li>
+<li> Obtain a checksum (ie. MD5) of the original file, and verifying again on the target computer.</li></ul></li>
+<li> <b>Rare bug in early versions of Install Creator</b> <sup><a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/73471-Error-21FC-Install-Creator-Pro-Demo?p=542067&amp;viewfull=1#post542067">(mentioned by Yves)</a></sup>
+<ul><li> A random bug while decompressing may occur under certain hardware conditions. Try on another computer with different RAM and storage capacities.</li></ul></li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20180529155136
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.230 seconds
+Real time usage: 0.232 seconds
+Preprocessor visited node count: 208/1000000
+Preprocessor generated node count: 1302/1000000
+Post‐expand include size: 2353/2097152 bytes
+Template argument size: 692/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  106.590      1 - Template:InfoProduct
+100.00%  106.590      1 - -total
+ 63.38%   67.559      3 - Template:YearsOrMonthsAgo
+  5.83%    6.218      1 - Template:Windows
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:559-0!*!0!!en!5!* and timestamp 20180529155135 and revision id 1898
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Install_Creator_2&amp;oldid=1898#Install_Maker">http://clickwiki.net/w/index.php?title=Install_Creator_2&amp;oldid=1898#Install_Maker</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="./Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="./Category:Products" title="Category:Products">Products</a></li></ul></div></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Install+Creator+2"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":266});});</script>
+  </body>
+</html>

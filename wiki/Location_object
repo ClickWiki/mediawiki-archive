@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Location object - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Location_object","wgTitle":"Location object","wgCurRevisionId":1870,"wgRevisionId":1870,"wgArticleId":888,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Location_object","wgRelevantArticleId":888,"wgRequestId":"20c69be97353e26b5280e00a","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Location_object rootpage-Location_object skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img3.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Location_object#mw-head">navigation</a>,
+          <a href="Location_object#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Location object</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="wikitable" style="float:right;">
+
+<tr style="text-align:center;">
+<td colspan="2"><a href="./File:Icon_Location_object.png" class="image"><img alt="Icon Location object.png" src="../w/images/d/d7/Icon_Location_object.png" width="32" height="32" /></a>
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td><a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a>
+</td></tr>
+<tr>
+<td><b>Status</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Released
+</td></tr>
+<tr>
+<td><b>Release Date</b>
+</td>
+<td>Unknown
+</td></tr>
+<tr style="display: none;">
+<td> <b>Last Updated</b>
+</td>
+<td> {{{LastUpdated}}}
+</td></tr>
+<tr>
+<td><b>Available for</b>
+</td>
+<td><a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a> <a href="Multimedia_Fusion_2#Developer" title="Multimedia Fusion Developer 2"><img alt="Multimedia Fusion Developer 2" src="../w/images/d/de/Icon_MMF2Dev.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Free Edition"><img alt="Clickteam Fusion 2.5 Free Edition" src="../w/images/6/6c/Icon_CF2.5Free.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>Supported Runtimes</b>
+</td>
+<td><a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a> <a href="XNA_Runtime" title="XNA Runtime (now deprecated)"><img alt="XNA Runtime (now deprecated)" src="../w/images/9/9f/Runtime_XNA.png" width="24" height="24" /></a> <a href="UWP_Runtime" title="UWP Runtime"><img alt="UWP Runtime" src="../w/images/5/5a/Runtime_UWP.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>License</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Free
+</td></tr>
+<tr style="display: none;">
+<td> <b>Attributes</b>
+</td>
+<td> {{{Attributes}}}
+</td></tr>
+<tr>
+<th colspan="2"> Download
+</th></tr>
+<tr>
+<td><b>Includes Examples</b>
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">No
+</td></tr>
+<tr>
+<td><b>Includes Help Files</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Links</b>
+</td>
+<td style="text-align:center;width:24px"> <div class="center"><div class="floatnone"><a href="Extension_Manager" title="Downloadable via the Extension Manager"><img alt="Downloadable via the Extension Manager" src="../w/images/5/53/ExtManagerIcon.png" width="24" height="28" /></a></div></div> <i>Included by default.</i>
+</td></tr>
+
+<tr style="display: none;">
+<td> <b>Alternates</b>
+</td>
+<td> {{{Alternates}}}
+</td></tr>
+</table>
+<p>The Location object allows you to retrieve the position of the device from the integrated GPS sensor.
+You can recover the latitude, longitude, altitude and other data from this object.
+Please note that the GPS device in any phone drains a lot of power. This is why you should restrain its use to crucial parts of your application. The GPS circuits are turned on at the beginning of a frame that includes the Location object, and turned off when the frame exits.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Location_object#Properties"><span class="tocnumber">1</span> <span class="toctext">Properties</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="Location_object#Accuracy"><span class="tocnumber">1.1</span> <span class="toctext">Accuracy</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="Location_object#Distance"><span class="tocnumber">1.2</span> <span class="toctext">Distance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="Location_object#Conditions"><span class="tocnumber">2</span> <span class="toctext">Conditions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="Location_object#Location_services_enabled"><span class="tocnumber">2.1</span> <span class="toctext">Location services enabled</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="Location_object#A_new_location_is_available"><span class="tocnumber">2.2</span> <span class="toctext">A new location is available</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="Location_object#Actions"><span class="tocnumber">3</span> <span class="toctext">Actions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="Location_object#Set_distance_filter"><span class="tocnumber">3.1</span> <span class="toctext">Set distance filter</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="Location_object#Set_accuracy"><span class="tocnumber">3.2</span> <span class="toctext">Set accuracy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="Location_object#Expressions"><span class="tocnumber">4</span> <span class="toctext">Expressions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="Location_object#Coordinates"><span class="tocnumber">4.1</span> <span class="toctext">Coordinates</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="Location_object#Latitude"><span class="tocnumber">4.1.1</span> <span class="toctext">Latitude</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="Location_object#Longitude"><span class="tocnumber">4.1.2</span> <span class="toctext">Longitude</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="Location_object#Altitude"><span class="tocnumber">4.1.3</span> <span class="toctext">Altitude</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="Location_object#Other_values"><span class="tocnumber">4.2</span> <span class="toctext">Other values</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="Location_object#Course"><span class="tocnumber">4.2.1</span> <span class="toctext">Course</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="Location_object#Speed"><span class="tocnumber">4.2.2</span> <span class="toctext">Speed</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="Location_object#Time_since_last_update"><span class="tocnumber">4.2.3</span> <span class="toctext">Time since last update</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="Location_object#Distance_filter"><span class="tocnumber">4.2.4</span> <span class="toctext">Distance filter</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="Location_object#Accuracy_2"><span class="tocnumber">4.2.5</span> <span class="toctext">Accuracy</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Properties">Properties</span></h2>
+<h4><span class="mw-headline" id="Accuracy">Accuracy</span></h4>
+<p>This property allows you to set the precision factor of the GPS device. It can have several values:
+</p>
+<ul><li>Best accuracy</li>
+<li>Nearest ten meters</li>
+<li>Hundred meter</li>
+<li>Kilometer</li>
+<li>Three kilometers</li></ul>
+<h4><span class="mw-headline" id="Distance">Distance</span></h4>
+<p>This property sets the minimal distance at which the device reports a new measure. You should keep this value to a reasonable amount to avoid multiple reports in short periods of time.
+</p>
+<h2><span class="mw-headline" id="Conditions">Conditions</span></h2>
+<h4><span class="mw-headline" id="Location_services_enabled">Location services enabled</span></h4>
+<p>This condition returns true if the device on which the application runs has GPS services enabled.
+</p>
+<h4><span class="mw-headline" id="A_new_location_is_available">A new location is available</span></h4>
+<p>This condition returns true as soon as the integrated GPS has returned a new location. Once you have this condition, you can get the values from the expressions of the location object.
+</p>
+<h2><span class="mw-headline" id="Actions">Actions</span></h2>
+<h4><span class="mw-headline" id="Set_distance_filter">Set distance filter</span></h4>
+<p>This action has the same effect than the distance property of the object. It allows you to set the minimal distance at which the object will return a new location.
+</p>
+<h4><span class="mw-headline" id="Set_accuracy">Set accuracy</span></h4>
+<p>This action has the same effect than the property. It allows you to set the accuracy of the device. It accepts a number from 0 to 4:
+</p>
+<ul><li>0 - Best accuracy</li>
+<li>1 - Nearest ten meters</li>
+<li>2 - Hundred meters</li>
+<li>3 - Kilometer</li>
+<li>4 - Three kilometers</li></ul>
+<h2><span class="mw-headline" id="Expressions">Expressions</span></h2>
+<h3><span class="mw-headline" id="Coordinates">Coordinates</span></h3>
+<h4><span class="mw-headline" id="Latitude">Latitude</span></h4>
+<pre>Latitude( "Location object" )
+</pre>
+<p>Returns the current latitude of the device in the form of a floating point number.
+</p>
+<h4><span class="mw-headline" id="Longitude">Longitude</span></h4>
+<pre>Longitude( "Location object" )
+</pre>
+<p>Returns the current longitude of the device in the form of a floating point number.
+</p>
+<h4><span class="mw-headline" id="Altitude">Altitude</span></h4>
+<pre>Altitude( "Location object" )
+</pre>
+<p>Returns the current altitude of the device in meters above the sea level.
+</p>
+<h3><span class="mw-headline" id="Other_values">Other values</span></h3>
+<h4><span class="mw-headline" id="Course">Course</span></h4>
+<pre>Course( "Location object" )
+</pre>
+<p>This expression is only valid after the second measure of position. It returns the distance between the previous measure and the current measure, in meters.
+</p>
+<h4><span class="mw-headline" id="Speed">Speed</span></h4>
+<pre>Speed( "Location object" )
+</pre>
+<p>This expression is only valid after the second measure of position. It returns the speed of travel between the previous measure and the current measure, in meters per seconds.
+</p>
+<h4><span class="mw-headline" id="Time_since_last_update">Time since last update</span></h4>
+<pre>TimeLast( "Location object" )
+</pre>
+<p>Returns, in milliseconds, the time elapsed since the previous update of the GPS position.
+</p>
+<h4><span class="mw-headline" id="Distance_filter">Distance filter</span></h4>
+<pre>DistFilter( "Location object" )
+</pre>
+<p>Returns the current distance filter value.
+</p>
+<h4><span class="mw-headline" id="Accuracy_2">Accuracy</span></h4>
+<pre>Accuracy( "Location object" )
+</pre>
+<p>Returns the current accuracy value
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155311
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.390 seconds
+Real time usage: 0.398 seconds
+Preprocessor visited node count: 161/1000000
+Preprocessor generated node count: 607/1000000
+Post‐expand include size: 3260/2097152 bytes
+Template argument size: 1352/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  144.031      1 - Template:InfoExtension
+100.00%  144.031      1 - -total
+  8.43%   12.135      3 - Template:Yes
+  5.73%    8.258      1 - Template:No
+  5.09%    7.327      1 - Template:ExtManager
+  5.05%    7.272      1 - Template:ClickteamExtension
+  4.97%    7.163      1 - Template:MMF2
+  4.94%    7.121      1 - Template:HTML5
+  4.88%    7.023      1 - Template:FusionUWP
+  4.84%    6.976      1 - Template:XNA
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:888-0!*!*!!en!5!* and timestamp 20180529155311 and revision id 1870
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Location_object&amp;oldid=1870">http://clickwiki.net/w/index.php?title=Location_object&amp;oldid=1870</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Location+object"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":682});});</script>
+  </body>
+</html>

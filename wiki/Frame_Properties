@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Frame Properties - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Frame_Properties","wgTitle":"Frame Properties","wgCurRevisionId":1954,"wgRevisionId":1954,"wgArticleId":849,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Interface"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Frame_Properties","wgRelevantArticleId":849,"wgRequestId":"22bed1ad634ec1c0c8df0e50","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Frame_Properties rootpage-Frame_Properties skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img6.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Frame_Properties#mw-head">navigation</a>,
+          <a href="Frame_Properties#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Frame Properties</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Frame_Properties#Settings"><span class="tocnumber">1</span> <span class="toctext">Settings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="Frame_Properties#Size"><span class="tocnumber">1.1</span> <span class="toctext">Size</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="Frame_Properties#Virtual_Width"><span class="tocnumber">1.2</span> <span class="toctext">Virtual Width</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="Frame_Properties#Virtual_Height"><span class="tocnumber">1.3</span> <span class="toctext">Virtual Height</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="Frame_Properties#Background_color"><span class="tocnumber">1.4</span> <span class="toctext">Background color</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="Frame_Properties#Palette"><span class="tocnumber">1.5</span> <span class="toctext">Palette</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="Frame_Properties#Transitions"><span class="tocnumber">1.6</span> <span class="toctext">Transitions</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="Frame_Properties#Fade_in"><span class="tocnumber">1.6.1</span> <span class="toctext">Fade in</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="Frame_Properties#Fade_out"><span class="tocnumber">1.6.2</span> <span class="toctext">Fade out</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="Frame_Properties#Demo_recording"><span class="tocnumber">1.7</span> <span class="toctext">Demo recording</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="Frame_Properties#Demo_file"><span class="tocnumber">1.7.1</span> <span class="toctext">Demo file</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="Frame_Properties#Record_demo"><span class="tocnumber">1.7.2</span> <span class="toctext">Record demo</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="Frame_Properties#Runtime_Options"><span class="tocnumber">2</span> <span class="toctext">Runtime Options</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="Frame_Properties#Grab_desktop_at_start"><span class="tocnumber">2.1</span> <span class="toctext">Grab desktop at start</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="Frame_Properties#Keep_display_from_previous_frame"><span class="tocnumber">2.2</span> <span class="toctext">Keep display from previous frame</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="Frame_Properties#Handle_background_collisions_even_out_of_window"><span class="tocnumber">2.3</span> <span class="toctext">Handle background collisions even out of window</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="Frame_Properties#Display_frame_title_in_window_caption"><span class="tocnumber">2.4</span> <span class="toctext">Display frame title in window caption</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="Frame_Properties#Resize_to_screen_size_at_start"><span class="tocnumber">2.5</span> <span class="toctext">Resize to screen size at start</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="Frame_Properties#No_display_surface"><span class="tocnumber">2.6</span> <span class="toctext">No display surface</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="Frame_Properties#Force_load_on_call_option_for_all_objects"><span class="tocnumber">2.7</span> <span class="toctext">Force load on call option for all objects</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="Frame_Properties#Screen_saver_setup_frame"><span class="tocnumber">2.8</span> <span class="toctext">Screen saver setup frame</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="Frame_Properties#Include_global_events"><span class="tocnumber">2.9</span> <span class="toctext">Include global events</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="Frame_Properties#Timer-based_movements"><span class="tocnumber">2.10</span> <span class="toctext">Timer-based movements</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="Frame_Properties#Movement_timer_base"><span class="tocnumber">2.11</span> <span class="toctext">Movement timer base</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="Frame_Properties#Number_of_objects"><span class="tocnumber">2.12</span> <span class="toctext">Number of objects</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="Frame_Properties#Password"><span class="tocnumber">2.13</span> <span class="toctext">Password</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-27"><a href="Frame_Properties#About"><span class="tocnumber">3</span> <span class="toctext">About</span></a>
+<ul>
+<li class="toclevel-2 tocsection-28"><a href="Frame_Properties#Name"><span class="tocnumber">3.1</span> <span class="toctext">Name</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="Frame_Properties#Android_Options"><span class="tocnumber">4</span> <span class="toctext">Android Options</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="Frame_Properties#XNA_Options"><span class="tocnumber">5</span> <span class="toctext">XNA Options</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="Frame_Properties#iOS_Options"><span class="tocnumber">6</span> <span class="toctext">iOS Options</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="Frame_Properties#HTML5_Options"><span class="tocnumber">7</span> <span class="toctext">HTML5 Options</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="Frame_Properties#Universal_Windows_Platform"><span class="tocnumber">8</span> <span class="toctext">Universal Windows Platform</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Settings">Settings</span></h2>
+<p><a href="./File:Frame_Settings_Properties.png" class="image"><img alt="Frame Settings Properties.png" src="../w/images/f/fb/Frame_Settings_Properties.png" width="300" height="488" /></a><br />
+The settings folder contains the basic properties of the frame.
+</p>
+<h4><span class="mw-headline" id="Size">Size</span></h4>
+<p>Enter the size of your frame, in pixels. Warning, do not confuse the size of the frame and the size of the application window: the size of the frame is the actual size of the ground where your characters will move. 
+</p>
+<h4><span class="mw-headline" id="Virtual_Width">Virtual Width</span></h4>
+<p>Very useful for huge scrolling games: defines the virtual width of the frame. A large virtual width allows you to scroll on a large surface, larger than the frame itself. If the Wrap option is selected in a layer, the background of this layer will wrap automatically when it reaches the real width of the frame. For example, a frame size of 640x480 and a virtual width of 10000 will enable the player to scroll up to the position 10000 on the right without being stopped. If you enter -1 in this field the scrolling is quasi-infinite. 
+</p>
+<h4><span class="mw-headline" id="Virtual_Height">Virtual Height</span></h4>
+<p>Same as above, vertically. 
+</p>
+<h4><span class="mw-headline" id="Background_color">Background color</span></h4>
+<p>Allows you to choose the background color of the frame. 
+</p>
+<h4><span class="mw-headline" id="Palette">Palette</span></h4>
+<p>The edit button opens a box to edit the 256-color palette of your frame. This palette is used either if your application is in 256 colors, or when you launch your true-color application under a 256-color Windows: all the colors will be remapped using this color palette. 
+</p>
+<h4><span class="mw-headline" id="Transitions">Transitions</span></h4>
+<h5><span class="mw-headline" id="Fade_in">Fade in</span></h5>
+<p>Defines the fade in a transition of the frame: the effect used to make the frame appear. Click on the Edit button to open the transition setup box. 
+</p>
+<h5><span class="mw-headline" id="Fade_out">Fade out</span></h5>
+<p>Defines the fade out transition of the frame: the effect used to make the frame disappear. Click on the Edit button to open the transition setup box. 
+</p>
+<h4><span class="mw-headline" id="Demo_recording">Demo recording</span></h4>
+<h5><span class="mw-headline" id="Demo_file">Demo file</span></h5>
+<p>Indicates the name of the demo file in which to record the key presses and mouse movements. 
+</p>
+<h5><span class="mw-headline" id="Record_demo">Record demo</span></h5>
+<p>Launches the frame, recording all the key pressed and mouse movement in the given file. This file can be later replayed with the Play demo file action of the Storyboard object. 
+</p>
+<h2><span class="mw-headline" id="Runtime_Options">Runtime Options</span></h2>
+<p><a href="./File:Frame_Runtime_Options_Properties.png" class="image"><img alt="Frame Runtime Options Properties.png" src="../w/images/c/c9/Frame_Runtime_Options_Properties.png" width="350" height="416" /></a><br />
+The runtime option folder contains settings used by the runtime for this frame.
+</p>
+<h4><span class="mw-headline" id="Grab_desktop_at_start">Grab desktop at start</span></h4>
+<p>If this option is selected, the background of the frame will be a snapshot of the desktop. You can use this option to make transparent screen-savers. 
+</p>
+<h4><span class="mw-headline" id="Keep_display_from_previous_frame">Keep display from previous frame</span></h4>
+<p>If this option is checked, the background of the frame will be the display left by the previous frame. 
+</p>
+<h4><span class="mw-headline" id="Handle_background_collisions_even_out_of_window">Handle background collisions even out of window</span></h4>
+<p>If you make a scrolling game with a large playfield, you might want to check this option: the collisions with the background will be handled even far from the window. 
+</p>
+<h4><span class="mw-headline" id="Display_frame_title_in_window_caption">Display frame title in window caption</span></h4>
+<p>Check this option and the frame title will be displayed in the caption area of the window. 
+</p>
+<h4><span class="mw-headline" id="Resize_to_screen_size_at_start">Resize to screen size at start</span></h4>
+<p>If this option is selected, the frame will be resized to the size of the screen, for example, 1024x768 if your screen is in that resolution. Useful for example for screen savers or for resizable applications. 
+</p>
+<h4><span class="mw-headline" id="No_display_surface">No display surface</span></h4>
+<p>If your frame consists of only Windows controls (like buttons, checkmarks, list boxes) you can save memory at runtime by checking this option: no display surface will be created (making impossible to display graphic objects), but Windows controls will work fine. 
+</p>
+<h4><span class="mw-headline" id="Force_load_on_call_option_for_all_objects">Force load on call option for all objects</span></h4>
+<p>The load on call option is an option that makes the application load the data relative to one object only when it is used. This option is useful if you have multiple big objects: only the objects in use will be loaded. 
+</p>
+<h4><span class="mw-headline" id="Screen_saver_setup_frame">Screen saver setup frame</span></h4>
+<p>If you are creating a screen saver, check this mark and the current frame will be used as the setup frame of your screensaver: it will be automatically opened when the user chooses the Setup option in the screen saver control panel. 
+</p>
+<h4><span class="mw-headline" id="Include_global_events">Include global events</span></h4>
+<p>By default, the global events (the ones you edit in the properties of the application) are included in each frame. This option allows you to exclude global events from a given frame. 
+</p>
+<h4><span class="mw-headline" id="Timer-based_movements">Timer-based movements</span></h4>
+<p>When this option is selected, the movement and animation speed of the objects in this frame is based on the exact time difference, making it independent of the machine speed. Note: for compatibility reasons, this option is not selected by default in frames of old applications. If this option is not selected, the speed is based on a frame count, less precise. 
+</p>
+<h4><span class="mw-headline" id="Movement_timer_base">Movement timer base</span></h4>
+<p>Value (frames per second) of the timer on which movements are based when the Timer-based Movements option is selected. It allows you to define the frame rate of the movements and animations independently from the frame rate of the application. 
+</p>
+<h4><span class="mw-headline" id="Number_of_objects">Number of objects</span></h4>
+<p>Enter in this line the maximum number of objects of the frame. From 100 to 20000. Of course, 20000 objects will be slower than 100. 
+</p>
+<h4><span class="mw-headline" id="Password">Password</span></h4>
+<p>Each frame can contain a password. This password will be useful in runtime: the user can directly jump to a specific frame of the application by entering the password after selecting the Password command in the menu. 
+</p>
+<h2><span class="mw-headline" id="About">About</span></h2>
+<p><a href="./File:Frame_About_Properties.png" class="image"><img alt="Frame About Properties.png" src="../w/images/8/83/Frame_About_Properties.png" width="200" height="238" /></a><br />
+The About properties contain the name of the frame.
+</p>
+<h4><span class="mw-headline" id="Name">Name</span></h4>
+<p>Enter the name of your frame in this field. This affects the frame selector (in the <a href="Toolbars#Navigate_Toolbar" title="Toolbars">Navigate toolbar</a>) and the <a href="Toolbars#Workspace_Toolbar" title="Toolbars">Workspace toolbar</a>.
+</p>
+<h2><span class="mw-headline" id="Android_Options">Android Options</span></h2>
+<p><a href="./File:Frame_Android_Options_Properties.png" class="image"><img alt="Frame Android Options Properties.png" src="../w/images/b/b4/Frame_Android_Options_Properties.png" width="300" height="389" /></a><br />
+No info available, please add some!
+</p>
+<h2><span class="mw-headline" id="XNA_Options">XNA Options</span></h2>
+<p><a href="./File:Frame_XNA_Options_Properties.png" class="image"><img alt="Frame XNA Options Properties.png" src="../w/images/d/dd/Frame_XNA_Options_Properties.png" width="150" height="275" /></a><br />
+No info available, please add some!
+</p>
+<h2><span class="mw-headline" id="iOS_Options">iOS Options</span></h2>
+<p><a href="./File:Frame_iOS_Options_Properties.png" class="image"><img alt="Frame iOS Options Properties.png" src="../w/images/b/bf/Frame_iOS_Options_Properties.png" width="200" height="338" /></a><br />
+No info available, please add some!
+</p>
+<h2><span class="mw-headline" id="HTML5_Options">HTML5 Options</span></h2>
+<p><a href="./File:Frame_HTML5_Options_Properties.png" class="image"><img alt="Frame HTML5 Options Properties.png" src="../w/images/a/ab/Frame_HTML5_Options_Properties.png" width="200" height="333" /></a><br />
+No info available, please add some!
+</p>
+<h2><span class="mw-headline" id="Universal_Windows_Platform">Universal Windows Platform</span></h2>
+<p><a href="./File:Frame_Universal_Windows_Platform_Properties.png" class="image"><img alt="Frame Universal Windows Platform Properties.png" src="../w/images/9/96/Frame_Universal_Windows_Platform_Properties.png" width="250" height="290" /></a><br />
+No info available, please add some!
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155205
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.180 seconds
+Real time usage: 0.183 seconds
+Preprocessor visited node count: 139/1000000
+Preprocessor generated node count: 152/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 - -total
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:849-0!*!0!!en!5!* and timestamp 20180529155204 and revision id 1954
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Frame_Properties&amp;oldid=1954">http://clickwiki.net/w/index.php?title=Frame_Properties&amp;oldid=1954</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="./Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="./Category:Interface" title="Category:Interface">Interface</a></li></ul></div></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Frame+Properties"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":503});});</script>
+  </body>
+</html>

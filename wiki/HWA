@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Direct3D - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Direct3D","wgTitle":"Direct3D","wgCurRevisionId":1825,"wgRevisionId":1825,"wgArticleId":855,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Direct3D","wgRelevantArticleId":855,"wgRequestId":"d6fb25deaa0beb7d771e7c6b","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"HWA","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false},"wgInternalRedirectTargetUrl":"/wiki/Direct3D"});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="http://clickwiki.net/wiki/Direct3D"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Direct3D rootpage-Direct3D skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img6.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="HWA#mw-head">navigation</a>,
+          <a href="HWA#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Direct3D</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ><span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=HWA&amp;redirect=no" class="mw-redirect" title="HWA">HWA</a>)</span></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5">Clickteam Fusion 2.5</a> includes the HWA features of <a href="MMF2" class="mw-redirect" title="MMF2">MMF2</a>. The HWA features allow you to build applications that use the capabilities of 3D-accelerated graphic cards.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="HWA#Changes_from_old_non-HWA_versions"><span class="tocnumber">1</span> <span class="toctext">Changes from old non-HWA versions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="HWA#Changes_for_the_users_of_non-HWA_versions_like_the_Unicode_version_of_MMF2"><span class="tocnumber">1.1</span> <span class="toctext">Changes for the users of non-HWA versions like the Unicode version of MMF2</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="HWA#HWA_features_-_Details"><span class="tocnumber">2</span> <span class="toctext">HWA features - Details</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="HWA#Accelerated_display_modes"><span class="tocnumber">2.1</span> <span class="toctext">Accelerated display modes</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="HWA#Effects_-_Pixel_shaders"><span class="tocnumber">2.2</span> <span class="toctext">Effects - Pixel shaders</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="HWA#Other_features"><span class="tocnumber">2.3</span> <span class="toctext">Other features</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="HWA#Limitations_in_Direct3D_mode"><span class="tocnumber">2.4</span> <span class="toctext">Limitations in Direct3D mode</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="HWA#Options_that_don.27t_work"><span class="tocnumber">2.4.1</span> <span class="toctext">Options that don't work</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="HWA#Objects_that_don.27t_work_or_are_not_optimized"><span class="tocnumber">2.4.2</span> <span class="toctext">Objects that don't work or are not optimized</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="HWA#Important:_Image_size"><span class="tocnumber">2.4.3</span> <span class="toctext">Important: Image size</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="HWA#Known_issues"><span class="tocnumber">2.4.4</span> <span class="toctext">Known issues</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Changes_from_old_non-HWA_versions">Changes from old non-HWA versions</span></h2>
+<h3><span class="mw-headline" id="Changes_for_the_users_of_non-HWA_versions_like_the_Unicode_version_of_MMF2">Changes for the users of non-HWA versions like the Unicode version of <a href="MMF2" class="mw-redirect" title="MMF2">MMF2</a></span></h3>
+<p>If you've never used the HWA version of <a href="MMF2" class="mw-redirect" title="MMF2">MMF2</a> here is a quick list of changes:
+</p><p><br />
+</p>
+<ul><li>New Direct3D modes in the Display Mode property of the application. These modes use Direct3D to display 2D graphics.</li></ul>
+<ul><li>If the Display mode of the application is set to a standard mode, there are only a few changes in the interface: 
+<ul><li>The Ink Effect list is replaced with a dialog box. The effects of the normal version of Clickteam Fusion 2.5 are located in the Standard folder. The others are for the Direct3D modes. </li>
+<li>The "Set Ink Effect" and "Set Semi-transparency" actions have been moved from the Visibility sub-menu to the Effects / Compatibility sub-menu. You can still use these actions in your applications. </li>
+<li>The Coefficient property of the Semi-transparent effect has been replaced by a Blend Coefficient property. For compatibility reasons with HWA features this property now takes a value from 0 to 255, instead of 0 to 128. The old "Set Semi-transparency" action still uses values between 0 and 128 so your existing applications are 100% compatible. You can either continue using this action, or use the new "Effect / Set alpha-blending coefficient" action instead (this one takes a value between 0 and 255). Note: be careful, in non Direct3D display modes the 0-255 coefficient used by this new action is internally converted to a 0-128 value, so when you retrieve it with the new "Effect / Alpha-blending coefficient" expression you may get a different value (for example if you set it to 241, you'll get 240). </li>
+<li>When you run or build the application, Clickteam Fusion 2.5 uses the standard runtime, to avoid any compatibility issues for your applications. </li></ul></li></ul>
+<p><br />
+</p>
+<ul><li>When you set the Display Mode of the application to a Direct3D mode, you get access to new HWA features: 
+<ul><li>Graphic display is faster, especially in full-screen mode. </li>
+<li>You can use pixel shader effects. </li>
+<li>You can apply a blending coefficient and an RGB coefficient at the same time as an effect. </li>
+<li>You can apply an effect to frames and layers. </li>
+<li>Angles now support floating point values. </li>
+<li>There are some limitations, though, especially the fact that child windows (buttons, edit boxes, etc) are not displayed in full-screen mode. See the "Limitations" section below. </li>
+<li>When you run or build the application, Clickteam Fusion 2.5 uses the HWA runtime, which is the runtime used by the previous HWA version. </li></ul></li></ul>
+<p>Note: the frame editor by default uses Direct3D to display frames of Direct3D applications. You can force the frame editor to use standard graphic display by unchecking the "Use Direct3D" option in the preferences of the frame editor. 
+</p>
+<h2><span class="mw-headline" id="HWA_features_-_Details">HWA features - Details</span></h2>
+<h3><span class="mw-headline" id="Accelerated_display_modes">Accelerated display modes</span></h3>
+<p>There are 2 accelerated display modes: Direct3D 8 and Direct3D 9. They use Direct3D (version 8 or 9) to display graphics. In Direct3D mode, the Clickteam Fusion 2.5 engine uses the 3D-accelerated capabilities of the graphic card to display 2D graphics. Also, in full-screen mode, the engine swaps between multiple screens to accelerate the display and avoid tearing issues that occur in standard software or windowed modes. 
+</p><p>To use HWA features you need to set the display mode to Direct3D 9 or Direct3D 8 in the properties of the application. Note: if Direct3D 9 (or 8) is not installed on the user's machine, your application will automatically run in software mode. 
+</p>
+<h3><span class="mw-headline" id="Effects_-_Pixel_shaders">Effects - Pixel shaders</span></h3>
+<p>Additionally, to accelerated graphics, Direct3D modes allow you to apply special effects to pictures, via pixel shaders. A pixel shader is a function that is applied to each pixel of your images. The pixel shader function is executed directly by the graphic card, saving time for the CPU of the machine.
+</p><p>Clickteam Fusion 2.5 is provided with a few pixel shaders. You can also create your own shaders with an Effect Editor.
+</p><p>Various shader packs have been created by users, connect to our website or to our forum to download them, and install them in the Effects directory of Clickteam Fusion 2.5. They allow you to give amazing effects to your objects. You can even apply effects to an entire frame or on a layer, those have new effect options in their properties, and new effect actions &amp; expressions in the event editor (Storyboard and Layer objects).
+</p><p><a href="/w/index.php?title=Direct3D_Effects&amp;action=edit&amp;redlink=1" class="new" title="Direct3D Effects (page does not exist)">Effect properties</a><br />
+<a href="/w/index.php?title=Direct3D_Effects&amp;action=edit&amp;redlink=1" class="new" title="Direct3D Effects (page does not exist)">Effect actions and expressions</a><br />
+<a href="/w/index.php?title=Direct3D_Effects:_Create_Your_Own&amp;action=edit&amp;redlink=1" class="new" title="Direct3D Effects: Create Your Own (page does not exist)">How to make your own effects</a>
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Other_features">Other features</span></h3>
+<ul><li>"Anti-aliasing when resizing" - this new option in the properties of the application allows you to anti-alias resized graphics when the "Resize to fill window size" option is selected. </li>
+<li>Storyboard object / New Display Mode expression: returns 1 (standard graphic mode), 2 (DirectDraw), 4 (Direct3D8) or 8 (Direct3D9). </li>
+<li>Storyboard object / New Pixel Shader Version expression returns the maximum version of the pixel shaders supported by the video card. Returns major version * 100 + minor version, for example, 104 if the video card supports shaders 1.4. </li>
+<li>Active Picture object / New "Software mode" option: this option allows you to create the Active Picture object in software mode, useful for example if your Active Picture is a hidden object used to create a level with Create Backdrop actions (if the object is optimized for HWA, then creating backdrops from it can be very slow). </li></ul>
+<h3><span class="mw-headline" id="Limitations_in_Direct3D_mode">Limitations in Direct3D mode</span></h3>
+<p>The Direct3D mode is a very specialized mode, unlike the standard software mode. Not everything works with it.
+</p>
+<h4><span class="mw-headline" id="Options_that_don.27t_work">Options that don't work</span></h4>
+<p>Frame properties: "Grab desktop" and "Keep display from previous frame" don't work. 
+Edit box object / Button object: the "Transparent" option doesn't work. 
+XOR, AND, OR ink effects: they are not supported in HWA. 
+The underline &amp; strike-out font attributes are not supported in HWA. 
+</p>
+<h4><span class="mw-headline" id="Objects_that_don.27t_work_or_are_not_optimized">Objects that don't work or are not optimized</span></h4>
+<p>Important: in Direct3D full-screen mode (when you select the Change resolution mode option, or when you use the Set Full-Screen mode action), windowed objects like buttons, edit boxes, list boxes, or sub-applications are not displayed. You can use Active System Box objects instead of buttons, and the sub-application object contains a new "Display as sprite" option that allows it to work in full-screen mode (with limitations). 
+Some graphical 3rd party objects like the Lens object don't work or may be slow (at least at the time this documentation was written). 
+The Animation object works but is not optimized. 
+The Ellipse shape of the Quick Backdrop object is not optimized, it's very slow in HWA mode. 
+</p>
+<h4><span class="mw-headline" id="Important:_Image_size">Important: Image size</span></h4>
+<p>In Direct3D mode, images are displayed faster when they are stored in the video card. You should estimate the size of the images of each frame and try to keep their size below 32, 64, 128, 256 or 512 Mb (depending on the minimum specifications of your application).
+</p><p>Also, in Direct3D mode, images are stored as textures. Usually, texture sizes are a power of 2. For example, if a 100x50 image is stored in a texture, the size of the texture will be 128x64 (128 is the nearest power of 2 above 100, and 64 is the nearest power of 2 above 50). To avoid losing space try using images whose dimensions are a power of 2.
+</p><p>Last thing, video cards can't display textures larger than a maximum dimension. You should avoid using textures larger than 1024 pixels unless you only target recent graphic cards (recent graphic cards may support at least 2048x2048 pixel textures). If an image is larger than the maximum size, it won't be displayed.
+</p>
+<h4><span class="mw-headline" id="Known_issues">Known issues</span></h4>
+<ul><li>Multi-line string objects sometimes don't wrap correctly. </li>
+<li>Rotating an object with a background-accessing shader will mess up the shader. </li>
+<li>You may experience incorrect transparency effect with objects having an alpha channel or a blending coefficient if their layer has an effect itself. </li>
+<li>Clickteam Fusion 2.5 supports pixel shaders version 3 only partly.</li>
+<li><a href="OS_Compatibility#Known_Wine_Issues" title="OS Compatibility">Causes problems with running through Wine</a>. In the <a href="Clickteam_Fusion_2.5#Mac_Editor" title="Clickteam Fusion 2.5">Mac Editor</a>, this is "fixed" by disabling Direct3D in the frame editor and application by default.</li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20180529155219
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.040 seconds
+Real time usage: 0.044 seconds
+Preprocessor visited node count: 45/1000000
+Preprocessor generated node count: 52/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 - -total
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:855-0!*!0!!en!*!* and timestamp 20180529155219 and revision id 1825
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Direct3D&amp;oldid=1825">http://clickwiki.net/w/index.php?title=Direct3D&amp;oldid=1825</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Direct3D"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":353});});</script>
+  </body>
+</html>

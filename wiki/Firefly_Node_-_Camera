@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Firefly Node - Camera - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Firefly_Node_-_Camera","wgTitle":"Firefly Node - Camera","wgCurRevisionId":2066,"wgRevisionId":2066,"wgArticleId":956,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Firefly_Node_-_Camera","wgRelevantArticleId":956,"wgRequestId":"0372ef49b0c0e113d2bc36fd","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Firefly_Node_-_Camera rootpage-Firefly_Node_-_Camera skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img2.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Firefly_Node_-_Camera#mw-head">navigation</a>,
+          <a href="Firefly_Node_-_Camera#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Firefly Node - Camera</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="wikitable" style="float:right;">
+
+<tr style="text-align:center;">
+<td colspan="2"><a href="./File:Firefly_Camera.png" class="image"><img alt="Firefly Camera.png" src="../w/images/d/de/Firefly_Camera.png" width="32" height="32" /></a>
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td><a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a>
+</td></tr>
+<tr>
+<td><b>Status</b>
+</td>
+<td>Released, In Development
+</td></tr>
+<tr>
+<td><b>Release Date</b>
+</td>
+<td>November 30<sup>th</sup>, 2016
+</td></tr>
+<tr style="display: none;">
+<td> <b>Last Updated</b>
+</td>
+<td> {{{LastUpdated}}}
+</td></tr>
+<tr>
+<td><b>Available for</b>
+</td>
+<td><a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>Supported Runtimes</b>
+</td>
+<td><a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>License</b>
+</td>
+<td>Paid
+</td></tr>
+<tr style="display: none;">
+<td> <b>Attributes</b>
+</td>
+<td> {{{Attributes}}}
+</td></tr>
+<tr>
+<th colspan="2"> Download
+</th></tr>
+<tr>
+<td><b>Includes Examples</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Includes Help Files</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Links</b>
+</td>
+<td><a href="http://clickstore.clickteam.com/firefly3D" title="View the Firefly page on the ClickStore" rel="nofollow"><img alt="View the Firefly page on the ClickStore" src="../w/images/c/c7/Main_ClickStore.png" width="24" height="27" /></a>  <a href="http://store.steampowered.com/app/267655/" title="Purchase the Steam version" rel="nofollow"><img alt="Purchase the Steam version" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td></tr>
+
+<tr>
+<td> <b>Alternates</b>
+</td>
+<td> See <a href="3D_Techniques" title="3D Techniques">3D Techniques</a>
+</td></tr>
+</table>
+<p>The Camera object is your “viewport” into the 3D world you create with <a href="Firefly" title="Firefly">Firefly</a>. As with the <a href="Firefly_Engine" title="Firefly Engine">Engine object</a>, you can drag out the object to fill parts of your frame. The area the object covers will be the camera display surface in the app. This means you can have two cameras displaying at the same time. Useful in main situations. You could even make a app capable of VR with this method.
+</p><p>Here is a list of the unique Conditions, Actions, and Expressions for the Camera Object:
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Firefly_Node_-_Camera#Conditions"><span class="tocnumber">1</span> <span class="toctext">Conditions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="Firefly_Node_-_Camera#Binds_Target_and_Rotations"><span class="tocnumber">1.1</span> <span class="toctext">Binds Target and Rotations</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="Firefly_Node_-_Camera#Viewports"><span class="tocnumber">1.2</span> <span class="toctext">Viewports</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="Firefly_Node_-_Camera#Is_viewport_added_to_Firefly_Engine_Stack"><span class="tocnumber">1.2.1</span> <span class="toctext">Is viewport added to Firefly Engine Stack</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="Firefly_Node_-_Camera#Actions"><span class="tocnumber">2</span> <span class="toctext">Actions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="Firefly_Node_-_Camera#Set_Object_Width"><span class="tocnumber">2.1</span> <span class="toctext">Set Object Width</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="Firefly_Node_-_Camera#Set_Object_Height"><span class="tocnumber">2.2</span> <span class="toctext">Set Object Height</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="Firefly_Node_-_Camera#Viewports_2"><span class="tocnumber">2.3</span> <span class="toctext">Viewports</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="Firefly_Node_-_Camera#Add_to_Firefly_Engine_Stack"><span class="tocnumber">2.3.1</span> <span class="toctext">Add to Firefly Engine Stack</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="Firefly_Node_-_Camera#Insert_into_Firefly_Engine_Stack"><span class="tocnumber">2.3.2</span> <span class="toctext">Insert into Firefly Engine Stack</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="Firefly_Node_-_Camera#Remove_from_Firefly_Engine_Stack_at"><span class="tocnumber">2.3.3</span> <span class="toctext">Remove from Firefly Engine Stack at</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="Firefly_Node_-_Camera#Remove_all_from_Firefly_Engine_Stack"><span class="tocnumber">2.3.4</span> <span class="toctext">Remove all from Firefly Engine Stack</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="Firefly_Node_-_Camera#Target"><span class="tocnumber">2.4</span> <span class="toctext">Target</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="Firefly_Node_-_Camera#Set_.28X.2CY_.26_Z.29_Target"><span class="tocnumber">2.4.1</span> <span class="toctext">Set (X,Y &amp; Z) Target</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="Firefly_Node_-_Camera#Set_Target"><span class="tocnumber">2.4.2</span> <span class="toctext">Set Target</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-16"><a href="Firefly_Node_-_Camera#Up_Vector"><span class="tocnumber">2.5</span> <span class="toctext">Up Vector</span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="Firefly_Node_-_Camera#Set_.28X.2C_Y_.26_Z.29_Vector"><span class="tocnumber">2.5.1</span> <span class="toctext">Set (X, Y &amp; Z) Vector</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-18"><a href="Firefly_Node_-_Camera#Set_Field_of_View"><span class="tocnumber">2.6</span> <span class="toctext">Set Field of View</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="Firefly_Node_-_Camera#Set_Aspect_Ratio"><span class="tocnumber">2.7</span> <span class="toctext">Set Aspect Ratio</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="Firefly_Node_-_Camera#Set_Near_Clipping_Plane"><span class="tocnumber">2.8</span> <span class="toctext">Set Near Clipping Plane</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="Firefly_Node_-_Camera#Set_Far_Clipping_Plane"><span class="tocnumber">2.9</span> <span class="toctext">Set Far Clipping Plane</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="Firefly_Node_-_Camera#Bind_Target_and_Rotation"><span class="tocnumber">2.10</span> <span class="toctext">Bind Target and Rotation</span></a>
+<ul>
+<li class="toclevel-3 tocsection-23"><a href="Firefly_Node_-_Camera#Off.2FOn_or_Set"><span class="tocnumber">2.10.1</span> <span class="toctext">Off/On or Set</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-24"><a href="Firefly_Node_-_Camera#Mouse_Pick"><span class="tocnumber">2.11</span> <span class="toctext">Mouse Pick</span></a>
+<ul>
+<li class="toclevel-3 tocsection-25"><a href="Firefly_Node_-_Camera#Check_Off.2FOn"><span class="tocnumber">2.11.1</span> <span class="toctext">Check Off/On</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="Firefly_Node_-_Camera#Check_Once"><span class="tocnumber">2.11.2</span> <span class="toctext">Check Once</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-27"><a href="Firefly_Node_-_Camera#Expressions"><span class="tocnumber">3</span> <span class="toctext">Expressions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-28"><a href="Firefly_Node_-_Camera#Viewports_3"><span class="tocnumber">3.1</span> <span class="toctext">Viewports</span></a>
+<ul>
+<li class="toclevel-3 tocsection-29"><a href="Firefly_Node_-_Camera#Get_indices_in_Firefly_Engine_Stack"><span class="tocnumber">3.1.1</span> <span class="toctext">Get indices in Firefly Engine Stack</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-30"><a href="Firefly_Node_-_Camera#Target_2"><span class="tocnumber">3.2</span> <span class="toctext">Target</span></a>
+<ul>
+<li class="toclevel-3 tocsection-31"><a href="Firefly_Node_-_Camera#Get_.28X.2CY_.26_Z.29_Target"><span class="tocnumber">3.2.1</span> <span class="toctext">Get (X,Y &amp; Z) Target</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-32"><a href="Firefly_Node_-_Camera#Up_Vector_2"><span class="tocnumber">3.3</span> <span class="toctext">Up Vector</span></a>
+<ul>
+<li class="toclevel-3 tocsection-33"><a href="Firefly_Node_-_Camera#Get_.28X.2C_Y_.26_Z.29_Position"><span class="tocnumber">3.3.1</span> <span class="toctext">Get (X, Y &amp; Z) Position</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-34"><a href="Firefly_Node_-_Camera#Get_Field_of_View"><span class="tocnumber">3.4</span> <span class="toctext">Get Field of View</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="Firefly_Node_-_Camera#Get_Aspect_Ratio"><span class="tocnumber">3.5</span> <span class="toctext">Get Aspect Ratio</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="Firefly_Node_-_Camera#Get_Near_Clipping_Plane"><span class="tocnumber">3.6</span> <span class="toctext">Get Near Clipping Plane</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="Firefly_Node_-_Camera#Get_Far_Clipping_Plane"><span class="tocnumber">3.7</span> <span class="toctext">Get Far Clipping Plane</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="Firefly_Node_-_Camera#Mouse_Pick_2"><span class="tocnumber">3.8</span> <span class="toctext">Mouse Pick</span></a>
+<ul>
+<li class="toclevel-3 tocsection-39"><a href="Firefly_Node_-_Camera#Get_Fixed_value_of_Mouse_Pick_Node"><span class="tocnumber">3.8.1</span> <span class="toctext">Get Fixed value of Mouse Pick Node</span></a></li>
+<li class="toclevel-3 tocsection-40"><a href="Firefly_Node_-_Camera#Get_name_of_Mouse_Pick_Node"><span class="tocnumber">3.8.2</span> <span class="toctext">Get name of Mouse Pick Node</span></a></li>
+<li class="toclevel-3 tocsection-41"><a href="Firefly_Node_-_Camera#Get_.28X.2C_Y_.26_Z.29_Intersection_Point_from_Mouse_Pick"><span class="tocnumber">3.8.3</span> <span class="toctext">Get (X, Y &amp; Z) Intersection Point from Mouse Pick</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Conditions">Conditions</span></h2>
+<h4><span class="mw-headline" id="Binds_Target_and_Rotations">Binds Target and Rotations</span></h4>
+<p>This condition is triggered TRUE when you have Binding set to on.
+</p>
+<h3><span class="mw-headline" id="Viewports">Viewports</span></h3>
+<h4><span class="mw-headline" id="Is_viewport_added_to_Firefly_Engine_Stack">Is viewport added to Firefly Engine Stack</span></h4>
+<p>Checks to see if in fact the viewport is part of the Firefly Engine Stack. You need to select the proper fixed value of the Firefly Engine object you are testing against.
+</p>
+<h2><span class="mw-headline" id="Actions">Actions</span></h2>
+<h3><span class="mw-headline" id="Set_Object_Width">Set Object Width</span></h3>
+<p>Set the horizontal size of the viewspace
+</p>
+<h3><span class="mw-headline" id="Set_Object_Height">Set Object Height</span></h3>
+<p>Set the vertical size of the viewspace
+</p>
+<h3><span class="mw-headline" id="Viewports_2">Viewports</span></h3>
+<h4><span class="mw-headline" id="Add_to_Firefly_Engine_Stack">Add to Firefly Engine Stack</span></h4>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Insert_into_Firefly_Engine_Stack">Insert into Firefly Engine Stack</span></h4>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Remove_from_Firefly_Engine_Stack_at">Remove from Firefly Engine Stack at</span></h4>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Remove_all_from_Firefly_Engine_Stack">Remove all from Firefly Engine Stack</span></h4>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Target">Target</span></h3>
+<p>Actions for pointing the camera
+</p>
+<h4><span class="mw-headline" id="Set_.28X.2CY_.26_Z.29_Target">Set (X,Y &amp; Z) Target</span></h4>
+<p>Three separate actions for each vector, where you pass a value to set its relative target vector.
+</p>
+<h4><span class="mw-headline" id="Set_Target">Set Target</span></h4>
+<p>Pass using the expression editor values for each of the three vectors (X,Y &amp; Z) to determine target vector.
+</p>
+<h3><span class="mw-headline" id="Up_Vector">Up Vector</span></h3>
+<h4><span class="mw-headline" id="Set_.28X.2C_Y_.26_Z.29_Vector">Set (X, Y &amp; Z) Vector</span></h4>
+<p>Sets the coordinate which the camera sees as the “up” direction which it rotates by. In Local coordinates.
+</p>
+<h3><span class="mw-headline" id="Set_Field_of_View">Set Field of View</span></h3>
+<p>Set the size of your “eye” in degrees, bigger values will extend the observable game world but view will look more fish eye’d. Default 90, recommended maximum is 120.
+</p>
+<h3><span class="mw-headline" id="Set_Aspect_Ratio">Set Aspect Ratio</span></h3>
+<p>Ratio between the camera’s width and height, for best results set this to Camera’s Width / Camera’s Height.
+</p>
+<h3><span class="mw-headline" id="Set_Near_Clipping_Plane">Set Near Clipping Plane</span></h3>
+<p>Allows you to change how close the faces need to be in order for them to not render.
+</p>
+<h3><span class="mw-headline" id="Set_Far_Clipping_Plane">Set Far Clipping Plane</span></h3>
+<p>Allows you to change how far the faces need to be in order for them to no longer render, bigger values will have a greater impact on performance on large scenes.
+</p>
+<h3><span class="mw-headline" id="Bind_Target_and_Rotation">Bind Target and Rotation</span></h3>
+<p>Allows you to match the camera to a node's rotation and position if previously have set a parent node.
+</p>
+<h4><span class="mw-headline" id="Off.2FOn_or_Set">Off/On or Set</span></h4>
+<p>Three actions allowing you to manually set Off or On or set using a boolean expression
+</p>
+<h3><span class="mw-headline" id="Mouse_Pick">Mouse Pick</span></h3>
+<p>allows you to “Shoot” from the camera and return the first node the “shot” collides with and return its Fixed Value for selection purposes
+</p>
+<h4><span class="mw-headline" id="Check_Off.2FOn">Check Off/On</span></h4>
+<p>Sets Off or On the constant use of the Mouse Pick function
+</p>
+<h4><span class="mw-headline" id="Check_Once">Check Once</span></h4>
+<p>Runs the check once during main loop
+</p>
+<h2><span class="mw-headline" id="Expressions">Expressions</span></h2>
+<h3><span class="mw-headline" id="Viewports_3">Viewports</span></h3>
+<h4><span class="mw-headline" id="Get_indices_in_Firefly_Engine_Stack">Get indices in Firefly Engine Stack</span></h4>
+<pre>CameraEngineStackIndicies$( "Firefly Node - Camera", &gt;Enter Firefly Engine Fixed Value&lt; )
+</pre>
+<p>Returns indices of relative Firefly Engine Stack, requires passing of Fixed Value of Engine object in expression
+</p>
+<h3><span class="mw-headline" id="Target_2">Target</span></h3>
+<h4><span class="mw-headline" id="Get_.28X.2CY_.26_Z.29_Target">Get (X,Y &amp; Z) Target</span></h4>
+<pre>XTarget( "Firefly Node - Camera" )
+YTarget( "Firefly Node - Camera" )
+ZTarget( "Firefly Node - Camera" )
+</pre>
+<p>Three separate expressions returning one of the vectors currently used as a camera target.
+</p>
+<h3><span class="mw-headline" id="Up_Vector_2">Up Vector</span></h3>
+<h4><span class="mw-headline" id="Get_.28X.2C_Y_.26_Z.29_Position">Get (X, Y &amp; Z) Position</span></h4>
+<pre>XUpVector( "Firefly Node - Camera" )
+YUpVector( "Firefly Node - Camera" )
+ZUpVector( "Firefly Node - Camera" )
+</pre>
+<p>Three separate expressions returning one of the vectors currently used as a up vector value.
+</p>
+<h3><span class="mw-headline" id="Get_Field_of_View">Get Field of View</span></h3>
+<pre>FOV( "Firefly Node - Camera" )
+</pre>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Get_Aspect_Ratio">Get Aspect Ratio</span></h3>
+<pre>AspectRatio( "Firefly Node - Camera" )
+</pre>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Get_Near_Clipping_Plane">Get Near Clipping Plane</span></h3>
+<pre>NearClipping( "Firefly Node - Camera" )
+</pre>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Get_Far_Clipping_Plane">Get Far Clipping Plane</span></h3>
+<pre>FarClipping( "Firefly Node - Camera" )
+</pre>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Mouse_Pick_2">Mouse Pick</span></h3>
+<h4><span class="mw-headline" id="Get_Fixed_value_of_Mouse_Pick_Node">Get Fixed value of Mouse Pick Node</span></h4>
+<pre>MousePickFV( "Firefly Node - Camera" )
+</pre>
+<p>Returns fixed value of node selected during mouse pick
+</p>
+<h4><span class="mw-headline" id="Get_name_of_Mouse_Pick_Node">Get name of Mouse Pick Node</span></h4>
+<pre>MousePickName$( "Firefly Node - Camera" )
+</pre>
+<p>Returns name of node selected during mouse pick
+</p>
+<h4><span class="mw-headline" id="Get_.28X.2C_Y_.26_Z.29_Intersection_Point_from_Mouse_Pick">Get (X, Y &amp; Z) Intersection Point from Mouse Pick</span></h4>
+<pre>MousePickX( "Firefly Node - Camera" )
+MousePickY( "Firefly Node - Camera" )
+MousePickZ( "Firefly Node - Camera" )
+</pre>
+<p>Three expressions that return the vector value from the intersection point from the selected vector.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155228
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.240 seconds
+Real time usage: 0.240 seconds
+Preprocessor visited node count: 227/1000000
+Preprocessor generated node count: 606/1000000
+Post‐expand include size: 1948/2097152 bytes
+Template argument size: 862/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   67.163      1 - Template:InfoExtension
+100.00%   67.163      1 - -total
+ 11.04%    7.415      2 - Template:Yes
+ 10.86%    7.293      1 - Template:ShopSteam
+  9.44%    6.341      1 - Template:ClickteamExtension
+  9.37%    6.291      1 - Template:EXE
+  9.24%    6.209      1 - Template:CF2.5
+  9.20%    6.178      1 - Template:CF2.5Dev
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:956-0!*!0!!en!5!* and timestamp 20180529155228 and revision id 2066
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Firefly_Node_-_Camera&amp;oldid=2066">http://clickwiki.net/w/index.php?title=Firefly_Node_-_Camera&amp;oldid=2066</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Firefly+Node+-+Camera"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":519});});</script>
+  </body>
+</html>

@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Application Properties - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Application_Properties","wgTitle":"Application Properties","wgCurRevisionId":1987,"wgRevisionId":1987,"wgArticleId":845,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Interface"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Application_Properties","wgRelevantArticleId":845,"wgRequestId":"9573813f05c7a56d39232c39","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Application_Properties rootpage-Application_Properties skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img5.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Application_Properties#mw-head">navigation</a>,
+          <a href="Application_Properties#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Application Properties</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Application_Properties#Settings"><span class="tocnumber">1</span> <span class="toctext">Settings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="Application_Properties#Graphics"><span class="tocnumber">1.1</span> <span class="toctext">Graphics</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="Application_Properties#Graphic_mode"><span class="tocnumber">1.1.1</span> <span class="toctext">Graphic mode</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-4"><a href="Application_Properties#Build"><span class="tocnumber">1.2</span> <span class="toctext">Build</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="Application_Properties#Build_type"><span class="tocnumber">1.2.1</span> <span class="toctext">Build type</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="Application_Properties#Build_filename"><span class="tocnumber">1.2.2</span> <span class="toctext">Build filename</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="Application_Properties#Image_filters"><span class="tocnumber">1.2.3</span> <span class="toctext">Image filters</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="Application_Properties#Sound_filters"><span class="tocnumber">1.2.4</span> <span class="toctext">Sound filters</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="Application_Properties#Install_Settings"><span class="tocnumber">1.2.5</span> <span class="toctext">Install Settings</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="Application_Properties#Build_Options"><span class="tocnumber">1.3</span> <span class="toctext">Build Options</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="Application_Properties#Compression_level"><span class="tocnumber">1.3.1</span> <span class="toctext">Compression level</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="Application_Properties#Compress_sounds"><span class="tocnumber">1.3.2</span> <span class="toctext">Compress sounds</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="Application_Properties#Display_build_warning_messages"><span class="tocnumber">1.3.3</span> <span class="toctext">Display build warning messages</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="Application_Properties#Include_external_files"><span class="tocnumber">1.3.4</span> <span class="toctext">Include external files</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="Application_Properties#Compress_the_runtime"><span class="tocnumber">1.3.5</span> <span class="toctext">Compress the runtime</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-16"><a href="Application_Properties#Windows_Vista_Options"><span class="tocnumber">1.4</span> <span class="toctext">Windows Vista Options</span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="Application_Properties#Execution_Level"><span class="tocnumber">1.4.1</span> <span class="toctext">Execution Level</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-18"><a href="Application_Properties#Run_options"><span class="tocnumber">1.5</span> <span class="toctext">Run options</span></a>
+<ul>
+<li class="toclevel-3 tocsection-19"><a href="Application_Properties#Command_line"><span class="tocnumber">1.5.1</span> <span class="toctext">Command line</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="Application_Properties#Enable_Debugger_Shortcuts"><span class="tocnumber">1.5.2</span> <span class="toctext">Enable Debugger Shortcuts</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="Application_Properties#Show_Debugger"><span class="tocnumber">1.5.3</span> <span class="toctext">Show Debugger</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="Application_Properties#Window"><span class="tocnumber">2</span> <span class="toctext">Window</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="Application_Properties#Size"><span class="tocnumber">2.1</span> <span class="toctext">Size</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="Application_Properties#Border_color"><span class="tocnumber">2.2</span> <span class="toctext">Border color</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="Application_Properties#Style"><span class="tocnumber">2.3</span> <span class="toctext">Style</span></a>
+<ul>
+<li class="toclevel-3 tocsection-26"><a href="Application_Properties#Heading"><span class="tocnumber">2.3.1</span> <span class="toctext">Heading</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="Application_Properties#Heading_when_maximized"><span class="tocnumber">2.3.2</span> <span class="toctext">Heading when maximized</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="Application_Properties#Disable_close_button"><span class="tocnumber">2.3.3</span> <span class="toctext">Disable close button</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="Application_Properties#No_minimize_box"><span class="tocnumber">2.3.4</span> <span class="toctext">No minimize box</span></a></li>
+<li class="toclevel-3 tocsection-30"><a href="Application_Properties#No_maximize_box"><span class="tocnumber">2.3.5</span> <span class="toctext">No maximize box</span></a></li>
+<li class="toclevel-3 tocsection-31"><a href="Application_Properties#No_thick_frame"><span class="tocnumber">2.3.6</span> <span class="toctext">No thick frame</span></a></li>
+<li class="toclevel-3 tocsection-32"><a href="Application_Properties#Maximized_on_boot-up"><span class="tocnumber">2.3.7</span> <span class="toctext">Maximized on boot-up</span></a></li>
+<li class="toclevel-3 tocsection-33"><a href="Application_Properties#Hidden_at_start"><span class="tocnumber">2.3.8</span> <span class="toctext">Hidden at start</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-34"><a href="Application_Properties#Menu"><span class="tocnumber">2.4</span> <span class="toctext">Menu</span></a>
+<ul>
+<li class="toclevel-3 tocsection-35"><a href="Application_Properties#Menu_bar"><span class="tocnumber">2.4.1</span> <span class="toctext">Menu bar</span></a></li>
+<li class="toclevel-3 tocsection-36"><a href="Application_Properties#Menu_displayed_on_boot-up"><span class="tocnumber">2.4.2</span> <span class="toctext">Menu displayed on boot-up</span></a></li>
+<li class="toclevel-3 tocsection-37"><a href="Application_Properties#Window_menu_index"><span class="tocnumber">2.4.3</span> <span class="toctext">Window menu index</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-38"><a href="Application_Properties#Full_screen"><span class="tocnumber">2.5</span> <span class="toctext">Full screen</span></a>
+<ul>
+<li class="toclevel-3 tocsection-39"><a href="Application_Properties#Change_resolution_mode"><span class="tocnumber">2.5.1</span> <span class="toctext">Change resolution mode</span></a></li>
+<li class="toclevel-3 tocsection-40"><a href="Application_Properties#Allow_user_to_switch_to.2Ffrom_full_screen"><span class="tocnumber">2.5.2</span> <span class="toctext">Allow user to switch to/from full screen</span></a></li>
+<li class="toclevel-3 tocsection-41"><a href="Application_Properties#Keep_screen_ratio"><span class="tocnumber">2.5.3</span> <span class="toctext">Keep screen ratio</span></a></li>
+<li class="toclevel-3 tocsection-42"><a href="Application_Properties#Screen_ratio_tolerance"><span class="tocnumber">2.5.4</span> <span class="toctext">Screen ratio tolerance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-43"><a href="Application_Properties#Options"><span class="tocnumber">2.6</span> <span class="toctext">Options</span></a>
+<ul>
+<li class="toclevel-3 tocsection-44"><a href="Application_Properties#Resize_display_to_fill_window_size"><span class="tocnumber">2.6.1</span> <span class="toctext">Resize display to fill window size</span></a></li>
+<li class="toclevel-3 tocsection-45"><a href="Application_Properties#Do_not_center_frame_area_in_window"><span class="tocnumber">2.6.2</span> <span class="toctext">Do not center frame area in window</span></a></li>
+<li class="toclevel-3 tocsection-46"><a href="Application_Properties#Multiple_document_interface_.28MDI.29"><span class="tocnumber">2.6.3</span> <span class="toctext">Multiple document interface (MDI)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-47"><a href="Application_Properties#Runtime_Options"><span class="tocnumber">3</span> <span class="toctext">Runtime Options</span></a>
+<ul>
+<li class="toclevel-2 tocsection-48"><a href="Application_Properties#Frame_rate"><span class="tocnumber">3.1</span> <span class="toctext">Frame rate</span></a></li>
+<li class="toclevel-2 tocsection-49"><a href="Application_Properties#Machine_independent_speed"><span class="tocnumber">3.2</span> <span class="toctext">Machine independent speed</span></a></li>
+<li class="toclevel-2 tocsection-50"><a href="Application_Properties#Run_when_minimized"><span class="tocnumber">3.3</span> <span class="toctext">Run when minimized</span></a></li>
+<li class="toclevel-2 tocsection-51"><a href="Application_Properties#Run_when_resizing"><span class="tocnumber">3.4</span> <span class="toctext">Run when resizing</span></a></li>
+<li class="toclevel-2 tocsection-52"><a href="Application_Properties#Do_not_stop_screen_saver_when_input_event"><span class="tocnumber">3.5</span> <span class="toctext">Do not stop screen saver when input event</span></a></li>
+<li class="toclevel-2 tocsection-53"><a href="Application_Properties#Do_not_share_data_if_run_as_sub-application"><span class="tocnumber">3.6</span> <span class="toctext">Do not share data if run as sub-application</span></a></li>
+<li class="toclevel-2 tocsection-54"><a href="Application_Properties#Display_options"><span class="tocnumber">3.7</span> <span class="toctext">Display options</span></a>
+<ul>
+<li class="toclevel-3 tocsection-55"><a href="Application_Properties#Display_mode"><span class="tocnumber">3.7.1</span> <span class="toctext">Display mode</span></a></li>
+<li class="toclevel-3 tocsection-56"><a href="Application_Properties#V-Sync"><span class="tocnumber">3.7.2</span> <span class="toctext">V-Sync</span></a></li>
+<li class="toclevel-3 tocsection-57"><a href="Application_Properties#Enable_visual_themes"><span class="tocnumber">3.7.3</span> <span class="toctext">Enable visual themes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-58"><a href="Application_Properties#Sound_options"><span class="tocnumber">3.8</span> <span class="toctext">Sound options</span></a>
+<ul>
+<li class="toclevel-3 tocsection-59"><a href="Application_Properties#Multi-samples"><span class="tocnumber">3.8.1</span> <span class="toctext">Multi-samples</span></a></li>
+<li class="toclevel-3 tocsection-60"><a href="Application_Properties#Play_sound_over_frames"><span class="tocnumber">3.8.2</span> <span class="toctext">Play sound over frames</span></a></li>
+<li class="toclevel-3 tocsection-61"><a href="Application_Properties#Do_not_stop_samples_when_application_loses_focus."><span class="tocnumber">3.8.3</span> <span class="toctext">Do not stop samples when application loses focus.</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-62"><a href="Application_Properties#Players"><span class="tocnumber">3.9</span> <span class="toctext">Players</span></a>
+<ul>
+<li class="toclevel-3 tocsection-63"><a href="Application_Properties#Initial_score"><span class="tocnumber">3.9.1</span> <span class="toctext">Initial score</span></a></li>
+<li class="toclevel-3 tocsection-64"><a href="Application_Properties#Initial_.23_of_lives"><span class="tocnumber">3.9.2</span> <span class="toctext">Initial # of lives</span></a></li>
+<li class="toclevel-3 tocsection-65"><a href="Application_Properties#Default_controls"><span class="tocnumber">3.9.3</span> <span class="toctext">Default controls</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-66"><a href="Application_Properties#Values"><span class="tocnumber">4</span> <span class="toctext">Values</span></a>
+<ul>
+<li class="toclevel-2 tocsection-67"><a href="Application_Properties#Global_values"><span class="tocnumber">4.1</span> <span class="toctext">Global values</span></a></li>
+<li class="toclevel-2 tocsection-68"><a href="Application_Properties#Global_strings"><span class="tocnumber">4.2</span> <span class="toctext">Global strings</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-69"><a href="Application_Properties#Events"><span class="tocnumber">5</span> <span class="toctext">Events</span></a>
+<ul>
+<li class="toclevel-2 tocsection-70"><a href="Application_Properties#Global_events"><span class="tocnumber">5.1</span> <span class="toctext">Global events</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-71"><a href="Application_Properties#About"><span class="tocnumber">6</span> <span class="toctext">About</span></a>
+<ul>
+<li class="toclevel-2 tocsection-72"><a href="Application_Properties#Name"><span class="tocnumber">6.1</span> <span class="toctext">Name</span></a></li>
+<li class="toclevel-2 tocsection-73"><a href="Application_Properties#Icon"><span class="tocnumber">6.2</span> <span class="toctext">Icon</span></a></li>
+<li class="toclevel-2 tocsection-74"><a href="Application_Properties#Filename"><span class="tocnumber">6.3</span> <span class="toctext">Filename</span></a></li>
+<li class="toclevel-2 tocsection-75"><a href="Application_Properties#Documentation"><span class="tocnumber">6.4</span> <span class="toctext">Documentation</span></a>
+<ul>
+<li class="toclevel-3 tocsection-76"><a href="Application_Properties#Help_file"><span class="tocnumber">6.4.1</span> <span class="toctext">Help file</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-77"><a href="Application_Properties#Information"><span class="tocnumber">6.5</span> <span class="toctext">Information</span></a>
+<ul>
+<li class="toclevel-3 tocsection-78"><a href="Application_Properties#Author"><span class="tocnumber">6.5.1</span> <span class="toctext">Author</span></a></li>
+<li class="toclevel-3 tocsection-79"><a href="Application_Properties#Copyright"><span class="tocnumber">6.5.2</span> <span class="toctext">Copyright</span></a></li>
+<li class="toclevel-3 tocsection-80"><a href="Application_Properties#AboutBox_text"><span class="tocnumber">6.5.3</span> <span class="toctext">AboutBox text</span></a></li>
+<li class="toclevel-3 tocsection-81"><a href="Application_Properties#Description"><span class="tocnumber">6.5.4</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-3 tocsection-82"><a href="Application_Properties#Company"><span class="tocnumber">6.5.5</span> <span class="toctext">Company</span></a></li>
+<li class="toclevel-3 tocsection-83"><a href="Application_Properties#Version"><span class="tocnumber">6.5.6</span> <span class="toctext">Version</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-84"><a href="Application_Properties#Windows"><span class="tocnumber">7</span> <span class="toctext">Windows</span></a></li>
+<li class="toclevel-1 tocsection-85"><a href="Application_Properties#Android_Options"><span class="tocnumber">8</span> <span class="toctext">Android Options</span></a></li>
+<li class="toclevel-1 tocsection-86"><a href="Application_Properties#XNA_Options"><span class="tocnumber">9</span> <span class="toctext">XNA Options</span></a>
+<ul>
+<li class="toclevel-2 tocsection-87"><a href="Application_Properties#Windows.2FXbox"><span class="tocnumber">9.1</span> <span class="toctext">Windows/Xbox</span></a></li>
+<li class="toclevel-2 tocsection-88"><a href="Application_Properties#Phone"><span class="tocnumber">9.2</span> <span class="toctext">Phone</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-89"><a href="Application_Properties#iOS_Options"><span class="tocnumber">10</span> <span class="toctext">iOS Options</span></a>
+<ul>
+<li class="toclevel-2 tocsection-90"><a href="Application_Properties#Application_.28cci.29"><span class="tocnumber">10.1</span> <span class="toctext">Application (cci)</span></a></li>
+<li class="toclevel-2 tocsection-91"><a href="Application_Properties#Xcode_Project"><span class="tocnumber">10.2</span> <span class="toctext">Xcode Project</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-92"><a href="Application_Properties#HTML5_Options"><span class="tocnumber">11</span> <span class="toctext">HTML5 Options</span></a>
+<ul>
+<li class="toclevel-2 tocsection-93"><a href="Application_Properties#Full_Version"><span class="tocnumber">11.1</span> <span class="toctext">Full Version</span></a></li>
+<li class="toclevel-2 tocsection-94"><a href="Application_Properties#Limited_Version"><span class="tocnumber">11.2</span> <span class="toctext">Limited Version</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-95"><a href="Application_Properties#Universal_Windows_Platform"><span class="tocnumber">12</span> <span class="toctext">Universal Windows Platform</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Settings">Settings</span></h2>
+<p><a href="./File:Application_Settings_Properties.png" class="image"><img alt="Application Settings Properties.png" src="../w/images/8/84/Application_Settings_Properties.png" width="250" height="397" /></a><br />
+This folder contains all the properties to build the application.
+</p>
+<h3><span class="mw-headline" id="Graphics">Graphics</span></h3>
+<h4><span class="mw-headline" id="Graphic_mode">Graphic mode</span></h4>
+<p>Choose the graphic mode used by your application. 256 colors save a lot of memory, but restrain the number of colors displayed by the application. 
+</p>
+<h3><span class="mw-headline" id="Build">Build</span></h3>
+<h4><span class="mw-headline" id="Build_type">Build type</span></h4>
+<p>Indicates the type of application to build when you select Build application from the file menu. Can be a Windows "Stand alone application" (a simple EXE file), a Windows screen saver (an SCR file), a sub-application (.CCN) to use in a sub-application object, or other types of applications (it depends on the modules installed on your machines). 
+</p>
+<h4><span class="mw-headline" id="Build_filename">Build filename</span></h4>
+<p>Enter the name of the file to build. If you do not enter anything, the name of the application is used and the required extension is added (SCR, EXE, CCN, JAR, etc). 
+</p>
+<h4><span class="mw-headline" id="Image_filters">Image filters</span></h4>
+<p>Indicates the image filters to include in the executable file of your application. If the Automatic option is selected in the Image Filters dialog box, then all the filters will be included if your application contains objects that display graphic files. In order to reduce the size of your stand-alone applications or screen savers, we recommend you to unselect the Automatic option and select only the filters you use.
+</p>
+<h4><span class="mw-headline" id="Sound_filters">Sound filters</span></h4>
+<p>Indicates the sound filters to include in the executable file of your application. If the Automatic option is selected in the Sound Filters dialog box, then all the filters will be included if your application contains samples. No filter will be automatically included if your application plays only external sample files. In any case, we recommend you to unselect the Automatic option and select the filters you need, in order to optimize the size of your application and/or to include the needed filters.
+</p>
+<h4><span class="mw-headline" id="Install_Settings">Install Settings</span></h4>
+<p>Opens the Install Settings dialog box and allows you to build an install program for your application and the external files it uses. 
+</p>
+<h3><span class="mw-headline" id="Build_Options">Build Options</span></h3>
+<h4><span class="mw-headline" id="Compression_level">Compression level</span></h4>
+<p>Choose between Normal and Maximum. Maximum might be a little slower to build. 
+</p>
+<h4><span class="mw-headline" id="Compress_sounds">Compress sounds</span></h4>
+<p>Use this option to gain space in your built application. If this option is selected, the uncompressed WAV samples of your application will be compressed to ADPCM format, reducing their size by 2 or 4. 
+</p>
+<h4><span class="mw-headline" id="Display_build_warning_messages">Display build warning messages</span></h4>
+<p>Uncheck this option if you want to hide the warning messages that are displayed when you build an application that contains events or objects that are incompatible with the build type. 
+</p>
+<h4><span class="mw-headline" id="Include_external_files">Include external files</span></h4>
+<p>Includes in the built file all the external files referred to by the events or by any object. This option is very handy if you want to create one EXE file that contains everything. Upon runtime, the files are extracted to a temporary folder, and all the pathnames that refer to the files are relocated to the temporary folder. Note: this option doesn't include the files whose filename is calculated with an expression in the events. 
+</p>
+<h4><span class="mw-headline" id="Compress_the_runtime">Compress the runtime</span></h4>
+<p>By default, the runtime is compressed and extracted to a temporary folder when the stand-alone application starts. This can cause problems with applications that access the Internet, especially if a firewall is installed on the machine. For such an application, unselect this option so that the runtime is not compressed and always keeps the same pathname when you run it. Note: uncompressing the runtime will add about 300 Kb to the size of the stand-alone application. 
+</p>
+<h3><span class="mw-headline" id="Windows_Vista_Options">Windows Vista Options</span></h3>
+<h4><span class="mw-headline" id="Execution_Level">Execution Level</span></h4>
+<p>This option allows you to select the privilege level of your application when it's executed on Windows Vista: 
+None: in this mode, the application is executed by Vista in "compatibility" mode, i.e. when you create a file in system directories like the Program Files directory, Vista creates it in a directory in the current user's Application Data directory and displays it as if it was in the system directory. 
+This mode is used to keep compatibility with old applications that write to their install folder or to the HKEY_LOCAL_MACHINE\Software registry key. You should not use it in new applications designed for Windows Vista. 
+As invoker (default): in this mode, the application is executed with the privileges of the current user (or the calling application if the application is launched by another one). On Vista usually with normal privileges you are not allowed to write to system folders (Program Files, Windows, etc.) or to registry keys not located in the HKEY_CURRENT_USER folder. This mode is the preferred mode for Vista applications. 
+As administrator: in this mode, Windows Vista will ask the user to confirm s/he wants to run your application, and if so will run it with elevated privileges, i.e. your application will be able to write to system folders and anywhere in the registry. This mode should be reserved for installers or applications that really need to access system folders. Note: you should sign your application with a certificate so that the confirmation screen displays this application was made by you and can be trusted. 
+Note: when you run your application from MMF2, it's always executed with the "As invoker" option. If you need to run your application in administrator mode from MMF2, then exit MMF2 and run it as administrator. The MMF2 runtime will be executed in administrator mode too. 
+</p>
+<h3><span class="mw-headline" id="Run_options">Run options</span></h3>
+<h4><span class="mw-headline" id="Command_line">Command line</span></h4>
+<p>Enter here the options you wish to pass to the application when you run it from the editor. You can use the standard Clickteam Fusion 2.5 options like /NOF to prevent the application to switch to full screen, /DIB to force the application to use the standard graphic mode, etc. Of course, these options won't be saved in the stand-alone applications, they are only used when you run your application from the editor. 
+</p>
+<h4><span class="mw-headline" id="Enable_Debugger_Shortcuts">Enable Debugger Shortcuts</span></h4>
+<p>Allows you to enable the keyboard shortcuts of the debugger. Unselect this option if the debugger shortcuts conflict with yours. 
+</p>
+<h4><span class="mw-headline" id="Show_Debugger">Show Debugger</span></h4>
+<p>Allows you to show or hide the debugger. 
+</p>
+<h2><span class="mw-headline" id="Window">Window</span></h2>
+<p><a href="./File:Application_Window_Properties.png" class="image"><img alt="Application Window Properties.png" src="../w/images/3/37/Application_Window_Properties.png" width="250" height="672" /></a><br />
+This folder contains the properties of the window in which the application is displayed.
+</p>
+<h4><span class="mw-headline" id="Size">Size</span></h4>
+<p>Enter the size of the application window. You can choose between preset sizes or enter your own. Warning, do not confuse the size of the window with the size of the frame! 
+</p>
+<h4><span class="mw-headline" id="Border_color">Border color</span></h4>
+<p>Enter the color of the border drawn around the frame if the frame does not fill the window entirely. 
+</p>
+<h3><span class="mw-headline" id="Style">Style</span></h3>
+<h4><span class="mw-headline" id="Heading">Heading</span></h4>
+<p>Check this option and a title bar will be displayed on the top of the window. 
+</p>
+<h4><span class="mw-headline" id="Heading_when_maximized">Heading when maximized</span></h4>
+<p>Check this option to maintain a title bar when the application window is maximized 
+</p>
+<h4><span class="mw-headline" id="Disable_close_button">Disable close button</span></h4>
+<p>Check this option and the close button of the window will not work. Warning, your application must contain a way out! 
+</p>
+<h4><span class="mw-headline" id="No_minimize_box">No minimize box</span></h4>
+<p>Check this option to disable the minimize box. 
+</p>
+<h4><span class="mw-headline" id="No_maximize_box">No maximize box</span></h4>
+<p>Check this option to disable the maximize box. 
+</p>
+<h4><span class="mw-headline" id="No_thick_frame">No thick frame</span></h4>
+<p>Check this option and the application window will be drawn with a thin line instead of a thick line. If this option is selected, the window won't be resizable. 
+</p>
+<h4><span class="mw-headline" id="Maximized_on_boot-up">Maximized on boot-up</span></h4>
+<p>Check this option and the application will be maximized on boot-up. 
+</p>
+<h4><span class="mw-headline" id="Hidden_at_start">Hidden at start</span></h4>
+<p>Check this option and the application will be hidden on boot-up. 
+</p>
+<h3><span class="mw-headline" id="Menu">Menu</span></h3>
+<h4><span class="mw-headline" id="Menu_bar">Menu bar</span></h4>
+<p>Check this option to include a menu in the application. A click on the edit button opens the Menu editor. 
+</p>
+<h4><span class="mw-headline" id="Menu_displayed_on_boot-up">Menu displayed on boot-up</span></h4>
+<p>If this option is checked, the menu bar is displayed in the window when the application starts. 
+</p>
+<h4><span class="mw-headline" id="Window_menu_index">Window menu index</span></h4>
+<p>Used when creating an MDI application. Indicates the index of the menu where the list of MDI child windows is inserted. 
+</p>
+<h3><span class="mw-headline" id="Full_screen">Full screen</span></h3>
+<h4><span class="mw-headline" id="Change_resolution_mode">Change resolution mode</span></h4>
+<p>When running the application, the resolution mode of the computer will change to match as best as possible the size of the window. For example, if your window is 640x480, the resolution mode will change to 640x480. Use this option to create full-screen applications. 
+</p>
+<h4><span class="mw-headline" id="Allow_user_to_switch_to.2Ffrom_full_screen">Allow user to switch to/from full screen</span></h4>
+<p>If this option is selected, the menu of the application will contain an entry to allow the user to switch between full-screen mode and windowed mode. 
+</p>
+<h4><span class="mw-headline" id="Keep_screen_ratio">Keep screen ratio</span></h4>
+<p>In full-screen mode, the resolution mode of the computer will change to match as best as possible both the size of the window and the width/height ratio of the current screen. This option avoids your application window to get distorted on wide screens. 
+</p>
+<h4><span class="mw-headline" id="Screen_ratio_tolerance">Screen ratio tolerance</span></h4>
+<p>This option allows you to define a tolerance for the "Keep screen ratio" option. This tolerance is a percentage of the current screen ratio. It allows you to switch to a screen resolution close to the window size of the application even if its width/height ratio is not strictly identical to the current screen ratio.
+Quick example: Suppose that the current resolution of the user's machine is 1440x900 (ratio = 1440/900 = 1.6), the window size of your application is 640x400 (ratio = 1.6) and the full-screen resolutions available on the user's machines are:
+640x480 (r=1.33)
+720x480 (r=1.5)
+720x576 (r=1.25)
+800x600 (r=1.33)
+1024x768 (r=1.33)
+1152x864 (r=1.33)
+1280x720 (r=1.77)
+1440x900 (r=1.6)
+As you can see, the only resolution with the same ratio is 1440x900. So if you want to execute your application in a screen resolution with the exact same ratio, you have no choice, your application will be played in a small 640x480 window in a big 1440x900 screen. If you set a tolerance of 8%, then any ratio between 1.47 and 1.72 will be considered as acceptable (between 8% below and above 1.6). So in this case, the 720x480 resolution will be chosen as it fits in the tolerance interval and is the smallest resolution greater than the window size of your application. The window of your application will be slightly distorted but this distortion is much less than if it was executed in 640x480 full-screen mode. 
+</p>
+<h3><span class="mw-headline" id="Options">Options</span></h3>
+<h4><span class="mw-headline" id="Resize_display_to_fill_window_size">Resize display to fill window size</span></h4>
+<p>Will resize the content of the application window to match the window size. Basically, there will not be any borders. This option might slow down the display. 
+</p>
+<h4><span class="mw-headline" id="Do_not_center_frame_area_in_window">Do not center frame area in window</span></h4>
+<p>If selected, the frame area will begin in the top/left of the window. If unselected, the frame area will be centered in the window. 
+</p>
+<h4><span class="mw-headline" id="Multiple_document_interface_.28MDI.29">Multiple document interface (MDI)</span></h4>
+<p>Check this option to make a Multiple Document Interface application. An MDI application allows you to open several windows child of the main application. Practically, the first frame of your application is used to handle the background window and creates a new sub-application object with the "MDI Child Window" option each time it wants to create a new child window. An MDI application can also have docked toolbars, this is done with sub-applications with a Docked option.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Runtime_Options">Runtime Options</span></h2>
+<p><a href="./File:Application_Runtime_Options_Properties.png" class="image"><img alt="Application Runtime Options Properties.png" src="../w/images/0/02/Application_Runtime_Options_Properties.png" width="400" height="555" /></a><br />
+This folder contains all the options to make the runtime work.
+</p>
+<h4><span class="mw-headline" id="Frame_rate">Frame rate</span></h4>
+<p>Enter the number of frames per second (FPS) of the runtime, basically the animation speed of the application when it runs. From 1 to 1000. The default setting is 50, 100 will double the speed of all the objects on the screen, 1 will make a very slow application, etc. 
+</p>
+<h4><span class="mw-headline" id="Machine_independent_speed">Machine independent speed</span></h4>
+<p>Use this option to maintain the speed of the runtime on slower machines. This option makes the runtime skip the display of the frame when it is not running at the given frame rate. As display operations are usually the more time-consuming ones, this allows the application to keep its frame rate even on slower machines. 
+</p>
+<h4><span class="mw-headline" id="Run_when_minimized">Run when minimized</span></h4>
+<p>As a default, the application is paused when minimized. Check this option and it will continue to run when minimized. 
+</p>
+<h4><span class="mw-headline" id="Run_when_resizing">Run when resizing</span></h4>
+<p>Check this option and the application will not stop when you resize or move the window. 
+</p>
+<h4><span class="mw-headline" id="Do_not_stop_screen_saver_when_input_event">Do not stop screen saver when input event</span></h4>
+<p>As a default, a screen saver quits as soon as an input event (keyboard, mouse) occurs. With this option, it will not quit. It is up to you to test for input events in your application. 
+</p>
+<h4><span class="mw-headline" id="Do_not_share_data_if_run_as_sub-application">Do not share data if run as sub-application</span></h4>
+<p>Check this option if you want to prevent the parent application to access or modify the global values, global strings, scores or live numbers of your application when it is run as sub-application.
+</p>
+<h3><span class="mw-headline" id="Display_options">Display options</span></h3>
+<h4><span class="mw-headline" id="Display_mode">Display mode</span></h4>
+<p>The Standard display mode uses the default drivers to display the image. The Direct3D modes use Direct3D and are much faster, but not everything is compatible with these modes. Refer to the HWA section in this documentation for more information about the Direct3D modes. 
+</p>
+<h4><span class="mw-headline" id="V-Sync">V-Sync</span></h4>
+<p>If selected, will synchronize the application with the display. Usually, provides a smooth display. As the monitor refresh rate is usually between 6O fps and 90 fps, it's a good idea to set the frame rate of the application to 90 or 100 when you select this option. 
+</p>
+<h4><span class="mw-headline" id="Enable_visual_themes">Enable visual themes</span></h4>
+<p>Allows visual themes in the application. 
+</p>
+<h3><span class="mw-headline" id="Sound_options">Sound options</span></h3>
+<h4><span class="mw-headline" id="Multi-samples">Multi-samples</span></h4>
+<p>If this option is checked, up to 32 samples can be played at the same time. If not only one. 
+</p>
+<h4><span class="mw-headline" id="Play_sound_over_frames">Play sound over frames</span></h4>
+<p>Check this option to continue playing a sound or a music from one frame to another. For example, you might want to have a music playing while loading the next frame of your application. 
+</p>
+<h4><span class="mw-headline" id="Do_not_stop_samples_when_application_loses_focus.">Do not stop samples when application loses focus.</span></h4>
+<p>As a default, all the samples are stopped when the application loses the focus (when another application is activated). Check this option and the samples will continue playing. 
+</p>
+<h3><span class="mw-headline" id="Players">Players</span></h3>
+<h4><span class="mw-headline" id="Initial_score">Initial score</span></h4>
+<p>Defines the initial score of all the players, when the game starts. 
+</p>
+<h4><span class="mw-headline" id="Initial_.23_of_lives">Initial # of lives</span></h4>
+<p>Defines the initial number of lives of all the players when the game starts. 
+</p>
+<h4><span class="mw-headline" id="Default_controls">Default controls</span></h4>
+<p>Click on the edit button to define and edit the player controls of the game. 
+</p>
+<h2><span class="mw-headline" id="Values">Values</span></h2>
+<p><a href="./File:Global_Value_Properties.png" class="image"><img alt="Global Value Properties.png" src="../w/images/f/fa/Global_Value_Properties.png" width="200" height="259" /></a><br />
+The values folder contains the default values of the global strings and global values. As a default, global values are equal to 0 and global strings are equal to "". With this property folder, you can change this and define default values for these items. You can also change the names of the values.
+</p>
+<h4><span class="mw-headline" id="Global_values">Global values</span></h4>
+<p>Click on New to define a new global value. Double click on the name of the value to edit its name: very handy to make your application clearer. Click on the number to change it. You can also right-click the name of the value and select Rename to rename it, or Delete to delete it. Note: you can delete only the last Global Value. 
+</p>
+<h4><span class="mw-headline" id="Global_strings">Global strings</span></h4>
+<p>Click on New to define a new global string. Double click on the name of the string to edit its name: very handy to make your application clearer. Click on the edit zone to change the string. You can also right-click the name of the string and select Rename to rename it, or Delete to delete it. Note: you can delete only the last Global String.
+</p>
+<h2><span class="mw-headline" id="Events">Events</span></h2>
+<p><a href="./File:Global_Events_Properties.png" class="image"><img alt="Global Events Properties.png" src="../w/images/9/9b/Global_Events_Properties.png" width="200" height="181" /></a><br />
+The events folder contains only one property: the Global Events. Global events are a list of events that is global to the entire application.
+</p>
+<h4><span class="mw-headline" id="Global_events">Global events</span></h4>
+<p>Click on the button to open an event editor and edit the global events. 
+</p>
+<h2><span class="mw-headline" id="About">About</span></h2>
+<p><a href="./File:Application_About_Properties.png" class="image"><img alt="Application About Properties.png" src="../w/images/7/7b/Application_About_Properties.png" width="250" height="433" /></a><br />
+</p>
+<h4><span class="mw-headline" id="Name">Name</span></h4>
+<p>This property contains the name of your application. Note this name is not the filename, it is the internal name of the application. This affects the name in the Workspace Toolbar, as well as the window title.
+</p>
+<h4><span class="mw-headline" id="Icon">Icon</span></h4>
+<p>Shows the icon of the application. Click on the Edit button to open the picture editor. You will notice that the icon is duplicated in different graphic formats&#160;: 256x256, 128x128, 48x48 pixels, 32x32 pixels and 16x16 pixels, in true colors, 256 colors and 16 colors. You must draw your icon in all the resolutions. When you build your application, Clickteam Fusion 2.5 will take the icons that are needed for the current build type. Note: only the true color images can have an alpha channel. These images are displayed under Windows XP or above. The 256 color images are displayed under the older versions of Windows when the desktop is in high or true color mode. The 16 color images are displayed when the desktop is in 256 colors.
+Trick: if you want to reset the icon to the default images, press SHIFT+CONTROL when clicking the Edit button. 
+</p>
+<h4><span class="mw-headline" id="Filename">Filename</span></h4>
+<p>This property contains the filename of the application. 
+</p>
+<h3><span class="mw-headline" id="Documentation">Documentation</span></h3>
+<h4><span class="mw-headline" id="Help_file">Help file</span></h4>
+<p>This line contains a pointer to the help file of your application. This help file will be displayed when the user presses Help. 
+</p>
+<h3><span class="mw-headline" id="Information">Information</span></h3>
+<h4><span class="mw-headline" id="Author">Author</span></h4>
+<p>Enter your name here. 
+</p>
+<h4><span class="mw-headline" id="Copyright">Copyright</span></h4>
+<p>Enter a copyright line here. 
+</p>
+<h4><span class="mw-headline" id="AboutBox_text">AboutBox text</span></h4>
+<p>Enter a text to be displayed in the about-box of your application. 
+</p>
+<h4><span class="mw-headline" id="Description">Description</span></h4>
+<p>Enter a short description of your application.
+<a href="Comparison" title="Only available for the Developer editions of Clickteam Fusion 2.5 and Multimedia Fusion 2."><img alt="Only available for the Developer editions of Clickteam Fusion 2.5 and Multimedia Fusion 2." src="../w/images/1/12/Icon_DevOnly.png" width="24" height="24" /></a> <b>Developer only. Will show "Clickteam Fusion Stand Alone Application" if exported in Standard.</b>
+</p>
+<h4><span class="mw-headline" id="Company">Company</span></h4>
+<p>Enter the name of your company (if it exists).
+<a href="Comparison" title="Only available for the Developer editions of Clickteam Fusion 2.5 and Multimedia Fusion 2."><img alt="Only available for the Developer editions of Clickteam Fusion 2.5 and Multimedia Fusion 2." src="../w/images/1/12/Icon_DevOnly.png" width="24" height="24" /></a> <b>Developer only. Will show "Clickteam" if exported in Standard.</b>
+</p>
+<h4><span class="mw-headline" id="Version">Version</span></h4>
+<p>Enter the version number of this application.
+<a href="Comparison" title="Only available for the Developer editions of Clickteam Fusion 2.5 and Multimedia Fusion 2."><img alt="Only available for the Developer editions of Clickteam Fusion 2.5 and Multimedia Fusion 2." src="../w/images/1/12/Icon_DevOnly.png" width="24" height="24" /></a> <b>Developer only.</b>
+</p>
+<h2><span class="mw-headline" id="Windows">Windows</span></h2>
+<p><a href="./File:Application_Windows_Properties.png" class="image"><img alt="Application Windows Properties.png" src="../w/images/8/8a/Application_Windows_Properties.png" width="250" height="360" /></a><br />
+No info available, please add some!
+</p>
+<h2><span class="mw-headline" id="Android_Options">Android Options</span></h2>
+<p><a href="./File:Application_Android_Options_Properties.png" class="image"><img alt="Application Android Options Properties.png" src="../w/images/1/18/Application_Android_Options_Properties.png" width="500" height="783" /></a><br />
+No info available, please add some!
+</p>
+<h2><span class="mw-headline" id="XNA_Options">XNA Options</span></h2>
+<h3><span class="mw-headline" id="Windows.2FXbox">Windows/Xbox</span></h3>
+<p><a href="./File:Application_XNA_Options_Properties.png" class="image"><img alt="Application XNA Options Properties.png" src="../w/images/0/09/Application_XNA_Options_Properties.png" width="250" height="468" /></a><br />
+No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Phone">Phone</span></h3>
+<p><a href="./File:Application_XNA_Options_Properties_(Phone).png" class="image"><img alt="Application XNA Options Properties (Phone).png" src="../w/images/d/d2/Application_XNA_Options_Properties_(Phone).png" width="250" height="534" /></a><br />
+No info available, please add some!
+</p>
+<h2><span class="mw-headline" id="iOS_Options">iOS Options</span></h2>
+<h3><span class="mw-headline" id="Application_.28cci.29">Application (cci)</span></h3>
+<p><a href="./File:Application_iOS_Options_Properties_(cci).png" class="image"><img alt="Application iOS Options Properties (cci).png" src="../w/images/d/db/Application_iOS_Options_Properties_(cci).png" width="300" height="418" /></a><br />
+No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Xcode_Project">Xcode Project</span></h3>
+<p><a href="./File:Application_iOS_Options_Properties_(Xcode).png" class="image"><img alt="Application iOS Options Properties (Xcode).png" src="../w/images/2/2a/Application_iOS_Options_Properties_(Xcode).png" width="400" height="582" /></a><br />
+No info available, please add some!
+</p>
+<h2><span class="mw-headline" id="HTML5_Options">HTML5 Options</span></h2>
+<h3><span class="mw-headline" id="Full_Version">Full Version</span></h3>
+<p><a href="./File:Application_HTML5_Options_Properties.png" class="image"><img alt="Application HTML5 Options Properties.png" src="../w/images/6/66/Application_HTML5_Options_Properties.png" width="350" height="633" /></a><br />
+No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Limited_Version">Limited Version</span></h3>
+<p><a href="./File:Application_HTML5_Options_Properties_(Limited).png" class="image"><img alt="Application HTML5 Options Properties (Limited).png" src="../w/images/f/f1/Application_HTML5_Options_Properties_(Limited).png" width="250" height="412" /></a><br />
+No info available, please add some!
+</p>
+<h2><span class="mw-headline" id="Universal_Windows_Platform">Universal Windows Platform</span></h2>
+<p><a href="./File:Application_Universal_Windows_Platform_Properties.png" class="image"><img alt="Application Universal Windows Platform Properties.png" src="../w/images/c/cc/Application_Universal_Windows_Platform_Properties.png" width="350" height="778" /></a><br />
+No info available, please add some!
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155201
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.390 seconds
+Real time usage: 0.405 seconds
+Preprocessor visited node count: 404/1000000
+Preprocessor generated node count: 440/1000000
+Post‐expand include size: 411/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   10.413      1 - -total
+ 76.32%    7.947      3 - Template:DevOnly
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:845-0!*!*!!en!5!* and timestamp 20180529155200 and revision id 1987
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Application_Properties&amp;oldid=1987">http://clickwiki.net/w/index.php?title=Application_Properties&amp;oldid=1987</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="./Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="./Category:Interface" title="Category:Interface">Interface</a></li></ul></div></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Application+Properties"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":852});});</script>
+  </body>
+</html>

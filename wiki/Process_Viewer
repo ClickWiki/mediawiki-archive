@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Process Viewer - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Process_Viewer","wgTitle":"Process Viewer","wgCurRevisionId":1761,"wgRevisionId":1761,"wgArticleId":82,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Extensions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Process_Viewer","wgRelevantArticleId":82,"wgRequestId":"ad1cef8a4ecceb3882b28f3d","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Process_Viewer rootpage-Process_Viewer skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img3.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Process_Viewer#mw-head">navigation</a>,
+          <a href="Process_Viewer#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Process Viewer</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><br />
+</p>
+<table class="wikitable" style="float:right;">
+
+<tr style="text-align:center;">
+<td colspan="2"><a href="./File:Icon_ProcessViewer_Extension.png" class="image"><img alt="Icon ProcessViewer Extension.png" src="../w/images/b/b4/Icon_ProcessViewer_Extension.png" width="32" height="32" /></a>
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td>xtraverse
+</td></tr>
+<tr>
+<td><b>Status</b>
+</td>
+<td>Released
+</td></tr>
+<tr>
+<td><b>Release Date</b>
+</td>
+<td>2004
+</td></tr>
+<tr style="display: none;">
+<td> <b>Last Updated</b>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Available for</b>
+</td>
+<td><a href="Multimedia_Fusion_1.5" title="Multimedia Fusion 1.5"><img alt="Multimedia Fusion 1.5" src="../w/images/f/f7/Icon_MMF1.5.png" width="24" height="24" /></a> <a href="Multimedia_Fusion_2#Developer" title="Multimedia Fusion Developer 2"><img alt="Multimedia Fusion Developer 2" src="../w/images/d/de/Icon_MMF2Dev.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>Supported Runtimes</b>
+</td>
+<td><a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>License</b>
+</td>
+<td>Free
+</td></tr>
+<tr>
+<td> <b>Attributes</b>
+</td>
+<td> <a href="Comparison" title="Only available for the Developer editions of Clickteam Fusion 2.5 and Multimedia Fusion 2."><img alt="Only available for the Developer editions of Clickteam Fusion 2.5 and Multimedia Fusion 2." src="../w/images/1/12/Icon_DevOnly.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<th colspan="2"> Download
+</th></tr>
+<tr>
+<td><b>Includes Examples</b>
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">No
+</td></tr>
+<tr>
+<td><b>Includes Help Files</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Links</b>
+</td>
+<td><a href="Extension_Manager" title="Extension Manager">Extension Manager</a> or<br />
+<p>Via <a href="Bonus_Pack" class="mw-redirect" title="Bonus Pack">Bonus Pack</a>
+</p>
+</td></tr>
+
+<tr style="display: none;">
+<td> <b>Alternates</b>
+</td>
+<td>
+</td></tr>
+</table>
+<p>The <b>Process Viewer</b> extension allows you to retrieve and perform actions of processes of the currently running Windows system. It was originally created for <a href="Multimedia_Fusion_1.5" title="Multimedia Fusion 1.5">Multimedia Fusion 1.5</a> but is compatible with <a href="MMF2" class="mw-redirect" title="MMF2">MMF2</a> and <a href="Fusion_2.5" class="mw-redirect" title="Fusion 2.5">Fusion 2.5</a>. It is available through the <a href="Extension_Manager" title="Extension Manager">Extension Manager</a>, or bonus extension packs.
+</p><p><b>The extension can interact in two ways:</b>
+</p>
+<ul><li> Snapshots of the process list (one is taken as soon as the frame containing this extension is loaded)</li>
+<li> Enumerating (looping) through each process.</li></ul>
+<p><br />
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Process_Viewer#Properties"><span class="tocnumber">1</span> <span class="toctext">Properties</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="Process_Viewer#Actions"><span class="tocnumber">2</span> <span class="toctext">Actions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="Process_Viewer#Conditions"><span class="tocnumber">3</span> <span class="toctext">Conditions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="Process_Viewer#Expressions"><span class="tocnumber">4</span> <span class="toctext">Expressions</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="Process_Viewer#Tips_.26_Tricks"><span class="tocnumber">5</span> <span class="toctext">Tips &amp; Tricks</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="Process_Viewer#Waiting_for_a_program_to_have_stopped_running"><span class="tocnumber">5.1</span> <span class="toctext">Waiting for a program to have stopped running</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Properties">Properties</span></h2>
+<p>This object has no properties.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Actions">Actions</span></h2>
+<ul><li> <b>Processes</b>
+<ul><li> <b>Update Process List</b> - Updates the snapshot of all processes for the extension. The expressions for reading are set to the beginning.</li>
+<li> <b>Next Process</b> - Sets the current expression to the next one from the snapshot.</li>
+<li> <b>Enumerate Processes</b> - Loops all the processes presently running on the system.</li></ul></li>
+<li> <b>Threads</b>
+<ul><li> <b>Update Thread List</b></li>
+<li> <b>Next Thread</b></li>
+<li> <b>Enumerate Threads</b></li></ul></li>
+<li> <b>Modules</b>
+<ul><li> <b>Update Module List</b></li>
+<li> <b>Next Module</b></li>
+<li> <b>Enumerate Modules</b></li></ul></li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Conditions">Conditions</span></h2>
+<ul><li> <b>On Process</b></li>
+<li> <b>On Thread</b></li>
+<li> <b>On Module</b></li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Expressions">Expressions</span></h2>
+<ul><li> Processes
+<ul><li> <b>Process ID</b></li>
+<li> <b>EXE Filename</b></li>
+<li> <b>Thread Count</b></li>
+<li> <b>Parent Process</b></li>
+<li> <b>Priority Base</b></li>
+<li> <b>Priority Class</b></li></ul></li>
+<li> Threads
+<ul><li> <b>Thread ID</b></li>
+<li> <b>Owner Process</b></li>
+<li> <b>Priority Base</b></li></ul></li>
+<li> Modules
+<ul><li> <b>Module Name</b></li>
+<li> <b>Module EXE Path</b></li>
+<li> <b>Module Handle</b></li>
+<li> <b>Process ID</b></li>
+<li> <b>Base Address</b></li>
+<li> <b>Module Size</b></li></ul></li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Tips_.26_Tricks">Tips &amp; Tricks</span></h2>
+<h3><span class="mw-headline" id="Waiting_for_a_program_to_have_stopped_running">Waiting for a program to have stopped running</span></h3>
+<p>You can make your application perform an action once another process has stopped running, including external processes.
+</p><p><br />
+</p>
+<table class="wikitable">
+<tr>
+<td colspan="2">
+<p><br />
+</p>
+</td>
+<td valign="middle" style="width:32px;height:32px;text-align:center;vertical-align:middle;background-color:#F0F0F0;border:1px solid #A0A0A0"> <a href="Process_Viewer" title="Process Viewer"><img alt="Process Viewer" src="../w/images/b/b4/Icon_ProcessViewer_Extension.png" width="32" height="32" /></a>
+</td>
+<td valign="middle" style="width:32px;height:32px;text-align:center;vertical-align:middle;background-color:#F0F0F0;border:1px solid #A0A0A0"> <a href="Storyboard_Object" title="Storyboard Object"><img alt="Storyboard Object" src="../w/images/f/fb/Storyboard_Controls.png" width="32" height="32" /></a>
+</td></tr>
+<tr style="font-family:Verdana;font-size:12px;background-color:#F1F1F1;border: 1px solid #A0A0A0">
+<td style="width:28px;height:16px;text-align:center;background-color:#F0F0F0;border:1px solid #A0A0A0"> 1
+</td>
+<td style="width:300px;text-align:left;background-color:#F0F0F0;border:1px solid #A0A0A0;"> • Every 02"-00
+</td>
+<td style="width:16px;height:16px"> <img class="simple-tooltip simple-tooltip-img" data-simple-tooltip="Enumerate Processes" src="https://clickwiki.net/w/images/0/07/EE_Checkmark.png"></img>
+</td>
+<td>
+</td></tr>
+<tr style="font-family:Verdana;font-size:12px;background-color:#F1F1F1;border: 1px solid #A0A0A0">
+<td style="width:28px;height:16px;text-align:center;background-color:#F0F0F0;border:1px solid #A0A0A0"> 2
+</td>
+<td style="width:300px;text-align:left;background-color:#F0F0F0;border:1px solid #A0A0A0;"> • <a href="Process_Viewer" title="Process Viewer"><img alt="Process Viewer" src="../w/images/b/b4/Icon_ProcessViewer_Extension.png" width="24" height="24" /></a> On Process
+<p><b>Compare two general values:</b>
+pExeFile$( "<a href="Process_Viewer" title="Process Viewer"><img alt="Process Viewer" src="../w/images/b/b4/Icon_ProcessViewer_Extension.png" width="24" height="24" /></a>" ) = "process_name.exe"
+</p>
+</td>
+<td>
+</td>
+<td style="width:16px;height:16px"> <img class="simple-tooltip simple-tooltip-img" data-simple-tooltip="Next Frame" src="https://clickwiki.net/w/images/0/07/EE_Checkmark.png"></img>
+<p><br />
+</p>
+</td></tr>
+<tr style="font-family:Verdana;font-size:12px;background-color:#F1F1F1;border: 1px solid #A0A0A0">
+<td style="width:28px;height:16px;text-align:center;background-color:#F0F0F0;border:1px solid #A0A0A0"> 3
+</td>
+<td style="width:300px;text-align:left;background-color:#F0F0F0;border:1px solid #A0A0A0;"> • New condition
+</td></tr></table>
+<p><br />
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155153
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.440 seconds
+Real time usage: 0.440 seconds
+Preprocessor visited node count: 157/1000000
+Preprocessor generated node count: 839/1000000
+Post‐expand include size: 3533/2097152 bytes
+Template argument size: 1107/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  196.818      1 - -total
+ 56.40%  111.001      1 - Template:InfoExtension
+  9.47%   18.648      2 - Template:EventLine
+  9.23%   18.164      2 - Template:EventCheck
+  7.86%   15.473      2 - Template:EventColumn
+  6.02%   11.844      1 - Template:EventEnd
+  5.72%   11.250      1 - Template:MMF2Dev
+  5.36%   10.541      1 - Template:EventStart
+  5.24%   10.315      1 - Template:MMF1.5
+  5.13%   10.102      1 - Template:DevOnly
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:82-0!*!0!!en!5!* and timestamp 20180529155153 and revision id 1761
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (13.0%), <a href="/w/index.php?title=User:Lh37&amp;action=edit&amp;redlink=1" class="new" title="User:Lh37 (page does not exist)">Lh37</a> (87.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Process_Viewer&amp;oldid=1761">http://clickwiki.net/w/index.php?title=Process_Viewer&amp;oldid=1761</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="./Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="./Category:Extensions" title="Category:Extensions">Extensions</a></li></ul></div></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Process+Viewer"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":868});});</script>
+  </body>
+</html>

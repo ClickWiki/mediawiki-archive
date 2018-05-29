@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Multiple Touch - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Multiple_Touch","wgTitle":"Multiple Touch","wgCurRevisionId":1877,"wgRevisionId":1877,"wgArticleId":891,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Multiple_Touch","wgRelevantArticleId":891,"wgRequestId":"2d17acc25f3a427692d6192c","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Multiple_Touch rootpage-Multiple_Touch skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img5.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Multiple_Touch#mw-head">navigation</a>,
+          <a href="Multiple_Touch#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Multiple Touch</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="wikitable" style="float:right;">
+
+<tr style="text-align:center;">
+<td colspan="2"><a href="./File:Icon_Multiple_Touch.png" class="image"><img alt="Icon Multiple Touch.png" src="../w/images/3/3c/Icon_Multiple_Touch.png" width="32" height="32" /></a>
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td><a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a>
+</td></tr>
+<tr>
+<td><b>Status</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Released
+</td></tr>
+<tr>
+<td><b>Release Date</b>
+</td>
+<td>Unknown
+</td></tr>
+<tr style="display: none;">
+<td> <b>Last Updated</b>
+</td>
+<td> {{{LastUpdated}}}
+</td></tr>
+<tr>
+<td><b>Available for</b>
+</td>
+<td>Not yet documented
+</td></tr>
+<tr>
+<td><b>Supported Runtimes</b>
+</td>
+<td><a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a> <a href="XNA_Runtime" title="XNA Runtime (now deprecated)"><img alt="XNA Runtime (now deprecated)" src="../w/images/9/9f/Runtime_XNA.png" width="24" height="24" /></a> <a href="UWP_Runtime" title="UWP Runtime"><img alt="UWP Runtime" src="../w/images/5/5a/Runtime_UWP.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>License</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Free
+</td></tr>
+<tr style="display: none;">
+<td> <b>Attributes</b>
+</td>
+<td> {{{Attributes}}}
+</td></tr>
+<tr>
+<th colspan="2"> Download
+</th></tr>
+<tr>
+<td><b>Includes Examples</b>
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">No
+</td></tr>
+<tr>
+<td><b>Includes Help Files</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Links</b>
+</td>
+<td style="text-align:center;width:24px"> <div class="center"><div class="floatnone"><a href="Extension_Manager" title="Downloadable via the Extension Manager"><img alt="Downloadable via the Extension Manager" src="../w/images/5/53/ExtManagerIcon.png" width="24" height="28" /></a></div></div> <i>Included by default.</i>
+</td></tr>
+
+<tr>
+<td> <b>Alternates</b>
+</td>
+<td> <a href="The_Mouse_&amp;_Keyboard_object" title="The Mouse &amp; Keyboard object">The Mouse &amp; Keyboard object</a>
+</td></tr>
+</table>
+<p>The Multiple Touch object allows you to retrieve the coordinates of the user's fingers on the screen of a multitouch device. 
+You can detect more than one "touch" at the same time, track the position of each touch, detect a touch on an object and a pinch gesture. 
+<b>iOS only</b>: in order to work with multiple touches, <a href="Frame_Properties#iOS_Options" title="Frame Properties">the "Touch mode" property must be set to "Multiple touches" in the frame's properties</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Multiple_Touch#Conditions"><span class="tocnumber">1</span> <span class="toctext">Conditions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="Multiple_Touch#A_new_touch_has_started"><span class="tocnumber">1.1</span> <span class="toctext">A new touch has started</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="Multiple_Touch#A_new_touch_on_an_object_has_started"><span class="tocnumber">1.2</span> <span class="toctext">A new touch on an object has started</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="Multiple_Touch#A_touch_has_moved_.28number.29"><span class="tocnumber">1.3</span> <span class="toctext">A touch has moved (number)</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="Multiple_Touch#A_touch_is_active_.28number.29"><span class="tocnumber">1.4</span> <span class="toctext">A touch is active (number)</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="Multiple_Touch#A_touch_on_an_object_is_active_.28number.29"><span class="tocnumber">1.5</span> <span class="toctext">A touch on an object is active (number)</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="Multiple_Touch#A_touch_has_been_released"><span class="tocnumber">1.6</span> <span class="toctext">A touch has been released</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="Multiple_Touch#A_touch_has_been_released_.28number.29"><span class="tocnumber">1.7</span> <span class="toctext">A touch has been released (number)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="Multiple_Touch#Actions"><span class="tocnumber">2</span> <span class="toctext">Actions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="Multiple_Touch#Set_drag_X_origin"><span class="tocnumber">2.1</span> <span class="toctext">Set drag X origin</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="Multiple_Touch#Set_drag_Y_origin"><span class="tocnumber">2.2</span> <span class="toctext">Set drag Y origin</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="Multiple_Touch#Expressions"><span class="tocnumber">3</span> <span class="toctext">Expressions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="Multiple_Touch#Touch"><span class="tocnumber">3.1</span> <span class="toctext">Touch</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="Multiple_Touch#Get_number_of_touches"><span class="tocnumber">3.1.1</span> <span class="toctext">Get number of touches</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="Multiple_Touch#Get_last_touch"><span class="tocnumber">3.1.2</span> <span class="toctext">Get last touch</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="Multiple_Touch#Get_last_new_touch"><span class="tocnumber">3.1.3</span> <span class="toctext">Get last new touch</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="Multiple_Touch#Get_last_end_touch"><span class="tocnumber">3.1.4</span> <span class="toctext">Get last end touch</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="Multiple_Touch#Get_touch_X"><span class="tocnumber">3.1.5</span> <span class="toctext">Get touch X</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="Multiple_Touch#Get_touch_Y"><span class="tocnumber">3.1.6</span> <span class="toctext">Get touch Y</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-20"><a href="Multiple_Touch#Drag"><span class="tocnumber">3.2</span> <span class="toctext">Drag</span></a>
+<ul>
+<li class="toclevel-3 tocsection-21"><a href="Multiple_Touch#Get_X_origin"><span class="tocnumber">3.2.1</span> <span class="toctext">Get X origin</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="Multiple_Touch#Get_Y_origin"><span class="tocnumber">3.2.2</span> <span class="toctext">Get Y origin</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="Multiple_Touch#Get_X_delta"><span class="tocnumber">3.2.3</span> <span class="toctext">Get X delta</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="Multiple_Touch#Get_Y_delta"><span class="tocnumber">3.2.4</span> <span class="toctext">Get Y delta</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="Multiple_Touch#Get_angle"><span class="tocnumber">3.2.5</span> <span class="toctext">Get angle</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="Multiple_Touch#Get_distance"><span class="tocnumber">3.2.6</span> <span class="toctext">Get distance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-27"><a href="Multiple_Touch#Pinch"><span class="tocnumber">3.3</span> <span class="toctext">Pinch</span></a>
+<ul>
+<li class="toclevel-3 tocsection-28"><a href="Multiple_Touch#Get_pinch_distance"><span class="tocnumber">3.3.1</span> <span class="toctext">Get pinch distance</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="Multiple_Touch#Get_pinch_angle"><span class="tocnumber">3.3.2</span> <span class="toctext">Get pinch angle</span></a></li>
+<li class="toclevel-3 tocsection-30"><a href="Multiple_Touch#Get_pinch_percentage"><span class="tocnumber">3.3.3</span> <span class="toctext">Get pinch percentage</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Conditions">Conditions</span></h2>
+<h4><span class="mw-headline" id="A_new_touch_has_started">A new touch has started</span></h4>
+<p>This one-shot condition is fired when the user has started a new touch on the screen of the device. Touches are affected to "slots" in the extension, with a maximum of 10 touches at the same time. Use the Get last touch, or Get last new touch expression to retrieve the slot number of the touch. The first free slot is affected to the new touch: if no finger is on the screen when a touch starts, then slot number 0 will be used.
+</p>
+<h4><span class="mw-headline" id="A_new_touch_on_an_object_has_started">A new touch on an object has started</span></h4>
+<p>This one-shot condition is fired when the user has started a new touch on the specified object. As for the previous condition, touches on objects are affected to slots. 
+</p>
+<h4><span class="mw-headline" id="A_touch_has_moved_.28number.29">A touch has moved (number)</span></h4>
+<p>This one-shot condition is fired when the user moves his finger on the screen of the device. It can happen very rapidly. You have to specify the number of the touch (slot) to test.
+</p>
+<h4><span class="mw-headline" id="A_touch_is_active_.28number.29">A touch is active (number)</span></h4>
+<p>This condition is true as long as the specified touch is active, meaning that the user has not taken his finger off the device. This condition can be true even if the finger has not moved.
+</p>
+<h4><span class="mw-headline" id="A_touch_on_an_object_is_active_.28number.29">A touch on an object is active (number)</span></h4>
+<p>This condition is true as long as the specified touch is active and positioned over the given object. 
+</p>
+<h4><span class="mw-headline" id="A_touch_has_been_released">A touch has been released</span></h4>
+<p>This one-shot condition is fired when a touch has been released (when the user removes his finger from the screen). Use the Get last touch or Get last end touch to find the number of the touch.
+</p>
+<h4><span class="mw-headline" id="A_touch_has_been_released_.28number.29">A touch has been released (number)</span></h4>
+<p>This one-shot condition is fired when the specific touch has been released (when the user removes his finger from the screen). It asks for one parameter, the number of the touch to monitor.
+</p>
+<h2><span class="mw-headline" id="Actions">Actions</span></h2>
+<h4><span class="mw-headline" id="Set_drag_X_origin">Set drag X origin</span></h4>
+<p>This action changes the X coordinate of the origin of the drag operation. It asks for the number of the touch to affect and the new coordinate.
+</p>
+<h4><span class="mw-headline" id="Set_drag_Y_origin">Set drag Y origin</span></h4>
+<p>This action changes the Y coordinate of the origin of the drag operation. It asks for the number of the touch to affect and the new coordinate.
+</p>
+<h2><span class="mw-headline" id="Expressions">Expressions</span></h2>
+<h3><span class="mw-headline" id="Touch">Touch</span></h3>
+<h4><span class="mw-headline" id="Get_number_of_touches">Get number of touches</span></h4>
+<pre>Number( "Multiple Touch" )
+</pre>
+<p>Retrieves the current number of active touches, which is the number of fingers on the screen.
+</p>
+<h4><span class="mw-headline" id="Get_last_touch">Get last touch</span></h4>
+<pre>LastTouch( "Multiple Touch" )
+</pre>
+<p>Retrieves the slot number of the last touch initiated by the user. Please note, that if the user starts two touches at the same time (quite unlikely, but this can happen), you may miss one of the new touches.
+</p>
+<h4><span class="mw-headline" id="Get_last_new_touch">Get last new touch</span></h4>
+<pre>LastNewTouch( "Multiple Touch" )
+</pre>
+<p>Retrieves the slot number of the last new touch initiated by the user. Please note, that if the user starts two touches at the same time (quite unlikely, but this can happen), the second one is reported.
+</p>
+<h4><span class="mw-headline" id="Get_last_end_touch">Get last end touch</span></h4>
+<pre>LastEndTouch( "Multiple Touch" )
+</pre>
+<p>Retrieves the slot number of the last touch released by the user. Please note, that if the user end two touches at the same time (quite unlikely, but this can happen), the second one is reported.
+</p>
+<h4><span class="mw-headline" id="Get_touch_X">Get touch X</span></h4>
+<pre>XTouch( "Multiple Touch", &gt;Number of the touch (0 based)&lt; )
+</pre>
+<p>Returns the last X coordinate of the touch in the given slot. The parameter is the number of the slot to test. If the slot is not an active touch at the time of calling, this expression returns -1.
+</p>
+<h4><span class="mw-headline" id="Get_touch_Y">Get touch Y</span></h4>
+<pre>YTouch( "Multiple Touch", &gt;Number of the touch (0 based)&lt; )
+</pre>
+<p>Returns the last Y coordinate of the touch in the given slot. The parameter is the number of the slot to test. If the slot is not an active touch at the time of calling, this expression returns -1.
+</p>
+<h3><span class="mw-headline" id="Drag">Drag</span></h3>
+<h4><span class="mw-headline" id="Get_X_origin">Get X origin</span></h4>
+<pre>XTouchOrigin( "Multiple Touch", &gt;Number of the touch (0 based)&lt; )
+</pre>
+<p>Returns the X position where the drag operation has begun (where the user has put his finger). This expression asks for the number of the touch.
+</p>
+<h4><span class="mw-headline" id="Get_Y_origin">Get Y origin</span></h4>
+<pre>YTouchOrigin( "Multiple Touch", &gt;Number of the touch (0 based)&lt; )
+</pre>
+<p>Same as above, for the Y origin.
+</p>
+<h4><span class="mw-headline" id="Get_X_delta">Get X delta</span></h4>
+<pre>XTouchDelta( "Multiple Touch", &gt;Number of the touch (0 based)&lt; )
+</pre>
+<p>In case of drag, this expression returns the difference between the current X position of the finger and the origin of the drag. It asks for the number of the touch.
+</p>
+<h4><span class="mw-headline" id="Get_Y_delta">Get Y delta</span></h4>
+<pre>YTouchDelta( "Multiple Touch", &gt;Number of the touch (0 based)&lt; )
+</pre>
+<p>Same as above, for the Y difference.
+</p>
+<h4><span class="mw-headline" id="Get_angle">Get angle</span></h4>
+<pre>AngleTouch( "Multiple Touch", &gt;Number of the touch (0 based)&lt; )
+</pre>
+<p>In case of drag, this expression returns the angle of the vector traced between the origin and the current dragging point. The value returned is the angle in degrees, from 0 to 360. This expression asks for the number of the touch.
+</p>
+<h4><span class="mw-headline" id="Get_distance">Get distance</span></h4>
+<pre>DistanceTouch( "Multiple Touch", &gt;Number of the touch (0 based)&lt; )
+</pre>
+<p>In case of drag, this expression returns the distance between the current position of the drag and its origin. This expression asks for the number of the touch.
+</p>
+<h3><span class="mw-headline" id="Pinch">Pinch</span></h3>
+<h4><span class="mw-headline" id="Get_pinch_distance">Get pinch distance</span></h4>
+<pre>pinchDistance( "Multiple Touch" )
+</pre>
+<p>This expression returns, when it is active, the distance between the two fingers of the pinch. The result is only valid when a pinch is occurring.
+</p>
+<h4><span class="mw-headline" id="Get_pinch_angle">Get pinch angle</span></h4>
+<pre>pinchAngle( "Multiple Touch" )
+</pre>
+<p>This expression returns, when it is active, the angle of the pinch (the angle of the line created by the two fingers). The result is expressed in degrees, and is only valid when a pinch is occurring.
+</p>
+<h4><span class="mw-headline" id="Get_pinch_percentage">Get pinch percentage</span></h4>
+<pre>pinchPercent( "Multiple Touch" )
+</pre>
+<p>This expression returns, when it is active, the percentage of growth of the distance between the two fingers compared with the distance when the pinch started. For example, a value of 200 will mean that the distance has doubled.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155313
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.340 seconds
+Real time usage: 0.347 seconds
+Preprocessor visited node count: 195/1000000
+Preprocessor generated node count: 617/1000000
+Post‐expand include size: 2638/2097152 bytes
+Template argument size: 1107/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  101.958      1 - -total
+100.00%  101.958      1 - Template:InfoExtension
+  8.50%    8.669      3 - Template:Yes
+  6.82%    6.953      1 - Template:No
+  6.30%    6.421      1 - Template:ExtManager
+  6.20%    6.325      1 - Template:ClickteamExtension
+  5.99%    6.110      1 - Template:FusionUWP
+  5.99%    6.104      1 - Template:EXE
+  5.95%    6.065      1 - Template:XNA
+  5.86%    5.971      1 - Template:Flash
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:891-0!*!0!!en!5!* and timestamp 20180529155313 and revision id 1877
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Multiple_Touch&amp;oldid=1877">http://clickwiki.net/w/index.php?title=Multiple_Touch&amp;oldid=1877</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Multiple+Touch"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":838});});</script>
+  </body>
+</html>

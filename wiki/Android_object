@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Android object - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Android_object","wgTitle":"Android object","wgCurRevisionId":1857,"wgRevisionId":1857,"wgArticleId":878,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Android_object","wgRelevantArticleId":878,"wgRequestId":"5aed8234af618de9a9a95c99","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Android_object rootpage-Android_object skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img1.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Android_object#mw-head">navigation</a>,
+          <a href="Android_object#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Android object</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="wikitable" style="float:right;">
+
+<tr style="text-align:center;">
+<td colspan="2"><a href="./File:Icon_Android_object.png" class="image"><img alt="Icon Android object.png" src="../w/images/9/9d/Icon_Android_object.png" width="32" height="32" /></a>
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td><a href="Clickteam" title="Clickteam">Clickteam</a>
+</td></tr>
+<tr>
+<td><b>Status</b>
+</td>
+<td>Released
+</td></tr>
+<tr>
+<td><b>Release Date</b>
+</td>
+<td>2006
+</td></tr>
+<tr style="display: none;">
+<td> <b>Last Updated</b>
+</td>
+<td> {{{LastUpdated}}}
+</td></tr>
+<tr>
+<td><b>Available for</b>
+</td>
+<td><a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a> <a href="Multimedia_Fusion_2#Developer" title="Multimedia Fusion Developer 2"><img alt="Multimedia Fusion Developer 2" src="../w/images/d/de/Icon_MMF2Dev.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>Supported Runtimes</b>
+</td>
+<td><a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>License</b>
+</td>
+<td>Free
+</td></tr>
+<tr>
+<td> <b>Attributes</b>
+</td>
+<td> <a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a>
+</td></tr>
+<tr>
+<th colspan="2"> Download
+</th></tr>
+<tr>
+<td><b>Includes Examples</b>
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td></tr>
+<tr>
+<td><b>Includes Help Files</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Links</b>
+</td>
+<td style="text-align:center;width:24px"> <div class="center"><div class="floatnone"><a href="Extension_Manager" title="Downloadable via the Extension Manager"><img alt="Downloadable via the Extension Manager" src="../w/images/5/53/ExtManagerIcon.png" width="24" height="28" /></a></div></div> <i>Part of the Android Exporter</i>
+</td></tr>
+
+<tr style="display: none;">
+<td> <b>Alternates</b>
+</td>
+<td>
+</td></tr>
+</table>
+<p>The Android object contains specific functions for the Android devices. 
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Android_object#Conditions"><span class="tocnumber">1</span> <span class="toctext">Conditions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="Android_object#Device_has_a_GPU.3F"><span class="tocnumber">1.1</span> <span class="toctext">Device has a GPU?</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="Android_object#User_is_roaming"><span class="tocnumber">1.2</span> <span class="toctext">User is roaming</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="Android_object#Network_is_connected.3F"><span class="tocnumber">1.3</span> <span class="toctext">Network is connected?</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="Android_object#Bluetooth_is_enabled.3F"><span class="tocnumber">1.4</span> <span class="toctext">Bluetooth is enabled?</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="Android_object#Device_is_rooted.3F"><span class="tocnumber">1.5</span> <span class="toctext">Device is rooted?</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="Android_object#Device_is_plugged_in.3F"><span class="tocnumber">1.6</span> <span class="toctext">Device is plugged in?</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="Android_object#Battery_is_charging_.2F_discharging_.2F_full.3F"><span class="tocnumber">1.7</span> <span class="toctext">Battery is charging / discharging / full?</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="Android_object#On_incoming_intent"><span class="tocnumber">1.8</span> <span class="toctext">On incoming intent</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="Android_object#On_any_incoming_intent"><span class="tocnumber">1.9</span> <span class="toctext">On any incoming intent</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="Android_object#On_back_button_pressed.3F"><span class="tocnumber">1.10</span> <span class="toctext">On back button pressed?</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="Android_object#On_menu_button_pressed.3F"><span class="tocnumber">1.11</span> <span class="toctext">On menu button pressed?</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="Android_object#Is_back_button_down.3F"><span class="tocnumber">1.12</span> <span class="toctext">Is back button down?</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="Android_object#Is_menu_button_down.3F"><span class="tocnumber">1.13</span> <span class="toctext">Is menu button down?</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="Android_object#Read_button_state"><span class="tocnumber">1.14</span> <span class="toctext">Read button state</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="Android_object#On_options_menu_item_selected"><span class="tocnumber">1.15</span> <span class="toctext">On options menu item selected</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="Android_object#On_any_options_menu_item_selected"><span class="tocnumber">1.16</span> <span class="toctext">On any options menu item selected</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="Android_object#Actions"><span class="tocnumber">2</span> <span class="toctext">Actions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="Android_object#Log_functions"><span class="tocnumber">2.1</span> <span class="toctext">Log functions</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="Android_object#Sleep_prevention"><span class="tocnumber">2.2</span> <span class="toctext">Sleep prevention</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="Android_object#Open_URL"><span class="tocnumber">2.3</span> <span class="toctext">Open URL</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="Android_object#Intent_.28outgoing.29_.2F_Start_intent"><span class="tocnumber">2.4</span> <span class="toctext">Intent (outgoing) / Start intent</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="Android_object#Intent_.28outgoing.29_.2F_Start_intent_with_chooser"><span class="tocnumber">2.5</span> <span class="toctext">Intent (outgoing) / Start intent with chooser</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="Android_object#Intent_.28outgoing.29_.2F_Add_category"><span class="tocnumber">2.6</span> <span class="toctext">Intent (outgoing) / Add category</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="Android_object#Intent_.28outgoing.29_.2F_Add_extra_data"><span class="tocnumber">2.7</span> <span class="toctext">Intent (outgoing) / Add extra data</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="Android_object#Intent_.28incoming.29_.2F_Subscribe_to_action"><span class="tocnumber">2.8</span> <span class="toctext">Intent (incoming) / Subscribe to action</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="Android_object#Intent_.28incoming.29_.2F_Unsubscribe_from_action"><span class="tocnumber">2.9</span> <span class="toctext">Intent (incoming) / Unsubscribe from action</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="Android_object#Vibrate"><span class="tocnumber">2.10</span> <span class="toctext">Vibrate</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="Android_object#Expressions"><span class="tocnumber">3</span> <span class="toctext">Expressions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-30"><a href="Android_object#GPU_name"><span class="tocnumber">3.1</span> <span class="toctext">GPU name</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="Android_object#GPU_vendor"><span class="tocnumber">3.2</span> <span class="toctext">GPU vendor</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="Android_object#Phone_unique_ID"><span class="tocnumber">3.3</span> <span class="toctext">Phone unique ID</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="Android_object#Network_operator_name"><span class="tocnumber">3.4</span> <span class="toctext">Network operator name</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="Android_object#Device_unique_ID"><span class="tocnumber">3.5</span> <span class="toctext">Device unique ID</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="Android_object#Battery_charge_percentage"><span class="tocnumber">3.6</span> <span class="toctext">Battery charge percentage</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="Android_object#Screen_width"><span class="tocnumber">3.7</span> <span class="toctext">Screen width</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="Android_object#Screen_height"><span class="tocnumber">3.8</span> <span class="toctext">Screen height</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="Android_object#Renderer_type"><span class="tocnumber">3.9</span> <span class="toctext">Renderer type</span></a></li>
+<li class="toclevel-2 tocsection-39"><a href="Android_object#Ad_height"><span class="tocnumber">3.10</span> <span class="toctext">Ad height</span></a></li>
+<li class="toclevel-2 tocsection-40"><a href="Android_object#Get_data_storage_directory"><span class="tocnumber">3.11</span> <span class="toctext">Get data storage directory</span></a></li>
+<li class="toclevel-2 tocsection-41"><a href="Android_object#Temp_directory"><span class="tocnumber">3.12</span> <span class="toctext">Temp directory</span></a></li>
+<li class="toclevel-2 tocsection-42"><a href="Android_object#External_storage_directory"><span class="tocnumber">3.13</span> <span class="toctext">External storage directory</span></a></li>
+<li class="toclevel-2 tocsection-43"><a href="Android_object#Runtime_.2F_Runtime_version"><span class="tocnumber">3.14</span> <span class="toctext">Runtime / Runtime version</span></a></li>
+<li class="toclevel-2 tocsection-44"><a href="Android_object#Runtime_.2F_Application_title"><span class="tocnumber">3.15</span> <span class="toctext">Runtime / Application title</span></a></li>
+<li class="toclevel-2 tocsection-45"><a href="Android_object#Runtime_.2F_Application_package_name"><span class="tocnumber">3.16</span> <span class="toctext">Runtime / Application package name</span></a></li>
+<li class="toclevel-2 tocsection-46"><a href="Android_object#Runtime_.2F_Application_version"><span class="tocnumber">3.17</span> <span class="toctext">Runtime / Application version</span></a></li>
+<li class="toclevel-2 tocsection-47"><a href="Android_object#Intent_.28incoming.29_.2F_Action"><span class="tocnumber">3.18</span> <span class="toctext">Intent (incoming) / Action</span></a></li>
+<li class="toclevel-2 tocsection-48"><a href="Android_object#Intent_.28incoming.29_.2F_Data"><span class="tocnumber">3.19</span> <span class="toctext">Intent (incoming) / Data</span></a></li>
+<li class="toclevel-2 tocsection-49"><a href="Android_object#Intent_.28incoming.29_.2F_Extra_data_.28by_key.29_.2F_String"><span class="tocnumber">3.20</span> <span class="toctext">Intent (incoming) / Extra data (by key) / String</span></a></li>
+<li class="toclevel-2 tocsection-50"><a href="Android_object#Intent_.28incoming.29_.2F_Extra_data_.28by_key.29_.2F_Boolean"><span class="tocnumber">3.21</span> <span class="toctext">Intent (incoming) / Extra data (by key) / Boolean</span></a></li>
+<li class="toclevel-2 tocsection-51"><a href="Android_object#Intent_.28incoming.29_.2F_Extra_data_.28by_key.29_.2F_Integer"><span class="tocnumber">3.22</span> <span class="toctext">Intent (incoming) / Extra data (by key) / Integer</span></a></li>
+<li class="toclevel-2 tocsection-52"><a href="Android_object#Selected_options_menu_item"><span class="tocnumber">3.23</span> <span class="toctext">Selected options menu item</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Conditions">Conditions</span></h2>
+<h3><span class="mw-headline" id="Device_has_a_GPU.3F">Device has a GPU?</span></h3>
+<p>This condition is true if the device has a GPU (graphic processor unit). Note: although applications created with Clickteam Fusion 2.5 run on devices without GPU, graphical applications are very slow on these devices. 
+</p>
+<h3><span class="mw-headline" id="User_is_roaming">User is roaming</span></h3>
+<p>This condition is true when the user is roaming. 
+</p>
+<h3><span class="mw-headline" id="Network_is_connected.3F">Network is connected?</span></h3>
+<p>This condition is true when the device is connected to the network.<br />
+<b>Important</b>: you must select the ACCESS_NETWORK_STATE permission in the properties of the application, otherwise this function won't work or will crash. 
+</p>
+<h3><span class="mw-headline" id="Bluetooth_is_enabled.3F">Bluetooth is enabled?</span></h3>
+<p>This condition is true when Bluetooth is enabled on the device.<br />
+<b>Important</b>: you must select the BLUETOOTH permission in the properties of the application otherwise this function won't work or will crash. 
+</p>
+<h3><span class="mw-headline" id="Device_is_rooted.3F">Device is rooted?</span></h3>
+<p>This condition attempts to detect if the device has been rooted. Note that this may not work on all devices or with different rooting methods. 
+</p>
+<h3><span class="mw-headline" id="Device_is_plugged_in.3F">Device is plugged in?</span></h3>
+<p>These conditions are true when the device is plugged into any power source, an AC adapter or an USB port. 
+</p>
+<h3><span class="mw-headline" id="Battery_is_charging_.2F_discharging_.2F_full.3F">Battery is charging / discharging / full?</span></h3>
+<p>These conditions allow you to test the status of the battery. 
+</p>
+<h3><span class="mw-headline" id="On_incoming_intent">On incoming intent</span></h3>
+<p>This condition is true when the application receives a specific intent. Parameter = action name. 
+</p>
+<h3><span class="mw-headline" id="On_any_incoming_intent">On any incoming intent</span></h3>
+<p>This condition is true when the application receives any intent. 
+</p>
+<h3><span class="mw-headline" id="On_back_button_pressed.3F">On back button pressed?</span></h3>
+<p>This condition works only if you select the "Disable default back button behavior" option in the properties of the application. In this case, it's triggered when the user presses the back button. 
+</p>
+<h3><span class="mw-headline" id="On_menu_button_pressed.3F">On menu button pressed?</span></h3>
+<p>This condition is triggered when the user presses the menu button just before the application is sent to the background. 
+</p>
+<h3><span class="mw-headline" id="Is_back_button_down.3F">Is back button down?</span></h3>
+<p>This condition is true when the back button is down. 
+</p>
+<h3><span class="mw-headline" id="Is_menu_button_down.3F">Is menu button down?</span></h3>
+<p>This condition is true when the menu button is down. 
+</p>
+<h3><span class="mw-headline" id="Read_button_state">Read button state</span></h3>
+<p>This condition is true when a button is pressed. Parameter = key code (the list of available key codes is available in the Android documentation) 
+</p>
+<h3><span class="mw-headline" id="On_options_menu_item_selected">On options menu item selected</span></h3>
+<p>This condition is triggered when a specific item of the Options menu is selected by the user. Parameter = identifier of the menu item. 
+</p>
+<h3><span class="mw-headline" id="On_any_options_menu_item_selected">On any options menu item selected</span></h3>
+<p>This condition is triggered when any item of the Options menu is selected by the user. You can retrieve the identifier of the menu item with the MenuItem$ expression. 
+</p>
+<h2><span class="mw-headline" id="Actions">Actions</span></h2>
+<h3><span class="mw-headline" id="Log_functions">Log functions</span></h3>
+<p>These functions allow you to write to the system log, viewable with DDMS. The different actions are for different levels of verbosity, where "error" is the most important and "verbose" is the least (this affects how they show up in the console - log messages may be filtered by levels of verbosity). 
+</p>
+<h3><span class="mw-headline" id="Sleep_prevention">Sleep prevention</span></h3>
+<p>Allows you to prevent or allow the device to enter sleep mode. 
+</p>
+<h3><span class="mw-headline" id="Open_URL">Open URL</span></h3>
+<p>Opens an URL in the browser. 
+</p>
+<h3><span class="mw-headline" id="Intent_.28outgoing.29_.2F_Start_intent">Intent (outgoing) / Start intent</span></h3>
+<p>Allows you to start an Intent. An intent is an abstract description of an operation to be performed. This could be, for example, something like "android.intent.action.DIAL" with the parameter "<a rel="nofollow" class="external free" href="tel:123">tel:123</a>" to dial the number "123". There are a lot of possible Intents in Android. Look at the documentation of the Android SDK for more information: <a rel="nofollow" class="external free" href="http://developer.android.com/reference/android/content/Intent.html">http://developer.android.com/reference/android/content/Intent.html</a> 
+</p>
+<h3><span class="mw-headline" id="Intent_.28outgoing.29_.2F_Start_intent_with_chooser">Intent (outgoing) / Start intent with chooser</span></h3>
+<p>Allows you to start an intent with a chooser dialog where necessary.
+</p><p>Sometimes there is more than one application available to receive an intent (for example, multiple e-mail clients may be installed). When this is the case, the user will be presented with the chooser dialog. 
+</p>
+<h3><span class="mw-headline" id="Intent_.28outgoing.29_.2F_Add_category">Intent (outgoing) / Add category</span></h3>
+<p>Gives additional information about the action to execute. For more information, see the Intent documentation. 
+</p>
+<h3><span class="mw-headline" id="Intent_.28outgoing.29_.2F_Add_extra_data">Intent (outgoing) / Add extra data</span></h3>
+<p>These actions allow you to add extra data to the intent. For example, when starting an intent to send an e-mail, it may be useful to include the subject and body. Parameters = data name and value. 
+</p>
+<h3><span class="mw-headline" id="Intent_.28incoming.29_.2F_Subscribe_to_action">Intent (incoming) / Subscribe to action</span></h3>
+<p>Allows your application to receive specific incoming intents, causing the "On incoming intent" condition to fire. Parameter = action name. 
+</p>
+<h3><span class="mw-headline" id="Intent_.28incoming.29_.2F_Unsubscribe_from_action">Intent (incoming) / Unsubscribe from action</span></h3>
+<p>Cancels a subscription for a specific incoming intent. Parameter = action name. 
+</p>
+<h3><span class="mw-headline" id="Vibrate">Vibrate</span></h3>
+<p>Vibrates the device. Parameter = duration in milliseconds.<br />
+<b>Important</b>: you must select the VIBRATE permission in the properties of the application otherwise using this action will result in the application being force closed. 
+</p>
+<h2><span class="mw-headline" id="Expressions">Expressions</span></h2>
+<h3><span class="mw-headline" id="GPU_name">GPU name</span></h3>
+<pre>GPU_Name$("Android")
+</pre>
+<p>Returns the name of the GPU (graphic processor unit) on the device, if any.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="GPU_vendor">GPU vendor</span></h3>
+<pre>GPU_Vendor$("Android")
+</pre>
+<p>Returns the name of the vendor of the GPU (graphic processor unit) on the device, if any.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Phone_unique_ID">Phone unique ID</span></h3>
+<pre>PhoneID$("Android")
+</pre>
+<p>Returns the unique identifier of the phone.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Network_operator_name">Network operator name</span></h3>
+<pre>Operator$("Android")
+</pre>
+<p>Returns the name of the network operator.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Device_unique_ID">Device unique ID</span></h3>
+<pre>DeviceID$("Android")
+</pre>
+<p>Returns a unique identifier for the device. Although this works for all devices, the ID is specific to Clickteam Fusion 2.5 and not a standard identifier.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Battery_charge_percentage">Battery charge percentage</span></h3>
+<pre>BatteryPercentage("Android")
+</pre>
+<p>Returns the current percentage of charge of the battery between 0 and 100.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Screen_width">Screen width</span></h3>
+<pre> ScreenWidth("Android")
+</pre>
+<p>This expression returns the width of the screen.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Screen_height">Screen height</span></h3>
+<pre>ScreenHeight("Android")
+</pre>
+<p>This expression returns the height of the screen.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Renderer_type">Renderer type</span></h3>
+<pre>Renderer$("Android")
+</pre>
+<p>This expression returns the name of the renderer (OpenGL ES 1.1 or 2.0).
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Ad_height">Ad height</span></h3>
+<pre>AdHeight("Android")
+</pre>
+<p>This expression returns the height of the currently displayed ad, if any. If no ad is displayed, 0 will be returned.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Get_data_storage_directory">Get data storage directory</span></h3>
+<pre>DataStorageDirectory$("Android")
+</pre>
+<p>Returns the pathname of the data storage directory, used for storing small, persistent files (such as saves or settings).
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Temp_directory">Temp directory</span></h3>
+<pre>TempPath$("Android")
+</pre>
+<p>Returns the pathname of the temp directory.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="External_storage_directory">External storage directory</span></h3>
+<pre>ExternalStorageDirectory$("Android")
+</pre>
+<p>Returns the pathname of the external storage directory, used for storing larger files. On a typical phone, this is likely to be the SD card.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Runtime_.2F_Runtime_version">Runtime / Runtime version</span></h3>
+<pre>RuntimeVersion$("Android")
+</pre>
+<p>Returns the version of the runtime code.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Runtime_.2F_Application_title">Runtime / Application title</span></h3>
+<pre>AppTitle$("Android")
+</pre>
+<p>Returns the title of the application.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Runtime_.2F_Application_package_name">Runtime / Application package name</span></h3>
+<pre>PackageName$("Android")
+</pre>
+<p>Returns the package name of the application.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Runtime_.2F_Application_version">Runtime / Application version</span></h3>
+<pre>AppVersion$("Android")
+</pre>
+<p>Returns the version of the application specified in the Version Name option in the Android properties of the application.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Intent_.28incoming.29_.2F_Action">Intent (incoming) / Action</span></h3>
+<pre>IntentAction$("Android")
+</pre>
+<p>Returns the action name of the incoming intent.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Intent_.28incoming.29_.2F_Data">Intent (incoming) / Data</span></h3>
+<pre>IntentData$("Android")
+</pre>
+<p>Returns the data parameter of the incoming intent.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Intent_.28incoming.29_.2F_Extra_data_.28by_key.29_.2F_String">Intent (incoming) / Extra data (by key) / String</span></h3>
+<pre>IntentExtra_String$("Android", "data_name")
+</pre>
+<p>Returns an extra string parameter for the incoming intent. Parameter = name of extra data.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Intent_.28incoming.29_.2F_Extra_data_.28by_key.29_.2F_Boolean">Intent (incoming) / Extra data (by key) / Boolean</span></h3>
+<pre>IntentExtra_Boolean("Android", "data_name")
+</pre>
+<p>Returns an extra boolean parameter for the incoming intent. Parameter = name of extra data.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Intent_.28incoming.29_.2F_Extra_data_.28by_key.29_.2F_Integer">Intent (incoming) / Extra data (by key) / Integer</span></h3>
+<pre>IntentExtra_Long("Android", "data_name")
+</pre>
+<p>Returns an extra integer parameter for the incoming intent. Parameter = name of extra data.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Selected_options_menu_item">Selected options menu item</span></h3>
+<pre>MenuItem$("Android")
+</pre>
+<p>Returns the identifier of the selected item in the Options menu.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155244
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.290 seconds
+Real time usage: 0.290 seconds
+Preprocessor visited node count: 279/1000000
+Preprocessor generated node count: 691/1000000
+Post‐expand include size: 2226/2097152 bytes
+Template argument size: 977/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   86.836      1 - -total
+100.00%   86.836      1 - Template:InfoExtension
+  8.18%    7.104      1 - Template:Yes
+  8.11%    7.044      1 - Template:Unknown
+  7.57%    6.577      1 - Template:ExtManager
+  7.29%    6.326      1 - Template:MMF2
+  7.06%    6.129      1 - Template:Android
+  7.02%    6.097      1 - Template:ClickteamExtension
+  7.01%    6.084      1 - Template:CF2.5Dev
+  7.00%    6.078      1 - Template:MMF2Dev
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:878-0!*!0!!en!5!* and timestamp 20180529155243 and revision id 1857
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Android_object&amp;oldid=1857">http://clickwiki.net/w/index.php?title=Android_object&amp;oldid=1857</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Android+object"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":568});});</script>
+  </body>
+</html>

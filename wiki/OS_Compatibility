@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>OS Compatibility - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"OS_Compatibility","wgTitle":"OS Compatibility","wgCurRevisionId":2085,"wgRevisionId":2085,"wgArticleId":647,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Guidance"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"OS_Compatibility","wgRelevantArticleId":647,"wgRequestId":"bfacb54aa2fb17eb190e612d","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-OS_Compatibility rootpage-OS_Compatibility skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img5.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="OS_Compatibility#mw-head">navigation</a>,
+          <a href="OS_Compatibility#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">OS Compatibility</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5">Clickteam Fusion 2.5</a> and its predecessors have been built and continuously expanded from its previous versions. Due to this, Clickteam products have a strong dependency on Windows and still maintains a lot of legacy code. The <a href="Fusion_3" title="Fusion 3">next generation of Fusion</a> will be using cross-platform technologies to deliver a native product to all platforms.
+</p><p>This page will list problems and solutions for <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <b>Windows</b> users, as well as providing details on how to run Fusion on other desktop operating systems, such as <a href="OS_Compatibility#OS_X" title="This product is compatible with Mac OS X"><img alt="This product is compatible with Mac OS X" src="../w/images/b/be/Supported_OSX.png" width="24" height="24" /></a> <b>OS X</b> and <a href="OS_Compatibility#GNU.2FLinux" title="This product is compatible with GNU/Linux"><img alt="This product is compatible with GNU/Linux" src="../w/images/e/e2/Supported_Linux.png" width="24" height="24" /></a> <b>Linux</b>.
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="OS_Compatibility#Windows"><span class="tocnumber">1</span> <span class="toctext">Windows</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="OS_Compatibility#Minimum_Requirements"><span class="tocnumber">1.1</span> <span class="toctext">Minimum Requirements</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="OS_Compatibility#Potential_Problems"><span class="tocnumber">1.2</span> <span class="toctext">Potential Problems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="OS_Compatibility#macOS"><span class="tocnumber">2</span> <span class="toctext">macOS</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="OS_Compatibility#GNU.2FLinux"><span class="tocnumber">3</span> <span class="toctext">GNU/Linux</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="OS_Compatibility#Running_on_non-Windows_platforms"><span class="tocnumber">4</span> <span class="toctext">Running on non-Windows platforms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="OS_Compatibility#Using_the_Wine_Compatibility_Layer"><span class="tocnumber">4.1</span> <span class="toctext">Using the Wine Compatibility Layer</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="OS_Compatibility#Using_Virtualization_Software"><span class="tocnumber">4.2</span> <span class="toctext">Using Virtualization Software</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="OS_Compatibility#Dual_Booting"><span class="tocnumber">4.3</span> <span class="toctext">Dual Booting</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="OS_Compatibility#Comparison"><span class="tocnumber">4.3.1</span> <span class="toctext">Comparison</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="OS_Compatibility#Wine"><span class="tocnumber">5</span> <span class="toctext">Wine</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="OS_Compatibility#Known_Wine_Issues"><span class="tocnumber">5.1</span> <span class="toctext">Known Wine Issues</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="OS_Compatibility#Extensions"><span class="tocnumber">5.1.1</span> <span class="toctext">Extensions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="OS_Compatibility#Installing_Clickteam_Products_on_Mac_through_Wine"><span class="tocnumber">5.2</span> <span class="toctext">Installing Clickteam Products on Mac through Wine</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="OS_Compatibility#Fusion"><span class="tocnumber">5.2.1</span> <span class="toctext">Fusion</span></a>
+<ul>
+<li class="toclevel-4 tocsection-16"><a href="OS_Compatibility#Installing_the_Standalone_Version"><span class="tocnumber">5.2.1.1</span> <span class="toctext">Installing the Standalone Version</span></a></li>
+<li class="toclevel-4 tocsection-17"><a href="OS_Compatibility#Installing_the_Steam_Version"><span class="tocnumber">5.2.1.2</span> <span class="toctext">Installing the Steam Version</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-18"><a href="OS_Compatibility#Tools"><span class="tocnumber">5.2.2</span> <span class="toctext">Tools</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="OS_Compatibility#Fusion_Exporters"><span class="tocnumber">5.2.3</span> <span class="toctext">Fusion Exporters</span></a>
+<ul>
+<li class="toclevel-4 tocsection-20"><a href="OS_Compatibility#Installing_the_XNA_Exporter_for_the_Steam_version"><span class="tocnumber">5.2.3.1</span> <span class="toctext">Installing the XNA Exporter for the Steam version</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-21"><a href="OS_Compatibility#Integration_outside_of_Wine_environment"><span class="tocnumber">5.3</span> <span class="toctext">Integration outside of Wine environment</span></a>
+<ul>
+<li class="toclevel-3 tocsection-22"><a href="OS_Compatibility#Unix_Pathname"><span class="tocnumber">5.3.1</span> <span class="toctext">Unix Pathname</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="OS_Compatibility#Via_Wine.27s_Z:_Drive"><span class="tocnumber">5.3.2</span> <span class="toctext">Via Wine's Z: Drive</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-24"><a href="OS_Compatibility#Detecting_if_running_in_a_Wine_environment"><span class="tocnumber">5.4</span> <span class="toctext">Detecting if running in a Wine environment</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<hr />
+<h2><span class="mw-headline" id="Windows"><a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>  Windows</span></h2>
+<p>Clickteam's products are built and designed for Windows and are fully supported on this platform. However there is a rare chance you may encounter a problem due to external factors.
+</p>
+<h3><span class="mw-headline" id="Minimum_Requirements">Minimum Requirements</span></h3>
+<ul><li> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a> <a href="Fusion_2.5" class="mw-redirect" title="Fusion 2.5">Fusion 2.5</a> only runs and exports for <b>Windows XP Service Pack 3</b> or newer.</li>
+<li> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2">Multimedia Fusion 2</a> can be run and exports for <a href="OS_Compatibility#Windows" title="This product is designed for older versions of Microsoft Windows."><img alt="This product is designed for older versions of Microsoft Windows." src="../w/images/5/58/Supported_Windows9x.png" width="24" height="24" /></a> <b>Windows 98 Second Edition</b> and newer.</li></ul>
+<h3><span class="mw-headline" id="Potential_Problems">Potential Problems</span></h3>
+<table class="wikitable">
+<tr>
+<th> Symptoms
+</th>
+<th> Cause
+</th>
+<th> Solution
+</th></tr>
+<tr>
+<td rowspan="2"> Random crashes when using Direct3D in the editor or running a program.
+</td>
+<td rowspan="2"> Improperly installed graphic drivers.
+</td>
+<td> Re-install the graphic drivers on your system, or roll back to a previous version if a previous one worked.
+</td></tr>
+<tr>
+<td> Re-installing DirectX 9 from a redistribute may also help.
+</td></tr>
+<tr>
+<td> Antivirus is triggered during exportation or with specific extensions.
+</td>
+<td rowspan="3"> <a href="Extensions#Antivirus_False_Positives" title="Extensions">Antivirus is triggering a false positive.</a>
+</td>
+<td> Add the Fusion folder as an exception or to the blacklist for scanning.
+</td></tr>
+<tr>
+<td> Extensions, runtime or creations mysteriously disappear or cannot be found.
+</td>
+<td> Exclude Fusion processes from being scanned. Eg. <b>mmf2.exe</b> and <b>stdrt.exe</b>.
+</td></tr>
+<tr>
+<td>
+</td>
+<td> Report the affected file to the antivirus company as a false positive.
+</td></tr>
+<tr>
+<td> Cannot write to "protected" directories.<br />
+<p><i>(Such as creating an INI in the Windows directory)</i>
+</p>
+</td>
+<td> Windows prevents this for security reasons.
+</td>
+<td> The program will need to be ran as an administrator or in compatibility mode.
+</td></tr></table>
+<hr />
+<h2><span class="mw-headline" id="macOS"><a href="OS_Compatibility#OS_X" title="This product is compatible with Mac OS X"><img alt="This product is compatible with Mac OS X" src="../w/images/b/be/Supported_OSX.png" width="24" height="24" /></a>  macOS</span></h2>
+<p>Mac users are now able to purchase the <a href="Clickteam_Fusion_2.5#Mac_Editor" title="Clickteam Fusion 2.5">Mac Editor</a>, which is an optimized version of <a href="Fusion_2.5" class="mw-redirect" title="Fusion 2.5">Fusion 2.5</a> running in a Wine wrapper providing better integration with the Mac environment. The creations exported to OS X are <b>native</b> to the platform, and are not Wine wrappers.
+</p><p>The <a href="Fusion_3" title="Fusion 3">next generation of Fusion</a> will be able to have a native editor for this platform.
+</p><p><a rel="nofollow" class="external text" href="http://www.clickteam.com/fusion-2-5-mac-editor-information">Mac Editor Information</a>
+</p><p><a rel="nofollow" class="external text" href="https://sites.google.com/site/advaithdownloadstorage/lame_enc.dll?attredirects=0&amp;d=1">Download LAME</a>
+</p><p><a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a> <b>The Mac version of the product will not be available via Steam (Mac).</b> You can install Steam (Windows) through Wine with <a href="OS_Compatibility#Installing_the_Steam_Version_.28Mac.29" title="OS Compatibility">this guide</a>.
+</p><p><br />
+</p>
+<hr />
+<h2><span class="mw-headline" id="GNU.2FLinux"><a href="OS_Compatibility#GNU.2FLinux" title="This product is compatible with GNU/Linux"><img alt="This product is compatible with GNU/Linux" src="../w/images/e/e2/Supported_Linux.png" width="24" height="24" /></a> GNU/Linux</span></h2>
+<p>There is currently no optimized editor or any plans to create an exporter to this platform with the current <a href="Fusion_2.5" class="mw-redirect" title="Fusion 2.5">Fusion 2.5</a> product <sup><a rel="nofollow" class="external text" href="http://community.clickteam.com/threads/85571-Linux-Exporter?p=624620&amp;viewfull=1#post624620">(Source)</a></sup>.
+</p><p>Good news, <a href="Fusion_3" title="Fusion 3">Fusion 3</a> will greatly increase the possibility of support for this platform.
+</p><p><br />
+</p>
+<hr />
+<h2><span class="mw-headline" id="Running_on_non-Windows_platforms">Running on non-Windows platforms</span></h2>
+<h3><span class="mw-headline" id="Using_the_Wine_Compatibility_Layer"><a href="OS_Compatibility" title="Works on the Wine Compatibility Layer"><img alt="Works on the Wine Compatibility Layer" src="../w/images/e/e2/Supported_Wine.png" width="24" height="24" /></a> Using the Wine Compatibility Layer</span></h3>
+<p><a rel="nofollow" class="external text" href="https://www.winehq.org/about/">Wine is an open source project</a> that translates Windows API calls to a language the OS understands (such as DirectX → OpenGL). Once you set up a <b>"wine prefix"</b>, you can then proceed to install your desired <a href="Clickteam" title="Clickteam">Clickteam</a> product like you would on Windows. Performance is near native and is compatible with a vast amount of Fusion's features.
+</p><p><a href="OS_Compatibility#Wine" title="OS Compatibility">Further details about running under Wine are documented further on this page.</a>
+</p>
+<table class="wikitable" style="float:left; width:49%; margin-bottom:20px">
+<tr>
+<th colspan="3"> <a href="OS_Compatibility#OS_X" title="This product is compatible with Mac OS X"><img alt="This product is compatible with Mac OS X" src="../w/images/b/be/Supported_OSX.png" width="24" height="24" /></a> OS X
+</th></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://www.playonmac.com/">PlayOnMac</a>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Open Source
+</td>
+<td> Provides a frontend for managing Wine.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://wineskin.urgesoftware.com/">Wineskin</a>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Open Source
+</td>
+<td> Creates wrappers.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://winebottler.kronenberg.org/">WineBottler</a>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Free
+</td>
+<td> Creates wrappers.
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://www.codeweavers.com/products/crossover-mac/">CrossOver</a>
+</td>
+<td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Commercial
+</td>
+<td> Provides an easy to use interface.<br /><b>Supports the Wine project.</b>
+</td></tr></table>
+<table class="wikitable" style="float:right; width:49%; margin-bottom:50px">
+<tr>
+<th colspan="3"> <a href="OS_Compatibility#GNU.2FLinux" title="This product is compatible with GNU/Linux"><img alt="This product is compatible with GNU/Linux" src="../w/images/e/e2/Supported_Linux.png" width="24" height="24" /></a> GNU/Linux
+</th></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://winehq.org">Wine</a>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Open Source
+</td>
+<td> Packages available for your distribution.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://www.playonlinux.com/">PlayOnLinux</a>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Open Source
+</td>
+<td> Provides a frontend for managing Wine.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://www.codeweavers.com/products/crossover-linux/">CrossOver</a>
+</td>
+<td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Commercial
+</td>
+<td> Provides an easy to use interface.<br /><b>Supports the Wine project.</b>
+</td></tr>
+</table>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Using_Virtualization_Software">Using Virtualization Software</span></h3>
+<p>If you would prefer to have the product running with as much compatibility as possible, while still using your main operating system, then you'll require: <b>a copy of Windows</b>, <b>virtualization software</b> and <b>additional disk space</b>. As virtualizing another computer adds overhead to your system resources, there may have degraded performance and/or unoptimized graphics (depending on the virtualization platform and hardware)
+</p>
+<table class="wikitable" style="float:left; width:49%; margin-bottom:48px">
+<tr>
+<th colspan="2"> <a href="OS_Compatibility#OS_X" title="This product is compatible with Mac OS X"><img alt="This product is compatible with Mac OS X" src="../w/images/b/be/Supported_OSX.png" width="24" height="24" /></a> OS X
+</th></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://www.virtualbox.org/">VirtualBox</a>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Free / Open Source
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.parallels.com/">Parallels</a>
+</td>
+<td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Commercial
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.vmware.com/uk/products/fusion">VMWare Fusion</a>
+</td>
+<td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Commercial
+</td></tr></table>
+<table class="wikitable" style="float:right; width:49%">
+<tr>
+<th colspan="2"> <a href="OS_Compatibility#GNU.2FLinux" title="This product is compatible with GNU/Linux"><img alt="This product is compatible with GNU/Linux" src="../w/images/e/e2/Supported_Linux.png" width="24" height="24" /></a> GNU/Linux
+</th></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://www.virtualbox.org/">VirtualBox</a>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Free / Open Source
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://wiki.qemu.org/Main_Page">QEMU</a>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Open Source
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.linux-kvm.org/page/Main_Page">KVM</a>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Open Source
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://www.vmware.com/products/workstation/">VMWare Workstation</a>
+</td>
+<td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Commercial
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_player/7_0">VMWare Player</a> (64-bit only)
+</td>
+<td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Commercial
+</td></tr></table>
+<h3><span class="mw-headline" id="Dual_Booting">Dual Booting</span></h3>
+<p>On a Macintosh, this is available through <b>Bootcamp</b>. This requires a Windows license and splitting your disk's partitions. It also means you must restart your computer to switch operating systems.
+</p><p><b>For systems with existing operating systems:</b>
+</p><p><a href="OS_Compatibility#OS_X" title="This product is compatible with Mac OS X"><img alt="This product is compatible with Mac OS X" src="../w/images/b/be/Supported_OSX.png" width="24" height="24" /></a> <b>Mac:</b> Navigate to <b>Launchpad → Utilities → Bootcamp Assistant</b> and follow the on-screen instructions.
+</p><p><a href="OS_Compatibility#GNU.2FLinux" title="This product is compatible with GNU/Linux"><img alt="This product is compatible with GNU/Linux" src="../w/images/e/e2/Supported_Linux.png" width="24" height="24" /></a> <b>Linux:</b> Use a disk partition utility such as <b>GParted</b> in a live session to split your partitions, then proceed to install Windows to the new unallocated space. Beware that Windows will overwrite the boot loader and will require a re-installation of GRUB to continue using the Linux operating system.
+</p><p><br />
+<b>Always back up data before dual booting!</b> As splitting partitions on an existing system can introduce data loss if the process fails or is interrupted.
+</p>
+<hr />
+<h4><span class="mw-headline" id="Comparison">Comparison</span></h4>
+<p>If one of <a href="Clickteam" title="Clickteam">Clickteam</a>'s products are the only ones forcing you to run a Windows environment, here's a table to help you decide:
+</p>
+<table class="wikitable">
+<tr>
+<th>
+</th>
+<th> <a href="OS_Compatibility" title="Works on the Wine Compatibility Layer"><img alt="Works on the Wine Compatibility Layer" src="../w/images/e/e2/Supported_Wine.png" width="24" height="24" /></a> Wine
+</th>
+<th> <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> Dual Boot
+</th>
+<th> <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> Virtual Machine
+</th></tr>
+<tr>
+<th> Price
+</th>
+<td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Most packages are free. Paid support optional.
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Nothing
+</td>
+<td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Depends on virtualization software. Some free, some not.
+</td></tr>
+<tr>
+<th> Windows License
+</th>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Not applicable
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">Required
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">Required
+</td></tr>
+<tr>
+<th> Ease to Setup
+</th>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Generally easy
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">Quite advanced
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Quite easy
+</td></tr>
+<tr>
+<th> Performance
+</th>
+<td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Runs at <b>almost</b> native speeds
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Runs at native speeds
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">Emulating another PC adds overhead
+</td></tr>
+<tr>
+<th> Disk Space Overheads
+</th>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Low, usually 100-300 MB from Wine
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">Disk partitions must be split
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">Virtual machine storage grows over time with use
+</td></tr>
+<tr>
+<th> Compatibility with Clickteam's products
+</th>
+<td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Most common features
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">All features are designed for Windows
+</td>
+<td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">All features, but there could be graphical glitches
+</td></tr>
+<tr>
+<th> Desktop Integration
+</th>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">n/a
+</td>
+<td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Depends on virtualization software
+</td></tr>
+<tr>
+<th> Maintenance
+</th>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Optional to upgrade to newer Wine versions
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">Yes, for Windows
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">Yes, for Windows
+</td></tr>
+<tr>
+<th> Reboot required to use?
+</th>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">No
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">Yes
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">No
+</td></tr></table>
+<p><a href="Clickteam" title="Clickteam">Clickteam</a> support the use of a Wine environment as the <a href="Mac_Runtime#Editor" class="mw-redirect" title="Mac Runtime">Mac Editor</a> is based on a WineSkin package. Bugs are considered (and sometimes fixed) when submitted to the <a href="Bug_Tracker" title="Bug Tracker">Bug Tracker</a>.
+</p>
+<hr />
+<h2><span class="mw-headline" id="Wine">Wine</span></h2>
+<p>A common misconception is that <a href="OS_Compatibility" title="Works on the Wine Compatibility Layer"><img alt="Works on the Wine Compatibility Layer" src="../w/images/e/e2/Supported_Wine.png" width="24" height="24" /></a><a rel="nofollow" class="external text" href="http://winehq.org">Wine</a> is an emulator, which is not true. <b>Wine</b> is an acronym for <b>W</b>ine <b>I</b>s <b>N</b>ot an <b>E</b>mulator, and simply translates Windows instructions to other operating systems, such as Linux, OS X and BSD. This makes it a superior solution than virtualizing a full Windows environment, especially for the sake of one application.
+</p><p><a href="OS_Compatibility" title="Works on the Wine Compatibility Layer"><img alt="Works on the Wine Compatibility Layer" src="../w/images/e/e2/Supported_Wine.png" width="24" height="24" /></a> <a rel="nofollow" class="external text" href="https://www.winehq.org/about/">Learn more about Wine</a>
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Known_Wine_Issues">Known Wine Issues</span></h3>
+<p>There's a <a rel="nofollow" class="external text" href="http://appdb.winehq.org/objectManager.php?sClass=version&amp;iId=29933">database entry</a> on WineHQ's Application Database that rates the application's compatibility.
+</p><p>Here's a list of issues with the Wine environment.
+</p>
+<table class="wikitable">
+<tr>
+<th rowspan="2"> Problem
+</th>
+<th colspan="2"> Symptoms
+</th>
+<th rowspan="2"> Solution
+</th></tr>
+<tr>
+<th> <a href="OS_Compatibility#OS_X" title="This product is compatible with Mac OS X"><img alt="This product is compatible with Mac OS X" src="../w/images/b/be/Supported_OSX.png" width="24" height="24" /></a> OS X
+</th>
+<th> <a href="OS_Compatibility#GNU.2FLinux" title="This product is compatible with GNU/Linux"><img alt="This product is compatible with GNU/Linux" src="../w/images/e/e2/Supported_Linux.png" width="24" height="24" /></a> GNU/Linux
+</th></tr>
+<tr>
+<th> Direct3D in the Frame Editor
+</th>
+<td> This may appear as a black screen.
+</td>
+<td> Some graphic cards/drivers will have no problems, for some computers there will be a rendering glitch or black screen.
+</td>
+<td> To fix this, you must disable <i>"Use Direct3D in the Frame Editor"</i> from the Preferences dialog under the "Frame Editor" tab.
+</td></tr>
+<tr>
+<th> Direct3D programs may render the runtime incorrectly.
+</th>
+<td> Interface objects (Buttons, edit boxes, etc) will not appear. (Windows runtime ONLY)
+</td>
+<td> Some graphic cards/drivers will have no problems, but weaker computers may have problems rendering the frame correctly.
+</td>
+<td> To prevent this, switch the <b>Display Mode</b> (Application Properties&gt; Runtime Options&gt; Display Options) to "Standard" or use the <b>/DIB</b> <a href="Windows_Runtime#Command_Line_Switches" title="Windows Runtime">command switch</a>.
+</td></tr></table>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Extensions">Extensions</span></h4>
+<p>Depending on the version of Wine, there may be problems with some extensions. Those that require a deep Windows dependency are likely to throw an error or crash.
+</p>
+<ul><li> <a href="/w/index.php?title=.NET_Object&amp;action=edit&amp;redlink=1" class="new" title=".NET Object (page does not exist)">.NET Object</a></li>
+<li> <a href="/w/index.php?title=DirectShow&amp;action=edit&amp;redlink=1" class="new" title="DirectShow (page does not exist)">DirectShow</a> - This may work depending on the format and computer.</li>
+<li> <b>Rich text boxes</b> require the libraries <b>riched20</b> and/or <b>riched30</b> from <b>winetricks</b> to prevent a crash when these controls are displayed.</li>
+<li> <a href="/w/index.php?title=Web_Control_Object&amp;action=edit&amp;redlink=1" class="new" title="Web Control Object (page does not exist)">Web Control Object</a> - <b>May</b> require <b>one</b> of the Internet Explorer <b>winetricks</b> to be installed: <i><b>ie6, ie7, ie8</b></i>.</li>
+<li> <a href="/w/index.php?title=Scintilla&amp;action=edit&amp;redlink=1" class="new" title="Scintilla (page does not exist)">Scintilla</a> Instant editor crash</li></ul>
+<h3><span class="mw-headline" id="Installing_Clickteam_Products_on_Mac_through_Wine">Installing Clickteam Products on Mac through Wine</span></h3>
+<h4><span class="mw-headline" id="Fusion">Fusion</span></h4>
+<h5><span class="mw-headline" id="Installing_the_Standalone_Version">Installing the Standalone Version</span></h5>
+<p>This is a guide to install Fusion on Mac.
+</p><p>Required: <a rel="nofollow" class="external text" href="http://wineskin.urgesoftware.com/tiki-index.php">Wineskin</a>, <a rel="nofollow" class="external text" href="https://sites.google.com/site/advaithdownloadstorage/FusionIcons.zip?attredirects=0&amp;d=1">Fusion Icons</a>*, Fusion Installer (<a rel="nofollow" class="external text" href="http://www.clickteam.com/webftp/files/mmf2/Demo/MMF2Demo_En.exe">Demo</a>, <a rel="nofollow" class="external text" href="http://www.clickteam.com/webftp/files/mmf2/Demo/cf25freeSetup.exe">Free</a>, <a rel="nofollow" class="external text" href="https://shop.clickteam.com">Your Own</a>.
+)
+</p><p>Step 1: Download Wineskin if you haven't already.<br />
+Step 2: Open Wineskin Winery and click Create New Blank Wrapper<br />
+Step 3: When your wrapper finishes creating, drag it from the Wineskin folder to your desktop.<br />
+Step 4: Right-click the wrapper and click "Open Package Contents", and double-click Wineskin.<br />
+Step 5: Click Install Software, then Choose Setup Executable<br />
+Step 6: Find and select the Fusion Installer.<br />
+Step 7: Go through setup with all normal settings. (but agree to the T&amp;C)<br />
+Step 8: When it asks you to choose the executable, choose /mmf2u.exe.<br />
+Step 9*: If you haven't already, unzip the Fusion Icons zip file.<br />
+Step 10*: In the Wineskin window, click Advanced and then Browse under Icon.<br />
+Step 11*: Find the FusionIcons folder and choose the correct icon(Free, Standard, Dev)<br />
+Step 12: Close the window and move the wrapper to the Applications folder.<br />
+Step 13: Open Fusion like you normally would open a Mac app<br />
+Step 14: In Fusion, go to Tools&gt;Preferences and go to the Frame Editor tab<br />
+Step 15: Uncheck "Use Direct3D in editor for Direct3D applications" and click OK.<br />
+</p><p> *Optional, these steps are to add the Fusion logo to your wrapper.
+</p>
+<h5><span class="mw-headline" id="Installing_the_Steam_Version">Installing the Steam Version</span></h5>
+<p>This is a guide to install Steam on Mac and correctly install Fusion.
+</p><p>Step 1: <a rel="nofollow" class="external text" href="http://repository.playonmac.com/PlayOnMac/PlayOnMac_4.2.12.dmg">Download PlayOnMac</a> if you haven't already.<br />
+Step 2: Click "Install a Program" and choose Steam.<br />
+Step 3: Install Steam normally (in the C drive), but <b>uncheck</b> Launch Steam at the end.<br />
+Step 4: Once it closes, make sure Steam is selected and click Run.<br />
+Step 5: Log in to your account and try to download Fusion.<br />
+Step 6: If Steam closes while installing Fusion, try to re-open it and wait (it might take a while).<br />
+Step 7: Once Fusion is ready to launch, try to launch it and wait (it might take a while).<br />
+Step 8: Once it launches, go to Tools&gt;Preferences and <b>uncheck</b> "Use Direct3D in editor for Direct3D applications".
+</p><p>Launching Fusion:<br />
+Step 1: Open PlayOnMac<br />
+Step 2: Select Steam and click Run<br />
+Step 3: Launch Fusion from Steam
+</p>
+<h4><span class="mw-headline" id="Tools">Tools</span></h4>
+<p>This is a guide to install Install Creator or Patch Maker on Mac.
+</p><p>Required: <a rel="nofollow" class="external text" href="http://wineskin.urgesoftware.com/tiki-index.php">Wineskin</a>, <a rel="nofollow" class="external text" href="https://sites.google.com/site/clickwikifiles/ToolsIcons.dmg?attredirects=0&amp;d=1">Tools Icons</a>*, Installer (<a rel="nofollow" class="external text" href="http://www.clickteam.com/webftp/files/4/5/icinst.exe">Install Creator 2</a>, <a rel="nofollow" class="external text" href="http://www.clickteam.com/webftp/files/5/5/icpinst.exe">Install Creator Pro</a>, <a rel="nofollow" class="external text" href="http://www.clickteam.com/webftp/files/9/5/pminst.exe">Patch Maker</a>.)
+</p><p>Step 1: Download Wineskin if you haven't already.<br />
+Step 2: Open Wineskin Winery and click Create New Blank Wrapper<br />
+Step 3: When your wrapper finishes creating, drag it from the Wineskin folder to your desktop.<br />
+Step 4: Right-click the wrapper and click "Open Package Contents", and double-click Wineskin.<br />
+Step 5: Click Install Software, then Choose Setup Executable<br />
+Step 6: Find and select the correct Installer.<br />
+Step 7: Go through setup with all normal settings. (but agree to the T&amp;C)<br />
+Step 8: When it asks you to choose the executable, choose /ic.exe or /PatchMaker.exe.<br />
+Step 9*: If you haven't already, double-click the Tools Icons dmg file.<br />
+Step 10*: In the Wineskin window, click Advanced and then Browse under Icon.<br />
+Step 11*: Click ToolsIcons under Devices and choose the correct icon (Install Creator, Patch Maker)<br />
+Step 12: Close the window and move the wrapper to the Applications folder.<br />
+Step 13: Open the tool like you normally would open a Mac app
+</p><p> *Optional, these steps are to add the tool's logo to your wrapper.
+</p>
+<h4><span class="mw-headline" id="Fusion_Exporters">Fusion Exporters</span></h4>
+<p>Required: Exporter installer (<a rel="nofollow" class="external text" href="http://clickstore.clickteam.com/index.php?route=account/download">XNA</a>, <a rel="nofollow" class="external text" href="https://shop.clickteam.com">Other</a>)
+</p><p>This is a guide to install Exporters on Fusion on Mac.<br />
+<i>Note: You must have installed <b>a full (paid) version</b> of Fusion in <a href="OS_Compatibility#Installing_the_Standalone_Version" title="OS Compatibility">this way</a>.</i>
+</p><p>Step 1: Right-click on the Fusion wrapper and click "Open Package Contents".<br />
+Step 2: Open Wineskin.<br />
+Step 3: Click Install Software, then Choose Setup Executable<br />
+Step 4: Find and select the correct Installer.<br />
+Step 5: Go through setup with all normal settings. (but agree to the T&amp;C).
+</p>
+<h5><span class="mw-headline" id="Installing_the_XNA_Exporter_for_the_Steam_version">Installing the XNA Exporter for the Steam version</span></h5>
+<p>This is a guide to install the XNA Exporter on the Steam version of Fusion on Mac.<br />
+<i>Note: You must have installed <b>the steam version</b> of Fusion in <a href="OS_Compatibility#Installing_the_Steam_Version" title="OS Compatibility">this way</a>.</i>
+</p><p>Step 1: Open PlayOnMac<br />
+Step 2: Click Steam and click Configure<br />
+Step 3: Go to Miscellaneous and click "Run a .exe file in this virtual drive"<br />
+Step 4: Choose the XNA exporter installer<br />
+Step 5: Go through setup with all normal settings. (but agree to the T&amp;C).
+</p>
+<h3><span class="mw-headline" id="Integration_outside_of_Wine_environment">Integration outside of Wine environment</span></h3>
+<p>It is possible for Mac/Linux to call programs native to their system, but please take caution if you plan to distribute your product to another user's system. Programs can be called by running the <a href="System_Object" class="mw-redirect" title="System Object">System Object</a>'s <b>Execute an external program</b> → <b>"With an evaluated pathname"</b> action.
+</p><p>Here are some examples for a Linux environment:
+</p>
+<h4><span class="mw-headline" id="Unix_Pathname">Unix Pathname</span></h4>
+<table class="wikitable">
+<tr>
+<th> Command
+</th>
+<th> Parameters
+</th>
+<th> Action
+</th></tr>
+<tr>
+<td>
+<pre>"/usr/bin/nautilus"
+</pre>
+</td>
+<td>
+</td>
+<td> Would open the Nautilus file manager.
+</td></tr>
+<tr>
+<td>
+<pre>"/bin/bash"
+</pre>
+</td>
+<td>
+<pre>"/path/to/script.sh"
+</pre>
+</td>
+<td> Executes a shell script in the background.<sup>[1]</sup>
+</td></tr>
+<tr>
+<td>
+<pre>"/usr/bin/gnome-terminal"
+</pre>
+</td>
+<td>
+<pre>"-e /path/to/script.sh"
+</pre>
+</td>
+<td> Opens the Terminal and run a shell script.*
+</td></tr>
+<tr>
+<td>
+<pre>"/usr/bin/zenity"
+</pre>
+</td>
+<td>
+<pre>"--info --title="Test Dialog" --text="Fusion opened me." "
+</pre>
+</td>
+<td> Open zenity (for creating dialogs) to create your own natively. (Make sure any parameters involving speech marks [""] are properly parsed by Fusion)
+</td></tr></table>
+<p><b>[1]</b> Note that user scripts and binaries will refuse to open for security reasons if they are not marked as executable.
+</p><p><br />
+</p>
+<h4><span class="mw-headline" id="Via_Wine.27s_Z:_Drive">Via Wine's Z: Drive</span></h4>
+<p>Similar thing again, but this will fail if the wine prefix has removed the Z: drive.
+</p>
+<table class="wikitable">
+<tr>
+<th> Command
+</th>
+<th> Parameters
+</th>
+<th> Action
+</th></tr>
+<tr>
+<td>
+<pre>"Z:\usr\bin\nautilus"
+</pre>
+</td>
+<td>
+</td>
+<td> Open Nautilus.
+</td></tr>
+<tr>
+<td>
+<pre>"Z:\bin\bash"
+</pre>
+</td>
+<td>
+<pre>"/path/to/script.sh"
+</pre>
+</td>
+<td> The Unix pathname needs to be correct in the parameter, since this is called via Linux and had left the Wine environment.*
+</td></tr>
+<tr>
+<td>
+<pre>"Z:\usr\bin\gnome-terminal"
+</pre>
+</td>
+<td>
+<pre>"-e /path/to/script.sh"
+</pre>
+</td>
+<td> Opens the Terminal and run a shell script.*
+</td></tr>
+<tr>
+<td>
+<pre>"Z:\usr\bin\zenity"
+</pre>
+</td>
+<td>
+<pre>"--info --title="Test Dialog" --text="Fusion opened me." "
+</pre>
+</td>
+<td> Open zenity (for creating dialogs) to create your own natively. (Make sure any parameters involving speech marks [""] are properly parsed by Fusion)
+</td></tr></table>
+<h3><span class="mw-headline" id="Detecting_if_running_in_a_Wine_environment">Detecting if running in a Wine environment</span></h3>
+<p>Wine includes files in its Windows directory that could be checked if they exist, for example: <b>C:\windows\system32\winecfg.exe</b>
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155130
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.550 seconds
+Real time usage: 0.547 seconds
+Preprocessor visited node count: 486/1000000
+Preprocessor generated node count: 1262/1000000
+Post‐expand include size: 6271/2097152 bytes
+Template argument size: 768/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  162.330      1 - -total
+ 13.46%   21.856     20 - Template:Yes
+  9.61%   15.593     12 - Template:Partial
+  8.29%   13.464      9 - Template:No
+  5.08%    8.248      6 - Template:Linux
+  5.02%    8.146      4 - Template:Windows
+  4.89%    7.944      6 - Template:Mac
+  4.44%    7.212      1 - Template:Unknown
+  4.08%    6.625      1 - Template:CF2.5
+  4.00%    6.486      4 - Template:Wine
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:647-0!*!0!!en!5!* and timestamp 20180529155129 and revision id 2085
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Kakise&amp;action=edit&amp;redlink=1" class="new" title="User:Kakise (page does not exist)">Kakise</a> (3.0%), <a href="./User:FateForWindows" title="User:FateForWindows">FateForWindows</a> (0.5%), <a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (39.4%), <a href="/w/index.php?title=User:Lh37&amp;action=edit&amp;redlink=1" class="new" title="User:Lh37 (page does not exist)">Lh37</a> (57.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=OS_Compatibility&amp;oldid=2085">http://clickwiki.net/w/index.php?title=OS_Compatibility&amp;oldid=2085</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="./Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="./Category:Guidance" title="Category:Guidance">Guidance</a></li></ul></div></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=OS+Compatibility"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":877});});</script>
+  </body>
+</html>

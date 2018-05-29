@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Create Object - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Create_Object","wgTitle":"Create Object","wgCurRevisionId":1909,"wgRevisionId":1909,"wgArticleId":905,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Create_Object","wgRelevantArticleId":905,"wgRequestId":"52f9a6bf261ed332f230aa69","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Create_Object rootpage-Create_Object skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img6.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Create_Object#mw-head">navigation</a>,
+          <a href="Create_Object#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Create Object</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="wikitable" style="float:right;">
+
+<tr style="text-align:center;">
+<td colspan="2"><a href="./File:Create_Object.png" class="image"><img alt="Create Object.png" src="../w/images/f/f2/Create_Object.png" width="48" height="48" /></a>
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td><a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a>
+</td></tr>
+<tr>
+<td><b>Status</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Released
+</td></tr>
+<tr>
+<td><b>Release Date</b>
+</td>
+<td>Unknown
+</td></tr>
+<tr style="display: none;">
+<td> <b>Last Updated</b>
+</td>
+<td> {{{LastUpdated}}}
+</td></tr>
+<tr>
+<td><b>Available for</b>
+</td>
+<td>Not yet documented
+</td></tr>
+<tr>
+<td><b>Supported Runtimes</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;"><a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="Mac_Runtime" title="Compatible with the Mac Runtime"><img alt="Compatible with the Mac Runtime" src="../w/images/8/85/Supported_Mac.png" width="24" height="24" /></a> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a> <a href="XNA_Runtime" title="XNA Runtime (now deprecated)"><img alt="XNA Runtime (now deprecated)" src="../w/images/9/9f/Runtime_XNA.png" width="24" height="24" /></a> <a href="UWP_Runtime" title="UWP Runtime"><img alt="UWP Runtime" src="../w/images/5/5a/Runtime_UWP.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>License</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Free
+</td></tr>
+<tr style="display: none;">
+<td> <b>Attributes</b>
+</td>
+<td> {{{Attributes}}}
+</td></tr>
+<tr>
+<th colspan="2"> Download
+</th></tr>
+<tr>
+<td><b>Includes Examples</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Includes Help Files</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Links</b>
+</td>
+<td style="text-align:center;width:24px"> <div class="center"><div class="floatnone"><a href="Extension_Manager" title="Downloadable via the Extension Manager"><img alt="Downloadable via the Extension Manager" src="../w/images/5/53/ExtManagerIcon.png" width="24" height="28" /></a></div></div> <i>Included by default.</i>
+</td></tr>
+
+<tr style="display: none;">
+<td> <b>Alternates</b>
+</td>
+<td> {{{Alternates}}}
+</td></tr>
+</table>
+<p>The Create New Objects object addresses issues related to sets of duplicate objects. On the outside, duplicate objects look identical and are difficult to tell apart. However, individual objects within a set of duplicates can be selected by their internal variable values or at random. A group of duplicates can be selected according to which zone of the frame the duplicates are in, or all duplicate objects can be selected. This object can be used to manipulate groups of duplicate objects or individual objects within a set of duplicates, independently from the rest of the set. For example, there may be many asteroids in the sky in a space game, but you may want to launch one particular asteroid. You can pick the specific asteroid using the Create New Objects object according to its alterable values, fixed value, or internal flags.
+</p><p>The Create object contains only two actions, but very important ones: they allow you to create other objects. 
+</p><p>The Create New Objects object is a system object and is only available in the Event editor.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Create_Object#Conditions"><span class="tocnumber">1</span> <span class="toctext">Conditions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="Create_Object#Pick_An_Object_At_Random"><span class="tocnumber">1.1</span> <span class="toctext">Pick An Object At Random</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="Create_Object#Pick_A_Random_Object_In_A_Zone"><span class="tocnumber">1.2</span> <span class="toctext">Pick A Random Object In A Zone</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="Create_Object#Pick_All_Objects_In_A_Zone"><span class="tocnumber">1.3</span> <span class="toctext">Pick All Objects In A Zone</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="Create_Object#Pick_All_Objects_On_A_Line"><span class="tocnumber">1.4</span> <span class="toctext">Pick All Objects On A Line</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="Create_Object#Pick_Objects_With_Reference_To_Their_Values"><span class="tocnumber">1.5</span> <span class="toctext">Pick Objects With Reference To Their Values</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="Create_Object#Alterable"><span class="tocnumber">1.5.1</span> <span class="toctext">Alterable</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="Create_Object#Fixed"><span class="tocnumber">1.5.2</span> <span class="toctext">Fixed</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="Create_Object#Flags"><span class="tocnumber">1.5.3</span> <span class="toctext">Flags</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="Create_Object#Compare_To_Total_Number_Of_Objects"><span class="tocnumber">1.6</span> <span class="toctext">Compare To Total Number Of Objects</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="Create_Object#Compare_To_Number_Of_Objects_In_a_Zone"><span class="tocnumber">1.7</span> <span class="toctext">Compare To Number Of Objects In a Zone</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="Create_Object#Test_For_No_Objects_In_A_Zone"><span class="tocnumber">1.8</span> <span class="toctext">Test For No Objects In A Zone</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="Create_Object#Actions"><span class="tocnumber">2</span> <span class="toctext">Actions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="Create_Object#Create_object"><span class="tocnumber">2.1</span> <span class="toctext">Create object</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="Create_Object#Create_object_by_name"><span class="tocnumber">2.2</span> <span class="toctext">Create object by name</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="Create_Object#Expressions"><span class="tocnumber">3</span> <span class="toctext">Expressions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="Create_Object#Total_Number_Of_Objects"><span class="tocnumber">3.1</span> <span class="toctext">Total Number Of Objects</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Conditions">Conditions</span></h2>
+<h4><span class="mw-headline" id="Pick_An_Object_At_Random">Pick An Object At Random</span></h4>
+<p>The Pick An Object At Random condition picks an object at random in the frame. It then performs all of the actions on that event line to the selected object.
+</p>
+<h4><span class="mw-headline" id="Pick_A_Random_Object_In_A_Zone">Pick A Random Object In A Zone</span></h4>
+<p>The Pick A Random Object In A Zone condition picks an object at random in a specific zone of the frame. It then performs all of the actions on that event line to the selected object.
+</p>
+<h4><span class="mw-headline" id="Pick_All_Objects_In_A_Zone">Pick All Objects In A Zone</span></h4>
+<p>The Pick All Objects In A Zone condition picks all of the objects in a specific zone of the frame. It then performs all of the actions on that event line to the selected objects.
+</p>
+<h4><span class="mw-headline" id="Pick_All_Objects_On_A_Line">Pick All Objects On A Line</span></h4>
+<p>This condition asks for the coordinates of two points and draws a virtual line between them. It then picks all the objects that cross the line.
+</p>
+<h4><span class="mw-headline" id="Pick_Objects_With_Reference_To_Their_Values">Pick Objects With Reference To Their Values</span></h4>
+<p>These conditions pick objects with reference to their internal values. The Pick Objects With Reference To Their Values conditions are
+</p>
+<h5><span class="mw-headline" id="Alterable">Alterable</span></h5>
+<p>Picks objects with reference to their alterable values. For example, you can pick all objects whose alterable value C equals 4.
+</p>
+<h5><span class="mw-headline" id="Fixed">Fixed</span></h5>
+<p>Picks objects with reference to their fixed value. The only method of comparison is to be equal to the fixed value.
+</p>
+<h5><span class="mw-headline" id="Flags">Flags</span></h5>
+<p>Picks objects with reference to their internal flags. You can choose to pick all objects with specific flags on, or all objects with specific flags off.
+</p>
+<h4><span class="mw-headline" id="Compare_To_Total_Number_Of_Objects">Compare To Total Number Of Objects</span></h4>
+<p>The Compare To Total Number Of Objects condition compares the number of objects in the frame to a specific value.
+</p>
+<h4><span class="mw-headline" id="Compare_To_Number_Of_Objects_In_a_Zone">Compare To Number Of Objects In a Zone</span></h4>
+<p>The Compare To Number Of Objects In A Zone condition compares the number of objects in a specific zone of the frame to a specific value.
+</p>
+<h4><span class="mw-headline" id="Test_For_No_Objects_In_A_Zone">Test For No Objects In A Zone</span></h4>
+<p>The Test For No Objects In A Zone condition tests for objects in a specific zone of the frame. This condition is satisfied if there are no objects in the zone.
+</p>
+<h2><span class="mw-headline" id="Actions">Actions</span></h2>
+<h4><span class="mw-headline" id="Create_object">Create object</span></h4>
+<p>This very important action creates an object of your choice in the frame during application runtime. You can position the new object at specific coordinates on the screen or relative to another object.
+</p>
+<h4><span class="mw-headline" id="Create_object_by_name">Create object by name</span></h4>
+<p>No info available, please add some!
+</p>
+<h2><span class="mw-headline" id="Expressions">Expressions</span></h2>
+<h4><span class="mw-headline" id="Total_Number_Of_Objects">Total Number Of Objects</span></h4>
+<pre>Total Objects
+</pre>
+<p>The Total Number Of Objects function retrieves the total number of objects in the frame.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155217
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.311 seconds
+Preprocessor visited node count: 144/1000000
+Preprocessor generated node count: 554/1000000
+Post‐expand include size: 3505/2097152 bytes
+Template argument size: 1735/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  106.962      1 - -total
+100.00%  106.962      1 - Template:InfoExtension
+ 61.54%   65.824      5 - Template:Yes
+  6.31%    6.745      1 - Template:ClickteamExtension
+  6.25%    6.684      1 - Template:ExtManager
+  5.86%    6.270      1 - Template:EXE
+  5.83%    6.231      1 - Template:FusionUWP
+  5.72%    6.121      1 - Template:Flash
+  5.69%    6.087      1 - Template:HTML5
+  5.68%    6.074      1 - Template:XNA
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:905-0!*!*!!en!5!* and timestamp 20180529155217 and revision id 1909
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Create_Object&amp;oldid=1909">http://clickwiki.net/w/index.php?title=Create_Object&amp;oldid=1909</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Create+Object"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":602});});</script>
+  </body>
+</html>

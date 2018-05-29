@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Windows Runtime - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Windows_Runtime","wgTitle":"Windows Runtime","wgCurRevisionId":1403,"wgRevisionId":1403,"wgArticleId":91,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Exporters"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Windows_Runtime","wgRelevantArticleId":91,"wgRequestId":"b6059b99467cde83c4c9907e","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Windows_Runtime rootpage-Windows_Runtime skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img1.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Windows_Runtime#mw-head">navigation</a>,
+          <a href="Windows_Runtime#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Windows Runtime</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><br />
+</p>
+<table class="wikitable" style="float:right;">
+
+<tr style="text-align:center;">
+<td colspan="2"><a href="./File:EXE_Image.jpg" class="image"><img alt="EXE Image.jpg" src="../w/images/d/de/EXE_Image.jpg" width="300" height="180" /></a>
+</td></tr>
+<tr>
+<td><b>Status</b>
+</td>
+<td>Released
+</td></tr>
+<tr>
+<td><b>Release Date</b>
+</td>
+<td>2006
+</td></tr>
+<tr>
+<td><b>Available for</b>
+</td>
+<td><a href="The_Games_Factory" title="The Games Factory"><img alt="The Games Factory" src="../w/images/b/b8/Icon_TGF1.png" width="24" height="24" /></a> <a href="Multimedia_Fusion_1.5" title="Multimedia Fusion 1.5"><img alt="Multimedia Fusion 1.5" src="../w/images/f/f7/Icon_MMF1.5.png" width="24" height="24" /></a> <a href="The_Games_Factory_2" title="The Games Factory 2"><img alt="The Games Factory 2" src="../w/images/0/00/Icon_TGF2.png" width="24" height="24" /></a> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a> <a href="Multimedia_Fusion_2#Developer" title="Multimedia Fusion Developer 2"><img alt="Multimedia Fusion Developer 2" src="../w/images/d/de/Icon_MMF2Dev.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td></tr>
+<tr style="display: none;">
+<td><b>Purchase</b>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Links</b>
+</td>
+<td><a rel="nofollow" class="external text" href="http://community.clickteam.com/forums/331-Fusion-2-5">Support for Fusion 2.5</a><br />
+<p><a rel="nofollow" class="external text" href="http://community.clickteam.com/forums/190-Multimedia-Fusion-2-Technical-Support">Support for MMF2</a><br />
+<a rel="nofollow" class="external text" href="http://community.clickteam.com/forums/191-The-Games-Factory-2-Technical-Support">Support for TGF2</a>
+</p>
+</td></tr></table>
+<p><a href="./File:Fusion_Windows.png" class="image"><img alt="Fusion Windows.png" src="../w/images/0/01/Fusion_Windows.png" width="177" height="75" /></a>
+</p><p>The <b>Windows Runtime</b> (sometimes called the EXE Runtime) exports creations into a single Windows Executable file. The file may be freely distributed to other computers and users where the software will run providing it is running Windows 98 or newer (for MMF2) or Windows XP SP3 or later (for Fusion 2.5).
+</p><p>All new projects default to the Windows Runtime and is probably the most widely used runtime, with the most extensions available.
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Windows_Runtime#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="Windows_Runtime#Formats"><span class="tocnumber">2</span> <span class="toctext">Formats</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="Windows_Runtime#Command_Line_Switches"><span class="tocnumber">3</span> <span class="toctext">Command Line Switches</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="Windows_Runtime#Including_External_Files"><span class="tocnumber">4</span> <span class="toctext">Including External Files</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="Windows_Runtime#Problems_with_distribution"><span class="tocnumber">5</span> <span class="toctext">Problems with distribution</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="Windows_Runtime#Antivirus_False_Positives"><span class="tocnumber">5.1</span> <span class="toctext">Antivirus False Positives</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="Windows_Runtime#Extensions_have_a_dependency"><span class="tocnumber">5.2</span> <span class="toctext">Extensions have a dependency</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="Windows_Runtime#Compatibility_with_Wine"><span class="tocnumber">5.3</span> <span class="toctext">Compatibility with Wine</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p>The runtime could be considered old, as it is started with the older <a href="Multimedia_Fusion_1.5" title="Multimedia Fusion 1.5">Multimedia Fusion 1.5</a> and has some bugs that cannot be fixed without re-writing code. For instance, the <a rel="nofollow" class="external text" href="http://bugbox.clickteam.com/issues/2347">bug that adds a lot of white space to version details is still present</a> in <a href="Fusion_2.5" class="mw-redirect" title="Fusion 2.5">Fusion 2.5</a>.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Formats">Formats</span></h2>
+<p>Since the début of <a href="Multimedia_Fusion" title="Multimedia Fusion">Multimedia Fusion</a> and <a href="The_Games_Factory" title="The Games Factory">The Games Factory</a>, the runtime has been capable of creating applications, games and screensavers to one of the following formats:
+</p>
+<ul><li> <b>Windows Executable</b> (.exe)</li>
+<li> <b>Windows Screensaver</b> (.scr)</li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Command_Line_Switches">Command Line Switches</span></h2>
+<p>The following command line switches can be used on your stand-alone application to change some behaviours.
+</p>
+<table class="wikitable">
+<tr>
+<th> Switch
+</th>
+<th> Parameter
+</th></tr>
+<tr>
+<td><b>/DIB</b>
+</td>
+<td> forces standard graphic mode
+</td></tr>
+<tr>
+<td><b>/DIB3</b>
+</td>
+<td> forces standard graphic mode, 256 colors
+</td></tr>
+<tr>
+<td><b>/DIB4</b>
+</td>
+<td> forces standard graphic mode, 16 millions of colors, 24 bits
+</td></tr>
+<tr>
+<td><b>/DIB6</b>
+</td>
+<td> forces standard graphic mode, 32768 colors
+</td></tr>
+<tr>
+<td>/<b>DIB7</b>
+</td>
+<td> forces standard graphic mode, 65536 colors
+</td></tr>
+<tr>
+<td><b>/DIB8</b>
+</td>
+<td> forces standard graphic mode, 16 millions of colors, 32 bits
+</td></tr>
+<tr>
+<td><b>/DDRAW</b>
+</td>
+<td> forces DirectDraw + VRAM mode
+</td></tr>
+<tr>
+<td><b>/NOVR</b>
+</td>
+<td> no VRAM in DirectDraw mode
+</td></tr>
+<tr>
+<td><b>/DEBUG</b>
+</td>
+<td> displays graphic mode in title bar
+</td></tr>
+<tr>
+<td><b>/MIS0</b>
+</td>
+<td> disables the Machine Independent Speed option
+</td></tr>
+<tr>
+<td><b>/MIS1</b>
+</td>
+<td> forces the Machine Independent Speed option
+</td></tr>
+<tr>
+<td><b>/NOF</b>
+</td>
+<td> runs in windowed mode
+</td></tr>
+<tr>
+<td><b>/NOC</b>
+</td>
+<td> prevents images from being compressed in memory (for internal test)
+</td></tr>
+<tr>
+<td><b>/NOX</b>
+</td>
+<td> disables Alt+F4
+</td></tr>
+<tr>
+<td><b>/NOK</b>
+</td>
+<td> disables the Keep Screen Ratio option (in full screen mode)
+</td></tr>
+<tr>
+<td><b>/VSYNC</b>
+</td>
+<td> forces V-Sync ON
+</td></tr>
+</table>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Including_External_Files">Including External Files</span></h2>
+<p>The external files option is only available for the Windows Runtime, it can be selected under the Application's properties under the "Windows" tab (for <a href="Fusion_2.5" class="mw-redirect" title="Fusion 2.5">Fusion 2.5</a>) or the general tab (for <a href="MMF2" class="mw-redirect" title="MMF2">MMF2</a>). When checked, the final executable will also pack all the files external to the application. When the application starts, these files will be extracted using obscured file names to a temporary location with Fusion loading them when needed. All these files can be viewed in the <a href="Data_Elements" title="Data Elements">Data Elements</a> dialog.
+</p><p>Alternately, the developer may consider using <a href="Binary_Data" title="Binary Data">Binary Data</a>, also available in the <a href="Data_Elements" title="Data Elements">Data Elements</a> dialog. This makes porting the application to other platforms very convenient as this feature is supported on most (if not, all) platforms. Instead, the developer will need to specifically state which files to include, and can extract them as necessary (for some objects, data will be directly read, removing the need for extraction)
+</p><p>The external files feature cannot be used alongside <a href="Binary_Data" title="Binary Data">Binary Data</a>, as these options are not compatible.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Problems_with_distribution">Problems with distribution</span></h2>
+<h3><span class="mw-headline" id="Antivirus_False_Positives">Antivirus False Positives</span></h3>
+<p>In some cases, specific extensions or the compressed runtime flags an antivirus that the executable contains malicious code. This can be quite scary, especially for your users. Don't worry, the files themselves are harmless, and you are strongly recommended to send your file to the organisation behind your Antivirus to ensure this does not happen again.
+</p><p>A known workaround is to uncheck the "Compress the Runtime" option in your Application's properties. This prevents stdrt.exe from running and the antivirus does not trigger.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Extensions_have_a_dependency">Extensions have a dependency</span></h3>
+<p>Some extensions may depend on certain software on the host system in order to work properly.
+</p><p>For example:
+</p>
+<ul><li> The <a href="/w/index.php?title=Superbar_Progress_Bar&amp;action=edit&amp;redlink=1" class="new" title="Superbar Progress Bar (page does not exist)">Superbar Progress Bar</a> only works on Windows 7 systems.</li></ul>
+<ul><li> The <a href="/w/index.php?title=.NET_extension&amp;action=edit&amp;redlink=1" class="new" title=".NET extension (page does not exist)">.NET extension</a> will depend on having Microsoft .NET Framework installed.</li></ul>
+<ul><li> The <a href="/w/index.php?title=DirectShow&amp;action=edit&amp;redlink=1" class="new" title="DirectShow (page does not exist)">DirectShow</a> object uses the codecs available on your system. If one is missing on another user's system, the video will not play.</li></ul>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Compatibility_with_Wine">Compatibility with Wine</span></h3>
+<p><a rel="nofollow" class="external text" href="http://www.winehq.org">Wine</a> is a compatibility layer for non-Windows systems (such as Mac OS X and Linux). This technology translates Windows API calls to the native operating system, delivering near-expected performance for users on those systems. Despite Fusion's heavy Windows dependency, programs created by this runtime work on other operating systems with minimal problems. However, it is known that on some Mac systems, using the Direct3D runtime (default <a href="Fusion_2.5" class="mw-redirect" title="Fusion 2.5">Fusion 2.5</a> feature or by using the <a href="HWA" class="mw-redirect" title="HWA">HWA</a> exporter for MMF2) will render graphical problems. <a href="Clickteam" title="Clickteam">Clickteam</a> have expressed their interest in supporting Fusion under Wine, as their <a href="/w/index.php?title=Mac_Editor&amp;action=edit&amp;redlink=1" class="new" title="Mac Editor (page does not exist)">Mac Editor</a> will be based upon a Wine wrapper. (Not to be confused with the fact the <a href="Mac_Runtime" class="mw-redirect" title="Mac Runtime">Mac Runtime</a> exports native code for OS X systems.)
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155140
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.250 seconds
+Real time usage: 0.251 seconds
+Preprocessor visited node count: 70/1000000
+Preprocessor generated node count: 261/1000000
+Post‐expand include size: 1715/2097152 bytes
+Template argument size: 884/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   73.546      1 - -total
+100.00%   73.546      1 - Template:InfoExporter
+ 16.28%   11.975      1 - Template:TGF
+ 15.29%   11.247      1 - Template:MMF
+  8.27%    6.079      1 - Template:CF2.5Dev
+  8.24%    6.057      1 - Template:TGF2
+  8.14%    5.990      1 - Template:CF2.5
+  8.11%    5.967      1 - Template:MMF2
+  7.89%    5.806      1 - Template:MMF2Dev
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:91-0!*!0!!en!5!* and timestamp 20180529155140 and revision id 1403
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (12.5%), <a href="/w/index.php?title=User:Lh37&amp;action=edit&amp;redlink=1" class="new" title="User:Lh37 (page does not exist)">Lh37</a> (87.5%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Windows_Runtime&amp;oldid=1403">http://clickwiki.net/w/index.php?title=Windows_Runtime&amp;oldid=1403</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="./Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="./Category:Exporters" title="Category:Exporters">Exporters</a></li></ul></div></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Windows+Runtime"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":542});});</script>
+  </body>
+</html>

@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Talk:Extensions - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Talk","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":1,"wgPageName":"Talk:Extensions","wgTitle":"Extensions","wgCurRevisionId":1305,"wgRevisionId":1305,"wgArticleId":744,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Talk:Extensions","wgRelevantArticleId":744,"wgRequestId":"9607b2df9a53c3a4f14a0a2d","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-1 ns-talk page-Talk_Extensions rootpage-Talk_Extensions skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img2.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="./Talk:Extensions#mw-head">navigation</a>,
+          <a href="./Talk:Extensions#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Talk:Extensions</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><h3><span class="mw-headline" id="Missing_Extensions">Missing Extensions</span></h3>
+<p><b>These are present in the Extension Manager, but not listed on the <a href="Extensions" title="Extensions">Extensions</a> page yet:</b>
+</p>
+<ul><li> 3D Mesh - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Advanced Comment Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Advanced Int64 Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>  ("Int64 object" is a different object)</li>
+<li> Advanced Race Car Object 2 - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Advanced Video Player - <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a></li>
+<li> Aging Pair Map - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Animation Info - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Application Priority Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Array 3D Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> ASCII - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> ASCII Character Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Associative Array Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Binary Quickload - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Bitwise Helper Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> ByteArray - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Calculate Text Rect Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Calendar Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Circle Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Clipboard Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Color Dialog Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Condition ID Restriction - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Control X 95 - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> CRC32 Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Custom Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Cypher Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Dead Reckoning - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>, <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a>, <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a></li>
+<li> Default Menu Options Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Display and Sound Retriever - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Expression Evaluator Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> File Stream - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a> - Button/Draw/Menu/MP3/Progress Bar/Tooltip/TTS/Flash® Player/FLV</li>
+<li> Flocking - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> FMod Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Font Embed Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> For Each - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>, <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>, Andorid</li>
+<li> Format Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Global Function Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Google Maps - <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a></li>
+<li> GraphicFont - <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a></li>
+<li> IfElse Nest Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Inline Loop Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Int16384 - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Integer Split - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Interface Bar Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> IShellLink - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Keyboard Object - (not same as built-in... description reads: "Achtung!") - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Layer Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>/<a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a>/<a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>/<a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a>/<a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a>/<a href="XNA_Runtime" title="XNA Runtime (now deprecated)"><img alt="XNA Runtime (now deprecated)" src="../w/images/9/9f/Runtime_XNA.png" width="24" height="24" /></a></li>
+<li> List of Numbers - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> MessageBox Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> MMF2/CF Params Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Mochi* - <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a></li>
+<li> MPEG Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Msg. Box and Asker Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Multiple Monitor Support - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Nifflas Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Object Flagger - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Open URLs Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> PackX Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Perspective Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Powerful Dialogs Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Prime Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Quiz Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Random Multipool Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Runtime Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>, <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a>, <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a></li>
+<li> Sleep Object - (Legacy Extension) - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> SlowLoop - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Store Float Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Substring Replace Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> System Tray Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Tablet - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Text Threshold - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Textfile Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Ticker Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Timeline Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Titlebar Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Tray Icon Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> UHSD Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> V2Template32 object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Value Packer - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Viewport - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Volume Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> While Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Windows Life Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Window Message Object Pro - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> WinScrollBar - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> Xable* - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li>
+<li> YouTube - <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a></li>
+<li> Zip Object - <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a></li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20180529155716
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.730 seconds
+Real time usage: 0.731 seconds
+Preprocessor visited node count: 107/1000000
+Preprocessor generated node count: 812/1000000
+Post‐expand include size: 10511/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  156.994      1 - -total
+ 15.74%   24.716     82 - Template:Windows
+  5.75%    9.028      9 - Template:Flash
+  4.71%    7.397      4 - Template:IOS
+  4.49%    7.052      1 - Template:Android
+  4.44%    6.973      2 - Template:HTML5
+  4.26%    6.692      1 - Template:XNA
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:744-0!*!0!*!*!5!* and timestamp 20180529155715 and revision id 1305
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Lh37&amp;action=edit&amp;redlink=1" class="new" title="User:Lh37 (page does not exist)">Lh37</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Talk:Extensions&amp;oldid=1305">http://clickwiki.net/w/index.php?title=Talk:Extensions&amp;oldid=1305</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Talk%3AExtensions"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1024});});</script>
+  </body>
+</html>

@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Search - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Search","wgTitle":"Search","wgCurRevisionId":1885,"wgRevisionId":1885,"wgArticleId":895,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Search","wgRelevantArticleId":895,"wgRequestId":"b0d71c3289f10b121c79f4ee","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Search rootpage-Search skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img3.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Search#mw-head">navigation</a>,
+          <a href="Search#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Search</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="wikitable" style="float:right;">
+
+<tr style="text-align:center;">
+<td colspan="2"><a href="./File:Icon_Search_Object.png" class="image"><img alt="Icon Search Object.png" src="../w/images/5/5f/Icon_Search_Object.png" width="32" height="32" /></a>
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td><a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a>
+</td></tr>
+<tr>
+<td><b>Status</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Released
+</td></tr>
+<tr>
+<td><b>Release Date</b>
+</td>
+<td>Unknown
+</td></tr>
+<tr style="display: none;">
+<td> <b>Last Updated</b>
+</td>
+<td> {{{LastUpdated}}}
+</td></tr>
+<tr>
+<td><b>Available for</b>
+</td>
+<td>Not yet documented
+</td></tr>
+<tr>
+<td><b>Supported Runtimes</b>
+</td>
+<td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial"><a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>License</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Free
+</td></tr>
+<tr style="display: none;">
+<td> <b>Attributes</b>
+</td>
+<td> {{{Attributes}}}
+</td></tr>
+<tr>
+<th colspan="2"> Download
+</th></tr>
+<tr>
+<td><b>Includes Examples</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Includes Help Files</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Links</b>
+</td>
+<td style="text-align:center;width:24px"> <div class="center"><div class="floatnone"><a href="Extension_Manager" title="Downloadable via the Extension Manager"><img alt="Downloadable via the Extension Manager" src="../w/images/5/53/ExtManagerIcon.png" width="24" height="28" /></a></div></div> <i>Included by default.</i>
+</td></tr>
+
+<tr style="display: none;">
+<td> <b>Alternates</b>
+</td>
+<td> {{{Alternates}}}
+</td></tr>
+</table>
+<p>The Search object searches text files for a specific word or phrase and reports back with the location of the search string. If you are unsure of the name of the file, you can search using a wildcard option. Clickteam Fusion 2.5 will even perform your searches in the background while your application is running.
+</p><p>Clickteam Fusion 2.5 lets you control your searches using a range of powerful options. You can specify the search string and then set the drive and directory in which the search will begin. The search can be limited to a single directory or can scan through all the folders and subdirectories starting at a specified position. You can check for either complete words or partial phrases, and test for a particular combination of capital and lowercase letters in your text.
+</p><p>Clickteam Fusion 2.5 provides two types of searches:
+</p>
+<ul><li>Simple searches look through your files a section at a time and stop when the search string is found or when the end of the search path is reached. Simple searches are used when you're searching for unpredictable information or when the search files are subject to change.</li>
+<li>Index searches look through all the files in a single batch. They record the position details of any successful matches in an index file. Once you've created an index, you can quickly look through the results of the search.</li></ul>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Search#Properties"><span class="tocnumber">1</span> <span class="toctext">Properties</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="Search#Files_Directory"><span class="tocnumber">1.1</span> <span class="toctext">Files Directory</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="Search#Enter_Directory"><span class="tocnumber">1.1.1</span> <span class="toctext">Enter Directory</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-4"><a href="Search#File_selection_wildcards"><span class="tocnumber">1.2</span> <span class="toctext">File selection wildcards</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="Search#Wildcards"><span class="tocnumber">1.2.1</span> <span class="toctext">Wildcards</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="Search#Options"><span class="tocnumber">1.3</span> <span class="toctext">Options</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="Search#Match_whole_word"><span class="tocnumber">1.3.1</span> <span class="toctext">Match whole word</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="Search#Match_case"><span class="tocnumber">1.3.2</span> <span class="toctext">Match case</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="Search#Search_in_subdirectories"><span class="tocnumber">1.3.3</span> <span class="toctext">Search in subdirectories</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="Search#Conditions"><span class="tocnumber">2</span> <span class="toctext">Conditions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="Search#Text_found.3F"><span class="tocnumber">2.1</span> <span class="toctext">Text found?</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="Search#Search_in_progress.3F"><span class="tocnumber">2.2</span> <span class="toctext">Search in progress?</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="Search#Index_built.3F"><span class="tocnumber">2.3</span> <span class="toctext">Index built?</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="Search#Building_index.3F"><span class="tocnumber">2.4</span> <span class="toctext">Building index?</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="Search#Whole_word_search.3F"><span class="tocnumber">2.5</span> <span class="toctext">Whole word search?</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="Search#Case_search.3F"><span class="tocnumber">2.6</span> <span class="toctext">Case search?</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="Search#Search_in_subdirectories.3F"><span class="tocnumber">2.7</span> <span class="toctext">Search in subdirectories?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="Search#Actions"><span class="tocnumber">3</span> <span class="toctext">Actions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="Search#Set_Priority"><span class="tocnumber">3.1</span> <span class="toctext">Set Priority</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="Search#Set_Search_Directory"><span class="tocnumber">3.2</span> <span class="toctext">Set Search Directory</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="Search#Set_Search_Files_Wildcards"><span class="tocnumber">3.3</span> <span class="toctext">Set Search Files Wildcards</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="Search#Whole_Word_Search"><span class="tocnumber">3.4</span> <span class="toctext">Whole Word Search</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="Search#Case_Search"><span class="tocnumber">3.5</span> <span class="toctext">Case Search</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="Search#Search_In_Subdirectories_2"><span class="tocnumber">3.6</span> <span class="toctext">Search In Subdirectories</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="Search#Simple_Search"><span class="tocnumber">3.7</span> <span class="toctext">Simple Search</span></a>
+<ul>
+<li class="toclevel-3 tocsection-26"><a href="Search#Find_text"><span class="tocnumber">3.7.1</span> <span class="toctext">Find text</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="Search#Stop_searching"><span class="tocnumber">3.7.2</span> <span class="toctext">Stop searching</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="Search#Find_previous"><span class="tocnumber">3.7.3</span> <span class="toctext">Find previous</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="Search#Find_next"><span class="tocnumber">3.7.4</span> <span class="toctext">Find next</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-30"><a href="Search#Index_Search"><span class="tocnumber">3.8</span> <span class="toctext">Index Search</span></a>
+<ul>
+<li class="toclevel-3 tocsection-31"><a href="Search#Build_index"><span class="tocnumber">3.8.1</span> <span class="toctext">Build index</span></a></li>
+<li class="toclevel-3 tocsection-32"><a href="Search#Stop_building_index"><span class="tocnumber">3.8.2</span> <span class="toctext">Stop building index</span></a></li>
+<li class="toclevel-3 tocsection-33"><a href="Search#Load_index"><span class="tocnumber">3.8.3</span> <span class="toctext">Load index</span></a></li>
+<li class="toclevel-3 tocsection-34"><a href="Search#Save_index"><span class="tocnumber">3.8.4</span> <span class="toctext">Save index</span></a></li>
+<li class="toclevel-3 tocsection-35"><a href="Search#Find_first_entry_in_index"><span class="tocnumber">3.8.5</span> <span class="toctext">Find first entry in index</span></a></li>
+<li class="toclevel-3 tocsection-36"><a href="Search#Find_previous_entry_in_index"><span class="tocnumber">3.8.6</span> <span class="toctext">Find previous entry in index</span></a></li>
+<li class="toclevel-3 tocsection-37"><a href="Search#Find_next_entry_in_index"><span class="tocnumber">3.8.7</span> <span class="toctext">Find next entry in index</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-38"><a href="Search#Expressions"><span class="tocnumber">4</span> <span class="toctext">Expressions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-39"><a href="Search#Get_Result_Filename"><span class="tocnumber">4.1</span> <span class="toctext">Get Result Filename</span></a></li>
+<li class="toclevel-2 tocsection-40"><a href="Search#Get_Result_Line_Number"><span class="tocnumber">4.2</span> <span class="toctext">Get Result Line Number</span></a></li>
+<li class="toclevel-2 tocsection-41"><a href="Search#Get_Result_Position_In_Line"><span class="tocnumber">4.3</span> <span class="toctext">Get Result Position In Line</span></a></li>
+<li class="toclevel-2 tocsection-42"><a href="Search#Get_Index_Building_Progression"><span class="tocnumber">4.4</span> <span class="toctext">Get Index Building Progression</span></a></li>
+<li class="toclevel-2 tocsection-43"><a href="Search#Get_Searched_Text"><span class="tocnumber">4.5</span> <span class="toctext">Get Searched Text</span></a></li>
+<li class="toclevel-2 tocsection-44"><a href="Search#Get_Searched_Directory"><span class="tocnumber">4.6</span> <span class="toctext">Get Searched Directory</span></a></li>
+<li class="toclevel-2 tocsection-45"><a href="Search#Get_Searched_Wildcards"><span class="tocnumber">4.7</span> <span class="toctext">Get Searched Wildcards</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Properties">Properties</span></h2>
+<h3><span class="mw-headline" id="Files_Directory">Files Directory</span></h3>
+<h4><span class="mw-headline" id="Enter_Directory">Enter Directory</span></h4>
+<p>Enter the directory where to search. Example: c:\mydocs.
+</p>
+<h3><span class="mw-headline" id="File_selection_wildcards">File selection wildcards</span></h3>
+<h4><span class="mw-headline" id="Wildcards">Wildcards</span></h4>
+<p>Enter the wildcards to select the files where to do the search. Example: *.txt will search in every text files in the given directory.
+</p>
+<h3><span class="mw-headline" id="Options">Options</span></h3>
+<h4><span class="mw-headline" id="Match_whole_word">Match whole word</span></h4>
+<p>The search will only look for whole words. Example, a search for "text" will be positive for the word text but not for the word textexample. 
+</p>
+<h4><span class="mw-headline" id="Match_case">Match case</span></h4>
+<p>If selected, the capital and small letters must match. 
+</p>
+<h4><span class="mw-headline" id="Search_in_subdirectories">Search in subdirectories</span></h4>
+<p>If selected, the search will be conducted in all the subdirectories of the "Files directory".
+</p>
+<h2><span class="mw-headline" id="Conditions">Conditions</span></h2>
+<h4><span class="mw-headline" id="Text_found.3F">Text found?</span></h4>
+<p>Tests to see if the text string has been found.
+</p>
+<h4><span class="mw-headline" id="Search_in_progress.3F">Search in progress?</span></h4>
+<p>Tests to see if a search is currently being conducted by the Search object.
+</p>
+<h4><span class="mw-headline" id="Index_built.3F">Index built?</span></h4>
+<p>Tests to see if an index search is complete.
+</p>
+<h4><span class="mw-headline" id="Building_index.3F">Building index?</span></h4>
+<p>Tests to see if an index is currently being built by the Search object.
+</p>
+<h4><span class="mw-headline" id="Whole_word_search.3F">Whole word search?</span></h4>
+<p>Tests to see if a whole word search is currently being conducted by the Search object
+</p>
+<h4><span class="mw-headline" id="Case_search.3F">Case search?</span></h4>
+<p>Tests to see if a case-sensitive search is currently being conducted by the Search object.
+</p>
+<h4><span class="mw-headline" id="Search_in_subdirectories.3F">Search in subdirectories?</span></h4>
+<p>Tests to see if a search is being conducted in the folder's subdirectories.
+</p>
+<h2><span class="mw-headline" id="Actions">Actions</span></h2>
+<h4><span class="mw-headline" id="Set_Priority">Set Priority</span></h4>
+<p>The Set Priority action changes the priority that the search has over other application tasks. The priority is a number between one and 100, with 100 being the maximum priority. The search will take longer with a low priority, but it will interfere less with other tasks the application may be running concurrently.
+</p>
+<h4><span class="mw-headline" id="Set_Search_Directory">Set Search Directory</span></h4>
+<p>The Set Search Directory action sets the initial drive and directory that Clickteam Fusion 2.5 will search in for the search string.
+</p>
+<h4><span class="mw-headline" id="Set_Search_Files_Wildcards">Set Search Files Wildcards</span></h4>
+<p>The Set Search Files Wildcards action changes the name of the file, type of file, or wildcard that is searched for.
+</p>
+<h4><span class="mw-headline" id="Whole_Word_Search">Whole Word Search</span></h4>
+<p>The Whole Word Search actions determine whether the Search object looks for whole words or parts of words. If whole word search is On, the Search object will only look for whole words. If whole word search is Off, the Search object will look for the search string within other words.
+</p>
+<h4><span class="mw-headline" id="Case_Search">Case Search</span></h4>
+<p>The Case Search actions determine whether or not the Search object is case sensitive. If case search is On, the Search object will only return words that exactly match the letters of the search string. If case search is Off, the Search object will return all words that match the search string, irrespective of the case. 
+</p>
+<h4><span class="mw-headline" id="Search_In_Subdirectories_2">Search In Subdirectories</span></h4>
+<p>The Search In Subdirectories action determines whether the Search object looks in subdirectories. If Search In Subdirectories is On, the Search object will look in subdirectories. If Search In Subdirectories is Off, the Search object will not look in subdirectories.
+</p>
+<h3><span class="mw-headline" id="Simple_Search">Simple Search</span></h3>
+<p>The Simple Search actions change the way a simple search is conducted by the search object. The Simple Search actions are:
+</p>
+<h4><span class="mw-headline" id="Find_text">Find text</span></h4>
+<p>Searches for a search string. Enter the search string within the quotation marks in the Expression Evaluator or retrieve a string variable from another object. Repeated use of this action will not return additional instances of the search string because the search starts at the beginning each time. 
+</p>
+<h4><span class="mw-headline" id="Stop_searching">Stop searching</span></h4>
+<p>Stops the simple search that is currently being conducted.
+</p>
+<h4><span class="mw-headline" id="Find_previous">Find previous</span></h4>
+<p>Finds the previous occurrence of a search string. You must already have used the "Find text" and "Find next" actions before this action can be performed.
+</p>
+<h4><span class="mw-headline" id="Find_next">Find next</span></h4>
+<p>Finds the next occurrence of a search string. You must already have used the "Find text" action before this action can be performed.
+</p>
+<h3><span class="mw-headline" id="Index_Search">Index Search</span></h3>
+<p>The Index Search actions build, load, and navigate indexes using the Search object. The Index Search actions are:
+</p>
+<h4><span class="mw-headline" id="Build_index">Build index</span></h4>
+<p>Builds an index file of all occurrences of the search string.
+</p>
+<h4><span class="mw-headline" id="Stop_building_index">Stop building index</span></h4>
+<p>Stops an index currently being built. 
+</p>
+<h4><span class="mw-headline" id="Load_index">Load index</span></h4>
+<p>Loads a previously saved index.
+</p>
+<h4><span class="mw-headline" id="Save_index">Save index</span></h4>
+<p>Saves an index that has been built using the Search object.
+</p>
+<h4><span class="mw-headline" id="Find_first_entry_in_index">Find first entry in index</span></h4>
+<p>Finds the first entry of an index.
+</p>
+<h4><span class="mw-headline" id="Find_previous_entry_in_index">Find previous entry in index</span></h4>
+<p>Finds the next entry of an index if the "Find next entry in index" has already been used.
+</p>
+<h4><span class="mw-headline" id="Find_next_entry_in_index">Find next entry in index</span></h4>
+<p>Finds the next entry in an index.
+</p>
+<h2><span class="mw-headline" id="Expressions">Expressions</span></h2>
+<p><b>Note:</b> The expression code provided below assume that the Search object in your frame is named <b>Search</b>, which is the default. If it is not, then you must switch it out in your expression code. For example, if your Search object is named <b>hello</b>, then <b>SelLine( "Search" )</b> becomes <b>SelLine( "hello" )</b>.
+</p><p>Functions retrieved from the Search object work best with files in standard Text or ASCII format. Some file formats, such as .RTF or HTML include extra formatting characters that will be detected by the Search object. This means that the actual position of the text on the screen may be different from the value retrieved by Clickteam Fusion 2.5.
+The functions that you can retrieve from the Search object are:
+</p>
+<h4><span class="mw-headline" id="Get_Result_Filename">Get Result Filename</span></h4>
+<pre>Search filename$( "Search" )
+</pre>
+<p>The Get Result Filename function retrieves the name of the file containing the current match. If the search failed, you'll get an empty string ("") instead. Use this function after you've found a text string using a Text Found condition.
+</p>
+<h4><span class="mw-headline" id="Get_Result_Line_Number">Get Result Line Number</span></h4>
+<pre>Search line( "Search" )
+</pre>
+<p>The Get Result Line Number function retrieves the line number containing the search string found in your document. The lines are numbered from the top of the file starting at zero. If the search was unsuccessful, you'll get a value of zero.
+</p>
+<h4><span class="mw-headline" id="Get_Result_Position_In_Line">Get Result Position In Line</span></h4>
+<pre>Search position( "Search" )
+</pre>
+<p>The Get Result Position In Line function retrieves the column number containing the search string found in your document. Each character represents a column and they are numbered from left to right starting at one. If the search was unsuccessful, you'll get a value of zero.
+</p>
+<h4><span class="mw-headline" id="Get_Index_Building_Progression">Get Index Building Progression</span></h4>
+<pre>Search idx prog( "Search" )
+</pre>
+<p>The Get Index Building Progression function retrieves the result of the index currently being built. The result will be a number ranging from zero to 100 and indicates the percentage of the index that has been completed.
+</p>
+<h4><span class="mw-headline" id="Get_Searched_Text">Get Searched Text</span></h4>
+<pre>Search text$( "Search" )
+</pre>
+<p>The Get Searched Text function retrieves the text string that the Search object is searching for and automatically saves it with your index files. Use this function after you have loaded an index using the Load Index action.
+</p>
+<h4><span class="mw-headline" id="Get_Searched_Directory">Get Searched Directory</span></h4>
+<pre>Search directory$( "Search" )
+</pre>
+<p>The Get Searched Directory function retrieves the drive and directory that the Search object is currently searching in.
+</p>
+<h4><span class="mw-headline" id="Get_Searched_Wildcards">Get Searched Wildcards</span></h4>
+<pre>Search wildcards$( "Search" )
+</pre>
+<p>The Get Searched Wildcards function retrieves the wildcards that the Search object is currently using.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155321
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.210 seconds
+Real time usage: 0.208 seconds
+Preprocessor visited node count: 243/1000000
+Preprocessor generated node count: 623/1000000
+Post‐expand include size: 2133/2097152 bytes
+Template argument size: 810/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   65.463      1 - -total
+100.00%   65.463      1 - Template:InfoExtension
+ 22.30%   14.600      1 - Template:Partial
+ 14.14%    9.256      4 - Template:Yes
+ 11.84%    7.751      1 - Template:ExtManager
+ 10.25%    6.710      1 - Template:EXE
+  9.44%    6.183      1 - Template:ClickteamExtension
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:895-0!*!*!!en!5!* and timestamp 20180529155321 and revision id 1885
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Search&amp;oldid=1885">http://clickwiki.net/w/index.php?title=Search&amp;oldid=1885</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Search"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":487});});</script>
+  </body>
+</html>

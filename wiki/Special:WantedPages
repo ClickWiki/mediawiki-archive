@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wanted pages - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Wantedpages","wgNamespaceNumber":-1,"wgPageName":"Special:WantedPages","wgTitle":"WantedPages","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Special:WantedPages","wgRelevantArticleId":0,"wgRequestId":"9757dc5d2be0467072a86dce","wgIsProbablyEditable":false,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Wantedpages page-Special_WantedPages rootpage-Special_WantedPages skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img3.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="./Special:WantedPages#mw-head">navigation</a>,
+          <a href="./Special:WantedPages#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Wanted pages</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>List of non-existing pages with the most links to them, excluding pages which only have redirects linking to them. For a list of non-existent pages that have redirects linking to them, see <a href="/wiki/Special:BrokenRedirects" title="Special:BrokenRedirects">the list of broken redirects</a>.
+</p>
+</div>
+<div class="mw-spcontent"><p>Showing below up to <strong>50</strong> results in range #<strong>1</strong> to #<strong>50</strong>.
+</p><p>View (previous 50  |  <a href="/w/index.php?title=Special:WantedPages&amp;limit=50&amp;offset=50" title="Next 50 results" class="mw-nextlink">next 50</a>) (<a href="/w/index.php?title=Special:WantedPages&amp;limit=20&amp;offset=0" title="Show 20 results per page" class="mw-numlink">20</a> | <a href="/w/index.php?title=Special:WantedPages&amp;limit=50&amp;offset=0" title="Show 50 results per page" class="mw-numlink">50</a> | <a href="/w/index.php?title=Special:WantedPages&amp;limit=100&amp;offset=0" title="Show 100 results per page" class="mw-numlink">100</a> | <a href="/w/index.php?title=Special:WantedPages&amp;limit=250&amp;offset=0" title="Show 250 results per page" class="mw-numlink">250</a> | <a href="/w/index.php?title=Special:WantedPages&amp;limit=500&amp;offset=0" title="Show 500 results per page" class="mw-numlink">500</a>)</p>
+<ol start='1' class='special'>
+<li><a href="/w/index.php?title=Java_Runtime&amp;action=edit&amp;redlink=1" class="new" title="Java Runtime (page does not exist)">Java Runtime</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Java_Runtime" title="Special:WhatLinksHere/Java Runtime">12 links</a>)</li>
+<li><a href="/w/index.php?title=Klik_%26_Play&amp;action=edit&amp;redlink=1" class="new" title="Klik &amp; Play (page does not exist)">Klik &amp; Play</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Klik_%26_Play" title="Special:WhatLinksHere/Klik &amp; Play">11 links</a>)</li>
+<li><a href="/w/index.php?title=Vitalize_Runtime&amp;action=edit&amp;redlink=1" class="new" title="Vitalize Runtime (page does not exist)">Vitalize Runtime</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Vitalize_Runtime" title="Special:WhatLinksHere/Vitalize Runtime">7 links</a>)</li>
+<li><a href="/w/index.php?title=ClickJam&amp;action=edit&amp;redlink=1" class="new" title="ClickJam (page does not exist)">ClickJam</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/ClickJam" title="Special:WhatLinksHere/ClickJam">6 links</a>)</li>
+<li><a href="/w/index.php?title=Click_%26_Create&amp;action=edit&amp;redlink=1" class="new" title="Click &amp; Create (page does not exist)">Click &amp; Create</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Click_%26_Create" title="Special:WhatLinksHere/Click &amp; Create">5 links</a>)</li>
+<li><a href="/w/index.php?title=Click_and_Create&amp;action=edit&amp;redlink=1" class="new" title="Click and Create (page does not exist)">Click and Create</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Click_and_Create" title="Special:WhatLinksHere/Click and Create">5 links</a>)</li>
+<li><a href="/w/index.php?title=DirectShow&amp;action=edit&amp;redlink=1" class="new" title="DirectShow (page does not exist)">DirectShow</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/DirectShow" title="Special:WhatLinksHere/DirectShow">5 links</a>)</li>
+<li><a href="/w/index.php?title=Lacewing&amp;action=edit&amp;redlink=1" class="new" title="Lacewing (page does not exist)">Lacewing</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Lacewing" title="Special:WhatLinksHere/Lacewing">5 links</a>)</li>
+<li><a href="/w/index.php?title=Click_Convention&amp;action=edit&amp;redlink=1" class="new" title="Click Convention (page does not exist)">Click Convention</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Click_Convention" title="Special:WhatLinksHere/Click Convention">4 links</a>)</li>
+<li><a href="/w/index.php?title=Jamagic&amp;action=edit&amp;redlink=1" class="new" title="Jamagic (page does not exist)">Jamagic</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Jamagic" title="Special:WhatLinksHere/Jamagic">4 links</a>)</li>
+<li><a href="/w/index.php?title=MagicDeque&amp;action=edit&amp;redlink=1" class="new" title="MagicDeque (page does not exist)">MagicDeque</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/MagicDeque" title="Special:WhatLinksHere/MagicDeque">4 links</a>)</li>
+<li><a href="/w/index.php?title=Sound_Player&amp;action=edit&amp;redlink=1" class="new" title="Sound Player (page does not exist)">Sound Player</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Sound_Player" title="Special:WhatLinksHere/Sound Player">4 links</a>)</li>
+<li><a href="/w/index.php?title=Steam&amp;action=edit&amp;redlink=1" class="new" title="Steam (page does not exist)">Steam</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Steam" title="Special:WhatLinksHere/Steam">4 links</a>)</li>
+<li><a href="/w/index.php?title=Sub-Application&amp;action=edit&amp;redlink=1" class="new" title="Sub-Application (page does not exist)">Sub-Application</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Sub-Application" title="Special:WhatLinksHere/Sub-Application">4 links</a>)</li>
+<li><a href="/w/index.php?title=Box2D&amp;action=edit&amp;redlink=1" class="new" title="Box2D (page does not exist)">Box2D</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Box2D" title="Special:WhatLinksHere/Box2D">3 links</a>)</li>
+<li><a href="/w/index.php?title=CCN&amp;action=edit&amp;redlink=1" class="new" title="CCN (page does not exist)">CCN</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/CCN" title="Special:WhatLinksHere/CCN">3 links</a>)</li>
+<li><a href="/w/index.php?title=Colorizer&amp;action=edit&amp;redlink=1" class="new" title="Colorizer (page does not exist)">Colorizer</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Colorizer" title="Special:WhatLinksHere/Colorizer">3 links</a>)</li>
+<li><a href="/w/index.php?title=Control_X&amp;action=edit&amp;redlink=1" class="new" title="Control X (page does not exist)">Control X</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Control_X" title="Special:WhatLinksHere/Control X">3 links</a>)</li>
+<li><a href="/w/index.php?title=Direction_Calculator&amp;action=edit&amp;redlink=1" class="new" title="Direction Calculator (page does not exist)">Direction Calculator</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Direction_Calculator" title="Special:WhatLinksHere/Direction Calculator">3 links</a>)</li>
+<li><a href="/w/index.php?title=Dynamic_Array&amp;action=edit&amp;redlink=1" class="new" title="Dynamic Array (page does not exist)">Dynamic Array</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Dynamic_Array" title="Special:WhatLinksHere/Dynamic Array">3 links</a>)</li>
+<li><a href="/w/index.php?title=ExtensionView&amp;action=edit&amp;redlink=1" class="new" title="ExtensionView (page does not exist)">ExtensionView</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/ExtensionView" title="Special:WhatLinksHere/ExtensionView">3 links</a>)</li>
+<li><a href="/w/index.php?title=Global_Store_X&amp;action=edit&amp;redlink=1" class="new" title="Global Store X (page does not exist)">Global Store X</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Global_Store_X" title="Special:WhatLinksHere/Global Store X">3 links</a>)</li>
+<li><a href="/w/index.php?title=Image_Manipulator&amp;action=edit&amp;redlink=1" class="new" title="Image Manipulator (page does not exist)">Image Manipulator</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Image_Manipulator" title="Special:WhatLinksHere/Image Manipulator">3 links</a>)</li>
+<li><a href="/w/index.php?title=Masked_Edit&amp;action=edit&amp;redlink=1" class="new" title="Masked Edit (page does not exist)">Masked Edit</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Masked_Edit" title="Special:WhatLinksHere/Masked Edit">3 links</a>)</li>
+<li><a href="/w/index.php?title=Rich_Edit_Object&amp;action=edit&amp;redlink=1" class="new" title="Rich Edit Object (page does not exist)">Rich Edit Object</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Rich_Edit_Object" title="Special:WhatLinksHere/Rich Edit Object">3 links</a>)</li>
+<li><a href="/w/index.php?title=Scintilla&amp;action=edit&amp;redlink=1" class="new" title="Scintilla (page does not exist)">Scintilla</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Scintilla" title="Special:WhatLinksHere/Scintilla">3 links</a>)</li>
+<li><a href="/w/index.php?title=Special_conditions&amp;action=edit&amp;redlink=1" class="new" title="Special conditions (page does not exist)">Special conditions</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Special_conditions" title="Special:WhatLinksHere/Special conditions">3 links</a>)</li>
+<li><a href="/w/index.php?title=String_Parser&amp;action=edit&amp;redlink=1" class="new" title="String Parser (page does not exist)">String Parser</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/String_Parser" title="Special:WhatLinksHere/String Parser">3 links</a>)</li>
+<li><a href="/w/index.php?title=Text_Blitter&amp;action=edit&amp;redlink=1" class="new" title="Text Blitter (page does not exist)">Text Blitter</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Text_Blitter" title="Special:WhatLinksHere/Text Blitter">3 links</a>)</li>
+<li><a href="/w/index.php?title=3D_Actives&amp;action=edit&amp;redlink=1" class="new" title="3D Actives (page does not exist)">3D Actives</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/3D_Actives" title="Special:WhatLinksHere/3D Actives">2 links</a>)</li>
+<li><a href="/w/index.php?title=AVIs_Object&amp;action=edit&amp;redlink=1" class="new" title="AVIs Object (page does not exist)">AVIs Object</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/AVIs_Object" title="Special:WhatLinksHere/AVIs Object">2 links</a>)</li>
+<li><a href="/w/index.php?title=ActiveX&amp;action=edit&amp;redlink=1" class="new" title="ActiveX (page does not exist)">ActiveX</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/ActiveX" title="Special:WhatLinksHere/ActiveX">2 links</a>)</li>
+<li><a href="/w/index.php?title=Active_Picture&amp;action=edit&amp;redlink=1" class="new" title="Active Picture (page does not exist)">Active Picture</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Active_Picture" title="Special:WhatLinksHere/Active Picture">2 links</a>)</li>
+<li><a href="/w/index.php?title=Active_System_Box&amp;action=edit&amp;redlink=1" class="new" title="Active System Box (page does not exist)">Active System Box</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Active_System_Box" title="Special:WhatLinksHere/Active System Box">2 links</a>)</li>
+<li><a href="/w/index.php?title=Advanced_Direction_Object&amp;action=edit&amp;redlink=1" class="new" title="Advanced Direction Object (page does not exist)">Advanced Direction Object</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Advanced_Direction_Object" title="Special:WhatLinksHere/Advanced Direction Object">2 links</a>)</li>
+<li><a href="/w/index.php?title=Advanced_Math_Object&amp;action=edit&amp;redlink=1" class="new" title="Advanced Math Object (page does not exist)">Advanced Math Object</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Advanced_Math_Object" title="Special:WhatLinksHere/Advanced Math Object">2 links</a>)</li>
+<li><a href="/w/index.php?title=Advanced_Menu_Object&amp;action=edit&amp;redlink=1" class="new" title="Advanced Menu Object (page does not exist)">Advanced Menu Object</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Advanced_Menu_Object" title="Special:WhatLinksHere/Advanced Menu Object">2 links</a>)</li>
+<li><a href="/w/index.php?title=Advanced_Path_Movement&amp;action=edit&amp;redlink=1" class="new" title="Advanced Path Movement (page does not exist)">Advanced Path Movement</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Advanced_Path_Movement" title="Special:WhatLinksHere/Advanced Path Movement">2 links</a>)</li>
+<li><a href="/w/index.php?title=Advanced_Tray_Object&amp;action=edit&amp;redlink=1" class="new" title="Advanced Tray Object (page does not exist)">Advanced Tray Object</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Advanced_Tray_Object" title="Special:WhatLinksHere/Advanced Tray Object">2 links</a>)</li>
+<li><a href="/w/index.php?title=Alpha_Channel_Object&amp;action=edit&amp;redlink=1" class="new" title="Alpha Channel Object (page does not exist)">Alpha Channel Object</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Alpha_Channel_Object" title="Special:WhatLinksHere/Alpha Channel Object">2 links</a>)</li>
+<li><a href="/w/index.php?title=Android_Audio&amp;action=edit&amp;redlink=1" class="new" title="Android Audio (page does not exist)">Android Audio</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Android_Audio" title="Special:WhatLinksHere/Android Audio">2 links</a>)</li>
+<li><a href="/w/index.php?title=Android_Camera&amp;action=edit&amp;redlink=1" class="new" title="Android Camera (page does not exist)">Android Camera</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Android_Camera" title="Special:WhatLinksHere/Android Camera">2 links</a>)</li>
+<li><a href="/w/index.php?title=Android_Email&amp;action=edit&amp;redlink=1" class="new" title="Android Email (page does not exist)">Android Email</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Android_Email" title="Special:WhatLinksHere/Android Email">2 links</a>)</li>
+<li><a href="/w/index.php?title=Android_Images&amp;action=edit&amp;redlink=1" class="new" title="Android Images (page does not exist)">Android Images</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Android_Images" title="Special:WhatLinksHere/Android Images">2 links</a>)</li>
+<li><a href="/w/index.php?title=Android_Lights&amp;action=edit&amp;redlink=1" class="new" title="Android Lights (page does not exist)">Android Lights</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Android_Lights" title="Special:WhatLinksHere/Android Lights">2 links</a>)</li>
+<li><a href="/w/index.php?title=Android_Microphone&amp;action=edit&amp;redlink=1" class="new" title="Android Microphone (page does not exist)">Android Microphone</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Android_Microphone" title="Special:WhatLinksHere/Android Microphone">2 links</a>)</li>
+<li><a href="/w/index.php?title=Android_Quick_Save&amp;action=edit&amp;redlink=1" class="new" title="Android Quick Save (page does not exist)">Android Quick Save</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Android_Quick_Save" title="Special:WhatLinksHere/Android Quick Save">2 links</a>)</li>
+<li><a href="/w/index.php?title=Android_SMS&amp;action=edit&amp;redlink=1" class="new" title="Android SMS (page does not exist)">Android SMS</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Android_SMS" title="Special:WhatLinksHere/Android SMS">2 links</a>)</li>
+<li><a href="/w/index.php?title=Animated_Picture&amp;action=edit&amp;redlink=1" class="new" title="Animated Picture (page does not exist)">Animated Picture</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Animated_Picture" title="Special:WhatLinksHere/Animated Picture">2 links</a>)</li>
+<li><a href="/w/index.php?title=Archive_Object&amp;action=edit&amp;redlink=1" class="new" title="Archive Object (page does not exist)">Archive Object</a>‏‎ (<a href="/wiki/Special:WhatLinksHere/Archive_Object" title="Special:WhatLinksHere/Archive Object">2 links</a>)</li>
+</ol>
+<p>View (previous 50  |  <a href="/w/index.php?title=Special:WantedPages&amp;limit=50&amp;offset=50" title="Next 50 results" class="mw-nextlink">next 50</a>) (<a href="/w/index.php?title=Special:WantedPages&amp;limit=20&amp;offset=0" title="Show 20 results per page" class="mw-numlink">20</a> | <a href="/w/index.php?title=Special:WantedPages&amp;limit=50&amp;offset=0" title="Show 50 results per page" class="mw-numlink">50</a> | <a href="/w/index.php?title=Special:WantedPages&amp;limit=100&amp;offset=0" title="Show 100 results per page" class="mw-numlink">100</a> | <a href="/w/index.php?title=Special:WantedPages&amp;limit=250&amp;offset=0" title="Show 250 results per page" class="mw-numlink">250</a> | <a href="/w/index.php?title=Special:WantedPages&amp;limit=500&amp;offset=0" title="Show 500 results per page" class="mw-numlink">500</a>)</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/wiki/Special:WantedPages">http://clickwiki.net/wiki/Special:WantedPages</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Special%3AWantedPages"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":551});});</script>
+  </body>
+</html>

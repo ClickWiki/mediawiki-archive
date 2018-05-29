@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Notable Clickers / Developers - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Notable_Clickers_/_Developers","wgTitle":"Notable Clickers / Developers","wgCurRevisionId":1429,"wgRevisionId":1429,"wgArticleId":536,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Clickteam","Community"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Notable_Clickers_/_Developers","wgRelevantArticleId":536,"wgRequestId":"b0e7e21b07ed5b8fba06544a","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Notable_Clickers_Developers rootpage-Notable_Clickers_Developers skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../../w/resources/assets/bkgndcycle/img1.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="../Main_Page"><img src="../../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="../Category:Clickteam" id="n-Clickteam"><img src="../../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="../Category:Products" id="n-Products"><img src="../../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="../Exporters" id="n-Exporters"><img src="../../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="../Category:Extensions" id="n-Extensions"><img src="../../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="../Category:Community" id="n-Community"><img src="../../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="../Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="../Category:Interface" id="n-Interface"><img src="../../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="../Category:File_Extensions" id="n-File-Extensions"><img src="../../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="../Category:Chowdren" id="n-Chowdren"><img src="../../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="_Developers#mw-head">navigation</a>,
+          <a href="_Developers#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Notable Clickers / Developers</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="_Developers#Working_for_Clickteam"><span class="tocnumber">1</span> <span class="toctext">Working for Clickteam</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="_Developers#Forum_Moderators"><span class="tocnumber">2</span> <span class="toctext">Forum Moderators</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="_Developers#Extension_Developers"><span class="tocnumber">3</span> <span class="toctext">Extension Developers</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="_Developers#Honourable_Clickers"><span class="tocnumber">4</span> <span class="toctext">Honourable Clickers</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Working_for_Clickteam">Working for Clickteam</span></h2>
+<table class="wikitable sortable">
+<tr>
+<th> Name
+</th>
+<th> Location
+</th>
+<th> Known for
+</th></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/4-Anders">Anders</a>
+</td>
+<td> Denmark
+</td>
+<td> <a href="../IOS_Runtime" title="IOS Runtime">iOS Runtime</a>, <a href="../Mac_Runtime" class="mw-redirect" title="Mac Runtime">Mac Runtime</a> and <a href="../Fusion_3" title="Fusion 3">Fusion 3</a> Developer
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/7819-DracisLooby">DracisLooby</a>
+</td>
+<td> United States
+</td>
+<td> Working on the <a href="../HTML5_Runtime.1" title="HTML5 Runtime">HTML5 Runtime</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/7049-Danny">Danny</a>
+</td>
+<td> United Kingdom
+</td>
+<td> Writer of <a href="../Fused!" class="mw-redirect" title="Fused!">Fused!</a>, guides and tutorials.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/13194-dczanik">dczanik</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5113-DT">DT</a>
+</td>
+<td> United States
+</td>
+<td> Special Projects Director
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/6268-Fernando">Fernando</a>
+</td>
+<td>
+</td>
+<td> <a href="../Android_Runtime" title="Android Runtime">Android Runtime</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5417-Francis">Francis</a>
+</td>
+<td> France
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5273-Francois">Francois</a>
+</td>
+<td> France
+</td>
+<td> Founder &amp; Lead Developer
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/1-James">James</a>
+</td>
+<td> United Kingdom
+</td>
+<td> Maintainer of <a href="/w/index.php?title=Lacewing&amp;action=edit&amp;redlink=1" class="new" title="Lacewing (page does not exist)">Lacewing</a> and <a href="../Fusion_3" title="Fusion 3">Fusion 3</a> Developer
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/3-Jeff">Jeff</a>
+</td>
+<td> United States
+</td>
+<td> CEO of Clickteam LLC
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/6-Kisguri">Kisguri</a>
+</td>
+<td> United States
+</td>
+<td> Vice President of US Operations of Clickteam LLC
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/2-Nico">Nico</a>
+</td>
+<td> France
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5136-Olivier">Olivier</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/10470-Patrice">Patrice</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5109-Simon">Simon</a>
+</td>
+<td> United Kingdom
+</td>
+<td> Director of Clickteam UK.  Maintainer of <a href="../ClickConverse" title="ClickConverse">ClickConverse</a>, organiser of <a href="/w/index.php?title=ClickConvention&amp;action=edit&amp;redlink=1" class="new" title="ClickConvention (page does not exist)">ClickConvention</a> and <a href="/w/index.php?title=ClickJam&amp;action=edit&amp;redlink=1" class="new" title="ClickJam (page does not exist)">ClickJam</a>.
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5114-Yves">Yves</a>
+</td>
+<td> France
+</td>
+<td> Founder &amp; Lead Developer
+</td></tr></table>
+<h2><span class="mw-headline" id="Forum_Moderators">Forum Moderators</span></h2>
+<table class="wikitable sortable">
+<tr>
+<th> Name
+</th>
+<th> Location
+</th>
+<th> Forums
+</th></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5115-Andrew">Andrew</a>
+</td>
+<td> United Kingdom
+</td>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/forums/198-Open-topic-community-forum">Open topic community forum</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5118-AndyH">AndyH</a>
+</td>
+<td> United Kingdom
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5369-Burfelt">Burfelt</a>
+</td>
+<td> Denmark
+</td>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/forums/195-Install-Creator-and-Patch-Maker">Install Creator and Patch Maker</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5748-Chaos">Chaos</a>
+</td>
+<td> United States
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5244-DavidN">DavidN</a>
+</td>
+<td> United States
+</td>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/forums/195-Install-Creator-and-Patch-Maker">Install Creator and Patch Maker</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5550-Snail">Snail</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5124-Joshtek">Joshtek</a>
+</td>
+<td> United Kingdom
+</td>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/forums/190-Multimedia-Fusion-2-Technical-Support">Multimedia Fusion 2 - Technical Support</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5119-Paul_Boland">Paul_Boland</a>
+</td>
+<td> Ireland
+</td>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/forums/190-Multimedia-Fusion-2-Technical-Support">Multimedia Fusion 2 - Technical Support</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/15247-Perry">Perry</a>
+</td>
+<td> United States
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://http://community.clickteam.com/members/10820-ProdigyX">ProdigyX</a>
+</td>
+<td> United States
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5116-Sarah">Sarah</a>
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/forums/195-Install-Creator-and-Patch-Maker">Install Creator and Patch Maker</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/14674-Sparckman">Sparckman</a>
+</td>
+<td> Canada
+</td>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/forums/195-Install-Creator-and-Patch-Maker">Install Creator and Patch Maker</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/8024-Stephen">Stephen</a>
+</td>
+<td> United States
+</td>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/forums/239-SWF-Flash-Export-Module-Version-2-0">SWF/Flash Export Module Version 2.0</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5769-Villy">Villy</a>
+</td>
+<td> Norway
+</td>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/forums/222-Lacewing">Lacewing</a>
+</td></tr></table>
+<h2><span class="mw-headline" id="Extension_Developers">Extension Developers</span></h2>
+<table class="wikitable sortable">
+<tr>
+<th> Name
+</th>
+<th> Location
+</th>
+<th> Notable Works
+</th></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5240-Sphax">Sphax</a>
+</td>
+<td> France
+</td>
+<td> <a href="/w/index.php?title=AVIs_Object&amp;action=edit&amp;redlink=1" class="new" title="AVIs Object (page does not exist)">AVIs Object</a>, <a href="/w/index.php?title=ButtonCS_Object&amp;action=edit&amp;redlink=1" class="new" title="ButtonCS Object (page does not exist)">ButtonCS Object</a>, <a href="/w/index.php?title=ClickExt_Object&amp;action=edit&amp;redlink=1" class="new" title="ClickExt Object (page does not exist)">ClickExt Object</a>, <a href="/w/index.php?title=EXIF_Object&amp;action=edit&amp;redlink=1" class="new" title="EXIF Object (page does not exist)">EXIF Object</a>, <a href="/w/index.php?title=File-Folder_Object&amp;action=edit&amp;redlink=1" class="new" title="File-Folder Object (page does not exist)">File-Folder Object</a>, <a href="/w/index.php?title=Formatted_Object&amp;action=edit&amp;redlink=1" class="new" title="Formatted Object (page does not exist)">Formatted Object</a>, <a href="/w/index.php?title=Kernel_Object&amp;action=edit&amp;redlink=1" class="new" title="Kernel Object (page does not exist)">Kernel Object</a>, <a href="/w/index.php?title=MMF2_Params_Object&amp;action=edit&amp;redlink=1" class="new" title="MMF2 Params Object (page does not exist)">MMF2 Params Object</a>, <a href="/w/index.php?title=MessageBox_Object&amp;action=edit&amp;redlink=1" class="new" title="MessageBox Object (page does not exist)">MessageBox Object</a>, Useful FastLoops Object, <a href="/w/index.php?title=VectorialLine_Object&amp;action=edit&amp;redlink=1" class="new" title="VectorialLine Object (page does not exist)">VectorialLine Object</a>, <a href="/w/index.php?title=WindowLife_Object&amp;action=edit&amp;redlink=1" class="new" title="WindowLife Object (page does not exist)">WindowLife Object</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/6786-LB">LB</a>
+</td>
+<td> United States
+</td>
+<td> <a href="/w/index.php?title=JSON_Object&amp;action=edit&amp;redlink=1" class="new" title="JSON Object (page does not exist)">JSON Object</a>, <a href="/w/index.php?title=Advanced_Int64_Object&amp;action=edit&amp;redlink=1" class="new" title="Advanced Int64 Object (page does not exist)">Advanced Int64 Object</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/7749-Jaffob">Jaffob</a>
+</td>
+<td> United States
+</td>
+<td> <a href="/w/index.php?title=Advanced_Menu_Object&amp;action=edit&amp;redlink=1" class="new" title="Advanced Menu Object (page does not exist)">Advanced Menu Object</a>, <a href="/w/index.php?title=Powerful_Dialogs_Object&amp;action=edit&amp;redlink=1" class="new" title="Powerful Dialogs Object (page does not exist)">Powerful Dialogs Object</a>, <a href="/w/index.php?title=TimeString_Object&amp;action=edit&amp;redlink=1" class="new" title="TimeString Object (page does not exist)">TimeString Object</a>, <a href="/w/index.php?title=Object_Resizer&amp;action=edit&amp;redlink=1" class="new" title="Object Resizer (page does not exist)">Object Resizer</a>, <a href="/w/index.php?title=Power_System_Object&amp;action=edit&amp;redlink=1" class="new" title="Power System Object (page does not exist)">Power System Object</a>, <a href="/w/index.php?title=Registry%2B%2B&amp;action=edit&amp;redlink=1" class="new" title="Registry++ (page does not exist)">Registry++</a>, <a href="/w/index.php?title=Command_Line_Parser&amp;action=edit&amp;redlink=1" class="new" title="Command Line Parser (page does not exist)">Command Line Parser</a>, <a href="/w/index.php?title=ExtensionView&amp;action=edit&amp;redlink=1" class="new" title="ExtensionView (page does not exist)">ExtensionView</a>, <a href="/w/index.php?title=Drag_Object&amp;action=edit&amp;redlink=1" class="new" title="Drag Object (page does not exist)">Drag Object</a>, <a href="/w/index.php?title=Advanced_Tray_Object&amp;action=edit&amp;redlink=1" class="new" title="Advanced Tray Object (page does not exist)">Advanced Tray Object</a>, <a href="/w/index.php?title=Foreground_Window_Object&amp;action=edit&amp;redlink=1" class="new" title="Foreground Window Object (page does not exist)">Foreground Window Object</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5742-Looki">Looki</a>
+</td>
+<td> Germany
+</td>
+<td> <a href="/w/index.php?title=Surface_Object&amp;action=edit&amp;redlink=1" class="new" title="Surface Object (page does not exist)">Surface Object</a>, <a href="/w/index.php?title=Scintilla&amp;action=edit&amp;redlink=1" class="new" title="Scintilla (page does not exist)">Scintilla</a>, <a href="/w/index.php?title=Tablet_Object&amp;action=edit&amp;redlink=1" class="new" title="Tablet Object (page does not exist)">Tablet Object</a>, <a href="/w/index.php?title=Sound_Player&amp;action=edit&amp;redlink=1" class="new" title="Sound Player (page does not exist)">Sound Player</a>, <a href="/w/index.php?title=Sound_Generator&amp;action=edit&amp;redlink=1" class="new" title="Sound Generator (page does not exist)">Sound Generator</a>, <a href="/w/index.php?title=Ping_Pong&amp;action=edit&amp;redlink=1" class="new" title="Ping Pong (page does not exist)">Ping Pong</a>, Box2D, OpenAL, <a href="/w/index.php?title=Color_Replacer&amp;action=edit&amp;redlink=1" class="new" title="Color Replacer (page does not exist)">Color Replacer</a>, 360° Movement Object, <a href="/w/index.php?title=Advanced_Sound_Object&amp;action=edit&amp;redlink=1" class="new" title="Advanced Sound Object (page does not exist)">Advanced Sound Object</a>, <a href="/w/index.php?title=TimeString&amp;action=edit&amp;redlink=1" class="new" title="TimeString (page does not exist)">TimeString</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/8024-Stephen">Stephen</a>
+</td>
+<td> United States
+</td>
+<td> <a href="/w/index.php?title=Archive_Object&amp;action=edit&amp;redlink=1" class="new" title="Archive Object (page does not exist)">Archive Object</a>, <a href="/w/index.php?title=Android_Camera&amp;action=edit&amp;redlink=1" class="new" title="Android Camera (page does not exist)">Android Camera</a>, <a href="/w/index.php?title=Android_File&amp;action=edit&amp;redlink=1" class="new" title="Android File (page does not exist)">Android File</a>, <a href="/w/index.php?title=Android_Lights&amp;action=edit&amp;redlink=1" class="new" title="Android Lights (page does not exist)">Android Lights</a>, <a href="/w/index.php?title=Android_Microphone&amp;action=edit&amp;redlink=1" class="new" title="Android Microphone (page does not exist)">Android Microphone</a>, <a href="/w/index.php?title=Android_Audio&amp;action=edit&amp;redlink=1" class="new" title="Android Audio (page does not exist)">Android Audio</a>, <a href="/w/index.php?title=Android_Images&amp;action=edit&amp;redlink=1" class="new" title="Android Images (page does not exist)">Android Images</a>, <a href="/w/index.php?title=Android_Email&amp;action=edit&amp;redlink=1" class="new" title="Android Email (page does not exist)">Android Email</a>, <a href="/w/index.php?title=Advanced_Video_Player&amp;action=edit&amp;redlink=1" class="new" title="Advanced Video Player (page does not exist)">Advanced Video Player</a>, Flash Extensions, <a href="/w/index.php?title=Google_Maps&amp;action=edit&amp;redlink=1" class="new" title="Google Maps (page does not exist)">Google Maps</a>, <a href="/w/index.php?title=YouTube_Object&amp;action=edit&amp;redlink=1" class="new" title="YouTube Object (page does not exist)">YouTube Object</a>, <a href="/w/index.php?title=PDF_Object&amp;action=edit&amp;redlink=1" class="new" title="PDF Object (page does not exist)">PDF Object</a>, <a href="/w/index.php?title=DS_Beep&amp;action=edit&amp;redlink=1" class="new" title="DS Beep (page does not exist)">DS Beep</a>, <a href="/w/index.php?title=Timeline_Object&amp;action=edit&amp;redlink=1" class="new" title="Timeline Object (page does not exist)">Timeline Object</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5480-z33z">z33z</a>
+</td>
+<td>
+</td>
+<td> <a href="../Extension_Packs" title="Extension Packs">z33z Extension Pack</a>, <a href="/w/index.php?title=Joystick2_Object&amp;action=edit&amp;redlink=1" class="new" title="Joystick2 Object (page does not exist)">Joystick2 Object</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/9754-Phi">Phi</a>
+</td>
+<td> United Kingdom
+</td>
+<td> <a href="/w/index.php?title=Lacewing&amp;action=edit&amp;redlink=1" class="new" title="Lacewing (page does not exist)">Lacewing Bluewing Client</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/11255-ColdFire">ColdFire</a>
+</td>
+<td> Poland
+</td>
+<td> Multiple PC and Android Extensions <a href="/w/index.php?title=Map_object&amp;action=edit&amp;redlink=1" class="new" title="Map object (page does not exist)">Map object</a>, <a href="/w/index.php?title=Rpg_movement&amp;action=edit&amp;redlink=1" class="new" title="Rpg movement (page does not exist)">Rpg movement</a>, <a href="/w/index.php?title=Gadu-Gadu&amp;action=edit&amp;redlink=1" class="new" title="Gadu-Gadu (page does not exist)">Gadu-Gadu</a>, <a href="/w/index.php?title=Android_SMS&amp;action=edit&amp;redlink=1" class="new" title="Android SMS (page does not exist)">Android SMS</a>, <a href="/w/index.php?title=Native_Notification_Manager&amp;action=edit&amp;redlink=1" class="new" title="Native Notification Manager (page does not exist)">Native Notification Manager</a>, <a href="/w/index.php?title=Android_Quick_Save&amp;action=edit&amp;redlink=1" class="new" title="Android Quick Save (page does not exist)">Android Quick Save</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5235-Dynasoft">Dynasoft</a>
+</td>
+<td> United Kingdom
+</td>
+<td> <a href="/w/index.php?title=ValueAdd&amp;action=edit&amp;redlink=1" class="new" title="ValueAdd (page does not exist)">ValueAdd</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5243-Retriever2">Retriever2</a>
+</td>
+<td> United States
+</td>
+<td> <a href="/w/index.php?title=XLua&amp;action=edit&amp;redlink=1" class="new" title="XLua (page does not exist)">XLua</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5176-Ross">Ross</a>
+</td>
+<td> Australia
+</td>
+<td> <a href="/w/index.php?title=Advanced_Line_Object&amp;action=edit&amp;redlink=1" class="new" title="Advanced Line Object (page does not exist)">Advanced Line Object</a>
+</td></tr>
+</table>
+<h2><span class="mw-headline" id="Honourable_Clickers">Honourable Clickers</span></h2>
+<table class="wikitable sortable">
+<tr>
+<th> Name
+</th>
+<th> Location
+</th>
+<th> Known for
+</th></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5451-nivram">Nivram</a>
+</td>
+<td> United States
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.castles-of-britain.com/mmf2examples.htm">Over 4000 MMF2 Examples</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5234-Mathias">Mathias</a>
+</td>
+<td> Denmark
+</td>
+<td> Maintainer of <a href="../Chowdren.1" title="Chowdren">Chowdren</a>.
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180529155131
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.140 seconds
+Real time usage: 0.137 seconds
+Preprocessor visited node count: 15/1000000
+Preprocessor generated node count: 20/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 - -total
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:536-0!*!0!!en!*!* and timestamp 20180529155131 and revision id 1429
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Simon&amp;action=edit&amp;redlink=1" class="new" title="User:Simon (page does not exist)">Simon</a> (6.8%), <a href="/w/index.php?title=User:Cootje&amp;action=edit&amp;redlink=1" class="new" title="User:Cootje (page does not exist)">Cootje</a> (11.2%), <a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (1.4%), <a href="/w/index.php?title=User:ProdigyXable&amp;action=edit&amp;redlink=1" class="new" title="User:ProdigyXable (page does not exist)">ProdigyXable</a> (3.5%), <a href="/w/index.php?title=User:Lh37&amp;action=edit&amp;redlink=1" class="new" title="User:Lh37 (page does not exist)">Lh37</a> (77.3%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Notable_Clickers_/_Developers&amp;oldid=1429">http://clickwiki.net/w/index.php?title=Notable_Clickers_/_Developers&amp;oldid=1429</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="../Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="../Category:Clickteam" title="Category:Clickteam">Clickteam</a></li><li><a href="../Category:Community" title="Category:Community">Community</a></li></ul></div></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Notable+Clickers+%2F+Developers"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="../Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":524});});</script>
+  </body>
+</html>

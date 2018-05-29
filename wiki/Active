@@ -1,0 +1,1213 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Active - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Active","wgTitle":"Active","wgCurRevisionId":1900,"wgRevisionId":1900,"wgArticleId":899,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Active","wgRelevantArticleId":899,"wgRequestId":"1c00156650185484e8079882","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Active rootpage-Active skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img1.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Active#mw-head">navigation</a>,
+          <a href="Active#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Active</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="wikitable" style="float:right;">
+
+<tr style="text-align:center;">
+<td colspan="2"><a href="./File:Icon_Active.png" class="image"><img alt="Icon Active.png" src="../w/images/6/65/Icon_Active.png" width="24" height="28" /></a>
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td><a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a>
+</td></tr>
+<tr>
+<td><b>Status</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Released
+</td></tr>
+<tr>
+<td><b>Release Date</b>
+</td>
+<td>Unknown
+</td></tr>
+<tr style="display: none;">
+<td> <b>Last Updated</b>
+</td>
+<td> {{{LastUpdated}}}
+</td></tr>
+<tr>
+<td><b>Available for</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;"><a href="Multimedia_Fusion_1.5" title="Multimedia Fusion 1.5"><img alt="Multimedia Fusion 1.5" src="../w/images/f/f7/Icon_MMF1.5.png" width="24" height="24" /></a> <a href="The_Games_Factory_2" title="The Games Factory 2"><img alt="The Games Factory 2" src="../w/images/0/00/Icon_TGF2.png" width="24" height="24" /></a> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a> <a href="Multimedia_Fusion_2#Developer" title="Multimedia Fusion Developer 2"><img alt="Multimedia Fusion Developer 2" src="../w/images/d/de/Icon_MMF2Dev.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Free Edition"><img alt="Clickteam Fusion 2.5 Free Edition" src="../w/images/6/6c/Icon_CF2.5Free.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>Supported Runtimes</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;"><a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="Mac_Runtime" title="Compatible with the Mac Runtime"><img alt="Compatible with the Mac Runtime" src="../w/images/8/85/Supported_Mac.png" width="24" height="24" /></a> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a> <a href="XNA_Runtime" title="XNA Runtime (now deprecated)"><img alt="XNA Runtime (now deprecated)" src="../w/images/9/9f/Runtime_XNA.png" width="24" height="24" /></a> <a href="UWP_Runtime" title="UWP Runtime"><img alt="UWP Runtime" src="../w/images/5/5a/Runtime_UWP.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>License</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Free
+</td></tr>
+<tr style="display: none;">
+<td> <b>Attributes</b>
+</td>
+<td> {{{Attributes}}}
+</td></tr>
+<tr>
+<th colspan="2"> Download
+</th></tr>
+<tr>
+<td><b>Includes Examples</b>
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">No
+</td></tr>
+<tr>
+<td><b>Includes Help Files</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Links</b>
+</td>
+<td style="text-align:center;width:24px"> <div class="center"><div class="floatnone"><a href="Extension_Manager" title="Downloadable via the Extension Manager"><img alt="Downloadable via the Extension Manager" src="../w/images/5/53/ExtManagerIcon.png" width="24" height="28" /></a></div></div> <i>Included by default.</i>
+</td></tr>
+
+<tr style="display: none;">
+<td> <b>Alternates</b>
+</td>
+<td> {{{Alternates}}}
+</td></tr>
+</table>
+<p>Active objects are very useful. They provide control over the movement, animation, position, direction, and visibility of the moving objects and characters used in your Clickteam Fusion 2.5 applications. Active objects are great if you need an object that moves and interacts with the other objects in your games, screen-savers, and other applications you create. For example, Active objects let your sprites bounce across the screen, launch other objects, and swap positions with other objects in the frame. Other features of the Active object include the detection of collisions between objects, the selection of a sprite at random, and the ability to test for the number of objects in a specific zone of the frame. In addition, Active objects are ideally suited to other tasks such as making animated buttons, storing variable information in their alterable values or in the state of their flags.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Active#Properties"><span class="tocnumber">1</span> <span class="toctext">Properties</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="Active#Conditions"><span class="tocnumber">2</span> <span class="toctext">Conditions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="Active#Collisions"><span class="tocnumber">2.1</span> <span class="toctext">Collisions</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="Active#Another_object"><span class="tocnumber">2.1.1</span> <span class="toctext">Another object</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="Active#Overlapping_another_object"><span class="tocnumber">2.1.2</span> <span class="toctext">Overlapping another object</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="Active#Backdrop"><span class="tocnumber">2.1.3</span> <span class="toctext">Backdrop</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="Active#Overlapping_a_backdrop"><span class="tocnumber">2.1.4</span> <span class="toctext">Overlapping a backdrop</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="Active#Movement"><span class="tocnumber">2.2</span> <span class="toctext">Movement</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="Active#Is_.22Object.22_stopped.3F"><span class="tocnumber">2.2.1</span> <span class="toctext">Is "Object" stopped?</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="Active#Is_.22Object.22_bouncing.3F"><span class="tocnumber">2.2.2</span> <span class="toctext">Is "Object" bouncing?</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="Active#Compare_the_acceleration_of_.22Object.22_to_a_value"><span class="tocnumber">2.2.3</span> <span class="toctext">Compare the acceleration of "Object" to a value</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="Active#Compare_the_deceleration_of_.22Object.22_to_a_value"><span class="tocnumber">2.2.4</span> <span class="toctext">Compare the deceleration of "Object" to a value</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="Active#Path_movement"><span class="tocnumber">2.2.5</span> <span class="toctext">Path movement</span></a>
+<ul>
+<li class="toclevel-4 tocsection-14"><a href="Active#Has_.22Object.22_reached_a_node_in_the_path"><span class="tocnumber">2.2.5.1</span> <span class="toctext">Has "Object" reached a node in the path</span></a></li>
+<li class="toclevel-4 tocsection-15"><a href="Active#Has_.22Object.22_reached_the_end_of_the_path"><span class="tocnumber">2.2.5.2</span> <span class="toctext">Has "Object" reached the end of the path</span></a></li>
+<li class="toclevel-4 tocsection-16"><a href="Active#Has_.22Object.22_reached_a_named_node_in_the_path."><span class="tocnumber">2.2.5.3</span> <span class="toctext">Has "Object" reached a named node in the path.</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-17"><a href="Active#Position"><span class="tocnumber">2.3</span> <span class="toctext">Position</span></a>
+<ul>
+<li class="toclevel-3 tocsection-18"><a href="Active#Test_position_of_.22Object.22"><span class="tocnumber">2.3.1</span> <span class="toctext">Test position of "Object"</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="Active#Is_.22Object.22_getting_close_to_window.27s_edge"><span class="tocnumber">2.3.2</span> <span class="toctext">Is "Object" getting close to window's edge</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="Active#Compare_X_Position_to_a_value"><span class="tocnumber">2.3.3</span> <span class="toctext">Compare X Position to a value</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="Active#Compare_Y_Position_to_a_value"><span class="tocnumber">2.3.4</span> <span class="toctext">Compare Y Position to a value</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-22"><a href="Active#Direction"><span class="tocnumber">2.4</span> <span class="toctext">Direction</span></a>
+<ul>
+<li class="toclevel-3 tocsection-23"><a href="Active#Compare_to_direction_of_.22Object.22"><span class="tocnumber">2.4.1</span> <span class="toctext">Compare to direction of "Object"</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-24"><a href="Active#Animation"><span class="tocnumber">2.5</span> <span class="toctext">Animation</span></a>
+<ul>
+<li class="toclevel-3 tocsection-25"><a href="Active#Which_animation_of_.22Object.22_is_playing.3F"><span class="tocnumber">2.5.1</span> <span class="toctext">Which animation of "Object" is playing?</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="Active#Has_an_animation_finished"><span class="tocnumber">2.5.2</span> <span class="toctext">Has an animation finished</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="Active#Compare_current_frame_of_animation_to_a_value"><span class="tocnumber">2.5.3</span> <span class="toctext">Compare current frame of animation to a value</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-28"><a href="Active#Pick_or_count"><span class="tocnumber">2.6</span> <span class="toctext">Pick or count</span></a>
+<ul>
+<li class="toclevel-3 tocsection-29"><a href="Active#Pick_.22Object.22_at_random"><span class="tocnumber">2.6.1</span> <span class="toctext">Pick "Object" at random</span></a></li>
+<li class="toclevel-3 tocsection-30"><a href="Active#Have_all_.22Object.22_been_destroyed"><span class="tocnumber">2.6.2</span> <span class="toctext">Have all "Object" been destroyed</span></a></li>
+<li class="toclevel-3 tocsection-31"><a href="Active#Compare_to_the_number_of_.22Object.22_objects"><span class="tocnumber">2.6.3</span> <span class="toctext">Compare to the number of "Object" objects</span></a></li>
+<li class="toclevel-3 tocsection-32"><a href="Active#Test_for_no_.22Object.22_objects_in_a_zone"><span class="tocnumber">2.6.4</span> <span class="toctext">Test for no "Object" objects in a zone</span></a></li>
+<li class="toclevel-3 tocsection-33"><a href="Active#Compare_to_the_number_of_.22Object.22_objects_in_a_zone"><span class="tocnumber">2.6.5</span> <span class="toctext">Compare to the number of "Object" objects in a zone</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-34"><a href="Active#Visibility"><span class="tocnumber">2.7</span> <span class="toctext">Visibility</span></a>
+<ul>
+<li class="toclevel-3 tocsection-35"><a href="Active#Is_.22Object.22_visible"><span class="tocnumber">2.7.1</span> <span class="toctext">Is "Object" visible</span></a></li>
+<li class="toclevel-3 tocsection-36"><a href="Active#Is_.22Object.22_invisible"><span class="tocnumber">2.7.2</span> <span class="toctext">Is "Object" invisible</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-37"><a href="Active#Alterable_values"><span class="tocnumber">2.8</span> <span class="toctext">Alterable values</span></a>
+<ul>
+<li class="toclevel-3 tocsection-38"><a href="Active#Compare_to_one_of_the_alterable_values"><span class="tocnumber">2.8.1</span> <span class="toctext">Compare to one of the alterable values</span></a></li>
+<li class="toclevel-3 tocsection-39"><a href="Active#Compare_to_fixed_value"><span class="tocnumber">2.8.2</span> <span class="toctext">Compare to fixed value</span></a></li>
+<li class="toclevel-3 tocsection-40"><a href="Active#Flags"><span class="tocnumber">2.8.3</span> <span class="toctext">Flags</span></a>
+<ul>
+<li class="toclevel-4 tocsection-41"><a href="Active#Is_flag_on.3F"><span class="tocnumber">2.8.3.1</span> <span class="toctext">Is flag on?</span></a></li>
+<li class="toclevel-4 tocsection-42"><a href="Active#Is_flag_off.3F"><span class="tocnumber">2.8.3.2</span> <span class="toctext">Is flag off?</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-43"><a href="Active#Actions"><span class="tocnumber">3</span> <span class="toctext">Actions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-44"><a href="Active#Movement_2"><span class="tocnumber">3.1</span> <span class="toctext">Movement</span></a>
+<ul>
+<li class="toclevel-3 tocsection-45"><a href="Active#Stop"><span class="tocnumber">3.1.1</span> <span class="toctext">Stop</span></a></li>
+<li class="toclevel-3 tocsection-46"><a href="Active#Start"><span class="tocnumber">3.1.2</span> <span class="toctext">Start</span></a></li>
+<li class="toclevel-3 tocsection-47"><a href="Active#Set_speed..."><span class="tocnumber">3.1.3</span> <span class="toctext">Set speed...</span></a></li>
+<li class="toclevel-3 tocsection-48"><a href="Active#Set_maximum_speed"><span class="tocnumber">3.1.4</span> <span class="toctext">Set maximum speed</span></a></li>
+<li class="toclevel-3 tocsection-49"><a href="Active#Set_acceleration"><span class="tocnumber">3.1.5</span> <span class="toctext">Set acceleration</span></a></li>
+<li class="toclevel-3 tocsection-50"><a href="Active#Set_deceleration"><span class="tocnumber">3.1.6</span> <span class="toctext">Set deceleration</span></a></li>
+<li class="toclevel-3 tocsection-51"><a href="Active#Set_rotating_speed"><span class="tocnumber">3.1.7</span> <span class="toctext">Set rotating speed</span></a></li>
+<li class="toclevel-3 tocsection-52"><a href="Active#Set_authorized_directions"><span class="tocnumber">3.1.8</span> <span class="toctext">Set authorized directions</span></a></li>
+<li class="toclevel-3 tocsection-53"><a href="Active#Wrap_around_play_area"><span class="tocnumber">3.1.9</span> <span class="toctext">Wrap around play area</span></a></li>
+<li class="toclevel-3 tocsection-54"><a href="Active#Bounce"><span class="tocnumber">3.1.10</span> <span class="toctext">Bounce</span></a></li>
+<li class="toclevel-3 tocsection-55"><a href="Active#Reverse"><span class="tocnumber">3.1.11</span> <span class="toctext">Reverse</span></a></li>
+<li class="toclevel-3 tocsection-56"><a href="Active#Path_movement_2"><span class="tocnumber">3.1.12</span> <span class="toctext">Path movement</span></a>
+<ul>
+<li class="toclevel-4 tocsection-57"><a href="Active#Goto_node"><span class="tocnumber">3.1.12.1</span> <span class="toctext">Goto node</span></a></li>
+<li class="toclevel-4 tocsection-58"><a href="Active#Branch_node"><span class="tocnumber">3.1.12.2</span> <span class="toctext">Branch node</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-59"><a href="Active#Multiple_movements"><span class="tocnumber">3.1.13</span> <span class="toctext">Multiple movements</span></a>
+<ul>
+<li class="toclevel-4 tocsection-60"><a href="Active#Next_movement"><span class="tocnumber">3.1.13.1</span> <span class="toctext">Next movement</span></a></li>
+<li class="toclevel-4 tocsection-61"><a href="Active#Previous_movement"><span class="tocnumber">3.1.13.2</span> <span class="toctext">Previous movement</span></a></li>
+<li class="toclevel-4 tocsection-62"><a href="Active#Select_movement"><span class="tocnumber">3.1.13.3</span> <span class="toctext">Select movement</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-63"><a href="Active#Position_2"><span class="tocnumber">3.2</span> <span class="toctext">Position</span></a>
+<ul>
+<li class="toclevel-3 tocsection-64"><a href="Active#Select_position"><span class="tocnumber">3.2.1</span> <span class="toctext">Select position</span></a></li>
+<li class="toclevel-3 tocsection-65"><a href="Active#Swap_position_with_another_object"><span class="tocnumber">3.2.2</span> <span class="toctext">Swap position with another object</span></a></li>
+<li class="toclevel-3 tocsection-66"><a href="Active#Set_X_Coordinate"><span class="tocnumber">3.2.3</span> <span class="toctext">Set X Coordinate</span></a></li>
+<li class="toclevel-3 tocsection-67"><a href="Active#Set_Y_Coordinate"><span class="tocnumber">3.2.4</span> <span class="toctext">Set Y Coordinate</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-68"><a href="Active#Direction_2"><span class="tocnumber">3.3</span> <span class="toctext">Direction</span></a>
+<ul>
+<li class="toclevel-3 tocsection-69"><a href="Active#Select_direction"><span class="tocnumber">3.3.1</span> <span class="toctext">Select direction</span></a></li>
+<li class="toclevel-3 tocsection-70"><a href="Active#Look_in_direction_of"><span class="tocnumber">3.3.2</span> <span class="toctext">Look in direction of</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-71"><a href="Active#Animation_2"><span class="tocnumber">3.4</span> <span class="toctext">Animation</span></a>
+<ul>
+<li class="toclevel-3 tocsection-72"><a href="Active#Stop_2"><span class="tocnumber">3.4.1</span> <span class="toctext">Stop</span></a></li>
+<li class="toclevel-3 tocsection-73"><a href="Active#Start_2"><span class="tocnumber">3.4.2</span> <span class="toctext">Start</span></a></li>
+<li class="toclevel-3 tocsection-74"><a href="Active#Change"><span class="tocnumber">3.4.3</span> <span class="toctext">Change</span></a>
+<ul>
+<li class="toclevel-4 tocsection-75"><a href="Active#Animation_sequence"><span class="tocnumber">3.4.3.1</span> <span class="toctext">Animation sequence</span></a></li>
+<li class="toclevel-4 tocsection-76"><a href="Active#Direction_of_animation"><span class="tocnumber">3.4.3.2</span> <span class="toctext">Direction of animation</span></a></li>
+<li class="toclevel-4 tocsection-77"><a href="Active#Speed_of_animation"><span class="tocnumber">3.4.3.3</span> <span class="toctext">Speed of animation</span></a></li>
+<li class="toclevel-4 tocsection-78"><a href="Active#Animation_frame"><span class="tocnumber">3.4.3.4</span> <span class="toctext">Animation frame</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-79"><a href="Active#Restore"><span class="tocnumber">3.4.4</span> <span class="toctext">Restore</span></a>
+<ul>
+<li class="toclevel-4 tocsection-80"><a href="Active#Animation_sequence_2"><span class="tocnumber">3.4.4.1</span> <span class="toctext">Animation sequence</span></a></li>
+<li class="toclevel-4 tocsection-81"><a href="Active#Direction_of_animation_2"><span class="tocnumber">3.4.4.2</span> <span class="toctext">Direction of animation</span></a></li>
+<li class="toclevel-4 tocsection-82"><a href="Active#Speed_of_animation_2"><span class="tocnumber">3.4.4.3</span> <span class="toctext">Speed of animation</span></a></li>
+<li class="toclevel-4 tocsection-83"><a href="Active#Animation_frame_2"><span class="tocnumber">3.4.4.4</span> <span class="toctext">Animation frame</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-84"><a href="Active#Paste_Image_into_Background"><span class="tocnumber">3.4.5</span> <span class="toctext">Paste Image into Background</span></a>
+<ul>
+<li class="toclevel-4 tocsection-85"><a href="Active#No_effect_on_collisions"><span class="tocnumber">3.4.5.1</span> <span class="toctext">No effect on collisions</span></a></li>
+<li class="toclevel-4 tocsection-86"><a href="Active#Not_an_obstacle"><span class="tocnumber">3.4.5.2</span> <span class="toctext">Not an obstacle</span></a></li>
+<li class="toclevel-4 tocsection-87"><a href="Active#Obstacle"><span class="tocnumber">3.4.5.3</span> <span class="toctext">Obstacle</span></a></li>
+<li class="toclevel-4 tocsection-88"><a href="Active#Platform"><span class="tocnumber">3.4.5.4</span> <span class="toctext">Platform</span></a></li>
+<li class="toclevel-4 tocsection-89"><a href="Active#Ladder"><span class="tocnumber">3.4.5.5</span> <span class="toctext">Ladder</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-90"><a href="Active#Add_Backdrop"><span class="tocnumber">3.4.6</span> <span class="toctext">Add Backdrop</span></a></li>
+<li class="toclevel-3 tocsection-91"><a href="Active#Replace_Color"><span class="tocnumber">3.4.7</span> <span class="toctext">Replace Color</span></a></li>
+<li class="toclevel-3 tocsection-92"><a href="Active#Load_Frame"><span class="tocnumber">3.4.8</span> <span class="toctext">Load Frame</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-93"><a href="Active#Visibility_2"><span class="tocnumber">3.5</span> <span class="toctext">Visibility</span></a>
+<ul>
+<li class="toclevel-3 tocsection-94"><a href="Active#Make_object_invisible"><span class="tocnumber">3.5.1</span> <span class="toctext">Make object invisible</span></a></li>
+<li class="toclevel-3 tocsection-95"><a href="Active#Make_object_reappear"><span class="tocnumber">3.5.2</span> <span class="toctext">Make object reappear</span></a></li>
+<li class="toclevel-3 tocsection-96"><a href="Active#Flash_object"><span class="tocnumber">3.5.3</span> <span class="toctext">Flash object</span></a></li>
+<li class="toclevel-3 tocsection-97"><a href="Active#Change_effect"><span class="tocnumber">3.5.4</span> <span class="toctext">Change effect</span></a>
+<ul>
+<li class="toclevel-4 tocsection-98"><a href="Active#None"><span class="tocnumber">3.5.4.1</span> <span class="toctext">None</span></a></li>
+<li class="toclevel-4 tocsection-99"><a href="Active#Semi-transparent"><span class="tocnumber">3.5.4.2</span> <span class="toctext">Semi-transparent</span></a></li>
+<li class="toclevel-4 tocsection-100"><a href="Active#Inverted"><span class="tocnumber">3.5.4.3</span> <span class="toctext">Inverted</span></a></li>
+<li class="toclevel-4 tocsection-101"><a href="Active#XOR"><span class="tocnumber">3.5.4.4</span> <span class="toctext">XOR</span></a></li>
+<li class="toclevel-4 tocsection-102"><a href="Active#AND"><span class="tocnumber">3.5.4.5</span> <span class="toctext">AND</span></a></li>
+<li class="toclevel-4 tocsection-103"><a href="Active#OR"><span class="tocnumber">3.5.4.6</span> <span class="toctext">OR</span></a></li>
+<li class="toclevel-4 tocsection-104"><a href="Active#Add"><span class="tocnumber">3.5.4.7</span> <span class="toctext">Add</span></a></li>
+<li class="toclevel-4 tocsection-105"><a href="Active#Subtract"><span class="tocnumber">3.5.4.8</span> <span class="toctext">Subtract</span></a></li>
+<li class="toclevel-4 tocsection-106"><a href="Active#Monochrome"><span class="tocnumber">3.5.4.9</span> <span class="toctext">Monochrome</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-107"><a href="Active#Set_semi-transparency"><span class="tocnumber">3.5.5</span> <span class="toctext">Set semi-transparency</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-108"><a href="Active#Effect"><span class="tocnumber">3.6</span> <span class="toctext">Effect</span></a>
+<ul>
+<li class="toclevel-3 tocsection-109"><a href="Active#Set_effect"><span class="tocnumber">3.6.1</span> <span class="toctext">Set effect</span></a></li>
+<li class="toclevel-3 tocsection-110"><a href="Active#Set_effect_parameter"><span class="tocnumber">3.6.2</span> <span class="toctext">Set effect parameter</span></a></li>
+<li class="toclevel-3 tocsection-111"><a href="Active#Set_effect_image_parameter"><span class="tocnumber">3.6.3</span> <span class="toctext">Set effect image parameter</span></a></li>
+<li class="toclevel-3 tocsection-112"><a href="Active#Set_alpha-blending_coefficient"><span class="tocnumber">3.6.4</span> <span class="toctext">Set alpha-blending coefficient</span></a></li>
+<li class="toclevel-3 tocsection-113"><a href="Active#Set_RGB_Coefficient"><span class="tocnumber">3.6.5</span> <span class="toctext">Set RGB Coefficient</span></a></li>
+<li class="toclevel-3 tocsection-114"><a href="Active#Compatibility_menu"><span class="tocnumber">3.6.6</span> <span class="toctext">Compatibility menu</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-115"><a href="Active#Order"><span class="tocnumber">3.7</span> <span class="toctext">Order</span></a>
+<ul>
+<li class="toclevel-3 tocsection-116"><a href="Active#Bring_to_front"><span class="tocnumber">3.7.1</span> <span class="toctext">Bring to front</span></a></li>
+<li class="toclevel-3 tocsection-117"><a href="Active#Bring_to_back"><span class="tocnumber">3.7.2</span> <span class="toctext">Bring to back</span></a></li>
+<li class="toclevel-3 tocsection-118"><a href="Active#Move_behind_object"><span class="tocnumber">3.7.3</span> <span class="toctext">Move behind object</span></a></li>
+<li class="toclevel-3 tocsection-119"><a href="Active#Move_in_front_of_object"><span class="tocnumber">3.7.4</span> <span class="toctext">Move in front of object</span></a></li>
+<li class="toclevel-3 tocsection-120"><a href="Active#Move_to_layer"><span class="tocnumber">3.7.5</span> <span class="toctext">Move to layer</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-121"><a href="Active#Launch_an_object"><span class="tocnumber">3.8</span> <span class="toctext">Launch an object</span></a></li>
+<li class="toclevel-2 tocsection-122"><a href="Active#Alterable_values_2"><span class="tocnumber">3.9</span> <span class="toctext">Alterable values</span></a>
+<ul>
+<li class="toclevel-3 tocsection-123"><a href="Active#Set"><span class="tocnumber">3.9.1</span> <span class="toctext">Set</span></a></li>
+<li class="toclevel-3 tocsection-124"><a href="Active#Add_to"><span class="tocnumber">3.9.2</span> <span class="toctext">Add to</span></a></li>
+<li class="toclevel-3 tocsection-125"><a href="Active#Subtract_from"><span class="tocnumber">3.9.3</span> <span class="toctext">Subtract from</span></a></li>
+<li class="toclevel-3 tocsection-126"><a href="Active#Spread_value"><span class="tocnumber">3.9.4</span> <span class="toctext">Spread value</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-127"><a href="Active#Alterable_strings"><span class="tocnumber">3.10</span> <span class="toctext">Alterable strings</span></a>
+<ul>
+<li class="toclevel-3 tocsection-128"><a href="Active#Set_2"><span class="tocnumber">3.10.1</span> <span class="toctext">Set</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-129"><a href="Active#Flags_2"><span class="tocnumber">3.11</span> <span class="toctext">Flags</span></a>
+<ul>
+<li class="toclevel-3 tocsection-130"><a href="Active#Set_on"><span class="tocnumber">3.11.1</span> <span class="toctext">Set on</span></a></li>
+<li class="toclevel-3 tocsection-131"><a href="Active#Set_off"><span class="tocnumber">3.11.2</span> <span class="toctext">Set off</span></a></li>
+<li class="toclevel-3 tocsection-132"><a href="Active#Toggle"><span class="tocnumber">3.11.3</span> <span class="toctext">Toggle</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-133"><a href="Active#Scale.2FAngle"><span class="tocnumber">3.12</span> <span class="toctext">Scale/Angle</span></a>
+<ul>
+<li class="toclevel-3 tocsection-134"><a href="Active#Set_Scale"><span class="tocnumber">3.12.1</span> <span class="toctext">Set Scale</span></a></li>
+<li class="toclevel-3 tocsection-135"><a href="Active#Set_X_Scale"><span class="tocnumber">3.12.2</span> <span class="toctext">Set X Scale</span></a></li>
+<li class="toclevel-3 tocsection-136"><a href="Active#Set_Y_Scale"><span class="tocnumber">3.12.3</span> <span class="toctext">Set Y Scale</span></a></li>
+<li class="toclevel-3 tocsection-137"><a href="Active#Set_Angle"><span class="tocnumber">3.12.4</span> <span class="toctext">Set Angle</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-138"><a href="Active#Debugger"><span class="tocnumber">3.13</span> <span class="toctext">Debugger</span></a>
+<ul>
+<li class="toclevel-3 tocsection-139"><a href="Active#Add_object_to_debugger"><span class="tocnumber">3.13.1</span> <span class="toctext">Add object to debugger</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-140"><a href="Active#Destroy"><span class="tocnumber">3.14</span> <span class="toctext">Destroy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-141"><a href="Active#Expressions"><span class="tocnumber">4</span> <span class="toctext">Expressions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-142"><a href="Active#Movement_3"><span class="tocnumber">4.1</span> <span class="toctext">Movement</span></a>
+<ul>
+<li class="toclevel-3 tocsection-143"><a href="Active#Speed"><span class="tocnumber">4.1.1</span> <span class="toctext">Speed</span></a></li>
+<li class="toclevel-3 tocsection-144"><a href="Active#Acceleration"><span class="tocnumber">4.1.2</span> <span class="toctext">Acceleration</span></a></li>
+<li class="toclevel-3 tocsection-145"><a href="Active#Deceleration"><span class="tocnumber">4.1.3</span> <span class="toctext">Deceleration</span></a></li>
+<li class="toclevel-3 tocsection-146"><a href="Active#Gravity"><span class="tocnumber">4.1.4</span> <span class="toctext">Gravity</span></a></li>
+<li class="toclevel-3 tocsection-147"><a href="Active#Get_current_movement_number"><span class="tocnumber">4.1.5</span> <span class="toctext">Get current movement number</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-148"><a href="Active#Animation_3"><span class="tocnumber">4.2</span> <span class="toctext">Animation</span></a>
+<ul>
+<li class="toclevel-3 tocsection-149"><a href="Active#Current_direction_value"><span class="tocnumber">4.2.1</span> <span class="toctext">Current direction value</span></a></li>
+<li class="toclevel-3 tocsection-150"><a href="Active#Current_frame"><span class="tocnumber">4.2.2</span> <span class="toctext">Current frame</span></a></li>
+<li class="toclevel-3 tocsection-151"><a href="Active#Current_animation_value"><span class="tocnumber">4.2.3</span> <span class="toctext">Current animation value</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-152"><a href="Active#Effect_2"><span class="tocnumber">4.3</span> <span class="toctext">Effect</span></a>
+<ul>
+<li class="toclevel-3 tocsection-153"><a href="Active#Alpha-blending_Coefficient"><span class="tocnumber">4.3.1</span> <span class="toctext">Alpha-blending Coefficient</span></a></li>
+<li class="toclevel-3 tocsection-154"><a href="Active#RGB_Coefficient"><span class="tocnumber">4.3.2</span> <span class="toctext">RGB Coefficient</span></a></li>
+<li class="toclevel-3 tocsection-155"><a href="Active#Effect_Parameter"><span class="tocnumber">4.3.3</span> <span class="toctext">Effect Parameter</span></a></li>
+<li class="toclevel-3 tocsection-156"><a href="Active#Compatibility"><span class="tocnumber">4.3.4</span> <span class="toctext">Compatibility</span></a>
+<ul>
+<li class="toclevel-4 tocsection-157"><a href="Active#Get_semi_transparency_ratio"><span class="tocnumber">4.3.4.1</span> <span class="toctext">Get semi transparency ratio</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-158"><a href="Active#Position_3"><span class="tocnumber">4.4</span> <span class="toctext">Position</span></a>
+<ul>
+<li class="toclevel-3 tocsection-159"><a href="Active#X_coordinate"><span class="tocnumber">4.4.1</span> <span class="toctext">X coordinate</span></a></li>
+<li class="toclevel-3 tocsection-160"><a href="Active#Y_coordinate"><span class="tocnumber">4.4.2</span> <span class="toctext">Y coordinate</span></a></li>
+<li class="toclevel-3 tocsection-161"><a href="Active#Width"><span class="tocnumber">4.4.3</span> <span class="toctext">Width</span></a></li>
+<li class="toclevel-3 tocsection-162"><a href="Active#Height"><span class="tocnumber">4.4.4</span> <span class="toctext">Height</span></a></li>
+<li class="toclevel-3 tocsection-163"><a href="Active#X_coordinate_of_left_edge"><span class="tocnumber">4.4.5</span> <span class="toctext">X coordinate of left edge</span></a></li>
+<li class="toclevel-3 tocsection-164"><a href="Active#X_coordinate_or_right_edge"><span class="tocnumber">4.4.6</span> <span class="toctext">X coordinate or right edge</span></a></li>
+<li class="toclevel-3 tocsection-165"><a href="Active#Y_coordinate_of_top_edge"><span class="tocnumber">4.4.7</span> <span class="toctext">Y coordinate of top edge</span></a></li>
+<li class="toclevel-3 tocsection-166"><a href="Active#Y_coordinate_of_bottom_edge"><span class="tocnumber">4.4.8</span> <span class="toctext">Y coordinate of bottom edge</span></a></li>
+<li class="toclevel-3 tocsection-167"><a href="Active#X_coordinate_of_action_point"><span class="tocnumber">4.4.9</span> <span class="toctext">X coordinate of action point</span></a></li>
+<li class="toclevel-3 tocsection-168"><a href="Active#Y_coordinate_of_action_point"><span class="tocnumber">4.4.10</span> <span class="toctext">Y coordinate of action point</span></a></li>
+<li class="toclevel-3 tocsection-169"><a href="Active#Get_layer"><span class="tocnumber">4.4.11</span> <span class="toctext">Get layer</span></a></li>
+<li class="toclevel-3 tocsection-170"><a href="Active#Distance_with_a_point"><span class="tocnumber">4.4.12</span> <span class="toctext">Distance with a point</span></a></li>
+<li class="toclevel-3 tocsection-171"><a href="Active#Angle_of_a_vector"><span class="tocnumber">4.4.13</span> <span class="toctext">Angle of a vector</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-172"><a href="Active#Values"><span class="tocnumber">4.5</span> <span class="toctext">Values</span></a>
+<ul>
+<li class="toclevel-3 tocsection-173"><a href="Active#Values_A_to_M"><span class="tocnumber">4.5.1</span> <span class="toctext">Values A to M</span></a></li>
+<li class="toclevel-3 tocsection-174"><a href="Active#Value_N_to_Z"><span class="tocnumber">4.5.2</span> <span class="toctext">Value N to Z</span></a></li>
+<li class="toclevel-3 tocsection-175"><a href="Active#Alterable_strings_A_to_J"><span class="tocnumber">4.5.3</span> <span class="toctext">Alterable strings A to J</span></a></li>
+<li class="toclevel-3 tocsection-176"><a href="Active#Alterable_value_by_index"><span class="tocnumber">4.5.4</span> <span class="toctext">Alterable value by index</span></a></li>
+<li class="toclevel-3 tocsection-177"><a href="Active#Value_of_one_of_the_internal_flags"><span class="tocnumber">4.5.5</span> <span class="toctext">Value of one of the internal flags</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-178"><a href="Active#Get_RGB_at..."><span class="tocnumber">4.6</span> <span class="toctext">Get RGB at...</span></a></li>
+<li class="toclevel-2 tocsection-179"><a href="Active#Count"><span class="tocnumber">4.7</span> <span class="toctext">Count</span></a></li>
+<li class="toclevel-2 tocsection-180"><a href="Active#Index_of_for_each_loop.3D"><span class="tocnumber">4.8</span> <span class="toctext">Index of for each loop=</span></a>
+<ul>
+<li class="toclevel-3 tocsection-181"><a href="Active#Number_of_objects"><span class="tocnumber">4.8.1</span> <span class="toctext">Number of objects</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-182"><a href="Active#Name"><span class="tocnumber">4.9</span> <span class="toctext">Name</span></a></li>
+<li class="toclevel-2 tocsection-183"><a href="Active#Retrieve_fixed_value"><span class="tocnumber">4.10</span> <span class="toctext">Retrieve fixed value</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Properties">Properties</span></h2>
+<p>See <a href="Object_Properties" title="Object Properties">Object Properties</a>.
+</p>
+<h2><span class="mw-headline" id="Conditions">Conditions</span></h2>
+<p>The conditions menu of the active object contain all the default conditions that you can find in other objects with a movement, a sprite or an alterable value property. Therefore you will find these menus for multiple different objects.
+</p>
+<h3><span class="mw-headline" id="Collisions">Collisions</span></h3>
+<h4><span class="mw-headline" id="Another_object">Another object</span></h4>
+<p>This condition is true when the object collides with another object. The collision detection is pixel precise for the objects that have the "Use Fine Detection" property selected. For other objects, it is done with the rectangle surrounding the object. Note that this condition is only true once at the beginning of the collision, for continuous detection use the next condition.
+</p>
+<h4><span class="mw-headline" id="Overlapping_another_object">Overlapping another object</span></h4>
+<p>Detects a collision with another object continuously. As above, the collision detection is pixel precise for the objects that have the "Use Fine Detection" property selected. For other objects, it is done with the rectangle surrounding the object.
+</p>
+<h4><span class="mw-headline" id="Backdrop">Backdrop</span></h4>
+<p>This condition is true when the object collides with a backdrop object marked as "obstacle". This is a one shot condition: it is only true once at the beginning of the collision, for continuous detection use the following condition.
+</p>
+<h4><span class="mw-headline" id="Overlapping_a_backdrop">Overlapping a backdrop</span></h4>
+<p>This condition is continuously true when the object collides with a backdrop object marked "obstacle".
+</p>
+<h3><span class="mw-headline" id="Movement">Movement</span></h3>
+<h4><span class="mw-headline" id="Is_.22Object.22_stopped.3F">Is "Object" stopped?</span></h4>
+<p>This condition is true when the object does not move (its speed is zero).
+</p>
+<h4><span class="mw-headline" id="Is_.22Object.22_bouncing.3F">Is "Object" bouncing?</span></h4>
+<p>True at the very moment when the object is bouncing. Only valid for movements where the object can bounce.
+Compare speed of "Object" to a value====
+As it name implies, allows you to compare the speed to a reference speed. True if the comparison is correct.
+</p>
+<h4><span class="mw-headline" id="Compare_the_acceleration_of_.22Object.22_to_a_value">Compare the acceleration of "Object" to a value</span></h4>
+<p>Use this condition to compare the acceleration value (0-100) of the object to a given value. Only valid for movements with an acceleration.
+</p>
+<h4><span class="mw-headline" id="Compare_the_deceleration_of_.22Object.22_to_a_value">Compare the deceleration of "Object" to a value</span></h4>
+<p>Use this condition to compare the deceleration value (0-100) to a given value. Only valid for movements with a deceleration.
+</p>
+<h4><span class="mw-headline" id="Path_movement">Path movement</span></h4>
+<p>The following conditions are valid only for objects with a path movement.
+</p>
+<h5><span class="mw-headline" id="Has_.22Object.22_reached_a_node_in_the_path">Has "Object" reached a node in the path</span></h5>
+<p>This condition is true each time the object reaches a node in the path.
+</p>
+<h5><span class="mw-headline" id="Has_.22Object.22_reached_the_end_of_the_path">Has "Object" reached the end of the path</span></h5>
+<p>The condition is true when the object reaches the end of the path.
+</p>
+<h5><span class="mw-headline" id="Has_.22Object.22_reached_a_named_node_in_the_path.">Has "Object" reached a named node in the path.</span></h5>
+<p>Since Clickteam Fusion 2.5, the node of a path movement can have a name. This condition is true when the name of the reached node is equal to the given name.
+</p>
+<h3><span class="mw-headline" id="Position">Position</span></h3>
+<h4><span class="mw-headline" id="Test_position_of_.22Object.22">Test position of "Object"</span></h4>
+<p>Use this condition to test the position of the object on the screen, relative to the borders of the frame. You can test the object entering of leaving the frame, or being within or outside of the frame. For example, in a bouncing ball movement, this condition is used to detect the ball leaving the frame to make it bounce.
+</p>
+<h4><span class="mw-headline" id="Is_.22Object.22_getting_close_to_window.27s_edge">Is "Object" getting close to window's edge</span></h4>
+<p>This condition asks for two parameters, a distance in X and a distance in Y. It will be true when the object is closer to "distance X" from the vertical border, and closer to "distance Y" from the horizontal border of the frame.
+</p>
+<h4><span class="mw-headline" id="Compare_X_Position_to_a_value">Compare X Position to a value</span></h4>
+<p>As the name indicates, this condition compares the X coordinate of the object to a given value. The condition is true when the comparison is satisfied.
+</p>
+<h4><span class="mw-headline" id="Compare_Y_Position_to_a_value">Compare Y Position to a value</span></h4>
+<p>Same as before, for the Y coordinate.
+</p>
+<h3><span class="mw-headline" id="Direction">Direction</span></h3>
+<h4><span class="mw-headline" id="Compare_to_direction_of_.22Object.22">Compare to direction of "Object"</span></h4>
+<p>Compare the direction of the object to a given direction. Opens a direction selector for you to enter the direction to compare to. If you select more than one direction, the condition will be true if the direction is any of the selected directions. You can also enter an expression for the comparison.
+</p>
+<h3><span class="mw-headline" id="Animation">Animation</span></h3>
+<h4><span class="mw-headline" id="Which_animation_of_.22Object.22_is_playing.3F">Which animation of "Object" is playing?</span></h4>
+<p>This condition is true when the animation of the object is equal to the given condition. You can if you want to use an expression for the comparison, in this case, a number represents the animation.
+</p>
+<ul><li>0: Stopped</li>
+<li>1: Walking</li>
+<li>2: Running</li>
+<li>3: Appear</li>
+<li>4: Disappear</li>
+<li>5: Bounce</li>
+<li>6: Launch</li>
+<li>7: Jump</li>
+<li>8: Fall</li>
+<li>9: Climb</li>
+<li>10: Crouch</li>
+<li>11: Uncrouch</li>
+<li>12 and over: User animations</li></ul>
+<h4><span class="mw-headline" id="Has_an_animation_finished">Has an animation finished</span></h4>
+<p>This condition is true if the given animation is complete. Warning, a looping animation will never finish!
+</p>
+<h4><span class="mw-headline" id="Compare_current_frame_of_animation_to_a_value">Compare current frame of animation to a value</span></h4>
+<p>Allows you to detect if the animation is currently displaying a specific frame. Asks for a frame number. Warning frame numbers begin at zero (zero is the first frame of the animation).
+</p>
+<h3><span class="mw-headline" id="Pick_or_count">Pick or count</span></h3>
+<h4><span class="mw-headline" id="Pick_.22Object.22_at_random">Pick "Object" at random</span></h4>
+<p>This condition is always true if at least one "Object" exists in the frame. It will randomly select one of the given objects: the actions will only affect this object.
+</p>
+<h4><span class="mw-headline" id="Have_all_.22Object.22_been_destroyed">Have all "Object" been destroyed</span></h4>
+<p>This condition is only true when the last "Object" has been destroyed. It is only true for one loop.
+</p>
+<h4><span class="mw-headline" id="Compare_to_the_number_of_.22Object.22_objects">Compare to the number of "Object" objects</span></h4>
+<p>As the name indicate, allows you to perform a comparison on the number of "Objects" present on the frame. If the comparison is true, the condition is true.
+</p>
+<h4><span class="mw-headline" id="Test_for_no_.22Object.22_objects_in_a_zone">Test for no "Object" objects in a zone</span></h4>
+<p>Asks for you to define a zone on the frame. This condition is true when NO "Object" are located in the defined zone.
+</p>
+<h4><span class="mw-headline" id="Compare_to_the_number_of_.22Object.22_objects_in_a_zone">Compare to the number of "Object" objects in a zone</span></h4>
+<p>Asks for you to define a zone in the frame and a value for the comparison. This condition is true when the number of "Objects" in the given zone is equal to the given number.
+</p>
+<h3><span class="mw-headline" id="Visibility">Visibility</span></h3>
+<h4><span class="mw-headline" id="Is_.22Object.22_visible">Is "Object" visible</span></h4>
+<p>This condition is true if the object is visible in the frame.
+</p>
+<h4><span class="mw-headline" id="Is_.22Object.22_invisible">Is "Object" invisible</span></h4>
+<p>This condition is true when the object is hidden.
+</p>
+<h3><span class="mw-headline" id="Alterable_values">Alterable values</span></h3>
+<h4><span class="mw-headline" id="Compare_to_one_of_the_alterable_values">Compare to one of the alterable values</span></h4>
+<p>Allows you to perform a comparison on one of the internal alterable values of the object. The condition is true if the comparison is true.
+</p>
+<h4><span class="mw-headline" id="Compare_to_fixed_value">Compare to fixed value</span></h4>
+<p>The fixed value is a unique number for the object. This number is unique to the entire frame and specific for the instance of the given object. This condition compares a value to the fixed value, and is true if the comparison is true.
+</p>
+<h4><span class="mw-headline" id="Flags">Flags</span></h4>
+<h5><span class="mw-headline" id="Is_flag_on.3F">Is flag on?</span></h5>
+<p>True if the given internal flag is true.
+</p>
+<h5><span class="mw-headline" id="Is_flag_off.3F">Is flag off?</span></h5>
+<p>True if the given internal flag is false.
+</p>
+<h2><span class="mw-headline" id="Actions">Actions</span></h2>
+<p>The actions of the active object are the standard actions for objects with a movement, or alterable values. They are present in many other objects.
+</p>
+<h3><span class="mw-headline" id="Movement_2">Movement</span></h3>
+<h4><span class="mw-headline" id="Stop">Stop</span></h4>
+<p>Stops the current movement.
+</p>
+<h4><span class="mw-headline" id="Start">Start</span></h4>
+<p>Restarts the current movement if it has been stopped before.
+</p>
+<h4><span class="mw-headline" id="Set_speed...">Set speed...</span></h4>
+<p>Changes the current speed of the movement. Only valid for movements with speed.
+</p>
+<h4><span class="mw-headline" id="Set_maximum_speed">Set maximum speed</span></h4>
+<p>Changes the maximum speed of the object if applicable (if the object's movement has a maximum speed). Asks for a value between 0 and 100.
+</p>
+<h4><span class="mw-headline" id="Set_acceleration">Set acceleration</span></h4>
+<p>Changes the acceleration value of the movement of the object. Asks for a value between 0 and 100.
+</p>
+<h4><span class="mw-headline" id="Set_deceleration">Set deceleration</span></h4>
+<p>Changes the deceleration value of the movement of the object. Asks for a value between 0 and 100.
+</p>
+<h4><span class="mw-headline" id="Set_rotating_speed">Set rotating speed</span></h4>
+<p>Changes the rotating speed of the object, only for certain movements like the race car movement. Asks for a value between 0 and 100.
+</p>
+<h4><span class="mw-headline" id="Set_authorized_directions">Set authorized directions</span></h4>
+<p>Changes the authorized directions for the movement. Only available for certain movements like the ball movement.
+</p>
+<h4><span class="mw-headline" id="Wrap_around_play_area">Wrap around play area</span></h4>
+<p>Makes the object wrap from one side to the other. Available for movements like the ball movement, the race car movement.
+</p>
+<h4><span class="mw-headline" id="Bounce">Bounce</span></h4>
+<p>Makes the object bounce.
+</p>
+<h4><span class="mw-headline" id="Reverse">Reverse</span></h4>
+<p>Reverses the movement. Ie goes backward. Do not confuse this action with the bounce action.
+</p>
+<h4><span class="mw-headline" id="Path_movement_2">Path movement</span></h4>
+<h5><span class="mw-headline" id="Goto_node">Goto node</span></h5>
+<p>Only available for path movement. Makes the movement go in the direction of the given node, and stop when it reaches it. Asks for the name of the node to go to.
+</p>
+<h5><span class="mw-headline" id="Branch_node">Branch node</span></h5>
+<p>Branches immediately the given node at the current position of the object. The movement will carry on from the node in the movement.
+</p>
+<h4><span class="mw-headline" id="Multiple_movements">Multiple movements</span></h4>
+<h5><span class="mw-headline" id="Next_movement">Next movement</span></h5>
+<p>If you have defined multiple movements for this object, this action will make the object select the next movement in the list.
+</p>
+<h5><span class="mw-headline" id="Previous_movement">Previous movement</span></h5>
+<p>Like the previous action, this action is only available for multiple movement objects. This action will select the previous movement in the list.
+</p>
+<h5><span class="mw-headline" id="Select_movement">Select movement</span></h5>
+<p>Immediately selects a movement from the list.
+</p>
+<h3><span class="mw-headline" id="Position_2">Position</span></h3>
+<h4><span class="mw-headline" id="Select_position">Select position</span></h4>
+<p>Allows you to position the object on the screen with a dialog box. In runtime, this action will change the position of the object.
+</p>
+<h4><span class="mw-headline" id="Swap_position_with_another_object">Swap position with another object</span></h4>
+<p>Exchange the position of two objects: the first one will be at the position of the second one and vice-versa.
+</p>
+<h4><span class="mw-headline" id="Set_X_Coordinate">Set X Coordinate</span></h4>
+<p>Changes the horizontal coordinate of the object.
+</p>
+<h4><span class="mw-headline" id="Set_Y_Coordinate">Set Y Coordinate</span></h4>
+<p>Changes the vertical coordinate of the object.
+</p>
+<h3><span class="mw-headline" id="Direction_2">Direction</span></h3>
+<h4><span class="mw-headline" id="Select_direction">Select direction</span></h4>
+<p>Changes the direction of the movement of the object. If you enter more than one direction in the direction selector, it will randomly choose one direction at random from the selected ones. Please note that this might not change the direction of the animation if the selected direction is not defined in the animation.
+</p>
+<h4><span class="mw-headline" id="Look_in_direction_of">Look in direction of</span></h4>
+<p>Asks for you to enter a position on the frame, relative or not from another object. Upon runtime, this action will make the object rotate to face the selected coordinate.
+</p>
+<h3><span class="mw-headline" id="Animation_2">Animation</span></h3>
+<h4><span class="mw-headline" id="Stop_2">Stop</span></h4>
+<p>Stops the animation of the object.
+</p>
+<h4><span class="mw-headline" id="Start_2">Start</span></h4>
+<p>Restarts a stopped animation
+</p>
+<h4><span class="mw-headline" id="Change">Change</span></h4>
+<h5><span class="mw-headline" id="Animation_sequence">Animation sequence</span></h5>
+<p>Selects another animation. This choice will remain until a new Change animation sequence or a Restore animation sequence.
+</p>
+<h5><span class="mw-headline" id="Direction_of_animation">Direction of animation</span></h5>
+<p>Selects another direction for the animation. This choice will remain until a new Change direction of animation or a Restore animation direction.
+</p>
+<h5><span class="mw-headline" id="Speed_of_animation">Speed of animation</span></h5>
+<p>Changes the speed of the animation, from 0 to 100. This choice will remain until a new Change speed of animation or a Restore animation speed.
+</p>
+<h5><span class="mw-headline" id="Animation_frame">Animation frame</span></h5>
+<p>Changes the frame of the animation, overriding the entire animation process. This will remain until a new Change animation frame or a Restore animation frame.
+</p>
+<h4><span class="mw-headline" id="Restore">Restore</span></h4>
+<h5><span class="mw-headline" id="Animation_sequence_2">Animation sequence</span></h5>
+<p>Restores the animation to normal. 
+</p>
+<h5><span class="mw-headline" id="Direction_of_animation_2">Direction of animation</span></h5>
+<p>Restores the direction of the animation to normal.
+</p>
+<h5><span class="mw-headline" id="Speed_of_animation_2">Speed of animation</span></h5>
+<p>Restores the speed of the animation to normal.
+</p>
+<h5><span class="mw-headline" id="Animation_frame_2">Animation frame</span></h5>
+<p>Restores the animation frame to normal.
+</p>
+<h4><span class="mw-headline" id="Paste_Image_into_Background">Paste Image into Background</span></h4>
+<p>Pastes the current image of the object into the background, using the current ink effect. You can also select the way the pasted object will affect the collisions with the background:
+</p>
+<h5><span class="mw-headline" id="No_effect_on_collisions">No effect on collisions</span></h5>
+<p>The pasted object does not change the collision map at all.
+</p>
+<h5><span class="mw-headline" id="Not_an_obstacle">Not an obstacle</span></h5>
+<p>The zone under the object will not generate any collisions.
+</p>
+<h5><span class="mw-headline" id="Obstacle">Obstacle</span></h5>
+<p>The zone under the object will generate an "Obstacle" collision.
+</p>
+<h5><span class="mw-headline" id="Platform">Platform</span></h5>
+<p>The zone under the object will be a platform. 
+</p>
+<h5><span class="mw-headline" id="Ladder">Ladder</span></h5>
+<p>The zone under the object will be a ladder. 
+</p><p>Note: in the first layer, the objects pasted by this function only exist in the part of the screen that is visible at the time it's pasted. If the object goes out of the screen, for example in a scrolling application, it will be definitely destroyed. To make your pasted object permanent in the first layer, use the next function. If the object is not in the first layer, then the pasted object will be permanent and won't disappear.
+</p>
+<h4><span class="mw-headline" id="Add_Backdrop">Add Backdrop</span></h4>
+<p>Adds the current image of the object as a new backdrop object, using the current ink effect. The new object is permanent, even in the first layer. You can also select the way the pasted object will affect the collisions with the background, refer to the function above for more info. 
+</p>
+<h4><span class="mw-headline" id="Replace_Color">Replace Color</span></h4>
+<p>Allows you to replace a color by another one in the current image of the object. Select the color to replace in the color selector, or via the Calculation button, and then the new color. The Calculation button in the Color selector allows you to enter an RGB value. An RGB value can be calculated from its Red, Green, and Blue components by the following formula:
+RGB_Value = B*65536 + G*256 + R.
+To extract the R, G, and B components from an RGB value, use: 
+R = RGB_Value AND 255
+G = (RGB_Value / 256) AND 255
+B = (RGB_Value / 65536) AND 255 
+</p>
+<h4><span class="mw-headline" id="Load_Frame">Load Frame</span></h4>
+<p>This function allows you to replace an existing frame of a given animation &amp; direction by a graphic file from the disk. Parameters:
+</p>
+<ul><li>Filename: pathname of the graphic file to load.</li>
+<li>Animation: animation that contains the frame to modify.</li>
+<li>Direction: direction that contains the frame to modify.</li>
+<li>Frame index: index of the frame to modify (0 = first frame).</li>
+<li>X, Y coordinates of hotspot: coordinates of the hot spot. Special values: use 100000 if you want the hot spot to be centered in the image, or 110000 if you want it to be aligned on the right (or bottom) border of the image.</li>
+<li>X, Y coordinates of action point: coordinates of the action point. Same special values as above.</li></ul>
+<p>Transparent color: the RGB value of the transparent color. Use -1 to get the transparent color from the first pixel of the image.
+</p>
+<h3><span class="mw-headline" id="Visibility_2">Visibility</span></h3>
+<h4><span class="mw-headline" id="Make_object_invisible">Make object invisible</span></h4>
+<p>Hides the object.
+</p>
+<h4><span class="mw-headline" id="Make_object_reappear">Make object reappear</span></h4>
+<p>Redisplays an invisible object.
+</p>
+<h4><span class="mw-headline" id="Flash_object">Flash object</span></h4>
+<p>Asks for a flashing period. Makes the object flash on the screen.
+</p>
+<h4><span class="mw-headline" id="Change_effect">Change effect</span></h4>
+<p>Changes the way the object is displayed on the screen, by changing the operator used when transferring the data on the screen. Note: if your project is using a <a href="Direct3D" title="Direct3D">Direct3D</a> Display Mode, this action is in the Effect/Compatibility menu below.  The choices are:
+</p>
+<h5><span class="mw-headline" id="None">None</span></h5>
+<p>The object is displayed normally.
+</p>
+<h5><span class="mw-headline" id="Semi-transparent">Semi-transparent</span></h5>
+<p>The object is melted with the background using a transparency ratio, from 0 (transparent) to 128 (opaque)
+</p>
+<h5><span class="mw-headline" id="Inverted">Inverted</span></h5>
+<p>Performs a logical inversion of the object's bytes.
+</p>
+<h5><span class="mw-headline" id="XOR">XOR</span></h5>
+<p>Performs a logical XOR between the background bytes and the object's bytes.
+</p>
+<h5><span class="mw-headline" id="AND">AND</span></h5>
+<p>Performs a logical AND between the background bytes and the object's bytes.
+</p>
+<h5><span class="mw-headline" id="OR">OR</span></h5>
+<p>Performs a logical OR between the background bytes and the object's bytes.
+</p>
+<h5><span class="mw-headline" id="Add">Add</span></h5>
+<p>Performs an addition between the background colors and the object's colors.
+</p>
+<h5><span class="mw-headline" id="Subtract">Subtract</span></h5>
+<p>Performs a subtraction between the background colors and the object's colors.
+</p>
+<h5><span class="mw-headline" id="Monochrome">Monochrome</span></h5>
+<p>Converts the object's colors to shades of gray. 
+</p>
+<h4><span class="mw-headline" id="Set_semi-transparency">Set semi-transparency</span></h4>
+<p>If the object's ink effect is Semi-transparent, this action allows you to change the semi-transparency ratio, from 0 to 128. Note: if your version contains HWA features, this action is in the Effect / Compatibility menu below.
+</p>
+<h3><span class="mw-headline" id="Effect">Effect</span></h3>
+<p>Note: this menu only exists if your app uses a <a href="Direct3D" title="Direct3D">Direct3D</a> Display Mode.
+</p>
+<h4><span class="mw-headline" id="Set_effect">Set effect</span></h4>
+<p>Changes the display effect of the object.
+</p>
+<h4><span class="mw-headline" id="Set_effect_parameter">Set effect parameter</span></h4>
+<p>Changes the value of a parameter of the current effect. Parameters = parameter name and parameter value. Each effect can have different parameters. The name of the parameters to specify in this action is the name of the variable to change in the pixel shader. This name is mentioned between parentheses after the full parameter name in the properties of the object. The value depends on the type of parameter, it is usually explained in the description window in the Effects list when you select the effect, or in the property window.
+</p>
+<h4><span class="mw-headline" id="Set_effect_image_parameter">Set effect image parameter</span></h4>
+<p>Some effects take images as parameters. This action allows you to load graphic files into image parameters.
+</p>
+<h4><span class="mw-headline" id="Set_alpha-blending_coefficient">Set alpha-blending coefficient</span></h4>
+<p>Allows you to change the Blend coefficient at runtime, value = 0 (no semi-transparency) to 255 (fully transparent).
+</p>
+<h4><span class="mw-headline" id="Set_RGB_Coefficient">Set RGB Coefficient</span></h4>
+<p>Allows you to change the RGB coefficient. Parameter = new RGB value, in the following format&#160;: B*65536 + G*256 + R (you can also use the GetRGB function of the Special object to build a RGB value from R,G,B components).
+</p>
+<h4><span class="mw-headline" id="Compatibility_menu">Compatibility menu</span></h4>
+<p>This menu contains the old Change effect and Set semi-transparency actions of the Visibility menu.
+</p>
+<h3><span class="mw-headline" id="Order">Order</span></h3>
+<h4><span class="mw-headline" id="Bring_to_front">Bring to front</span></h4>
+<p>Moves the object in front of the other objects in the same layer. Note: active objects cannot go before Windows control objects. Also, objects with the "Display as background" option cannot go in front of active objects.
+</p>
+<h4><span class="mw-headline" id="Bring_to_back">Bring to back</span></h4>
+<p>Moves the object behind the other objects in the same layer. Note: active objects cannot go before background objects or objects with the "Display as background" option.
+</p>
+<h4><span class="mw-headline" id="Move_behind_object">Move behind object</span></h4>
+<p>Moves the object behind another one in the same layer, if possible.
+</p>
+<h4><span class="mw-headline" id="Move_in_front_of_object">Move in front of object</span></h4>
+<p>Moves the object in front of another one in the same layer, if possible.
+</p>
+<h4><span class="mw-headline" id="Move_to_layer">Move to layer</span></h4>
+<p>Changes the layer of the object. The object is added to the front of the other layer.
+</p>
+<h3><span class="mw-headline" id="Launch_an_object">Launch an object</span></h3>
+<p>Allows you to launch an object. You have first to select which object to launch, and then its speed (from 0 to 100). The object is created at the position of the action point.
+</p>
+<h3><span class="mw-headline" id="Alterable_values_2">Alterable values</span></h3>
+<h4><span class="mw-headline" id="Set">Set</span></h4>
+<p>Allows you to change the value of an alterable value.
+</p>
+<h4><span class="mw-headline" id="Add_to">Add to</span></h4>
+<p>Adds a value to an alterable value.
+</p>
+<h4><span class="mw-headline" id="Subtract_from">Subtract from</span></h4>
+<p>Subtracts a value from an alterable value.
+</p>
+<h4><span class="mw-headline" id="Spread_value">Spread value</span></h4>
+<p>This action is quite powerful and allows you to spread numbers in an alterable value of multiple instances of an object. Imagine you have 10 instances of an object called "Ball". If you spread a value in Alterable Value A of the Ball object, starting at 1, the first object will have the value 1, the second the value 2, the third 3 etc. up to 10.
+</p>
+<h3><span class="mw-headline" id="Alterable_strings">Alterable strings</span></h3>
+<h4><span class="mw-headline" id="Set_2">Set</span></h4>
+<p>Allows you to change the text of an alterable string.
+</p>
+<h3><span class="mw-headline" id="Flags_2">Flags</span></h3>
+<h4><span class="mw-headline" id="Set_on">Set on</span></h4>
+<p>Changes the value of one of the internal flags of the object (flags 0 to 31). Sets the value to TRUE (set). 
+</p>
+<h4><span class="mw-headline" id="Set_off">Set off</span></h4>
+<p>Changes the value of one of the internal flags of the object. Sets the value to FALSE (off).
+</p>
+<h4><span class="mw-headline" id="Toggle">Toggle</span></h4>
+<p>Changes the value of one of the internal flags of the object. Toggle the value (set to FALSE if it were TRUE and vice-versa).
+</p>
+<h3><span class="mw-headline" id="Scale.2FAngle">Scale/Angle</span></h3>
+<h4><span class="mw-headline" id="Set_Scale">Set Scale</span></h4>
+<p>Changes the scale of the object on both axes. Enter a floating point value: 1.0 is the normal size, 0.5 will divide the size by 2, 2.0 will double the size, etc. You can also choose the resize algorithm, fast (0) or with a better quality but slower (1).
+</p>
+<h4><span class="mw-headline" id="Set_X_Scale">Set X Scale</span></h4>
+<p>Changes the scale of the object on the X-axis (horizontally). Enter a floating point value: 1.0 is the normal size, 0.5 will divide the size by 2, 2.0 will double the size, etc.
+</p>
+<h4><span class="mw-headline" id="Set_Y_Scale">Set Y Scale</span></h4>
+<p>Changes the scale of the object on the Y axis (vertically). Enter a floating point value: 1.0 is the normal size, 0.5 will divide the size by 2, 2.0 will double the size, etc.
+</p>
+<h4><span class="mw-headline" id="Set_Angle">Set Angle</span></h4>
+<p>Allows you to rotate the object. Enter an angle between 0 and 359 degrees. You can also choose the rotating algorithm, fast (0) or with a better quality but slower (1).
+</p>
+<h3><span class="mw-headline" id="Debugger">Debugger</span></h3>
+<h4><span class="mw-headline" id="Add_object_to_debugger">Add object to debugger</span></h4>
+<p>Allows you to add the object to the list of objects displayed in the Debugger window.
+</p>
+<h3><span class="mw-headline" id="Destroy">Destroy</span></h3>
+<p>Destroys the object.
+</p>
+<h2><span class="mw-headline" id="Expressions">Expressions</span></h2>
+<p>The Active object's expressions are the standard expressions for sprites, movements and alterable values. You will find this list of expressions in many other objects.
+</p>
+<h3><span class="mw-headline" id="Movement_3">Movement</span></h3>
+<h4><span class="mw-headline" id="Speed">Speed</span></h4>
+<pre>Speed( "Active" )
+</pre>
+<p>Returns the speed of the object, a value from 0 (stopped) to 100 (full speed).
+</p>
+<h4><span class="mw-headline" id="Acceleration">Acceleration</span></h4>
+<pre>Acc( "Active" )
+</pre>
+<p>Returns the acceleration value of the object, a value from 0 (no acceleration) to 100 (immediate acceleration).
+</p>
+<h4><span class="mw-headline" id="Deceleration">Deceleration</span></h4>
+<pre>Dec( "Active" )
+</pre>
+<p>Returns the deceleration value of the object, a value from 0 to 100.
+</p>
+<h4><span class="mw-headline" id="Gravity">Gravity</span></h4>
+<pre>Gravity( "Active" )
+</pre>
+<p>Note: Only available for Physics movements.
+No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Get_current_movement_number">Get current movement number</span></h4>
+<pre>NMovement( "Active" )
+</pre>
+<p>If the object has more than one movement defined, returns the current movement number. The first movement is number 0.
+</p>
+<h3><span class="mw-headline" id="Animation_3">Animation</span></h3>
+<h4><span class="mw-headline" id="Current_direction_value">Current direction value</span></h4>
+<p>Dir( "Active" )
+Returns the current direction of the object, a value from 0 to 31.
+</p>
+<h4><span class="mw-headline" id="Current_frame">Current frame</span></h4>
+<pre>Image( "Active" )
+</pre>
+<p>Returns the number of the currently displayed frame of animation. The first frame is number 0.
+</p>
+<h4><span class="mw-headline" id="Current_animation_value">Current animation value</span></h4>
+<pre>Anim Number( "Active" )
+</pre>
+<p>Returns the number of the animation being displayed. A number representing the animation.
+</p>
+<ul><li>0: Stopped </li>
+<li>1: Walking </li>
+<li>2: Running </li>
+<li>3: Appear </li>
+<li>4: Disappear </li>
+<li>5: Bounce </li>
+<li>6: Launch </li>
+<li>7: Jump </li>
+<li>8: Fall </li>
+<li>9: Climb </li>
+<li>10: Crouch </li>
+<li>11: Uncrouch </li>
+<li>12 and over: user animations </li></ul>
+<h3><span class="mw-headline" id="Effect_2">Effect</span></h3>
+<p><a href="Direct3D" title="Direct3D">Note: this menu does not exist if you are using the standard display mode.</a>
+</p>
+<h4><span class="mw-headline" id="Alpha-blending_Coefficient">Alpha-blending Coefficient</span></h4>
+<pre>AlphaCoef( "Active" )
+</pre>
+<p>Returns the current Blend coefficient. Return value = 0 (no semi-transparency) to 255 (fully transparent). Note: in non-Direct3D display mode, due to internal conversion to a 0-128 value the value returned by this function may be slightly different from the one returned by the "Set alpha-blending Coefficient" action.
+</p>
+<h4><span class="mw-headline" id="RGB_Coefficient">RGB Coefficient</span></h4>
+<pre>RGBCoef( "Active" )
+</pre>
+<p>Returns the current RGB coefficient, in the following format: B*65536 + G*256 + R. You can use the GetRed, GetGreen and GetBlue functions of the Special object to extract each component value from the RGB value.
+</p>
+<h4><span class="mw-headline" id="Effect_Parameter">Effect Parameter</span></h4>
+<pre>EffectParam( "Active", &gt; Enter string here &lt; )
+</pre>
+<p>Returns the value of a parameter of the current effect. Parameter = parameter name. See the Set Effect Parameter action for more info about parameters.
+</p>
+<h4><span class="mw-headline" id="Compatibility">Compatibility</span></h4>
+<h5><span class="mw-headline" id="Get_semi_transparency_ratio">Get semi transparency ratio</span></h5>
+<pre>SemiTrans( "Active" )
+</pre>
+<p>Returns the semi-transparency ratio if the ink effect is set to semi-transparency. A value from 0 to 128.
+</p>
+<h3><span class="mw-headline" id="Position_3">Position</span></h3>
+<h4><span class="mw-headline" id="X_coordinate">X coordinate</span></h4>
+<pre>X( "Active" )
+</pre>
+<p>Returns the horizontal coordinate of the object.
+</p>
+<h4><span class="mw-headline" id="Y_coordinate">Y coordinate</span></h4>
+<pre>Y( "Active" )
+</pre>
+<p>Returns the vertical coordinate of the object.
+</p>
+<h4><span class="mw-headline" id="Width">Width</span></h4>
+<pre>OWidth( "Active" )
+</pre>
+<p>Width of the object.
+</p>
+<h4><span class="mw-headline" id="Height">Height</span></h4>
+<pre>OHeight( "Active" )
+</pre>
+<p>Hieght of the object.
+</p>
+<h4><span class="mw-headline" id="X_coordinate_of_left_edge">X coordinate of left edge</span></h4>
+<pre>X Left( "Active" )
+</pre>
+<p>Returns the horizontal coordinate of the left edge of the object (which can be different from the X coordinate of the object, due to the position of the hot spot).
+</p>
+<h4><span class="mw-headline" id="X_coordinate_or_right_edge">X coordinate or right edge</span></h4>
+<pre>X Right( "Active" )
+</pre>
+<p>Returns the horizontal coordinate of the right edge of the object.
+</p>
+<h4><span class="mw-headline" id="Y_coordinate_of_top_edge">Y coordinate of top edge</span></h4>
+<pre>Y Top( "Active" )
+</pre>
+<p>Returns the vertical coordinate of the top edge of the object.
+</p>
+<h4><span class="mw-headline" id="Y_coordinate_of_bottom_edge">Y coordinate of bottom edge</span></h4>
+<pre>Y Bottom( "Active" )
+</pre>
+<p>Returns the vertical coordinate of the bottom edge of the object.
+</p>
+<h4><span class="mw-headline" id="X_coordinate_of_action_point">X coordinate of action point</span></h4>
+<pre>XActionPoint( "Active" )
+</pre>
+<p>Returns the horizontal coordinate of the action point.
+</p>
+<h4><span class="mw-headline" id="Y_coordinate_of_action_point">Y coordinate of action point</span></h4>
+<pre>YActionPoint( "Active" )
+</pre>
+<p>Returns the vertical coordinate of the action point.
+</p>
+<h4><span class="mw-headline" id="Get_layer">Get layer</span></h4>
+<pre>Layer( "Active" )
+</pre>
+<p>Returns the index of the layer of the object, starting at 1.
+</p>
+<h4><span class="mw-headline" id="Distance_with_a_point">Distance with a point</span></h4>
+<pre>ODistance( "Active", &gt;X of point&lt;, &gt;Y of point&lt; )]
+</pre>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Angle_of_a_vector">Angle of a vector</span></h4>
+<pre>OAngle( "Active", &gt;X of point&lt;, &gt;Y of point&lt; )
+</pre>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Values">Values</span></h3>
+<h4><span class="mw-headline" id="Values_A_to_M">Values A to M</span></h4>
+<p>Allows you to retrieve one of the alterable values, from A to M.
+</p>
+<h4><span class="mw-headline" id="Value_N_to_Z">Value N to Z</span></h4>
+<p>Allows you to retrieve one of the alterable values, from N to Z.
+</p>
+<h4><span class="mw-headline" id="Alterable_strings_A_to_J">Alterable strings A to J</span></h4>
+<p>Allows you to retrieve one of the 10 alterable strings, from A to J.
+</p>
+<h4><span class="mw-headline" id="Alterable_value_by_index">Alterable value by index</span></h4>
+<pre>AltValN( "Active", &gt; Enter value here &lt; )
+</pre>
+<p>Allows you to retrieve one of the alterable values from its index (0-based).
+Alterable string by index====
+</p>
+<pre>AltStrN$( "Active", &gt; Enter value here &lt; )
+</pre>
+<p>====Allows you to retrieve one of the alterable strings from its index (0-based).
+</p>
+<h4><span class="mw-headline" id="Value_of_one_of_the_internal_flags">Value of one of the internal flags</span></h4>
+<pre>Flag( "Active", &gt; Enter value here &lt; )
+</pre>
+<p>Retrieves the value of one of the internal flags (flags 0 to 31). If the flag is FALSE, the value is 0, if it is TRUE the value is 1.
+</p>
+<h3><span class="mw-headline" id="Get_RGB_at...">Get RGB at...</span></h3>
+<pre>RGBAt( "Active", &gt;Enter X coordinate&lt;, &gt;Enter Y coordinate&lt; )
+</pre>
+<p>Allows you to retrieve the color of a point in the current image of the object. You have to enter the X and Y coordinates of the point you wish to test, and the function will return a number containing the RGB value of the point. A RGB value can be calculated from its Red, Green, and Blue components by the following formula:
+RGB_Value = B*65536 + G*256 + R.
+To extract the R, B and B components from a RGB value, use:
+R = RGB_Value AND 255
+G = (RGB_Value / 256) AND 255
+B = (RGB_Value / 65536) AND 255
+</p>
+<h3><span class="mw-headline" id="Count">Count</span></h3>
+<h3><span class="mw-headline" id="Index_of_for_each_loop.3D">Index of for each loop=</span></h3>
+<pre>ForEachLoopIndex( "Active" )
+</pre>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Number_of_objects">Number of objects</span></h4>
+<pre>NObjects( "Active" )
+</pre>
+<p>Returns the number of given object created at the moment.
+</p>
+<h3><span class="mw-headline" id="Name">Name</span></h3>
+<pre>OName$( "Active" )
+</pre>
+<p>Retrieves name of object, "Active" in the code examples on this page.
+</p>
+<h3><span class="mw-headline" id="Retrieve_fixed_value">Retrieve fixed value</span></h3>
+<pre>Fixed( "Active" )
+</pre>
+<p>Retrieves the fixed value of the object. The fixed value is a unique number for this instance of the object. No other object exists with this value in the application. Use the "Compare to fixed value" condition to find an object from its value.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155341
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.650 seconds
+Real time usage: 0.651 seconds
+Preprocessor visited node count: 831/1000000
+Preprocessor generated node count: 1345/1000000
+Post‐expand include size: 5398/2097152 bytes
+Template argument size: 2990/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  168.382      1 - -total
+100.00%  168.382      1 - Template:InfoExtension
+ 71.51%  120.417      5 - Template:Yes
+  7.11%   11.965      1 - Template:MMF1
+  4.17%    7.028      1 - Template:No
+  3.86%    6.502      1 - Template:ExtManager
+  3.82%    6.426      1 - Template:ClickteamExtension
+  3.70%    6.230      1 - Template:Flash
+  3.66%    6.161      1 - Template:CF2.5Dev
+  3.64%    6.130      1 - Template:CF2.5
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:899-0!*!0!!en!5!* and timestamp 20180529155340 and revision id 1900
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Active&amp;oldid=1900">http://clickwiki.net/w/index.php?title=Active&amp;oldid=1900</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Active"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1030});});</script>
+  </body>
+</html>

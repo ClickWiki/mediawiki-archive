@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Firefly Engine - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Firefly_Engine","wgTitle":"Firefly Engine","wgCurRevisionId":2065,"wgRevisionId":2065,"wgArticleId":962,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Firefly_Engine","wgRelevantArticleId":962,"wgRequestId":"65806c0d9c52d125efcfa684","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Firefly_Engine rootpage-Firefly_Engine skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img1.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Firefly_Engine#mw-head">navigation</a>,
+          <a href="Firefly_Engine#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Firefly Engine</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="wikitable" style="float:right;">
+
+<tr style="text-align:center;">
+<td colspan="2"><a href="./File:Firefly_Engine.png" class="image"><img alt="Firefly Engine.png" src="../w/images/1/15/Firefly_Engine.png" width="32" height="32" /></a>
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td><a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a>
+</td></tr>
+<tr>
+<td><b>Status</b>
+</td>
+<td>Released, In Development
+</td></tr>
+<tr>
+<td><b>Release Date</b>
+</td>
+<td>November 30<sup>th</sup>, 2016
+</td></tr>
+<tr style="display: none;">
+<td> <b>Last Updated</b>
+</td>
+<td> {{{LastUpdated}}}
+</td></tr>
+<tr>
+<td><b>Available for</b>
+</td>
+<td><a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>Supported Runtimes</b>
+</td>
+<td><a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>License</b>
+</td>
+<td>Paid
+</td></tr>
+<tr>
+<td> <b>Attributes</b>
+</td>
+<td> <a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a>
+</td></tr>
+<tr>
+<th colspan="2"> Download
+</th></tr>
+<tr>
+<td><b>Includes Examples</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Includes Help Files</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Links</b>
+</td>
+<td><a href="http://clickstore.clickteam.com/firefly3D" title="View the Firefly page on the ClickStore" rel="nofollow"><img alt="View the Firefly page on the ClickStore" src="../w/images/c/c7/Main_ClickStore.png" width="24" height="27" /></a> <a href="http://store.steampowered.com/app/267655/" title="Purchase the Steam version" rel="nofollow"><img alt="Purchase the Steam version" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td></tr>
+
+<tr>
+<td> <b>Alternates</b>
+</td>
+<td> See <a href="3D_Techniques" title="3D Techniques">3D Techniques</a>
+</td></tr>
+</table>
+<p>The Firefly Engine object is the base of the entire <a href="Firefly" title="Firefly">Firefly</a> system. It is the object that actually takes all of your various nodes and other Firefly objects and renders the 3D scene to the frame. You must have at least one in your projects frame in order for anything 3D to appear when you run it. The size of the object “drag space” determines where in the frame the 3D scene is rendered.
+</p><p><a href="./File:Firefly_Render_Area.jpeg" class="image"><img alt="Firefly Render Area.jpeg" src="../w/images/4/4b/Firefly_Render_Area.jpeg" width="624" height="469" /></a>
+</p><p>Take a look at some of its specialized functions:
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Firefly_Engine#Conditions"><span class="tocnumber">1</span> <span class="toctext">Conditions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="Firefly_Engine#Is_Firefly_Engine_running"><span class="tocnumber">1.1</span> <span class="toctext">Is Firefly Engine running</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="Firefly_Engine#Is_Checking_for_Collisions"><span class="tocnumber">1.2</span> <span class="toctext">Is Checking for Collisions</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="Firefly_Engine#On_Pre_3D_Scene_draw"><span class="tocnumber">1.3</span> <span class="toctext">On Pre 3D Scene draw</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="Firefly_Engine#On_Post_3D_Scene_Draw_.2F_Pre_2D_Scene_draw"><span class="tocnumber">1.4</span> <span class="toctext">On Post 3D Scene Draw / Pre 2D Scene draw</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="Firefly_Engine#Post_2D_Scene_draw"><span class="tocnumber">1.5</span> <span class="toctext">Post 2D Scene draw</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="Firefly_Engine#Actions"><span class="tocnumber">2</span> <span class="toctext">Actions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="Firefly_Engine#Start_Engine"><span class="tocnumber">2.1</span> <span class="toctext">Start Engine</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="Firefly_Engine#Stop_Engine"><span class="tocnumber">2.2</span> <span class="toctext">Stop Engine</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="Firefly_Engine#Set_Engine_Resolution"><span class="tocnumber">2.3</span> <span class="toctext">Set Engine Resolution</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="Firefly_Engine#Setup_Settings"><span class="tocnumber">2.4</span> <span class="toctext">Setup Settings</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="Firefly_Engine#Device_Driver"><span class="tocnumber">2.4.1</span> <span class="toctext">Device Driver</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="Firefly_Engine#Anti_Alias"><span class="tocnumber">2.4.2</span> <span class="toctext">Anti Alias</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="Firefly_Engine#Set_Background_Colour"><span class="tocnumber">2.5</span> <span class="toctext">Set Background Colour</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="Firefly_Engine#Set_Ambient_Light_Colour"><span class="tocnumber">2.6</span> <span class="toctext">Set Ambient Light Colour</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="Firefly_Engine#Set_Render_Speed"><span class="tocnumber">2.7</span> <span class="toctext">Set Render Speed</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="Firefly_Engine#Set_Fog_Colour"><span class="tocnumber">2.8</span> <span class="toctext">Set Fog Colour</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="Firefly_Engine#Fog_Start_Distance"><span class="tocnumber">2.9</span> <span class="toctext">Fog Start Distance</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="Firefly_Engine#Fog_End_Distance"><span class="tocnumber">2.10</span> <span class="toctext">Fog End Distance</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="Firefly_Engine#Load_Resource_Package"><span class="tocnumber">2.11</span> <span class="toctext">Load Resource Package</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="Firefly_Engine#Collisions"><span class="tocnumber">2.12</span> <span class="toctext">Collisions</span></a>
+<ul>
+<li class="toclevel-3 tocsection-22"><a href="Firefly_Engine#Set_Travel_Distance"><span class="tocnumber">2.12.1</span> <span class="toctext">Set Travel Distance</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="Firefly_Engine#Manually_Detect_Collisions"><span class="tocnumber">2.12.2</span> <span class="toctext">Manually Detect Collisions</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="Firefly_Engine#Scene.E2.80.99s_Collisions"><span class="tocnumber">2.12.3</span> <span class="toctext">Scene’s Collisions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-25"><a href="Firefly_Engine#On_Draw"><span class="tocnumber">2.13</span> <span class="toctext">On Draw</span></a>
+<ul>
+<li class="toclevel-3 tocsection-26"><a href="Firefly_Engine#Render_to_Texture"><span class="tocnumber">2.13.1</span> <span class="toctext">Render to Texture</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="Firefly_Engine#Draw_3D_Line"><span class="tocnumber">2.13.2</span> <span class="toctext">Draw 3D Line</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="Firefly_Engine#Draw_3D_Triangle"><span class="tocnumber">2.13.3</span> <span class="toctext">Draw 3D Triangle</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="Firefly_Engine#Draw_3D_Box"><span class="tocnumber">2.13.4</span> <span class="toctext">Draw 3D Box</span></a></li>
+<li class="toclevel-3 tocsection-30"><a href="Firefly_Engine#Draw_Pixel"><span class="tocnumber">2.13.5</span> <span class="toctext">Draw Pixel</span></a></li>
+<li class="toclevel-3 tocsection-31"><a href="Firefly_Engine#Draw_Texture"><span class="tocnumber">2.13.6</span> <span class="toctext">Draw Texture</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-32"><a href="Firefly_Engine#Expressions"><span class="tocnumber">3</span> <span class="toctext">Expressions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-33"><a href="Firefly_Engine#Get_Engine_Width"><span class="tocnumber">3.1</span> <span class="toctext">Get Engine Width</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="Firefly_Engine#Get_Engine_Height"><span class="tocnumber">3.2</span> <span class="toctext">Get Engine Height</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="Firefly_Engine#Setup_Settings_2"><span class="tocnumber">3.3</span> <span class="toctext">Setup Settings</span></a>
+<ul>
+<li class="toclevel-3 tocsection-36"><a href="Firefly_Engine#Get_Device_Driver"><span class="tocnumber">3.3.1</span> <span class="toctext">Get Device Driver</span></a></li>
+<li class="toclevel-3 tocsection-37"><a href="Firefly_Engine#Get_Anti_Alias_Mode"><span class="tocnumber">3.3.2</span> <span class="toctext">Get Anti Alias Mode</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-38"><a href="Firefly_Engine#Get_Background_Color"><span class="tocnumber">3.4</span> <span class="toctext">Get Background Color</span></a></li>
+<li class="toclevel-2 tocsection-39"><a href="Firefly_Engine#Get_Ambient_Light_Color"><span class="tocnumber">3.5</span> <span class="toctext">Get Ambient Light Color</span></a></li>
+<li class="toclevel-2 tocsection-40"><a href="Firefly_Engine#Get_Render_Speed"><span class="tocnumber">3.6</span> <span class="toctext">Get Render Speed</span></a></li>
+<li class="toclevel-2 tocsection-41"><a href="Firefly_Engine#Get_Fog_Color"><span class="tocnumber">3.7</span> <span class="toctext">Get Fog Color</span></a></li>
+<li class="toclevel-2 tocsection-42"><a href="Firefly_Engine#Get_Fog_Start_Distance"><span class="tocnumber">3.8</span> <span class="toctext">Get Fog Start Distance</span></a></li>
+<li class="toclevel-2 tocsection-43"><a href="Firefly_Engine#Get_Fog_End_Distance"><span class="tocnumber">3.9</span> <span class="toctext">Get Fog End Distance</span></a></li>
+<li class="toclevel-2 tocsection-44"><a href="Firefly_Engine#Override_Material"><span class="tocnumber">3.10</span> <span class="toctext">Override Material</span></a>
+<ul>
+<li class="toclevel-3 tocsection-45"><a href="Firefly_Engine#Get_Linear_Filter"><span class="tocnumber">3.10.1</span> <span class="toctext">Get Linear Filter</span></a></li>
+<li class="toclevel-3 tocsection-46"><a href="Firefly_Engine#Get_Anti_Aliasing"><span class="tocnumber">3.10.2</span> <span class="toctext">Get Anti Aliasing</span></a></li>
+<li class="toclevel-3 tocsection-47"><a href="Firefly_Engine#Get_Vertex_Colour_Material"><span class="tocnumber">3.10.3</span> <span class="toctext">Get Vertex Colour Material</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-48"><a href="Firefly_Engine#Get_Current_Time"><span class="tocnumber">3.11</span> <span class="toctext">Get Current Time</span></a></li>
+<li class="toclevel-2 tocsection-49"><a href="Firefly_Engine#Get_Current_Camera.E2.80.99s_Fixed_Value"><span class="tocnumber">3.12</span> <span class="toctext">Get Current Camera’s Fixed Value</span></a></li>
+<li class="toclevel-2 tocsection-50"><a href="Firefly_Engine#Collisions_2"><span class="tocnumber">3.13</span> <span class="toctext">Collisions</span></a>
+<ul>
+<li class="toclevel-3 tocsection-51"><a href="Firefly_Engine#Get_2D_X_Coordinate_from_3D_Coordinates"><span class="tocnumber">3.13.1</span> <span class="toctext">Get 2D X Coordinate from 3D Coordinates</span></a></li>
+<li class="toclevel-3 tocsection-52"><a href="Firefly_Engine#Get_2D_Y_Coordinate_from_3D_Coordinates"><span class="tocnumber">3.13.2</span> <span class="toctext">Get 2D Y Coordinate from 3D Coordinates</span></a></li>
+<li class="toclevel-3 tocsection-53"><a href="Firefly_Engine#Rays"><span class="tocnumber">3.13.3</span> <span class="toctext">Rays</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-54"><a href="Firefly_Engine#Screen"><span class="tocnumber">3.14</span> <span class="toctext">Screen</span></a></li>
+<li class="toclevel-2 tocsection-55"><a href="Firefly_Engine#Matrices"><span class="tocnumber">3.15</span> <span class="toctext">Matrices</span></a></li>
+<li class="toclevel-2 tocsection-56"><a href="Firefly_Engine#Get_last_debug_message"><span class="tocnumber">3.16</span> <span class="toctext">Get last debug message</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Conditions">Conditions</span></h2>
+<h4><span class="mw-headline" id="Is_Firefly_Engine_running">Is Firefly Engine running</span></h4>
+<p>Triggers when the engine is running each frame.
+</p>
+<h4><span class="mw-headline" id="Is_Checking_for_Collisions">Is Checking for Collisions</span></h4>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="On_Pre_3D_Scene_draw">On Pre 3D Scene draw</span></h4>
+<p>Triggers before anything has been drawn.
+</p>
+<h4><span class="mw-headline" id="On_Post_3D_Scene_Draw_.2F_Pre_2D_Scene_draw">On Post 3D Scene Draw / Pre 2D Scene draw</span></h4>
+<p>Triggers after every 3D object has been drawn.
+</p>
+<h4><span class="mw-headline" id="Post_2D_Scene_draw">Post 2D Scene draw</span></h4>
+<p>Triggers after everything has been drawn.
+</p>
+<h2><span class="mw-headline" id="Actions">Actions</span></h2>
+<h3><span class="mw-headline" id="Start_Engine">Start Engine</span></h3>
+<p>Allows the engine to start rendering the 3d scene to the frame
+</p>
+<h3><span class="mw-headline" id="Stop_Engine">Stop Engine</span></h3>
+<p>Stops the engine from rendering the 3d scene to the frame
+</p>
+<h3><span class="mw-headline" id="Set_Engine_Resolution">Set Engine Resolution</span></h3>
+<p>You can with this Action change at runtime the Engine’s render space in the frame, but passing two values one for width and another for height in the expression editor.
+</p>
+<h3><span class="mw-headline" id="Setup_Settings">Setup Settings</span></h3>
+<h4><span class="mw-headline" id="Device_Driver">Device Driver</span></h4>
+<p>Using this action you can select at runtime the driver used by firefly to render the 3d scene, options like OpenGL and Direct3d are here.
+</p>
+<h4><span class="mw-headline" id="Anti_Alias">Anti Alias</span></h4>
+<p>Anti-aliasing is a software technique for diminishing jaggies - stair-step-like lines that should be smooth. Jaggies occur because the the monitor doesn't have a high enough resolution to represent a smooth line. Anti-aliasing reduces the prominence of jaggies by surrounding the stair-steps with intermediate shades of color. Although this reduces the jagged appearance of the lines, it also makes them blurry. You can decide whether the effect is off, x2, x4, x6 or x8.
+</p><p><a href="./File:Antialiasing.png" class="image"><img alt="Antialiasing.png" src="../w/images/0/08/Antialiasing.png" width="548" height="184" /></a>
+</p>
+<h3><span class="mw-headline" id="Set_Background_Colour">Set Background Colour</span></h3>
+<p>Select the empty space background color used by the engine
+</p>
+<h3><span class="mw-headline" id="Set_Ambient_Light_Colour">Set Ambient Light Colour</span></h3>
+<p>Select the default ambient light color used in engine
+</p>
+<h3><span class="mw-headline" id="Set_Render_Speed">Set Render Speed</span></h3>
+<p>Controls how often the Firefly Engine renders everything. Works the same as and Active’s animation speed.
+</p>
+<h3><span class="mw-headline" id="Set_Fog_Colour">Set Fog Colour</span></h3>
+<p>Colour of the rendered fog. Fog is applied to materials with the fog flag on.
+</p>
+<h3><span class="mw-headline" id="Fog_Start_Distance">Fog Start Distance</span></h3>
+<p>The distance to when fog starts
+</p>
+<h3><span class="mw-headline" id="Fog_End_Distance">Fog End Distance</span></h3>
+<p>The distance where fog melds into the background. “100% thick”
+</p>
+<h3><span class="mw-headline" id="Load_Resource_Package">Load Resource Package</span></h3>
+<p>Point to a ZIP file that can contain all your model resources like Models, maps or textures. Then from the expression editor when needing to access one of these resource for any of your relevant nodes, simply type the resource name in. EX: “mymodel.obj” NOTE: If you load a model that has textures defined within it, they will automatically be loaded and assigned.
+</p>
+<h3><span class="mw-headline" id="Collisions">Collisions</span></h3>
+<h4><span class="mw-headline" id="Set_Travel_Distance">Set Travel Distance</span></h4>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Manually_Detect_Collisions">Manually Detect Collisions</span></h4>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Scene.E2.80.99s_Collisions">Scene’s Collisions</span></h4>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="On_Draw">On Draw</span></h3>
+<h4><span class="mw-headline" id="Render_to_Texture">Render to Texture</span></h4>
+<p>Saves the camera’s view onto a material’s texture.
+</p>
+<h4><span class="mw-headline" id="Draw_3D_Line">Draw 3D Line</span></h4>
+<p>Using the expression editor create a line by feeding 2 sets of 3D coordinates, and selecting a texture from Materials Object
+</p>
+<h4><span class="mw-headline" id="Draw_3D_Triangle">Draw 3D Triangle</span></h4>
+<p>Using the expression editor create a triangle by feeding 3 sets of 3D coordinates, and selecting a texture from Materials Object
+</p>
+<h4><span class="mw-headline" id="Draw_3D_Box">Draw 3D Box</span></h4>
+<p>Using the expression editor create a box by feeding 2 sets of 3D coordinates representing opposite corners , and selecting a texture from Materials Object
+</p>
+<h4><span class="mw-headline" id="Draw_Pixel">Draw Pixel</span></h4>
+<p>Draw a single pixel in 2D space by feeding the expression editor X and Y values and select color and alpha channel color.
+</p>
+<h4><span class="mw-headline" id="Draw_Texture">Draw Texture</span></h4>
+<p>Draw a material’s texture onto the camera’s view.
+</p>
+<h2><span class="mw-headline" id="Expressions">Expressions</span></h2>
+<h3><span class="mw-headline" id="Get_Engine_Width">Get Engine Width</span></h3>
+<pre>ObjWidth( "Firefly Engine" )
+</pre>
+<p>Returns the width of the engine
+</p>
+<h3><span class="mw-headline" id="Get_Engine_Height">Get Engine Height</span></h3>
+<pre>ObjHeight( "Firefly Engine" )
+</pre>
+<p>Returns the height of the engine
+</p>
+<h3><span class="mw-headline" id="Setup_Settings_2">Setup Settings</span></h3>
+<h4><span class="mw-headline" id="Get_Device_Driver">Get Device Driver</span></h4>
+<pre>DeviceDriver( "Firefly Engine" )
+</pre>
+<p>Returns the device driver renders the engine.
+</p>
+<h4><span class="mw-headline" id="Get_Anti_Alias_Mode">Get Anti Alias Mode</span></h4>
+<pre>AntiAlias( "Firefly Engine" )
+</pre>
+<p>Returns the type of anti aliasing type of the Engine.
+</p>
+<h3><span class="mw-headline" id="Get_Background_Color">Get Background Color</span></h3>
+<pre>BackgroundColour( "Firefly Engine" )
+</pre>
+<p>Returns the color of Engine’s background
+</p>
+<h3><span class="mw-headline" id="Get_Ambient_Light_Color">Get Ambient Light Color</span></h3>
+<pre>AmbientLight( "Firefly Engine" )
+</pre>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Get_Render_Speed">Get Render Speed</span></h3>
+<pre>RenderSpeed( "Firefly Engine" )
+</pre>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Get_Fog_Color">Get Fog Color</span></h3>
+<pre>FogColour( "Firefly Engine" )
+</pre>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Get_Fog_Start_Distance">Get Fog Start Distance</span></h3>
+<pre>FogStart( "Firefly Engine" )
+</pre>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Get_Fog_End_Distance">Get Fog End Distance</span></h3>
+<pre>FogEnd( "Firefly Engine" )
+</pre>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Override_Material">Override Material</span></h3>
+<h4><span class="mw-headline" id="Get_Linear_Filter">Get Linear Filter</span></h4>
+<pre>OvrMatLinearFilter( "Firefly Engine" )
+</pre>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Get_Anti_Aliasing">Get Anti Aliasing</span></h4>
+<pre>OvrMatAA( "Firefly Engine" )
+</pre>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Get_Vertex_Colour_Material">Get Vertex Colour Material</span></h4>
+<pre>OvrMatVertexC( "Firefly Engine" )
+</pre>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Get_Current_Time">Get Current Time</span></h3>
+<pre>CurrentTime( "Firefly Engine" )
+</pre>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Get_Current_Camera.E2.80.99s_Fixed_Value">Get Current Camera’s Fixed Value</span></h3>
+<pre>CurrentCameraFV( "Firefly Engine" )
+</pre>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Collisions_2">Collisions</span></h3>
+<h4><span class="mw-headline" id="Get_2D_X_Coordinate_from_3D_Coordinates">Get 2D X Coordinate from 3D Coordinates</span></h4>
+<pre>TwoDXFromThreeD( "Firefly Engine", &gt;Enter X Coordinate&lt;, &gt;Enter Y Coordinate&lt;, &gt;Enter Z Coordinate&lt;, &gt;Enter Fixed Value of Camera Node&lt; )
+</pre>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Get_2D_Y_Coordinate_from_3D_Coordinates">Get 2D Y Coordinate from 3D Coordinates</span></h4>
+<pre>TwoDYFromThreeD( "Firefly Engine", &gt;Enter X Coordinate&lt;, &gt;Enter Y Coordinate&lt;, &gt;Enter Z Coordinate&lt;, &gt;Enter Fixed Value of Camera Node&lt; )
+</pre>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Rays">Rays</span></h4>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Screen">Screen</span></h3>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Matrices">Matrices</span></h3>
+<p>No info available, please add some!
+</p>
+<h3><span class="mw-headline" id="Get_last_debug_message">Get last debug message</span></h3>
+<pre>LastMessage$( "Firefly Engine" )
+</pre>
+<p>No info available, please add some!
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155226
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.301 seconds
+Preprocessor visited node count: 290/1000000
+Preprocessor generated node count: 686/1000000
+Post‐expand include size: 2079/2097152 bytes
+Template argument size: 1053/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   67.902      1 - Template:InfoExtension
+100.00%   67.902      1 - -total
+ 10.92%    7.418      2 - Template:Yes
+ 10.72%    7.278      1 - Template:ShopSteam
+  9.78%    6.641      2 - Template:ClickteamExtension
+  9.30%    6.313      1 - Template:CF2.5
+  9.05%    6.143      1 - Template:CF2.5Dev
+  8.90%    6.043      1 - Template:EXE
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:962-0!*!0!!en!5!* and timestamp 20180529155225 and revision id 2065
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Firefly_Engine&amp;oldid=2065">http://clickwiki.net/w/index.php?title=Firefly_Engine&amp;oldid=2065</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Firefly+Engine"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":713});});</script>
+  </body>
+</html>

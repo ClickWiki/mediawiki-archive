@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Fusion 3 - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fusion_3","wgTitle":"Fusion 3","wgCurRevisionId":1981,"wgRevisionId":1981,"wgArticleId":67,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Products"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fusion_3","wgRelevantArticleId":67,"wgRequestId":"cf4a1264606b3501ead5bcde","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Fusion_3 rootpage-Fusion_3 skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img1.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Fusion_3#mw-head">navigation</a>,
+          <a href="Fusion_3#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Fusion 3</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>It is inevitable there is a new successor to <a href="Fusion_2.5" class="mw-redirect" title="Fusion 2.5">Fusion 2.5</a> in the works. While it may be a while before this product is released, this page is dedicated to gathering confirmed rumours or hinted announcements regarding this mystery product. The new product will be re-written from scratch, meaning it will not be backwards compatible or maintain legacy code from <a href="/w/index.php?title=Kilk_%26_Play&amp;action=edit&amp;redlink=1" class="new" title="Kilk &amp; Play (page does not exist)">Kilk &amp; Play</a>. Plus, the exporters and [potentially] cross-platform editors would be easier to build and maintain.
+</p><p><br />
+</p>
+<center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Warning.png" src="../w/images/c/c5/BoxSymbol_Warning.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>Before you edit this page...</b>
+</td></tr>
+<tr>
+<td> If you add to this list, please link to the source you got this information from. Please note this is not a wishlist page, and the information listed here is <b>not a representation of the final product</b>. This page is simply a place to store of what has been said and heard.
+</td></tr></table>
+</div></center>
+<p><br />
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Fusion_3#Time_Frame"><span class="tocnumber">1</span> <span class="toctext">Time Frame</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="Fusion_3#Mentions_from_Clickteam"><span class="tocnumber">2</span> <span class="toctext">Mentions from Clickteam</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="Fusion_3#Live_Streams"><span class="tocnumber">2.1</span> <span class="toctext">Live Streams</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="Fusion_3#From_the_Community"><span class="tocnumber">2.2</span> <span class="toctext">From the Community</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="Fusion_3#Speculation_and_Rumours"><span class="tocnumber">3</span> <span class="toctext">Speculation and Rumours</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="Fusion_3#Presentation"><span class="tocnumber">4</span> <span class="toctext">Presentation</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="Fusion_3#Interview"><span class="tocnumber">5</span> <span class="toctext">Interview</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="Fusion_3#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Time_Frame">Time Frame</span></h2>
+<ul><li> <b>27 Sept 2016</b> - <a rel="nofollow" class="external text" href="https://www.reddit.com/r/IAmA/comments/54qz9d/we_are_clickteam_creators_of_fusion_the_tool/">Reddit AMA</a> <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=qgNYDcEl8Eo">(Promo Video)</a></li>
+<li> <b>01 Oct 2016</b> - <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/92330-Fusion-3-Current-Status?p=702568&amp;viewfull=1#post702568">Live Stream Demo of Fusion 3</a></li>
+<li> <b>Last Half of 2017</b> - ETA Release Date</li></ul>
+<h2><span class="mw-headline" id="Mentions_from_Clickteam">Mentions from Clickteam</span></h2>
+<p><b>Features or opinions listed here have been mentioned by the staff at Clickteam.</b>
+</p><p><big><a rel="nofollow" class="external text" href="http://www.clickteam.com/fusion-3-development-blog?f3id=8607">Fusion 3 Development Blog</a></big>
+</p>
+<h4><span class="mw-headline" id="Live_Streams">Live Streams</span></h4>
+<p><iframe width="560" height="315" src="http://www.youtube.com/embed/4JHPgaS83QI" frameborder="0" allowfullscreen></iframe>
+</p>
+<ul><li> <a rel="nofollow" class="external free" href="https://www.twitch.tv/clickteamllc/v/92444372">https://www.twitch.tv/clickteamllc/v/92444372</a></li></ul>
+<h4><span class="mw-headline" id="From_the_Community">From the Community</span></h4>
+<ul><li> <b>The product itself</b>
+<ul><li> <b>Release Date</b>
+<ul><li> Older posts suggested no firm release date. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/66628-Most-wanted-least-wanted-in-MMF3?p=511090&amp;viewfull=1#post511090">1</a> <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/88943-Fusion-3-support-Fusion-2-5-MFA?p=642700&amp;viewfull=1#post642700">2</a></li>
+<li> <strike>Yves has clearly stated it will be released "next year" (2016). <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/92330-Fusion-3-Current-Status?p=664266&amp;viewfull=1#post664266">1</a></strike>
+<ul><li> Clickteam from Facebook clearly says "No" to a 2016 release. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/92330-Fusion-3-Current-Status?p=689082&amp;viewfull=1#post689082">Evidence</a></li></ul></li>
+<li> <strike>More information will be revealed "later this year" (2015). <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/92330-Fusion-3-Current-Status?p=664290&amp;viewfull=1#post664290">1</a></strike></li></ul></li>
+<li> Extension development editing time is intended to be addressed. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/66628-Most-wanted-least-wanted-in-MMF3?p=580559&amp;viewfull=1#post580559">1</a>
+<ul><li> It will be much faster to create extensions that work on all platforms. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/92330-Fusion-3-Current-Status?p=664310&amp;viewfull=1#post664310">1</a></li></ul></li>
+<li> There will be a "quantum" leap in performance. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/66628-Most-wanted-least-wanted-in-MMF3?p=603864&amp;viewfull=1#post603864">1</a></li>
+<li> The event editor style of coding isn't going anywhere. In fact, the successor has been described as "awesome". <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/91637-where-to-find-MMF3-news?p=661235&amp;viewfull=1#post661235">1</a> <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/91637-where-to-find-MMF3-news?p=661322&amp;viewfull=1#post661322">2</a></li></ul></li></ul>
+<ul><li> <b>Cross platform support</b>
+<ul><li> Fusion 3 will be built with cross-platform libraries. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/73558-Open-Letter-to-Clickteam-Linux-(it-s-about-time)?p=543148&amp;viewfull=1#post543148">1</a> <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/73558-Open-Letter-to-Clickteam-Linux-(it-s-about-time)?p=543152&amp;viewfull=1#post543152">2</a></li>
+<li> The cross-platform libraries may be based on Qt. <a rel="nofollow" class="external text" href="https://community.clickteam.com/entries/217-Fun-dation">Blog</a></li>
+<li> There is a good chance there will be a native Linux editor. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/73746-Who-s-upgrading-to-Windows-8?p=544717&amp;viewfull=1#post544717">1</a></li></ul></li></ul>
+<ul><li> <b>Exporters</b>
+<ul><li> <b>Native C++</b> (or C) <b>export</b> with both native binaries and source code. (Similar to <a href="Chowdren.1" title="Chowdren">Chowdren</a>'s functionality) <sup><a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/92330-Fusion-3-Current-Status?p=667078&amp;viewfull=1#post667078">(Confirmed)</a></sup> <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/74080-Chowdren-Blazingly-fast-Fusion-exporter-for-desktop-amp-consoles?p=655930&amp;viewfull=1#post655930">2</a> <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/74080-Chowdren-Blazingly-fast-Fusion-exporter-for-desktop-amp-consoles?p=655939&amp;viewfull=1#post655939">3</a> <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/91015-Any-news-about-Clickteam-Fusion-3?p=655369&amp;viewfull=1#post655369">4</a> <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/92330-Fusion-3-Current-Status?p=667078#post667078">5</a> [World Reveal Interview]</li>
+<li> <b>The exporter model</b> (with purchases of additional exporters to export to multiple platforms) <b>will be kept</b> [World Reveal Interview]</li></ul></li></ul>
+<ul><li> <b>Potentially new features</b>
+<ul><li> It could be possible to copy/paste events as text. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/65304-Multimedia-Fusion-3?p=488247&amp;viewfull=1#post488247">1</a></li></ul></li></ul>
+<ul><li> <b>Reduced limitations</b>
+<ul><li> The restriction of alterable values can be overcome in Fusion 3. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/86943-Wish-list-for-Fusion-2-5!?p=631546&amp;viewfull=1#post631546">1</a> <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/86943-Wish-list-for-Fusion-2-5!?p=631948&amp;viewfull=1#post631948">2</a></li>
+<li> There are plans to make Android applications run in the background more viable for MMF3. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/79495-Will-android-apps-be-able-to-run-in-the-background?p=586588&amp;viewfull=1#post586588">1</a> <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/91202-APP-running-in-background?p=656492#post656492">2</a></li></ul></li></ul>
+<ul><li> <b>New file format</b>
+<ul><li> An importer/converter for <a href="MFA" title="MFA">MFA</a> files will be considered. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/88943-Fusion-3-support-Fusion-2-5-MFA?p=643674&amp;viewfull=1#post643674">1</a> <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/88943-Fusion-3-support-Fusion-2-5-MFA?p=644040&amp;viewfull=1#post644040">2</a> <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/88943-Fusion-3-support-Fusion-2-5-MFA?p=643534&amp;viewfull=1#post643534">3</a>
+<ul><li> It's possible it may only import assets, not full events. <sup>[Missing source]</sup></li>
+<li> The best advise is to not wait for Fusion 3 to start a new project. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/88943-Fusion-3-support-Fusion-2-5-MFA?p=642647&amp;viewfull=1#post642647">1</a> <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/88943-Fusion-3-support-Fusion-2-5-MFA?p=642709&amp;viewfull=1#post642709">2</a> </li>
+<li> Yves stated the importer that will perform a large chunk of the conversion, but the product will not maintain full backwards compatibility. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/92330-Fusion-3-Current-Status?p=664322&amp;viewfull=1#post664322">1</a></li>
+<li> The new file format may <b>store data across multiple files</b> as opposed to a monolithic format (such as <a href="MFA" title="MFA">MFA</a>) <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/92330-Fusion-3-Current-Status?p=664429&amp;viewfull=1#post664429">1</a> [World Reveal Interview]</li></ul></li></ul></li>
+<li> <b>Support of existing products after launch</b>
+<ul><li> <strike>Updates for existing products <b>may</b> grind to a halt when Fusion 3 is out <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/77983-mmf2-mmf3?p=576775&amp;viewfull=1#post576775">1 (in French)</a></strike></li>
+<li> <strike>Updates for Fusion 2.5 will continue for some time, particularly for bug fixes. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/88943-Fusion-3-support-Fusion-2-5-MFA?p=643160&amp;viewfull=1#post643160">1</a></strike></li>
+<li> Fusion 2.5 will continue to receive fixes and updates after Fusion 3 is released due to the differences between the products. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/97895-Is-the-Fusion-3-upgrade-free?p=697595&amp;viewfull=1#post697595">1</a></li></ul></li></ul>
+<ul><li> <b>Miscellaneous</b>
+<ul><li> Text scripting is very unlikely. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/65304-Multimedia-Fusion-3?p=487450&amp;viewfull=1#post487450">1</a>
+<ul><li> The name "Clickteam Fusion" will be dropped in favor of a new name, just "Fusion". <sup>Added by <a rel="nofollow" class="external text" href="https://community.clickteam.com/members/23876-Triadian">Triadian</a></sup></li></ul></li></ul></li></ul>
+<h2><span class="mw-headline" id="Speculation_and_Rumours">Speculation and Rumours</span></h2>
+<p><b>Members from the community recalls announced facts about a feature.</b>
+</p>
+<ul><li> Runtimes in Fusion 3 will share a <b>global runtime</b> (as opposed to branding into their own external engines) <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/66628-Most-wanted-least-wanted-in-MMF3?p=631141&amp;viewfull=1#post631141">1</a> <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/66628-Most-wanted-least-wanted-in-MMF3?p=631165&amp;viewfull=1#post631165">2</a></li>
+<li> Fusion 3 will have <b>Git integration</b>. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/66628-Most-wanted-least-wanted-in-MMF3?p=655695&amp;viewfull=1#post655695">1</a></li>
+<li> There may be support for <b>some</b> of these: Cross platform shaders, cross platform zoom, sub-events, (real) global events, renaming qualifiers and unique instances. <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/90248-Your-comments-please-on-this-negative-rating-for-MMF-2-5?p=651486&amp;viewfull=1#post651486">1</a></li></ul>
+<h2><span class="mw-headline" id="Presentation">Presentation</span></h2>
+<p>James and Anders introduce and present technical details of the inner workings at <a href="/w/index.php?title=Click_Convention_2013&amp;action=edit&amp;redlink=1" class="new" title="Click Convention 2013 (page does not exist)">Click Convention 2013</a>.
+</p><p><iframe width="560" height="315" src="http://www.youtube.com/embed/PhAF6u-2nuY" frameborder="0" allowfullscreen></iframe>
+</p><p><b>Edit:</b> Sorry, we don't know why this video is now private.
+</p>
+<h2><span class="mw-headline" id="Interview">Interview</span></h2>
+<p>The following interviews were recorded and published to YouTube.
+</p>
+<ul><li> <iframe width="560" height="315" src="http://www.youtube.com/embed/mzJ9jLb9d8E" frameborder="0" allowfullscreen></iframe></li>
+<li> <iframe width="560" height="315" src="http://www.youtube.com/embed/zogvxK5pCUw" frameborder="0" allowfullscreen></iframe></li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<p><b>Not exactly important, but related to Fusion 3.</b>
+</p>
+<ul><li> There's over 4000 user feature requests. <a rel="nofollow" class="external text" href="https://community.clickteam.com/entries/217-Fun-dation">Blog</a></li>
+<li> There are over 245 responses to the <a rel="nofollow" class="external text" href="https://community.clickteam.com/threads/92330-Fusion-3-Current-Status">Fusion 3 Current Status</a> thread.</li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20180529155131
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.130 seconds
+Real time usage: 0.124 seconds
+Preprocessor visited node count: 84/1000000
+Preprocessor generated node count: 192/1000000
+Post‐expand include size: 700/2097152 bytes
+Template argument size: 311/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   11.270      1 - Template:InfoBox
+100.00%   11.270      1 - -total
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:67-0!*!0!!en!5!* and timestamp 20180529155130 and revision id 1981
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:ClickteamFan&amp;action=edit&amp;redlink=1" class="new" title="User:ClickteamFan (page does not exist)">ClickteamFan</a> (6.8%), <a href="/w/index.php?title=User:Triadian&amp;action=edit&amp;redlink=1" class="new" title="User:Triadian (page does not exist)">Triadian</a> (4.8%), <a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (16.1%), <a href="/w/index.php?title=User:Lh37&amp;action=edit&amp;redlink=1" class="new" title="User:Lh37 (page does not exist)">Lh37</a> (72.3%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Fusion_3&amp;oldid=1981">http://clickwiki.net/w/index.php?title=Fusion_3&amp;oldid=1981</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="./Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="./Category:Products" title="Category:Products">Products</a></li></ul></div></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Fusion+3"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":461});});</script>
+  </body>
+</html>

@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Help:Welcome - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Help","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":12,"wgPageName":"Help:Welcome","wgTitle":"Welcome","wgCurRevisionId":2004,"wgRevisionId":2004,"wgArticleId":71,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Help:Welcome","wgRelevantArticleId":71,"wgRequestId":"ded73b71721ab45c961c158f","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-12 ns-subject page-Help_Welcome rootpage-Help_Welcome skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img4.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="./Help:Welcome#mw-head">navigation</a>,
+          <a href="./Help:Welcome#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Help:Welcome</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><h2><span class="mw-headline" id="Welcome_aboard.21">Welcome aboard!</span></h2>
+<p>We are pleased you'd like to contribute to the Wiki. The sections on this page will advise you on some tips as well as provide our own help documentation if you are new to contributing to Wikis altogether.
+</p><p><br />
+</p>
+<center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Question.png" src="../w/images/a/a7/BoxSymbol_Question.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>Need help with something?</b>
+</td></tr>
+<tr>
+<td> Have a question not covered on this page? <a rel="nofollow" class="external text" href="https://discord.gg/JNABYMd">Click here</a>.
+</td></tr></table>
+</div></center>
+<p><br />
+</p><p><br />
+</p><p><big><b>Jump to...</b></big>
+</p>
+<ul><li> <a href="./Help:Welcome#Registering_for_an_account" title="Help:Welcome">Account Registration</a></li>
+<li> <a href="./Help:Welcome#MediaWiki_Syntax" title="Help:Welcome">MediaWiki Syntax</a></li>
+<li> <a href="./Help:Welcome#Using_Templates" title="Help:Welcome">Special Templates Reference</a></li>
+<li> <a href="./Help:Welcome#Special_Icons_Reference" title="Help:Welcome">Special Icons Reference</a></li>
+<li> <a href="./Help:Welcome#Summary_and_Page_Watching" title="Help:Welcome">Summary and Page Watching</a></li>
+<li> <a href="./Help:Welcome#Looking_after_the_Wiki" title="Help:Welcome">Taking care of the Wiki</a></li>
+<li> <a href="./Help:Welcome#And_finally..." title="Help:Welcome">Final Points</a></li></ul>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Registering_for_an_account">Registering for an account</span></h3>
+<p>You can log in at any time by clicking the <a href="./Special:UserLogin" title="Special:UserLogin">Login</a> link at the bottom of any page. However, our user system is <b>not</b> integrated with the Community Forums and hence, you will need to <a href="./Special:CreateAccount" title="Special:CreateAccount">register for an account</a> for the first time. We recommend using your forums' account name for consistency and familiarity.
+</p><p>While the MediaWiki software will <b>never</b> store your password in plain text, it is recommended for security reasons to use a different password for your Wiki account as you should with different services.
+</p><p>Once you have a Wiki account, you're ready to start contributing!
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Editing_pages">Editing pages</span></h3>
+<p>For editing a specific section, click on the <b>[Edit]</b> link or the button at the top of the page for full page edits. If you are new to Wiki's in general, you'll soon become familiar with the syntax system, particularly if you're use to a WYSIWYG interface <i>(What You See Is What You Get)</i>. The Wiki also implements its own designs and features, as explained on this page.
+</p><p><br />
+<big><b>Detail preferred.</b></big>
+</p><p>When creating a new page, please enter as much detail as you can straight away. This way, we can avoid infuriating a visitor if they were expecting to read details about that specific topic. No placeholder pages please, as they make it harder to spot what needs writing, is less efficient for you, and bloats the database and RSS feeds unnecessarily.
+</p><p><br />
+<big><b>Take another moment to proof read.</b></big>
+</p><p>Nobody's perfect, but please do take another moment to proof read sentences and check for obvious spell or grammars errors to ensure your contributions are of high quality. As the previous paragraph briefly mentioned, editing multiple times at once only bloats the database and clutters RSS feeds with the tiniest of mistakes.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="MediaWiki_Syntax">MediaWiki Syntax</span></h3>
+<p>The syntax is like a standard unformatted text document, except includes certain characters set out in a way that changes the look of the page. There is a lot of official documentation a search away on the web if you would like to study the syntax into detail. However, this page will list the basics that you'll most often use.
+</p>
+<table class="wikitable" style="width:100%">
+
+<tr>
+<th style="width:10%"> Type
+</th>
+<th style="width:25%"> Code
+</th>
+<th style="width:20%"> Preview
+</th>
+<th> Description
+</th></tr>
+<tr>
+<td> <b>Text</b>
+</td>
+<td>
+<pre> This is a sample sentence
+</pre>
+</td>
+<td> This is a sample sentence
+</td>
+<td> Quite simply displays text as-is on the page.
+</td></tr>
+<tr>
+<td rowspan="2"> <b>New line</b>
+</td>
+<td>
+<pre> Text 1
+ Text 2
+</pre>
+</td>
+<td> Text 1 Text 2
+</td>
+<td rowspan="2"> New lines require a space between two lines. Without this, the text will stay on the same line.
+</td></tr>
+<tr>
+<td>
+<pre> Line 1
+ 
+ Line 3
+</pre>
+</td>
+<td> Line 1
+<p><br />
+Line 3
+</p>
+</td></tr>
+<tr>
+<td> <b>Headers</b>
+</td>
+<td>
+<pre> == Heading 2 ==<br />
+ === Heading 3 ===<br />
+ ==== Heading 4 ====<br />
+ ===== Heading 5 =====
+</pre>
+</td>
+<td>
+<p><b><big><big><big><big>Heading 2</big></big></big></big></b>
+</p><p><b><big><big><big>Heading 3</big></big></big></b>
+</p><p><b><big><big>Heading 4</big></big></b>
+</p><p><b><big>Heading 5</big></b>
+</p>
+</td>
+<td> Creates different headings to your page, as well as adding them to the Table of Contents.
+</td></tr>
+<tr>
+<td> <b>Bold text</b>
+</td>
+<td>
+<pre> '''Probably important to note.''' 
+</pre>
+</td>
+<td> <b>Probably important to note</b>
+</td>
+<td> 3 hyphens around text will bold text.
+</td></tr>
+<tr>
+<td> <b>Italic text</b>
+</td>
+<td>
+<pre> ''I'm the sidekick text.'' 
+</pre>
+</td>
+<td> <i>I'm the sidekick text.</i>
+</td>
+<td> 2 hyphens around text will make it italic.
+</td></tr>
+<tr>
+<td> <b>Bulleted list</b>
+</td>
+<td>
+<pre> Items:<br />
+ * Item 1<br />
+ * Item 2<br />
+ * Item 3 
+</pre>
+</td>
+<td> Items:
+<ul><li> Item 1</li>
+<li> Item 2</li>
+<li> Item 3</li></ul>
+</td>
+<td> An asterisk will create a bullet list of items.
+<p><br />
+Note that double spaces are not necessary for this.
+</p>
+</td></tr>
+<tr>
+<td> <b>Numbered list</b>
+</td>
+<td>
+<pre> Items:<br />
+ # Item 1<br />
+ # Item 2<br />
+ # Item 3
+</pre>
+</td>
+<td> Items:
+<ol><li> Item 1</li>
+<li> Item 2</li>
+<li> Item 3</li></ol>
+</td>
+<td> A hash tag will create a numbered list of items.
+<p><br />
+Note that double spaces are not necessary for this.
+</p>
+</td></tr>
+<tr>
+<td> <b>Table of Contents</b>
+</td>
+<td>
+<pre> __TOC__ 
+</pre>
+</td>
+<td>
+</td>
+<td> Displays the table of contents of a page. This goes after an introduction paragraph.
+</td></tr>
+<tr>
+<td> <b>Link to another Wiki page</b>
+</td>
+<td>
+<pre> [[Multimedia Fusion 2]] 
+</pre>
+</td>
+<td> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2">Multimedia Fusion 2</a>
+</td>
+<td> Creates a link to another page with this name of the Wiki. It's important to check the spelling. Red links indicate the page doesn't exist yet, again please check the spelling in case of a typo.
+<p><br />
+You can also type an alternate name for the page if desired.
+</p>
+<pre> [[Multimedia Fusion 2 | MMF2]] 
+</pre>
+<p>Becomes <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2"> MMF2</a> while still linking to the same page.
+</p>
+</td></tr>
+<tr>
+<td> <b>Link to an external page</b>
+</td>
+<td>
+<pre> [http://www.clickteam.com Clickteam] 
+</pre>
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.clickteam.com">Clickteam</a>
+</td>
+<td> Creates an external page. You can also give the page a name after leaving a space.
+</td></tr>
+<tr>
+<td> <b>Embed an image</b>
+</td>
+<td>
+<pre> [[File:Icon MMF2.png]]<br />
+ [[File:Icon MMF2.png|100px|Caption goes here.|link=Multimedia Fusion 2]] 
+</pre>
+</td>
+<td> <a href="./File:Icon_MMF2.png" class="image"><img alt="Icon MMF2.png" src="../w/images/f/f0/Icon_MMF2.png" width="163" height="164" /></a><br />
+<p><a href="Multimedia_Fusion_2" title="Caption goes here."><img alt="Caption goes here." src="../w/images/f/f0/Icon_MMF2.png" width="100" height="101" /></a>
+</p>
+</td>
+<td> Embeds an image. The first one is very simple and shouldn't be considered. The second example improves the presentation as the user can specify the size (in pixels), a caption (when the mouse is over) and specify a link.
+<p><br />
+If a page should not have a link (by default links to the image's page itself) then type:
+</p>
+<pre> link=
+</pre>
+<p>If the image does not appear and does not exist, you can click on it from the preview or live page to upload it. If using existing images, be sure to check spelling or how it's phrased to avoid unnecessary duplicate images.
+</p>
+</td></tr>
+<tr>
+<td> <b>Superscript</b>
+</td>
+<td>
+<pre> 5&lt;sup&gt;th&lt;/sup&gt; of April 
+</pre>
+</td>
+<td> 5<sup>th</sup> of April
+</td>
+<td> Makes a string of text smaller towards the top line.
+</td></tr>
+<tr>
+<td> <b>Subscript</b>
+</td>
+<td>
+<pre> January 2015 &lt;sub&gt;(1 month ago)&lt;/sub&gt; 
+</pre>
+</td>
+<td> January 2015 <sub>(1 month ago)</sub>
+</td>
+<td> Makes a string of text smaller towards the bottom line.
+</td></tr>
+<tr>
+<td> <b>Simple Table</b>
+</td>
+<td>
+<pre> {| class="wikitable"<br />
+ ! Header 1<br />
+ ! Header 2<br />
+ ! Header 3<br />
+ |-<br />
+ | Cell 1<br />
+ | Cell 2<br />
+ | rowspan="2" | Cell 3<br />
+ |-<br />
+ | colspan="2" | Cell 4<br />
+ |<br />
+ |}
+</pre>
+</td>
+<td>
+<p><img alt="Help ExampleWikiTable.png" src="../w/images/1/16/Help_ExampleWikiTable.png" width="210" height="80" />
+</p>
+</td>
+<td> To start the table, type:
+<pre> {|
+</pre>
+<p>To give the table borders, also type: 
+</p>
+<pre> class="wikitable"
+</pre>
+<p>For header cells, start a new line with an exclamation mark, plus the contents:
+</p>
+<pre> ! Header 1
+</pre>
+<p>For new cells, start a new line with an exclamation mark, plus the contents:
+</p>
+<pre> | Something inside the cell.
+</pre>
+<p>To start working on a new row, type a pipe character followed by a hyphen:
+</p>
+<pre> |- 
+</pre>
+<p>You can also specify optional syntax, followed by a pipe character with the cell's actual contents.
+</p><p>To merge a number of rows: 
+</p>
+<pre> | rowspan="2" | Cell 3
+</pre>
+<p>To merge a number of columns:
+</p>
+<pre> | colspan="2" | Cell 3
+</pre>
+<p>Finally, to close the table:
+</p>
+<pre> |}
+</pre>
+</td></tr>
+<tr>
+<td> <b>Code Block</b>
+</td>
+<td>
+<pre> <b>_</b>C:\&gt; RUN\DOS\RUN
+</pre>
+</td>
+<td>
+<pre>C:\&gt; RUN\DOS\RUN
+</pre>
+</td>
+<td> Add two extra spaces at the start of the line for a code block. This is useful for demonstrating actual code or command lines.
+</td></tr></table>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Using_Templates">Using Templates</span></h4>
+<p>There are also elements that greatly enhances the presentation of the Wiki called templates. These automatically add additional syntax to the page you are editing and brings benefits such as a consistent look across the Wiki.
+</p><p>Templates can be used by calling the name, for example:
+</p>
+<pre> {{Yes}}
+</pre>
+<p><br />
+Some templates may also make use of parameters using the pipe ("|") character. They could be arranged in one of two ways:
+</p>
+<pre> {{Partial | Limited}} 
+</pre>
+<p><b>-- or --</b>
+</p>
+<pre> {{InfoBox<br />
+ | Author = Clickteam<br />
+ | Status = Released<br />
+ }}
+</pre>
+<p><br />
+<b>Here is a list of the templates you can use:</b>
+</p>
+<ul><li> <b>Summary Tables</b> <i>- Displayed on the right</i>
+<ul><li> <a href="./Template:InfoExtension" title="Template:InfoExtension"> {{InfoExtension}}</a> - Brief overview of an extension/object.</li>
+<li> <a href="./Template:InfoProduct" title="Template:InfoProduct"> {{InfoProduct}}</a> - Facts about a product.</li>
+<li> <a href="./Template:InfoExporter" title="Template:InfoExporter"> {{InfoExporter}}</a> - Facts about an exporter.</li>
+<li> <a href="./Template:InfoService" title="Template:InfoService"> {{InfoService}}</a> - Brief overview of a service.</li>
+<li> <a href="./Template:InfoService" title="Template:InfoService"> {{InfoEvent}}</a> - Brief overview of an event, occasion or gathering.</li></ul></li></ul>
+<ul><li> <b>Alerts</b>
+<ul><li> <a href="./Template:InfoBox" title="Template:InfoBox"> {{InfoBox}}</a> - Display important information about a particular page or section.</li></ul></li></ul>
+<ul><li> <b>Table Cells</b>
+<ul><li> <a href="./Template:Yes" title="Template:Yes"> {{Yes}}</a> - Turns a table cell <b>green</b>. Optional text can be specified. Default "Yes".</li>
+<li> <a href="./Template:Partial" title="Template:Partial"> {{Partial}}</a> - Turns a table cell <b>yellow</b>. Optional text can be specified. Default "Partial".</li>
+<li> <a href="./Template:No" title="Template:No"> {{No}}</a> - Turns a table cell <b>red</b>. Optional text can be specified. Default "No".</li>
+<li> <a href="./Template:Unknown" title="Template:Unknown"> {{Unknown}}</a> - Turns a table cell <b>grey</b>. Optional text can be specified. Default "?".</li></ul></li></ul>
+<ul><li> <b>Formatting</b>
+<ul><li> <a href="./Template:Quote" title="Template:Quote"> {{Quote}}</a> - To display a quote box when referring another source.</li></ul></li></ul>
+<p><b>Visual Looks</b>
+</p>
+<ul><li><ul><li> <a href="./Help:EventEditorExample" title="Help:EventEditorExample"> Event Editor</a> - To build an event editor view for demonstrating conditions and actions.</li>
+<li> <a href="./Help:EventListExample" title="Help:EventListExample"> Event List</a> - An alternate method to build a more detailed event list for conditions and actions.</li></ul></li></ul>
+<h4><span class="mw-headline" id="Special_Icons_Reference">Special Icons Reference</span></h4>
+<p>These are primarily used for tables and summary boxes. Instead of writing "Windows", considering typing {{Windows}} which will display the icon <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> instead.
+</p>
+<table class="wikitable">
+<tr>
+<th colspan="2"> <b>Products</b>
+</th></tr>
+<tr>
+<td> <a href="/wiki/Klik_%26_Play" title="Klik &amp; Play"><img alt="Klik &amp; Play" src="../w/images/5/53/Icon_KlikandPlay.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{K&amp;P}}</b>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Click_%26_Create" title="Click &amp; Create"><img alt="Click &amp; Create" src="../w/images/9/9b/Icon_ClickandCreate.png" width="48" height="29" /></a>
+</td>
+<td> <b>{{C&amp;C}}</b>
+</td></tr>
+<tr>
+<td> <a href="The_Games_Factory" title="The Games Factory"><img alt="The Games Factory" src="../w/images/b/b8/Icon_TGF1.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{TGF1}}<br />{{TGF}}</b>
+</td></tr>
+<tr>
+<td> <a href="Multimedia_Fusion_1.5" title="Multimedia Fusion 1.5"><img alt="Multimedia Fusion 1.5" src="../w/images/f/f7/Icon_MMF1.5.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{MMF1.5}}<br />{{MMF1}}<br />{{MMF}}</b>
+</td></tr>
+<tr>
+<td> <a href="The_Games_Factory_2" title="The Games Factory 2"><img alt="The Games Factory 2" src="../w/images/0/00/Icon_TGF2.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{TGF2}}</b>
+</td></tr>
+<tr>
+<td> <a href="The_Games_Factory_2#Newgrounds_Edition" title="The Games Factory 2 (Newgrounds Edition)"><img alt="The Games Factory 2 (Newgrounds Edition)" src="../w/images/a/a5/Icon_TGF2Newgrounds.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{TGF2Newgrounds}}</b>
+</td></tr>
+<tr>
+<td> <a href="Multimedia_Fusion_2#Demo" title="Multimedia Fusion 2 and The Games Factory 2 Demo"><img alt="Multimedia Fusion 2 and The Games Factory 2 Demo" src="../w/images/f/f0/Icon_MMF2.png" width="17" height="17" /></a> <a href="Multimedia_Fusion_2#Demo" title="Multimedia Fusion 2 and The Games Factory 2 Demo"><img alt="Multimedia Fusion 2 and The Games Factory 2 Demo" src="../w/images/d/de/Icon_MMF2Dev.png" width="17" height="17" /></a> <a href="Multimedia_Fusion_2#Demo" title="Multimedia Fusion 2 and The Games Factory 2 Demo"><img alt="Multimedia Fusion 2 and The Games Factory 2 Demo" src="../w/images/0/00/Icon_TGF2.png" width="17" height="17" /></a>
+</td>
+<td> <b>{{MMF2Demo}}</b>
+</td></tr>
+<tr>
+<td> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{MMF2}}</b>
+</td></tr>
+<tr>
+<td> <a href="Multimedia_Fusion_2#Developer" title="Multimedia Fusion Developer 2"><img alt="Multimedia Fusion Developer 2" src="../w/images/d/de/Icon_MMF2Dev.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{MMF2Dev}}</b>
+</td></tr>
+<tr>
+<td> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Free Edition"><img alt="Clickteam Fusion 2.5 Free Edition" src="../w/images/6/6c/Icon_CF2.5Free.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{CF2.5Free}}</b>
+</td></tr>
+<tr>
+<td> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{CF2.5}}</b>
+</td></tr>
+<tr>
+<td> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{CF2.5Dev}}</b>
+</td></tr>
+<tr>
+<th colspan="2"> <b>Exporters</b>
+</th></tr>
+<tr>
+<td> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{EXE}}</b>
+</td></tr>
+<tr>
+<td> <a href="Mac_Runtime" title="Compatible with the Mac Runtime"><img alt="Compatible with the Mac Runtime" src="../w/images/8/85/Supported_Mac.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{MacApp}}</b>
+</td></tr>
+<tr>
+<td> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{Flash}}</b>
+</td></tr>
+<tr>
+<td> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{iOS}}</b>
+</td></tr>
+<tr>
+<td> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{Android}}</b>
+</td></tr>
+<tr>
+<td> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{HTML5}}</b>
+</td></tr>
+<tr>
+<td> <a href="XNA_Runtime" title="XNA Runtime (now deprecated)"><img alt="XNA Runtime (now deprecated)" src="../w/images/9/9f/Runtime_XNA.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{XNA}}</b>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Java_Runtime" title="Java Runtime (now deprecated)"><img alt="Java Runtime (now deprecated)" src="../w/images/a/a6/Icon_Java.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{Java}}</b>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Vitalize_Runtime" title="Vitalize! (now deprecated)"><img alt="Vitalize! (now deprecated)" src="../w/images/2/27/Icon_Vitalize.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{Vitalize}}</b>
+</td></tr>
+<tr>
+<td> <a href="UWP_Runtime" title="UWP Runtime"><img alt="UWP Runtime" src="../w/images/5/5a/Runtime_UWP.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{FusionUWP}}</b>
+</td></tr>
+<tr>
+<th colspan="2"> <b>Platforms</b>
+</th></tr>
+<tr>
+<td> <a href="OS_Compatibility#Windows" title="This product is compatible with Microsoft Windows"><img alt="This product is compatible with Microsoft Windows" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{Windows}}</b>
+</td></tr>
+<tr>
+<td> <a href="OS_Compatibility#Windows" title="This product is designed for older versions of Microsoft Windows."><img alt="This product is designed for older versions of Microsoft Windows." src="../w/images/5/58/Supported_Windows9x.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{Windows9x}}</b>
+</td></tr>
+<tr>
+<td> <a href="OS_Compatibility#OS_X" title="This product is compatible with Mac OS X"><img alt="This product is compatible with Mac OS X" src="../w/images/b/be/Supported_OSX.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{Mac}}</b>
+</td></tr>
+<tr>
+<td> <a href="OS_Compatibility#GNU.2FLinux" title="This product is compatible with GNU/Linux"><img alt="This product is compatible with GNU/Linux" src="../w/images/e/e2/Supported_Linux.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{Linux}}</b>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Steam" title="Available on Steam"><img alt="Available on Steam" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{Steam}}</b>
+</td></tr>
+<tr>
+<td> <a href="XNA_Runtime" title="This App is compatible with the Windows Phone OS"><img alt="This App is compatible with the Windows Phone OS" src="../w/images/e/e3/Supported_WinPhone.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{WinPhone}}</b>
+</td></tr>
+<tr>
+<td> <a href="XNA_Runtime" title="This App works on PCs running Microsoft Windows through Microsoft XNA."><img alt="This App works on PCs running Microsoft Windows through Microsoft XNA." src="../w/images/8/8b/Runtime_WinXNA.png" width="24" height="27" /></a>
+</td>
+<td> <b>{{WinXNA}}</b>
+</td></tr>
+<tr>
+<td> <a href="XNA_Runtime" title="This App is compatible with the Xbox 360 Console."><img alt="This App is compatible with the Xbox 360 Console." src="../w/images/4/49/Supported_Xbox360.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{Xbox360}}</b>
+</td></tr>
+<tr>
+<td> <a href="XNA_Runtime" title="This App is compatible with the Xbox One Console."><img alt="This App is compatible with the Xbox One Console." src="../w/images/4/49/Supported_Xbox360.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{XboxOne}}</b>
+</td></tr>
+<tr>
+<td> <img alt="This product is compatible with the Universal Windows Platform" src="../w/images/5/5a/Runtime_UWP.png" title="This product is compatible with the Universal Windows Platform" width="24" height="24" />
+</td>
+<td> <b>{{UWP}}</b>
+</td></tr>
+<tr>
+<th colspan="2"> <b>Chowdren</b>
+</th></tr>
+<tr>
+<td> <a href="Chowdren/Platforms#Windows" title="Powered by Chowdren. Runs on Windows."><img alt="Powered by Chowdren. Runs on Windows." src="../w/images/f/fb/Chowdren_Windows.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{WinChowdren}}</b>
+</td></tr>
+<tr>
+<td> <a href="Chowdren/Platforms#Mac" title="Powered by Chowdren. Runs on OS X."><img alt="Powered by Chowdren. Runs on OS X." src="../w/images/7/7b/Chowdren_Mac.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{MacChowdren}}</b>
+</td></tr>
+<tr>
+<td> <a href="Chowdren/Platforms#Linux" title="Powered by Chowdren. Runs on Linux."><img alt="Powered by Chowdren. Runs on Linux." src="../w/images/3/38/Chowdren_Linux.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{LinuxChowdren}}</b>
+</td></tr>
+<tr>
+<td> <a href="Chowdren/Platforms#PlayStation_4" title="Compatible with the PlayStation 4"><img alt="Compatible with the PlayStation 4" src="../w/images/5/5f/Supported_PS4.png" width="24" height="19" /></a>
+</td>
+<td> <b>{{PS4}}</b>
+</td></tr>
+<tr>
+<td> <a href="Chowdren/Platforms#PlayStation_Vita" title="Compatible with the PlayStation Vita"><img alt="Compatible with the PlayStation Vita" src="../w/images/2/2b/Supported_PSVita.png" width="48" height="8" /></a>
+</td>
+<td> <b>{{PSVita}}</b>
+</td></tr>
+<tr>
+<td> <a href="Chowdren/Platforms#Wii_U" title="Compatible with the Wii U"><img alt="Compatible with the Wii U" src="../w/images/5/58/Supported_WiiU.png" width="32" height="10" /></a>
+</td>
+<td> <b>{{WiiU}}</b>
+</td></tr>
+<tr>
+<td> <a href="Chowdren/Platforms#Nintendo_3DS" title="Compatible with the 3DS"><img alt="Compatible with the 3DS" src="../w/images/9/91/Supported_3DS.png" width="48" height="6" /></a>
+</td>
+<td> <b>{{3DS}}</b>
+</td></tr>
+<tr>
+<th colspan="2"> Distribution
+</th></tr>
+<tr>
+<td> <a href="./File:Icon_Steam.png" class="image" title="Purchase the Steam version"><img alt="Purchase the Steam version" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a>
+</td>
+<td> <a href="./Template:ShopSteam" title="Template:ShopSteam"><b>{{ShopSteam | http://url_goes_here }}</b></a>
+</td></tr>
+<tr>
+<td> <a href="http://www.clickteam.com/web-shop" title="Purchase the stand-alone version from the Clickteam Shop" rel="nofollow"><img alt="Purchase the stand-alone version from the Clickteam Shop" src="../w/images/2/25/Icon_Shop.png" width="24" height="24" /></a>
+</td>
+<td> <a href="./Template:ShopStandAlone" title="Template:ShopStandAlone"><b>{{ShopStandAlone}}</b></a>
+</td></tr>
+</table>
+<table class="wikitable">
+<tr>
+<th colspan="3"> Extension Attributes
+</th></tr>
+<tr>
+<th colspan="3"> <small>These are placed before the description text on the <a href="Extensions" title="Extensions">Extensions</a> page.</small>
+</th></tr>
+<tr>
+<td> <a href="Comparison" title="Only available for the Developer editions of Clickteam Fusion 2.5 and Multimedia Fusion 2."><img alt="Only available for the Developer editions of Clickteam Fusion 2.5 and Multimedia Fusion 2." src="../w/images/1/12/Icon_DevOnly.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{DevOnly}}</b>
+</td>
+<td> Only available in <b>Developer</b>.
+</td></tr>
+<tr>
+<td> <a href="HWA" title="Optimised for Hardware Acceleration."><img alt="Optimised for Hardware Acceleration." src="../w/images/8/83/Icon_HWAOptimised.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{HWAOptimised}}</b>
+</td>
+<td> <b>Optimised</b> for <a href="HWA" class="mw-redirect" title="HWA">Hardware Acceleration</a>.
+</td></tr>
+<tr>
+<td> <a href="HWA" title="Incompatible with Hardware Acceleration."><img alt="Incompatible with Hardware Acceleration." src="../w/images/c/c4/Icon_HWAUnsupported.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{HWANotSupported}}</b>
+</td>
+<td>  <b>Incompatible</b> when used in <a href="HWA" class="mw-redirect" title="HWA">Hardware Acceleration</a>.
+</td></tr>
+<tr>
+<td> <a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a>
+</td>
+<td> <b>{{ClickteamExtension}}</b>
+</td>
+<td> Created/maintained by <a href="Clickteam" title="Clickteam">Clickteam</a>.
+</td></tr>
+<tr>
+<td> <a href="Extensions" title="Old extension that should be used for legacy purposes."><img alt="Old extension that should be used for legacy purposes." src="../w/images/9/9d/Extension_Legacy.png" width="24" height="24" /></a>
+</td>
+<td> <b>{{LegacyExtension}}</b>
+</td>
+<td> An <i>old</i> extension recommended to use for legacy applications (for instance, created for <a href="MMF1" class="mw-redirect" title="MMF1">MMF1</a>).
+</td></tr></table>
+<table class="wikitable">
+<tr>
+<th colspan="4"> Extension Sources
+</th></tr>
+<tr>
+<th colspan="4"> <small>These are in their respective columns on the <a href="Extensions" title="Extensions">Extensions</a> page.</small>
+</th></tr>
+<tr>
+<th> Information
+</th>
+<td style="text-align:center;width:24px"> <div class="center"><div class="floatnone"><a href="./File:FileSystem_File.png" class="image" title="About this extension"><img alt="About this extension" src="../w/images/0/07/FileSystem_File.png" width="24" height="24" /></a></div></div>
+</td>
+<td> <b>{{ExtPage | url_goes_here }}</b>
+</td>
+<td> Extension's corresponding thread or web page.
+</td></tr>
+<tr>
+<th rowspan="3"> Download
+</th>
+<td style="text-align:center;width:24px"> <div class="center"><div class="floatnone"><a href="./File:FileSystem_Download.png" class="image" title="Download this extension"><img alt="Download this extension" src="../w/images/b/b2/FileSystem_Download.png" width="24" height="24" /></a></div></div>
+</td>
+<td> <b>{{ExtDownload | url_goes_here }}</b>
+</td>
+<td> ZIP links preferred, or a page <i>(ie. a web folder)</i> containing working links.
+</td></tr>
+<tr>
+<td style="text-align:center;width:24px"> <div class="center"><div class="floatnone"><a href="./File:Main_ClickStore.png" class="image" title="View extension on the ClickStore"><img alt="View extension on the ClickStore" src="../w/images/c/c7/Main_ClickStore.png" width="24" height="27" /></a></div></div>
+</td>
+<td> <b>{{ExtPurchase | url_goes_here }}</b>
+</td>
+<td> Extension can be obtained or purchased from the <a href="ClickStore" title="ClickStore">ClickStore</a>.
+</td></tr>
+<tr>
+<td style="text-align:center;width:24px"> <div class="center"><div class="floatnone"><a href="Extension_Manager" title="Downloadable via the Extension Manager"><img alt="Downloadable via the Extension Manager" src="../w/images/5/53/ExtManagerIcon.png" width="24" height="28" /></a></div></div>
+</td>
+<td> <b>{{ExtManager | url_goes_here }}</b>
+</td>
+<td> Extension can be downloaded via <a href="Fusion_2.5" class="mw-redirect" title="Fusion 2.5">Fusion 2.5</a>'s <a href="Extension_Manager" title="Extension Manager">Extension Manager</a>.
+</td></tr></table>
+<h4><span class="mw-headline" id="Summary_and_Page_Watching">Summary and Page Watching</span></h4>
+<p>To help identify your changes, at the end of every edit (even the tiniest ones), type what you did. For instance, if it was for fixing spelling errors, you could put "Typo", or if it's a new page you started but you'll work on it later, type something like "Started new page, work in progress".
+</p><p>You also have a personal watch list should you wish to track changes made to a page (particularly useful if you are the developer of a third party service and would like to keep it accurate) Your watch list can be accessed from the user menu (on the top-right)
+</p><p><br />
+</p>
+<h4><span class="mw-headline" id="Talk_page_-_Suggestions_and_discussions">Talk page - Suggestions and discussions</span></h4>
+<p>Should you wish to raise questions or post a suggestion for consideration, you can do so on page's talk page. This can be reached by clicking "Page" in the top-left and selecting "Discussion".
+</p><p>The behaviour is the same as editing any other page. Please be considerable to other user's talk unless deletion is necessary (such as being out of date).
+</p><p><b>To track conversations, it is important to sign off with:</b>
+</p>
+<pre> --~~~~
+</pre>
+<p>This is replaced with your signature upon saving, which by default is your username and timestamp.
+</p><p><br />
+</p>
+<h4><span class="mw-headline" id="Uploading_images">Uploading images</span></h4>
+<p>You can click the link of any image place holder that does not yet its image. Alternatively, if you wish to upload manually or beforehand, visit <a href="./Special:Upload" title="Special:Upload">Special:Upload</a>.
+</p><p>Consider the format of the image. <b>PNG</b> is best suited for small graphics and transparency, whilst <b>JPEG</b> is usually ideal for larger images, like screenshots.
+</p>
+<h3><span class="mw-headline" id="Express_Tip">Express Tip</span></h3>
+<p>When you create new pages, there is no need to write them from scratch. In other words, for most pages, <b>copy and pasting</b> will save you typing unnecessary keystrokes.
+</p><p><b>Product pages:</b> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2">Multimedia Fusion 2</a>
+</p><p><b>Exporter Pages:</b> <a href="Windows_Runtime" title="Windows Runtime">Windows Runtime</a>
+</p><p><b>Extension Pages:</b> <a href="String" title="String">String</a>
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Looking_after_the_Wiki">Looking after the Wiki</span></h3>
+<p>Wiki's can be complex, but they don't have to be.
+</p>
+<h4><span class="mw-headline" id="Be_frugal_when_saving_edits">Be frugal when saving edits</span></h4>
+<p>Each time you save, extra information is added alongside to the Wiki's database for its features (like <a href="/wiki/Special:RecentChanges" title="Special:RecentChanges">Recent Changes</a> and the RSS Feed). While there is capacity for the database to grow, there are long term disadvantages like any database if it becomes bloated. Maintenance will be routinely carried out to compact this.
+</p><p>To prevent unnecessary overhead, please avoid saving your changes one by one, but instead save them <b>all at once</b> if you intend to edit the same page again a little while later. Clicking <b>"Edit"</b> at the top is preferred than individual <b>[Edit]</b> boxes should you wish to edit multiple sections of the same page.
+</p><p><br />
+</p>
+<h4><span class="mw-headline" id="Avoid_unnecessary_redirects">Avoid unnecessary redirects</span></h4>
+<p>Arguably to avoid too many redirects, you could write your links to use the full title, but display something different on the link.
+</p><p><b>For example:</b>
+</p>
+<pre> [[Multimedia Fusion 1.5#Version_1.0|The original Multimedia Fusion]]<br />
+</pre>
+<p>Becomes <a href="Multimedia_Fusion_1.5#Version_1.0" title="Multimedia Fusion 1.5">The original Multimedia Fusion</a>.
+</p><p>Most of the redirects in place are for common abbreviations (eg. <a href="MMF" class="mw-redirect" title="MMF">MMF</a>, <a href="K&amp;P" class="mw-redirect" title="K&amp;P">K&amp;P</a>, <a href="Fused!" class="mw-redirect" title="Fused!">Fused!</a>, <a href="IC" class="mw-redirect" title="IC">IC</a>, etc) or for similar titles (eg. <a href="Fused" title="Fused">Fused</a>, <a href="Fused!" class="mw-redirect" title="Fused!">Fused!</a> for <a href="Fused_E-Magazine" class="mw-redirect" title="Fused E-Magazine">Fused E-Magazine</a>) or when pages have been re-organised, and we don't want to break those links.
+</p><p><br />
+</p>
+<h4><span class="mw-headline" id="JPG_vs_PNG">JPG vs PNG</span></h4>
+<p>To help reduce bandwidth, choose whether JPEG or a PNG file is smaller, and upload that one. Do take care when naming the file name's extension. Generally, PNG's are an excellent choice for small icons and transparency, and JPEG for screenshots and larger images.
+</p><p><br />
+</p>
+<h4><span class="mw-headline" id="Caching">Caching</span></h4>
+<p>You may notice that uploading a newer image succeeds <i>(which it does)</i> but thumbnails do not reflect this. Don't worry, this is part of the caching performed by the MediaWiki software. To force a refresh of any page, add the following to the end of the URL:
+</p>
+<pre> ?action=purge 
+</pre>
+<h3><span class="mw-headline" id="And_finally...">And finally...</span></h3>
+<p>Thank you for taking the time to help us build the Wiki.. Together, let's build a fantastic place to discover knowledge around Fusion, the community and of course, Clickteam and their products.
+</p>
+<ul><li> <a href="./Help:Todos" title="Help:Todos">Help:Todos</a> contains a list of to-do's for planned pages.</li>
+<li> <a href="./ClickWiki:About" title="ClickWiki:About">About ClickWiki</a> outlines our overall goal.</li></ul>
+<p><br />
+<b>You can also show your support on social media:</b>
+</p>
+<ul><li> <a href="https://facebook.com/ClickWiki" title="Like ClickWiki on Facebook" rel="nofollow"><img alt="Like ClickWiki on Facebook" src="../w/images/5/55/Facebook.png" width="16" height="16" /></a> <a rel="nofollow" class="external text" href="https://facebook.com/ClickWiki">Facebook Page</a></li>
+<li> <a href="https://twitter.com/ClickWiki" title="Follow ClickWiki on Twitter" rel="nofollow"><img alt="Follow ClickWiki on Twitter" src="../w/images/f/f7/Twitter.png" width="16" height="16" /></a> <a rel="nofollow" class="external text" href="https://twitter.com/ClickWiki">Twitter Page</a></li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20180529155520
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 1.570 seconds
+Real time usage: 1.575 seconds
+Preprocessor visited node count: 1375/1000000
+Preprocessor generated node count: 3118/1000000
+Post‐expand include size: 5486/2097152 bytes
+Template argument size: 115/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  522.231      1 - -total
+  2.17%   11.308      1 - Template:InfoBox
+  1.60%    8.381      1 - Template:ExtPage
+  1.59%    8.321      1 - Template:IOS
+  1.59%    8.317      1 - Template:ShopSteam
+  1.59%    8.305      1 - Template:C&amp;C
+  1.54%    8.067      1 - Template:HTML5
+  1.54%    8.037      1 - Template:ExtDownload
+  1.53%    8.013      1 - Template:LegacyExtension
+  1.53%    8.012      1 - Template:ClickteamExtension
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:71-0!*!0!!*!5!* and timestamp 20180529155519 and revision id 2004
+ -->
+</div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Help:Welcome&amp;oldid=2004">http://clickwiki.net/w/index.php?title=Help:Welcome&amp;oldid=2004</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Help%3AWelcome"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1886});});</script>
+  </body>
+</html>

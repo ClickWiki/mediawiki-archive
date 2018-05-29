@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Storyboard Controls - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Storyboard_Controls","wgTitle":"Storyboard Controls","wgCurRevisionId":1927,"wgRevisionId":1927,"wgArticleId":911,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Storyboard_Controls","wgRelevantArticleId":911,"wgRequestId":"9f80a77410b067e4de2da62e","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Storyboard_Object","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false},"wgInternalRedirectTargetUrl":"/wiki/Storyboard_Controls"});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="http://clickwiki.net/wiki/Storyboard_Controls"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Storyboard_Controls rootpage-Storyboard_Controls skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img5.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Storyboard_Object#mw-head">navigation</a>,
+          <a href="Storyboard_Object#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Storyboard Controls</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ><span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=Storyboard_Object&amp;redirect=no" class="mw-redirect" title="Storyboard Object">Storyboard Object</a>)</span></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="wikitable" style="float:right;">
+
+<tr style="text-align:center;">
+<td colspan="2"><a href="./File:Storyboard_Controls.png" class="image"><img alt="Storyboard Controls.png" src="../w/images/f/fb/Storyboard_Controls.png" width="48" height="48" /></a>
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td><a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a>
+</td></tr>
+<tr>
+<td><b>Status</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Released
+</td></tr>
+<tr>
+<td><b>Release Date</b>
+</td>
+<td>Unknown
+</td></tr>
+<tr style="display: none;">
+<td> <b>Last Updated</b>
+</td>
+<td> {{{LastUpdated}}}
+</td></tr>
+<tr>
+<td><b>Available for</b>
+</td>
+<td>Not yet documented
+</td></tr>
+<tr>
+<td><b>Supported Runtimes</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;"><a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="Mac_Runtime" title="Compatible with the Mac Runtime"><img alt="Compatible with the Mac Runtime" src="../w/images/8/85/Supported_Mac.png" width="24" height="24" /></a> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a> <a href="XNA_Runtime" title="XNA Runtime (now deprecated)"><img alt="XNA Runtime (now deprecated)" src="../w/images/9/9f/Runtime_XNA.png" width="24" height="24" /></a> <a href="UWP_Runtime" title="UWP Runtime"><img alt="UWP Runtime" src="../w/images/5/5a/Runtime_UWP.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>License</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Free
+</td></tr>
+<tr style="display: none;">
+<td> <b>Attributes</b>
+</td>
+<td> {{{Attributes}}}
+</td></tr>
+<tr>
+<th colspan="2"> Download
+</th></tr>
+<tr>
+<td><b>Includes Examples</b>
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">No
+</td></tr>
+<tr>
+<td><b>Includes Help Files</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Links</b>
+</td>
+<td style="text-align:center;width:24px"> <div class="center"><div class="floatnone"><a href="Extension_Manager" title="Downloadable via the Extension Manager"><img alt="Downloadable via the Extension Manager" src="../w/images/5/53/ExtManagerIcon.png" width="24" height="28" /></a></div></div> <i>Included by default.</i>
+</td></tr>
+
+<tr style="display: none;">
+<td> <b>Alternates</b>
+</td>
+<td> {{{Alternates}}}
+</td></tr>
+</table>
+<p>The Storyboard Controls object starts and ends your Clickteam Fusion 2.5 applications, allows your applications to jump between frames, and controls scrolling. You can use the storyboard controls to change the flow of your application by jumping to the next or previous frame or restarting a frame from the beginning. The storyboard controls also let you change how the frame scrolls across the screen. For example, if you create a scrolling game, you can set the scrolling options to scroll with the Player object so that the player is always visible on the screen.
+</p><p>The Storyboard Controls object is a system object and is only available in the Event editor.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Storyboard_Object#Conditions"><span class="tocnumber">1</span> <span class="toctext">Conditions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="Storyboard_Object#Start_of_frame"><span class="tocnumber">1.1</span> <span class="toctext">Start of frame</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="Storyboard_Object#End_of_frame"><span class="tocnumber">1.2</span> <span class="toctext">End of frame</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="Storyboard_Object#End_of_application"><span class="tocnumber">1.3</span> <span class="toctext">End of application</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="Storyboard_Object#End_of_Pause"><span class="tocnumber">1.4</span> <span class="toctext">End of Pause</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="Storyboard_Object#Frame_position_has_just_been_loaded"><span class="tocnumber">1.5</span> <span class="toctext">Frame position has just been loaded</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="Storyboard_Object#Frame_position_has_just_been_saved"><span class="tocnumber">1.6</span> <span class="toctext">Frame position has just been saved</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="Storyboard_Object#Is_V-Sync_Enabled"><span class="tocnumber">1.7</span> <span class="toctext">Is V-Sync Enabled</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="Storyboard_Object#Collision_Mask"><span class="tocnumber">1.8</span> <span class="toctext">Collision Mask</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="Storyboard_Object#Is_Obstacle"><span class="tocnumber">1.8.1</span> <span class="toctext">Is Obstacle</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="Storyboard_Object#Is_Ladder"><span class="tocnumber">1.8.2</span> <span class="toctext">Is Ladder</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="Storyboard_Object#Actions"><span class="tocnumber">2</span> <span class="toctext">Actions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="Storyboard_Object#Next_frame"><span class="tocnumber">2.1</span> <span class="toctext">Next frame</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="Storyboard_Object#Previous_frame"><span class="tocnumber">2.2</span> <span class="toctext">Previous frame</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="Storyboard_Object#Jump_to_frame"><span class="tocnumber">2.3</span> <span class="toctext">Jump to frame</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="Storyboard_Object#Restart_the_current_frame"><span class="tocnumber">2.4</span> <span class="toctext">Restart the current frame</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="Storyboard_Object#Restart_the_application"><span class="tocnumber">2.5</span> <span class="toctext">Restart the application</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="Storyboard_Object#End_the_application"><span class="tocnumber">2.6</span> <span class="toctext">End the application</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="Storyboard_Object#Frame_position"><span class="tocnumber">2.7</span> <span class="toctext">Frame position</span></a>
+<ul>
+<li class="toclevel-3 tocsection-20"><a href="Storyboard_Object#Save_frame_position"><span class="tocnumber">2.7.1</span> <span class="toctext">Save frame position</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="Storyboard_Object#Load_application_position"><span class="tocnumber">2.7.2</span> <span class="toctext">Load application position</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="Storyboard_Object#Load_frame_position"><span class="tocnumber">2.7.3</span> <span class="toctext">Load frame position</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-23"><a href="Storyboard_Object#Demo"><span class="tocnumber">2.8</span> <span class="toctext">Demo</span></a>
+<ul>
+<li class="toclevel-3 tocsection-24"><a href="Storyboard_Object#Play_demo_file"><span class="tocnumber">2.8.1</span> <span class="toctext">Play demo file</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-25"><a href="Storyboard_Object#Pause_application"><span class="tocnumber">2.9</span> <span class="toctext">Pause application</span></a>
+<ul>
+<li class="toclevel-3 tocsection-26"><a href="Storyboard_Object#Pause_and_resume_when_a_key_is_pressed"><span class="tocnumber">2.9.1</span> <span class="toctext">Pause and resume when a key is pressed</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="Storyboard_Object#Pause_and_resume_when_any_key_is_pressed"><span class="tocnumber">2.9.2</span> <span class="toctext">Pause and resume when any key is pressed</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-28"><a href="Storyboard_Object#Scrollings"><span class="tocnumber">2.10</span> <span class="toctext">Scrollings</span></a>
+<ul>
+<li class="toclevel-3 tocsection-29"><a href="Storyboard_Object#Center_window_position_in_frame"><span class="tocnumber">2.10.1</span> <span class="toctext">Center window position in frame</span></a></li>
+<li class="toclevel-3 tocsection-30"><a href="Storyboard_Object#Center_horizontal_position_of_window_in_frame"><span class="tocnumber">2.10.2</span> <span class="toctext">Center horizontal position of window in frame</span></a></li>
+<li class="toclevel-3 tocsection-31"><a href="Storyboard_Object#Center_vertical_position_of_window_in_frame"><span class="tocnumber">2.10.3</span> <span class="toctext">Center vertical position of window in frame</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-32"><a href="Storyboard_Object#Frame"><span class="tocnumber">2.11</span> <span class="toctext">Frame</span></a>
+<ul>
+<li class="toclevel-3 tocsection-33"><a href="Storyboard_Object#Set_width"><span class="tocnumber">2.11.1</span> <span class="toctext">Set width</span></a></li>
+<li class="toclevel-3 tocsection-34"><a href="Storyboard_Object#Set_height"><span class="tocnumber">2.11.2</span> <span class="toctext">Set height</span></a></li>
+<li class="toclevel-3 tocsection-35"><a href="Storyboard_Object#Set_virtual_width"><span class="tocnumber">2.11.3</span> <span class="toctext">Set virtual width</span></a></li>
+<li class="toclevel-3 tocsection-36"><a href="Storyboard_Object#Set_virtual_height"><span class="tocnumber">2.11.4</span> <span class="toctext">Set virtual height</span></a></li>
+<li class="toclevel-3 tocsection-37"><a href="Storyboard_Object#Set_Background_Color"><span class="tocnumber">2.11.5</span> <span class="toctext">Set Background Color</span></a></li>
+<li class="toclevel-3 tocsection-38"><a href="Storyboard_Object#Effect"><span class="tocnumber">2.11.6</span> <span class="toctext">Effect</span></a>
+<ul>
+<li class="toclevel-4 tocsection-39"><a href="Storyboard_Object#Set_effect"><span class="tocnumber">2.11.6.1</span> <span class="toctext">Set effect</span></a></li>
+<li class="toclevel-4 tocsection-40"><a href="Storyboard_Object#Set_effect_parameter"><span class="tocnumber">2.11.6.2</span> <span class="toctext">Set effect parameter</span></a></li>
+<li class="toclevel-4 tocsection-41"><a href="Storyboard_Object#Set_effect_image_parameter"><span class="tocnumber">2.11.6.3</span> <span class="toctext">Set effect image parameter</span></a></li>
+<li class="toclevel-4 tocsection-42"><a href="Storyboard_Object#Set_alpha-blending_coefficient"><span class="tocnumber">2.11.6.4</span> <span class="toctext">Set alpha-blending coefficient</span></a></li>
+<li class="toclevel-4 tocsection-43"><a href="Storyboard_Object#Set_RGB_coefficient"><span class="tocnumber">2.11.6.5</span> <span class="toctext">Set RGB coefficient</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-44"><a href="Storyboard_Object#Backdrops"><span class="tocnumber">2.12</span> <span class="toctext">Backdrops</span></a>
+<ul>
+<li class="toclevel-3 tocsection-45"><a href="Storyboard_Object#Delete_Created_Backdrops_At"><span class="tocnumber">2.12.1</span> <span class="toctext">Delete Created Backdrops At</span></a></li>
+<li class="toclevel-3 tocsection-46"><a href="Storyboard_Object#Delete_All_Created_Backdrops"><span class="tocnumber">2.12.2</span> <span class="toctext">Delete All Created Backdrops</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-47"><a href="Storyboard_Object#Screen"><span class="tocnumber">2.13</span> <span class="toctext">Screen</span></a>
+<ul>
+<li class="toclevel-3 tocsection-48"><a href="Storyboard_Object#Clear_Screen"><span class="tocnumber">2.13.1</span> <span class="toctext">Clear Screen</span></a></li>
+<li class="toclevel-3 tocsection-49"><a href="Storyboard_Object#Clear_Zone"><span class="tocnumber">2.13.2</span> <span class="toctext">Clear Zone</span></a></li>
+<li class="toclevel-3 tocsection-50"><a href="Storyboard_Object#Full_Screen_Mode"><span class="tocnumber">2.13.3</span> <span class="toctext">Full Screen Mode</span></a></li>
+<li class="toclevel-3 tocsection-51"><a href="Storyboard_Object#Windowed_mode"><span class="tocnumber">2.13.4</span> <span class="toctext">Windowed mode</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-52"><a href="Storyboard_Object#V-Sync"><span class="tocnumber">2.14</span> <span class="toctext">V-Sync</span></a>
+<ul>
+<li class="toclevel-3 tocsection-53"><a href="Storyboard_Object#On"><span class="tocnumber">2.14.1</span> <span class="toctext">On</span></a></li>
+<li class="toclevel-3 tocsection-54"><a href="Storyboard_Object#Off"><span class="tocnumber">2.14.2</span> <span class="toctext">Off</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-55"><a href="Storyboard_Object#Set_Frame_Rate"><span class="tocnumber">2.15</span> <span class="toctext">Set Frame Rate</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-56"><a href="Storyboard_Object#Expressions"><span class="tocnumber">3</span> <span class="toctext">Expressions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-57"><a href="Storyboard_Object#Current_number_of_frame"><span class="tocnumber">3.1</span> <span class="toctext">Current number of frame</span></a></li>
+<li class="toclevel-2 tocsection-58"><a href="Storyboard_Object#Current_number_of_players_playing"><span class="tocnumber">3.2</span> <span class="toctext">Current number of players playing</span></a></li>
+<li class="toclevel-2 tocsection-59"><a href="Storyboard_Object#Frame_2"><span class="tocnumber">3.3</span> <span class="toctext">Frame</span></a>
+<ul>
+<li class="toclevel-3 tocsection-60"><a href="Storyboard_Object#Width"><span class="tocnumber">3.3.1</span> <span class="toctext">Width</span></a></li>
+<li class="toclevel-3 tocsection-61"><a href="Storyboard_Object#Height"><span class="tocnumber">3.3.2</span> <span class="toctext">Height</span></a></li>
+<li class="toclevel-3 tocsection-62"><a href="Storyboard_Object#Virtual_Width"><span class="tocnumber">3.3.3</span> <span class="toctext">Virtual Width</span></a></li>
+<li class="toclevel-3 tocsection-63"><a href="Storyboard_Object#Virtual_Height"><span class="tocnumber">3.3.4</span> <span class="toctext">Virtual Height</span></a></li>
+<li class="toclevel-3 tocsection-64"><a href="Storyboard_Object#X_coordinate_of_left_visible_edge"><span class="tocnumber">3.3.5</span> <span class="toctext">X coordinate of left visible edge</span></a></li>
+<li class="toclevel-3 tocsection-65"><a href="Storyboard_Object#X_coordinate_of_right_visible_edge"><span class="tocnumber">3.3.6</span> <span class="toctext">X coordinate of right visible edge</span></a></li>
+<li class="toclevel-3 tocsection-66"><a href="Storyboard_Object#Y_coordinate_of_top_visible_edge"><span class="tocnumber">3.3.7</span> <span class="toctext">Y coordinate of top visible edge</span></a></li>
+<li class="toclevel-3 tocsection-67"><a href="Storyboard_Object#Y_coordinate_of_bottom_visible_edge"><span class="tocnumber">3.3.8</span> <span class="toctext">Y coordinate of bottom visible edge</span></a></li>
+<li class="toclevel-3 tocsection-68"><a href="Storyboard_Object#Background_color"><span class="tocnumber">3.3.9</span> <span class="toctext">Background color</span></a></li>
+<li class="toclevel-3 tocsection-69"><a href="Storyboard_Object#Value_of_collision_mask"><span class="tocnumber">3.3.10</span> <span class="toctext">Value of collision mask</span></a></li>
+<li class="toclevel-3 tocsection-70"><a href="Storyboard_Object#Effect_2"><span class="tocnumber">3.3.11</span> <span class="toctext">Effect</span></a>
+<ul>
+<li class="toclevel-4 tocsection-71"><a href="Storyboard_Object#Alpha-blending_coefficient"><span class="tocnumber">3.3.11.1</span> <span class="toctext">Alpha-blending coefficient</span></a></li>
+<li class="toclevel-4 tocsection-72"><a href="Storyboard_Object#RGB_coefficient"><span class="tocnumber">3.3.11.2</span> <span class="toctext">RGB coefficient</span></a></li>
+<li class="toclevel-4 tocsection-73"><a href="Storyboard_Object#Effect_parameter"><span class="tocnumber">3.3.11.3</span> <span class="toctext">Effect parameter</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-74"><a href="Storyboard_Object#Screen_2"><span class="tocnumber">3.4</span> <span class="toctext">Screen</span></a>
+<ul>
+<li class="toclevel-3 tocsection-75"><a href="Storyboard_Object#Display_mode"><span class="tocnumber">3.4.1</span> <span class="toctext">Display mode</span></a></li>
+<li class="toclevel-3 tocsection-76"><a href="Storyboard_Object#Pixel_shader_version"><span class="tocnumber">3.4.2</span> <span class="toctext">Pixel shader version</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-77"><a href="Storyboard_Object#Number_Of_Frames_per_Second"><span class="tocnumber">3.5</span> <span class="toctext">Number Of Frames per Second</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Conditions">Conditions</span></h2>
+<h4><span class="mw-headline" id="Start_of_frame">Start of frame</span></h4>
+<p>The Start Of Frame condition tests to see if the application is at the start of a frame. This allows you to set up your application to perform specific actions at the beginning of a frame. Any action inserted in the Start Of Frame event line is only performed once, and is performed ahead of all other actions in the frame.
+</p>
+<h4><span class="mw-headline" id="End_of_frame">End of frame</span></h4>
+<p>The End Of Frame condition tests to see if the end of a frame has been reached. This allows you set up your applications to perform specific actions upon moving to the next frame.
+</p>
+<h4><span class="mw-headline" id="End_of_application">End of application</span></h4>
+<p>The End Of application condition is true only for a short period of time, when the application quits. It allows you to perform specific tasks (like closing files) and do cleanup before leaving.
+</p>
+<h4><span class="mw-headline" id="End_of_Pause">End of Pause</span></h4>
+<p>This condition is TRUE when the application quits the PAUSE mode. This is a one-shot condition.
+</p>
+<h4><span class="mw-headline" id="Frame_position_has_just_been_loaded">Frame position has just been loaded</span></h4>
+<p>This condition is true the loop just after the position of the frame has been loaded with the load frame position or load application position actions.
+</p>
+<h4><span class="mw-headline" id="Frame_position_has_just_been_saved">Frame position has just been saved</span></h4>
+<p>This condition is true the loop just after the position of the frame has been saved with the save frame position action.
+</p>
+<h4><span class="mw-headline" id="Is_V-Sync_Enabled">Is V-Sync Enabled</span></h4>
+<p>The Is V-Sync Enabled condition is true if the display is synchronized with the screen refresh. You can enable or disable this option either in the properties of the application, or with the V-Sync On/Off actions.
+</p>
+<h4><span class="mw-headline" id="Collision_Mask">Collision Mask</span></h4>
+<h5><span class="mw-headline" id="Is_Obstacle">Is Obstacle</span></h5>
+<p>Tests the collision mask for the presence of an obstacle at the given X and Y coordinates. This condition is true when the coordinates lay over an obstacle.
+</p>
+<h5><span class="mw-headline" id="Is_Ladder">Is Ladder</span></h5>
+<p>Tests the collision mask for the presence of a ladder at the given X and Y coordinates. This condition is true when the coordinates lay over a ladder.
+</p>
+<h2><span class="mw-headline" id="Actions">Actions</span></h2>
+<h4><span class="mw-headline" id="Next_frame">Next frame</span></h4>
+<p>The Next Frame action jumps to the next frame in the application. If you use this action on the last frame of the application, it automatically ends the application.
+</p>
+<h4><span class="mw-headline" id="Previous_frame">Previous frame</span></h4>
+<p>The Previous Frame action jumps to the previous frame in the application.
+</p>
+<h4><span class="mw-headline" id="Jump_to_frame">Jump to frame</span></h4>
+<p>The Jump To Frame action jumps to a specific frame in the application. You can also use the Expression Evaluator to jump to a frame number indicated by a function or formula.
+</p>
+<h4><span class="mw-headline" id="Restart_the_current_frame">Restart the current frame</span></h4>
+<p>The Restart The Current Frame action restarts the current frame. All values will be reset and any unsaved information within the application will be lost.
+</p>
+<h4><span class="mw-headline" id="Restart_the_application">Restart the application</span></h4>
+<p>The Restart The application action restarts the application. All values will be reset and any unsaved information within the application will be lost.
+</p>
+<h4><span class="mw-headline" id="End_the_application">End the application</span></h4>
+<p>The End The application action ends the application.
+</p>
+<h4><span class="mw-headline" id="Frame_position">Frame position</span></h4>
+<p>The Frame Position actions allow you to save and restore the position of a frame or an application.
+</p>
+<h5><span class="mw-headline" id="Save_frame_position">Save frame position</span></h5>
+<p>Asks for a file name. It saves the current frame position in the file.
+</p>
+<h5><span class="mw-headline" id="Load_application_position">Load application position</span></h5>
+<p>Asks for a filename. It restores the application as it was when it was changed. The current frame may be changed.
+</p>
+<h5><span class="mw-headline" id="Load_frame_position">Load frame position</span></h5>
+<p>Asks for a filename. It restores the current frame as it was when saved.
+</p>
+<h4><span class="mw-headline" id="Demo">Demo</span></h4>
+<p>The demo action allows you to play a demo previously recorded. All the keypresses, joystick movements, and mouse movements and clicks will be simulated. If you play your frame at exactly the same time you recorded it, it will play exactly the same. It is recommended that you use this action in a Start of frame event.
+</p>
+<h5><span class="mw-headline" id="Play_demo_file">Play demo file</span></h5>
+<p>Asks for a filename. Plays the given demo file. All keyboard and mouse input done by the user will have no effect until the end of the demo.
+</p>
+<h4><span class="mw-headline" id="Pause_application">Pause application</span></h4>
+<p>These actions allow you to pause an application from within the events.
+</p>
+<h5><span class="mw-headline" id="Pause_and_resume_when_a_key_is_pressed">Pause and resume when a key is pressed</span></h5>
+<p>Asks for a key. It pauses the application and resumes it when a specific key is pressed.
+</p>
+<h5><span class="mw-headline" id="Pause_and_resume_when_any_key_is_pressed">Pause and resume when any key is pressed</span></h5>
+<p>Pauses the application and resumes it when any key is pressed.
+</p>
+<h4><span class="mw-headline" id="Scrollings">Scrollings</span></h4>
+<p>The Scrollings actions let you scroll the frame in different ways. The Scrollings actions are:
+</p>
+<h5><span class="mw-headline" id="Center_window_position_in_frame">Center window position in frame</span></h5>
+<p>Centers the view of the frame about specific coordinates or about the coordinates of a specific object.
+</p>
+<h5><span class="mw-headline" id="Center_horizontal_position_of_window_in_frame">Center horizontal position of window in frame</span></h5>
+<p>Centers the horizontal position of the frame about a specific horizontal (X) coordinate or the X coordinate of another object.
+</p>
+<h5><span class="mw-headline" id="Center_vertical_position_of_window_in_frame">Center vertical position of window in frame</span></h5>
+<p>Centers the vertical position of the frame about a specific vertical (Y) coordinate or the Y coordinate of another object.
+</p>
+<h4><span class="mw-headline" id="Frame">Frame</span></h4>
+<h5><span class="mw-headline" id="Set_width">Set width</span></h5>
+<p>Allows you to modify the width of the frame. Note: if the virtual width is equal to the width of the frame, it's modified as well. 
+</p>
+<h5><span class="mw-headline" id="Set_height">Set height</span></h5>
+<p>Allows you to modify the height of the frame. Note: if the virtual height is equal to the height of the frame, it's modified as well.
+</p>
+<h5><span class="mw-headline" id="Set_virtual_width">Set virtual width</span></h5>
+<p>Allows you to modify the virtual width of the frame. Refer to the documentation of the Virtual Width property for more information.
+</p>
+<h5><span class="mw-headline" id="Set_virtual_height">Set virtual height</span></h5>
+<p>Allows you to modify the virtual height of the frame. Refer to the documentation of the Virtual Height property for more information.
+</p>
+<h5><span class="mw-headline" id="Set_Background_Color">Set Background Color</span></h5>
+<p>Allows you to change the background color of the frame.
+</p>
+<h5><span class="mw-headline" id="Effect">Effect</span></h5>
+<h6><span class="mw-headline" id="Set_effect">Set effect</span></h6>
+<p>No info available, please add some!
+</p>
+<h6><span class="mw-headline" id="Set_effect_parameter">Set effect parameter</span></h6>
+<p>No info available, please add some!
+</p>
+<h6><span class="mw-headline" id="Set_effect_image_parameter">Set effect image parameter</span></h6>
+<p>No info available, please add some!
+</p>
+<h6><span class="mw-headline" id="Set_alpha-blending_coefficient">Set alpha-blending coefficient</span></h6>
+<p>No info available, please add some!
+</p>
+<h6><span class="mw-headline" id="Set_RGB_coefficient">Set RGB coefficient</span></h6>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Backdrops">Backdrops</span></h4>
+<h5><span class="mw-headline" id="Delete_Created_Backdrops_At">Delete Created Backdrops At</span></h5>
+<p>Allows you to delete all the backdrop objects that are at given coordinates and have been created with the Add Backdrop action of the Active object or with the Create Backdrop action of the Active Picture object. Parameters = layer index (1-based), X and Y coordinates of the position to test, and fine (1) or box (0) detection mode. In box detection mode, a backdrop object is deleted if the X, Y coordinates are inside its bounding box. In fine detection mode, a backdrop object is deleted if there is a non-transparent pixel at the X, Y coordinates.
+</p>
+<h5><span class="mw-headline" id="Delete_All_Created_Backdrops">Delete All Created Backdrops</span></h5>
+<p>Allows you to delete all the backdrop objects that have been created with the Add Backdrop action of the Active object or with the Create Backdrop action of the Active Picture object. Parameter = layer index (1-based).
+</p>
+<h4><span class="mw-headline" id="Screen">Screen</span></h4>
+<h5><span class="mw-headline" id="Clear_Screen">Clear Screen</span></h5>
+<p>Clears the entire screen with a given color. Warning, a scrolling will restore the screen.
+</p>
+<h5><span class="mw-headline" id="Clear_Zone">Clear Zone</span></h5>
+<p>Clears a specific area of the screen with a given color. Warning, a scrolling will restore the screen.
+</p>
+<h5><span class="mw-headline" id="Full_Screen_Mode">Full Screen Mode</span></h5>
+<p>Switches the display to full-screen and displays the current window zoomed to the new screen resolution. This action works better when the window of your game has one of the standard sizes: 320x200, 640x480, 800x600, 1024x768, etc. Note: the Full-Screen Mode and Windowed Mode actions do not work if the Direct X display mode is selected in the application / Runtime properties.
+</p>
+<h5><span class="mw-headline" id="Windowed_mode">Windowed mode</span></h5>
+<p>Switches back to normal windowed mode if the application was in full screen.
+</p>
+<h4><span class="mw-headline" id="V-Sync">V-Sync</span></h4>
+<h5><span class="mw-headline" id="On">On</span></h5>
+<p>Enables the synchronization of the display with the screen refresh.
+</p>
+<h5><span class="mw-headline" id="Off">Off</span></h5>
+<p>Disables the synchronization of the display with the screen refresh.
+</p>
+<h4><span class="mw-headline" id="Set_Frame_Rate">Set Frame Rate</span></h4>
+<p>This action allows you to change the frame rate of the application. The frame rate is the number of application loops that are executed per second.
+</p>
+<h2><span class="mw-headline" id="Expressions">Expressions</span></h2>
+<h4><span class="mw-headline" id="Current_number_of_frame">Current number of frame</span></h4>
+<pre>frame
+</pre>
+<p>The Current Number Of Frame function retrieves the number of the current frame displayed in the application.
+</p>
+<h4><span class="mw-headline" id="Current_number_of_players_playing">Current number of players playing</span></h4>
+<pre>players
+</pre>
+<p>The Current Number Of Players Playing function retrieves the number of players in a game.
+</p>
+<h4><span class="mw-headline" id="Frame_2">Frame</span></h4>
+<h5><span class="mw-headline" id="Width">Width</span></h5>
+<pre>Frame Width
+</pre>
+<p>Retrieves the width of the frame.
+</p>
+<h5><span class="mw-headline" id="Height">Height</span></h5>
+<pre>Frame Height
+</pre>
+<p>Retrieves the height of the frame.
+</p>
+<h5><span class="mw-headline" id="Virtual_Width">Virtual Width</span></h5>
+<pre>VirtualWidth
+</pre>
+<p>Retrieves the virtual width of the frame.
+</p>
+<h5><span class="mw-headline" id="Virtual_Height">Virtual Height</span></h5>
+<pre>VirtualHeight
+</pre>
+<p>Retrieves the virtual height of the frame.
+</p>
+<h5><span class="mw-headline" id="X_coordinate_of_left_visible_edge">X coordinate of left visible edge</span></h5>
+<pre>X Left Frame
+</pre>
+<p>Retrieves the horizontal (X) coordinate of the leftmost visible edge of the frame.
+</p>
+<h5><span class="mw-headline" id="X_coordinate_of_right_visible_edge">X coordinate of right visible edge</span></h5>
+<pre>X Right Frame
+</pre>
+<p>Retrieves the horizontal (X) coordinate of the rightmost visible edge of the frame.
+</p>
+<h5><span class="mw-headline" id="Y_coordinate_of_top_visible_edge">Y coordinate of top visible edge</span></h5>
+<pre>Y Top Frame
+</pre>
+<p>Retrieves the vertical (Y) coordinate of the top-most visible edge of the frame.
+</p>
+<h5><span class="mw-headline" id="Y_coordinate_of_bottom_visible_edge">Y coordinate of bottom visible edge</span></h5>
+<pre>Y Bottom Frame
+</pre>
+<p>Retrieves the vertical (Y) coordinate of the bottom-most visible edge of the frame.
+</p>
+<h5><span class="mw-headline" id="Background_color">Background color</span></h5>
+<pre>FrameBkdColor
+</pre>
+<p>Retrieves the RGB value of the background color of the frame.
+</p>
+<h5><span class="mw-headline" id="Value_of_collision_mask">Value of collision mask</span></h5>
+<pre>CollisionMask(&gt;Enter X coordinate&lt;, &gt;Enter Y coordinate&lt;)
+</pre>
+<p>This function asks for two parameters: X and Y position of the pixel to test. It returns 2 if the given pixel is located over a ladder, 1 if the given pixel is located over an obstacle and 0 if the pixel is located on a free area.
+</p>
+<h5><span class="mw-headline" id="Effect_2">Effect</span></h5>
+<h6><span class="mw-headline" id="Alpha-blending_coefficient">Alpha-blending coefficient</span></h6>
+<pre>FrameAlphaCoef
+</pre>
+<p>No info available, please add some!
+</p>
+<h6><span class="mw-headline" id="RGB_coefficient">RGB coefficient</span></h6>
+<pre>FrameRGBCoef
+</pre>
+<p>No info available, please add some!
+</p>
+<h6><span class="mw-headline" id="Effect_parameter">Effect parameter</span></h6>
+<pre>FrameEffectParam(&gt; Enter string here &lt;)
+</pre>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Screen_2">Screen</span></h4>
+<h5><span class="mw-headline" id="Display_mode">Display mode</span></h5>
+<pre>DisplayMode
+</pre>
+<p>No info available, please add some!
+</p>
+<h5><span class="mw-headline" id="Pixel_shader_version">Pixel shader version</span></h5>
+<pre>PixelShaderVersion
+</pre>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Number_Of_Frames_per_Second">Number Of Frames per Second</span></h4>
+<pre>FrameRate
+</pre>
+<p>This function retrieves the frame rate of your application. This is the desired frame rate entered in the application properties or set by the Set Frame Rate action, this is not the real frame rate, which may depends on the machine on which is executed your application.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155216
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.440 seconds
+Real time usage: 0.442 seconds
+Preprocessor visited node count: 387/1000000
+Preprocessor generated node count: 811/1000000
+Post‐expand include size: 3509/2097152 bytes
+Template argument size: 1740/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  134.130      1 - Template:InfoExtension
+100.00%  134.130      1 - -total
+ 59.73%   80.116      4 - Template:Yes
+  6.14%    8.235      1 - Template:No
+  5.98%    8.027      1 - Template:EXE
+  5.79%    7.771      1 - Template:FusionUWP
+  5.66%    7.596      1 - Template:ExtManager
+  5.61%    7.524      1 - Template:ClickteamExtension
+  5.45%    7.310      1 - Template:HTML5
+  5.42%    7.272      1 - Template:Flash
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:911-0!*!*!!en!5!* and timestamp 20180529155215 and revision id 1927
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Storyboard_Controls&amp;oldid=1927">http://clickwiki.net/w/index.php?title=Storyboard_Controls&amp;oldid=1927</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Storyboard+Controls"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":783});});</script>
+  </body>
+</html>

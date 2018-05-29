@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Timer Object - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Timer_Object","wgTitle":"Timer Object","wgCurRevisionId":1935,"wgRevisionId":1935,"wgArticleId":903,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Timer_Object","wgRelevantArticleId":903,"wgRequestId":"39b65080847cf93a30933c0e","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Timer_Object rootpage-Timer_Object skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img4.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Timer_Object#mw-head">navigation</a>,
+          <a href="Timer_Object#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Timer Object</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="wikitable" style="float:right;">
+
+<tr style="text-align:center;">
+<td colspan="2"><a href="./File:Icon_TimerObject.png" class="image"><img alt="Icon TimerObject.png" src="../w/images/3/3c/Icon_TimerObject.png" width="48" height="48" /></a>
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td><a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a>
+</td></tr>
+<tr>
+<td><b>Status</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Released
+</td></tr>
+<tr>
+<td><b>Release Date</b>
+</td>
+<td>Unknown
+</td></tr>
+<tr style="display: none;">
+<td> <b>Last Updated</b>
+</td>
+<td> {{{LastUpdated}}}
+</td></tr>
+<tr>
+<td><b>Available for</b>
+</td>
+<td>Not yet documented
+</td></tr>
+<tr>
+<td><b>Supported Runtimes</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;"><a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="Mac_Runtime" title="Compatible with the Mac Runtime"><img alt="Compatible with the Mac Runtime" src="../w/images/8/85/Supported_Mac.png" width="24" height="24" /></a> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a> <a href="XNA_Runtime" title="XNA Runtime (now deprecated)"><img alt="XNA Runtime (now deprecated)" src="../w/images/9/9f/Runtime_XNA.png" width="24" height="24" /></a> <a href="UWP_Runtime" title="UWP Runtime"><img alt="UWP Runtime" src="../w/images/5/5a/Runtime_UWP.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>License</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Free
+</td></tr>
+<tr style="display: none;">
+<td> <b>Attributes</b>
+</td>
+<td> {{{Attributes}}}
+</td></tr>
+<tr>
+<th colspan="2"> Download
+</th></tr>
+<tr>
+<td><b>Includes Examples</b>
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">No
+</td></tr>
+<tr>
+<td><b>Includes Help Files</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Links</b>
+</td>
+<td style="text-align:center;width:24px"> <div class="center"><div class="floatnone"><a href="Extension_Manager" title="Downloadable via the Extension Manager"><img alt="Downloadable via the Extension Manager" src="../w/images/5/53/ExtManagerIcon.png" width="24" height="28" /></a></div></div> <i>Included by default.</i>
+</td></tr>
+
+<tr style="display: none;">
+<td> <b>Alternates</b>
+</td>
+<td> {{{Alternates}}}
+</td></tr>
+</table>
+<p>The Timer object is a built-in clock that runs throughout your application and keeps track of the elapsed time since the start of your application. The timer starts at zero and increases by one every thousandth of a second. The Timer object can trigger actions when the timer is equal to, less than, or greater than a specific time value. You can even trigger actions if the user has left the computer for a set time period.
+</p><p>The Timer object is a system object and is only available in the Event editor.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Timer_Object#Conditions"><span class="tocnumber">1</span> <span class="toctext">Conditions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="Timer_Object#Every"><span class="tocnumber">1.1</span> <span class="toctext">Every</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="Timer_Object#Is_The_Timer_Equal_To_A_Certain_Value.3F"><span class="tocnumber">1.2</span> <span class="toctext">Is The Timer Equal To A Certain Value?</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="Timer_Object#Is_The_Timer_Less_Than_A_Certain_Value.3F"><span class="tocnumber">1.3</span> <span class="toctext">Is The Timer Less Than A Certain Value?</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="Timer_Object#Is_The_Timer_Greater_Than_A_Certain_Value.3F"><span class="tocnumber">1.4</span> <span class="toctext">Is The Timer Greater Than A Certain Value?</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="Timer_Object#On_event"><span class="tocnumber">1.5</span> <span class="toctext">On event</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="Timer_Object#User_Has_Left_The_Computer_Since"><span class="tocnumber">1.6</span> <span class="toctext">User Has Left The Computer Since</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="Timer_Object#Actions"><span class="tocnumber">2</span> <span class="toctext">Actions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="Timer_Object#Set_Timer"><span class="tocnumber">2.1</span> <span class="toctext">Set Timer</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="Timer_Object#Fire_event_after_given_delay"><span class="tocnumber">2.2</span> <span class="toctext">Fire event after given delay</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="Timer_Object#Fire_event_N_times_after_given_delay-"><span class="tocnumber">2.3</span> <span class="toctext">Fire event N times after given delay-</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="Timer_Object#Expressions"><span class="tocnumber">3</span> <span class="toctext">Expressions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="Timer_Object#Timer_Count_In_1.2F1000_Since_Start_Of_Frame"><span class="tocnumber">3.1</span> <span class="toctext">Timer Count In 1/1000 Since Start Of Frame</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="Timer_Object#Timer_Count.2C_Hours"><span class="tocnumber">3.2</span> <span class="toctext">Timer Count, Hours</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="Timer_Object#Timer_Count.2C_Seconds"><span class="tocnumber">3.3</span> <span class="toctext">Timer Count, Seconds</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="Timer_Object#Timer_Count.2C_1.2F100_Value"><span class="tocnumber">3.4</span> <span class="toctext">Timer Count, 1/100 Value</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="Timer_Object#Timer_Count.2C_Minutes"><span class="tocnumber">3.5</span> <span class="toctext">Timer Count, Minutes</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="Timer_Object#Event_call_number"><span class="tocnumber">3.6</span> <span class="toctext">Event call number</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Conditions">Conditions</span></h2>
+<h4><span class="mw-headline" id="Every">Every</span></h4>
+<p>The Every condition lets the application perform the actions inserted on this event line at a specified time interval.
+</p>
+<h4><span class="mw-headline" id="Is_The_Timer_Equal_To_A_Certain_Value.3F">Is The Timer Equal To A Certain Value?</span></h4>
+<p>The Is The Timer Equal To A Certain Value? condition tests to see if the timer is equal to a specific time value. The Timer object counts up from 0 at the start of each frame. This condition is only satisfied at the moment that the timer is equal to the set value, for only one loop of the application.
+</p>
+<h4><span class="mw-headline" id="Is_The_Timer_Less_Than_A_Certain_Value.3F">Is The Timer Less Than A Certain Value?</span></h4>
+<p>The Is The Timer Less Than A Certain Value? condition tests to see if the timer is less than a specific time value. The Timer object counts up from 0 at the start of each frame. This condition is continuously satisfied until the timer reaches the set value. You can choose to enter the time via a calculation, in 1/1000th of seconds.
+</p>
+<h4><span class="mw-headline" id="Is_The_Timer_Greater_Than_A_Certain_Value.3F">Is The Timer Greater Than A Certain Value?</span></h4>
+<p>The Is The Timer Greater Than A Certain Value? condition tests to see if the timer is greater than a specific time value. The Timer object counts up from 0 at the start of each frame. This condition is continuously satisfied once the timer reaches the set value. You can choose to enter the time via a calculation, in 1/1000th of seconds.
+</p>
+<h4><span class="mw-headline" id="On_event">On event</span></h4>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="User_Has_Left_The_Computer_Since">User Has Left The Computer Since</span></h4>
+<p>The User Has Left The Computer Since condition tests to see if the user has depressed a key or moved the mouse pointer within a certain time period. You can choose to enter the time via a calculation, in 1/1000th of seconds.
+</p>
+<h2><span class="mw-headline" id="Actions">Actions</span></h2>
+<h4><span class="mw-headline" id="Set_Timer">Set Timer</span></h4>
+<p>The Set Timer action changes the value of the timer to a new time.
+</p>
+<h4><span class="mw-headline" id="Fire_event_after_given_delay">Fire event after given delay</span></h4>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Fire_event_N_times_after_given_delay-">Fire event N times after given delay-</span></h4>
+<p>No info available, please add some!
+</p>
+<h2><span class="mw-headline" id="Expressions">Expressions</span></h2>
+<h4><span class="mw-headline" id="Timer_Count_In_1.2F1000_Since_Start_Of_Frame">Timer Count In 1/1000 Since Start Of Frame</span></h4>
+<pre>timer
+</pre>
+<p>The Timer Count In 1/1000 Since Start Of Frame function retrieves the thousandths of seconds since the start of the frame. This will be a numerical value.
+</p>
+<h4><span class="mw-headline" id="Timer_Count.2C_Hours">Timer Count, Hours</span></h4>
+<pre>hours
+</pre>
+<p>The Timer Count, Hours function retrieves the number of hours since the start of the frame. This will be a numerical value.
+</p>
+<h4><span class="mw-headline" id="Timer_Count.2C_Seconds">Timer Count, Seconds</span></h4>
+<pre>seconds
+</pre>
+<p>The Timer Count, Seconds function retrieves the number of seconds since the start of the frame. This will be a numerical value.
+</p>
+<h4><span class="mw-headline" id="Timer_Count.2C_1.2F100_Value">Timer Count, 1/100 Value</span></h4>
+<pre>hundreds
+</pre>
+<p>The Timer Count, 1/100 Value function retrieves the hundredths of seconds since the start of the frame. This will be a numerical value.
+</p>
+<h4><span class="mw-headline" id="Timer_Count.2C_Minutes">Timer Count, Minutes</span></h4>
+<pre>minutes
+</pre>
+<p>The Timer Count, Minutes function retrieves the number of minutes since the start of the frame. This will be a numerical value.
+</p>
+<h4><span class="mw-headline" id="Event_call_number">Event call number</span></h4>
+<pre>eventindex
+</pre>
+<p>No info available, please add some!
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155217
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.310 seconds
+Real time usage: 0.313 seconds
+Preprocessor visited node count: 150/1000000
+Preprocessor generated node count: 585/1000000
+Post‐expand include size: 3506/2097152 bytes
+Template argument size: 1737/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  112.452      1 - Template:InfoExtension
+100.00%  112.452      1 - -total
+ 58.65%   65.952      4 - Template:Yes
+  6.26%    7.037      1 - Template:No
+  5.76%    6.478      1 - Template:ExtManager
+  5.70%    6.405      1 - Template:ClickteamExtension
+  5.59%    6.281      1 - Template:MacApp
+  5.52%    6.209      1 - Template:EXE
+  5.50%    6.189      1 - Template:FusionUWP
+  5.44%    6.123      1 - Template:Flash
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:903-0!*!*!!en!5!* and timestamp 20180529155216 and revision id 1935
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Timer_Object&amp;oldid=1935">http://clickwiki.net/w/index.php?title=Timer_Object&amp;oldid=1935</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Timer+Object"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":595});});</script>
+  </body>
+</html>

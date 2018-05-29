@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Chowdren/Compatibility - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chowdren/Compatibility","wgTitle":"Chowdren/Compatibility","wgCurRevisionId":1409,"wgRevisionId":1409,"wgArticleId":57,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Chowdren"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chowdren/Compatibility","wgRelevantArticleId":57,"wgRequestId":"d6f264ce0feb41d1bd799acc","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Chowdren_Compatibility rootpage-Chowdren_Compatibility skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../../w/resources/assets/bkgndcycle/img4.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="../Main_Page"><img src="../../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="../Category:Clickteam" id="n-Clickteam"><img src="../../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="../Category:Products" id="n-Products"><img src="../../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="../Exporters" id="n-Exporters"><img src="../../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="../Category:Extensions" id="n-Extensions"><img src="../../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="../Category:Community" id="n-Community"><img src="../../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="../Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="../Category:Interface" id="n-Interface"><img src="../../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="../Category:File_Extensions" id="n-File-Extensions"><img src="../../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="../Category:Chowdren" id="n-Chowdren"><img src="../../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Compatibility#mw-head">navigation</a>,
+          <a href="Compatibility#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Chowdren/Compatibility</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>As <a href="../Chowdren.1" title="Chowdren">Chowdren</a> presently does not have an exporter for <a href="../Fusion_2.5" class="mw-redirect" title="Fusion 2.5">Fusion 2.5</a> to hide incompatible extensions, actions and events, it is inevitable that without checking the list first, you'll end up with errors from <a href="../Chowdren.1" title="Chowdren">Chowdren</a>. This is because the particular functionality is missing, and cannot complete the export until it is removed or implemented.
+</p><p>As the project is <b>open source</b>, it is possible to code them yourself, providing you know C++. As an alternate, <a rel="nofollow" class="external text" href="http://community.clickteam.com/members/5234-Mathias">Mathias</a> offers to port missing functionality on a per-contract basis, as well as hiring him to port your game.
+</p><p>According to the thread, you can officially find out what's supported at:
+</p>
+<ul><li> <a rel="nofollow" class="external text" href="https://github.com/matpow2/anaconda/tree/master/Chowdren/chowdren/writers/extensions">Implemented Extensions</a></li>
+<li> <a rel="nofollow" class="external text" href="https://github.com/matpow2/anaconda/blob/master/Chowdren/chowdren/writers/events/system.py">Implemented Events</a></li>
+<li> <a rel="nofollow" class="external text" href="https://github.com/matpow2/anaconda/blob/master/Chowdren/chowdren/writers/objects/system.py">Implenented Objects</a></li></ul>
+<p><br />
+<b>This list is unofficial, and is correct as of 13<sup>th</sup> December 2014.</b>
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Compatibility#Native_Objects"><span class="tocnumber">1</span> <span class="toctext">Native Objects</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="Compatibility#Native_Extensions"><span class="tocnumber">2</span> <span class="toctext">Native Extensions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="Compatibility#Movements"><span class="tocnumber">3</span> <span class="toctext">Movements</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="Compatibility#Native_Actions"><span class="tocnumber">4</span> <span class="toctext">Native Actions</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="Compatibility#Native_Conditions"><span class="tocnumber">5</span> <span class="toctext">Native Conditions</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="Compatibility#Native_Expressions"><span class="tocnumber">6</span> <span class="toctext">Native Expressions</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="Compatibility#Shaders"><span class="tocnumber">7</span> <span class="toctext">Shaders</span></a></li>
+</ul>
+</div>
+
+<h4><span class="mw-headline" id="Native_Objects">Native Objects</span></h4>
+<ul><li> Active</li>
+<li> String</li>
+<li> Backdrop</li>
+<li> Quick Backdrop</li>
+<li> Counter</li>
+<li> RTF</li>
+<li> Lives</li>
+<li> Sub Application</li></ul>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Native_Extensions">Native Extensions</span></h4>
+<ul><li> <a href="/w/index.php?title=Advanced_Direction_object&amp;action=edit&amp;redlink=1" class="new" title="Advanced Direction object (page does not exist)">Advanced Direction object</a></li>
+<li> <a href="/w/index.php?title=Alpha_Channel_object&amp;action=edit&amp;redlink=1" class="new" title="Alpha Channel object (page does not exist)">Alpha Channel object</a></li>
+<li> Associate Array</li>
+<li> <a href="/w/index.php?title=Phizix_object_(Box2D)&amp;action=edit&amp;redlink=1" class="new" title="Phizix object (Box2D) (page does not exist)">Box2D</a></li>
+<li> Background Images object</li>
+<li> <a href="/w/index.php?title=Binary&amp;action=edit&amp;redlink=1" class="new" title="Binary (page does not exist)">Binary</a></li>
+<li> <a href="/w/index.php?title=Binary_Array_object&amp;action=edit&amp;redlink=1" class="new" title="Binary Array object (page does not exist)">Binary Array object</a></li>
+<li> <a href="/w/index.php?title=Capture&amp;action=edit&amp;redlink=1" class="new" title="Capture (page does not exist)">Capture</a></li>
+<li> CharImage</li>
+<li> <a href="/w/index.php?title=Clickteam_Movement&amp;action=edit&amp;redlink=1" class="new" title="Clickteam Movement (page does not exist)">Clickteam Movement</a></li>
+<li> <a href="/w/index.php?title=Controller_object&amp;action=edit&amp;redlink=1" class="new" title="Controller object (page does not exist)">Controller object</a></li>
+<li> <a href="/w/index.php?title=Colorizer&amp;action=edit&amp;redlink=1" class="new" title="Colorizer (page does not exist)">Colorizer</a></li>
+<li> <a href="/w/index.php?title=Console_object&amp;action=edit&amp;redlink=1" class="new" title="Console object (page does not exist)">Console object</a></li>
+<li> <a href="/w/index.php?title=Control_X&amp;action=edit&amp;redlink=1" class="new" title="Control X (page does not exist)">Control X</a></li>
+<li> <a href="/w/index.php?title=Dialog_Box&amp;action=edit&amp;redlink=1" class="new" title="Dialog Box (page does not exist)">Dialog Box</a></li>
+<li> <a href="/w/index.php?title=Easing_Object&amp;action=edit&amp;redlink=1" class="new" title="Easing Object (page does not exist)">Easing Object</a></li>
+<li> <a href="/w/index.php?title=MMF2_Params_object&amp;action=edit&amp;redlink=1" class="new" title="MMF2 Params object (page does not exist)">MMF2 Params object</a></li>
+<li> ForEach</li>
+<li> <a href="/w/index.php?title=Global_Store_X&amp;action=edit&amp;redlink=1" class="new" title="Global Store X (page does not exist)">Global Store X</a></li>
+<li> <a href="/w/index.php?title=Image_Manipulator&amp;action=edit&amp;redlink=1" class="new" title="Image Manipulator (page does not exist)">Image Manipulator</a></li>
+<li> <a href="/w/index.php?title=INI%2B%2B&amp;action=edit&amp;redlink=1" class="new" title="INI++ (page does not exist)">INI++</a></li>
+<li> <a href="/w/index.php?title=Joystick_2_object&amp;action=edit&amp;redlink=1" class="new" title="Joystick 2 object (page does not exist)">Joystick 2 object</a></li>
+<li> <a href="/w/index.php?title=Array_object&amp;action=edit&amp;redlink=1" class="new" title="Array object (page does not exist)">Array object</a></li>
+<li> <a href="/w/index.php?title=Active_System_Box&amp;action=edit&amp;redlink=1" class="new" title="Active System Box (page does not exist)">Active System Box</a></li>
+<li> <a href="/w/index.php?title=Background_System_Box&amp;action=edit&amp;redlink=1" class="new" title="Background System Box (page does not exist)">Background System Box</a></li>
+<li> <a href="/w/index.php?title=Date_and_Time&amp;action=edit&amp;redlink=1" class="new" title="Date and Time (page does not exist)">Date and Time</a></li>
+<li> <a href="/w/index.php?title=Direction_Calculator&amp;action=edit&amp;redlink=1" class="new" title="Direction Calculator (page does not exist)">Direction Calculator</a></li>
+<li> <a href="/w/index.php?title=File_object&amp;action=edit&amp;redlink=1" class="new" title="File object (page does not exist)">File object</a></li>
+<li> <a href="/w/index.php?title=Fast_Loop_object&amp;action=edit&amp;redlink=1" class="new" title="Fast Loop object (page does not exist)">Fast Loop object</a></li>
+<li> <a href="/w/index.php?title=Window_Focus&amp;action=edit&amp;redlink=1" class="new" title="Window Focus (page does not exist)">Window Focus</a></li>
+<li> <a href="/w/index.php?title=INI_object&amp;action=edit&amp;redlink=1" class="new" title="INI object (page does not exist)">INI object</a></li>
+<li> <a href="/w/index.php?title=List_object&amp;action=edit&amp;redlink=1" class="new" title="List object (page does not exist)">List object</a></li>
+<li> <a href="/w/index.php?title=Active_Picture&amp;action=edit&amp;redlink=1" class="new" title="Active Picture (page does not exist)">Active Picture</a></li>
+<li> <a href="/w/index.php?title=Picture&amp;action=edit&amp;redlink=1" class="new" title="Picture (page does not exist)">Picture</a></li>
+<li> <a href="/w/index.php?title=Vitalize!_object&amp;action=edit&amp;redlink=1" class="new" title="Vitalize! object (page does not exist)">Vitalize! object</a></li>
+<li> <a href="/w/index.php?title=Popup_Object&amp;action=edit&amp;redlink=1" class="new" title="Popup Object (page does not exist)">Popup Object</a></li>
+<li> <a href="/w/index.php?title=Window_Control&amp;action=edit&amp;redlink=1" class="new" title="Window Control (page does not exist)">Window Control</a></li>
+<li> <a href="/w/index.php?title=Key_object&amp;action=edit&amp;redlink=1" class="new" title="Key object (page does not exist)">Key object</a></li>
+<li> <a href="/w/index.php?title=Keyboard_object&amp;action=edit&amp;redlink=1" class="new" title="Keyboard object (page does not exist)">Keyboard object</a></li>
+<li> <a href="/w/index.php?title=Layer_object&amp;action=edit&amp;redlink=1" class="new" title="Layer object (page does not exist)">Layer object</a></li>
+<li> <a href="/w/index.php?title=Masked_Edit&amp;action=edit&amp;redlink=1" class="new" title="Masked Edit (page does not exist)">Masked Edit</a></li>
+<li> <a href="/w/index.php?title=String_Parser&amp;action=edit&amp;redlink=1" class="new" title="String Parser (page does not exist)">String Parser</a></li>
+<li> <a href="/w/index.php?title=Perspective_object&amp;action=edit&amp;redlink=1" class="new" title="Perspective object (page does not exist)">Perspective object</a></li>
+<li> <a href="/w/index.php?title=Platform_object&amp;action=edit&amp;redlink=1" class="new" title="Platform object (page does not exist)">Platform object</a></li>
+<li> <a href="/w/index.php?title=Python_object&amp;action=edit&amp;redlink=1" class="new" title="Python object (page does not exist)">Python object</a></li>
+<li> <a href="/w/index.php?title=Sound_Player&amp;action=edit&amp;redlink=1" class="new" title="Sound Player (page does not exist)">Sound Player</a></li>
+<li> <a href="/w/index.php?title=Steam_object&amp;action=edit&amp;redlink=1" class="new" title="Steam object (page does not exist)">Steam object</a></li>
+<li> <a href="/w/index.php?title=Steamworks_object&amp;action=edit&amp;redlink=1" class="new" title="Steamworks object (page does not exist)">Steamworks object</a></li>
+<li> Stochastic Utility</li>
+<li> <a href="/w/index.php?title=String_Replace&amp;action=edit&amp;redlink=1" class="new" title="String Replace (page does not exist)">String Replace</a></li>
+<li> <a href="/w/index.php?title=String_Tokenizer&amp;action=edit&amp;redlink=1" class="new" title="String Tokenizer (page does not exist)">String Tokenizer</a></li>
+<li> <a href="/w/index.php?title=Surface_object&amp;action=edit&amp;redlink=1" class="new" title="Surface object (page does not exist)">Surface object</a></li>
+<li> <a href="/w/index.php?title=Text_Blitter&amp;action=edit&amp;redlink=1" class="new" title="Text Blitter (page does not exist)">Text Blitter</a></li>
+<li> <a href="/w/index.php?title=Ultimate_Fullscreen&amp;action=edit&amp;redlink=1" class="new" title="Ultimate Fullscreen (page does not exist)">Ultimate Fullscreen</a></li>
+<li> Value Add</li>
+<li> <a href="/w/index.php?title=Viewport&amp;action=edit&amp;redlink=1" class="new" title="Viewport (page does not exist)">Viewport</a></li>
+<li> <a href="/w/index.php?title=XBOX_Gamepad&amp;action=edit&amp;redlink=1" class="new" title="XBOX Gamepad (page does not exist)">XBOX Gamepad</a></li></ul>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Movements">Movements</span></h4>
+<ul><li> Ball</li>
+<li> Path</li>
+<li> Eight Directions</li>
+<li> Pinball</li></ul>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Native_Actions">Native Actions</span></h4>
+<ul><li> Create Object</li>
+<li> Shoot</li>
+<li> Start Loop</li>
+<li> Stop Loop</li>
+<li> Set X</li>
+<li> Set Y</li>
+<li> Set Alterable Value</li>
+<li> Add To Alterable</li>
+<li> Spread Value</li>
+<li> Subtract From Alterable</li>
+<li> Set Alterable String</li>
+<li> Add Counter Value</li>
+<li> Subtract Counter Value</li>
+<li> Set Counter Value</li>
+<li> Set Maximum Value</li>
+<li> Set Minimum Value</li>
+<li> Set Global String</li>
+<li> Set Global Value</li>
+<li> Add Global Value</li>
+<li> Subtract Global Value</li>
+<li> Set String</li>
+<li> Set Bold</li>
+<li> Hide</li>
+<li> Show</li>
+<li> Set Paragraph</li>
+<li> Lock Channel</li>
+<li> Stop Channel</li>
+<li> Resume Channel</li>
+<li> Pause Channel</li>
+<li> Set Channel Position</li>
+<li> Set Channel Pan</li>
+<li> Set Channel Volume</li>
+<li> Play Looping Channel File Sample</li>
+<li> Play Channel File Sample</li>
+<li> Play Channel Sample</li>
+<li> Play Looping Channel Sample</li>
+<li> Play Looping Sample</li>
+<li> Play Sample</li>
+<li> Set Channel Frequency</li>
+<li> Set Direction</li>
+<li> Set R G B Coefficient</li>
+<li> Set Angle</li>
+<li> Deactivate Group</li>
+<li> Activate Group</li>
+<li> Center Display X</li>
+<li> Center Display Y</li>
+<li> Center Display</li>
+<li> End Application</li>
+<li> Restart Application</li>
+<li> Look At</li>
+<li> Set Position</li>
+<li> Execute Evaluated Program</li>
+<li> Hide Cursor</li>
+<li> Show Cursor</li>
+<li> Fullscreen Mode</li>
+<li> Next Frame</li>
+<li> Previous Frame</li>
+<li> Move To Layer</li>
+<li> Jump To Frame</li>
+<li> Restart Frame</li>
+<li> Set Alpha Coefficient</li>
+<li> Set Semi Transparency</li>
+<li> Set X Scale</li>
+<li> Set Y Scale</li>
+<li> Set Scale</li>
+<li> Force Animation</li>
+<li> Restore Animation</li>
+<li> Force Frame</li>
+<li> Force Speed</li>
+<li> Restore Frame</li>
+<li> Set Ink Effect</li>
+<li> Set Effect</li>
+<li> Add To Debugger</li>
+<li> Set Frame Rate</li>
+<li> Destroy</li>
+<li> Bring To Back</li>
+<li> Bring To Front</li>
+<li> Delete All Created</li>
+<li> Backdrops</li>
+<li> Delete Created Backdrops</li>
+<li> Set Effect Parameter</li>
+<li> Set Effect Image</li>
+<li> Set Frame Background Color</li>
+<li> Add Backdrop</li>
+<li> Paste Active</li>
+<li> Move In Front</li>
+<li> Move Behind</li>
+<li> Force Direction</li>
+<li> Restore Direction</li>
+<li> Stop Animation</li>
+<li> Start Animation</li>
+<li> Restore Speed</li>
+<li> Set Main Volume</li>
+<li> Stop All Samples</li>
+<li> Pause All Sounds</li>
+<li> Resume All Sounds</li>
+<li> Stop Sample</li>
+<li> Set Sample Pan</li>
+<li> Set Sample Position</li>
+<li> Set Sample Volume</li>
+<li> Set Sample Frequency</li>
+<li> Next Paragraph</li>
+<li> Pause Application</li>
+<li> Set Random Seed</li>
+<li> Set Timer</li>
+<li> Set Loop Index</li>
+<li> Ignore Controls</li>
+<li> Restore Controls</li>
+<li> Change Control Type</li>
+<li> Flash During</li>
+<li> Set Maximum Speed</li>
+<li> Set Speed</li>
+<li> Bounce</li>
+<li> Start</li>
+<li> Stop</li>
+<li> Set Directions</li>
+<li> Go To Node</li>
+<li> Select Movement</li>
+<li> Next Movement</li>
+<li> Enable Flag</li>
+<li> Disable Flag</li>
+<li> Toggle Flag</li>
+<li> Reverse</li>
+<li> Replace Color</li>
+<li> Set Lives</li>
+<li> Set Score</li>
+<li> Subtract Lives</li>
+<li> Add Lives</li>
+<li> Enable Vsync</li>
+<li> Disable Vsync</li>
+<li> Set Gravity</li>
+<li> Load Active Frame</li>
+<li> Set Clipboard</li>
+<li> Set Frame Effect</li>
+<li> Set Frame Effect Parameter</li>
+<li> Set Frame Alpha Coefficient</li>
+<li> Pause Debugger</li>
+<li> Jump Sub Application Frame</li>
+<li> Set Text Color</li>
+<li> Set Frame Height</li></ul>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Native_Conditions">Native Conditions</span></h4>
+<ul><li> Compare Alterable Value</li>
+<li> Compare Alterable String</li>
+<li> Compare Global Value</li>
+<li> Compare Global String</li>
+<li> Compare Counter</li>
+<li> Compare X</li>
+<li> Compare Y</li>
+<li> Compare</li>
+<li> Is Overlapping</li>
+<li> On Collision</li>
+<li> Object Visible</li>
+<li> Object Invisible</li>
+<li> While Mouse Pressed</li>
+<li> Mouse On Object</li>
+<li> Always</li>
+<li> Mouse Clicked</li>
+<li> Object Clicked</li>
+<li> Player Key Down</li>
+<li> Player Key Pressed</li>
+<li> Key Down</li>
+<li> Key Pressed</li>
+<li> On Group Activation</li>
+<li> Facing In Direction</li>
+<li> Animation Playing</li>
+<li> Chance</li>
+<li> Compare Fixed Value</li>
+<li> Inside Playfield</li>
+<li> Outside Playfield</li>
+<li> Is Obstacle</li>
+<li> Is Overlapping Background</li>
+<li> On Background Collision</li>
+<li> Pick Random</li>
+<li> Objects In Zone</li>
+<li> Pick Objects In Zone</li>
+<li> Pick Alterable Value</li>
+<li> Number Of Objects</li>
+<li> Group Activated</li>
+<li> Not Always</li>
+<li> Animation Frame</li>
+<li> Channel Not Playing</li>
+<li> Sample Not Playing</li>
+<li> Once</li>
+<li> Every</li>
+<li> Timer Equals</li>
+<li> Timer Greater</li>
+<li> Timer Less</li>
+<li> Is Bold</li>
+<li> Is Italic</li>
+<li> Movement Stopped</li>
+<li> Path Finished</li>
+<li> Node Reached</li>
+<li> Compare Speed</li>
+<li> Flag On</li>
+<li> Flag Off</li>
+<li> Near Window Border</li>
+<li> Animation Finished</li>
+<li> Start Of Frame</li>
+<li> Never</li>
+<li> Number Of Lives</li>
+<li> Any Key Pressed</li>
+<li> Repeat</li>
+<li> Restrict For</li>
+<li> Sub Application Finished</li>
+<li> Leaving Playfield</li>
+<li> On Loop</li></ul>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Native_Expressions">Native Expressions</span></h4>
+<ul><li> Speed</li>
+<li> String</li>
+<li> To Number</li>
+<li> To Int</li>
+<li> Abs</li>
+<li> To String</li>
+<li> Get RGB</li>
+<li> Long</li>
+<li> Double</li>
+<li> End Parenthesis</li>
+<li> Plus</li>
+<li> Multiply</li>
+<li> Divide</li>
+<li> Minus</li>
+<li> Virgule</li>
+<li> Parenthesis</li>
+<li> Modulus</li>
+<li> AND</li>
+<li> OR</li>
+<li> XOR</li>
+<li> Random</li>
+<li> Application Path</li>
+<li> Alterable Value</li>
+<li> Alterable Value Index</li>
+<li> Alterable String Index</li>
+<li> Alterable String</li>
+<li> Global String</li>
+<li> Global Value</li>
+<li> Global Value Expression</li>
+<li> Y Position</li>
+<li> X Position</li>
+<li> Action X</li>
+<li> Action Y</li>
+<li> Get Paragraph</li>
+<li> Paragraph Count</li>
+<li> Current Paragraph Index</li>
+<li> Loop Index</li>
+<li> Current Text</li>
+<li> X Mouse</li>
+<li> Y Mouse</li>
+<li> Min</li>
+<li> Max</li>
+<li> Sin</li>
+<li> Cos</li>
+<li> Exp</li>
+<li> Log</li>
+<li> Get Angle</li>
+<li> Frame Height</li>
+<li> Frame Width</li>
+<li> String Length</li>
+<li> Find</li>
+<li> Reverse Find</li>
+<li> Lower String</li>
+<li> Upper String</li>
+<li> Right String</li>
+<li> Mid String</li>
+<li> Left String</li>
+<li> Fixed Value</li>
+<li> Animation Frame</li>
+<li> Object Left</li>
+<li> Object Right</li>
+<li> Object Top</li>
+<li> Object Bottom</li>
+<li> Get Direction</li>
+<li> Get X Scale</li>
+<li> Get Y Scale</li>
+<li> Power</li>
+<li> Square Root</li>
+<li> Asin</li>
+<li> Atan2</li>
+<li> Atan</li>
+<li> Alpha Coefficient</li>
+<li> Semi Transparency</li>
+<li> Effect Parameter</li>
+<li> Floor</li>
+<li> Round</li>
+<li> Animation Number</li>
+<li> Ceil</li>
+<li> Get Main Volume</li>
+<li> Get Channel Position</li>
+<li> Get Sample Position</li>
+<li> Get Sample Duration</li>
+<li> Get Channel Volume</li>
+<li> Get Channel Duration</li>
+<li> Get Channel Frequency</li>
+<li> Object Layer</li>
+<li> New Line</li>
+<li> X Left Frame</li>
+<li> X Right Frame</li>
+<li> Y Bottom Frame</li>
+<li> Y Top Frame</li>
+<li> Object Count</li>
+<li> Counter Maximum Value</li>
+<li> Application Directory</li>
+<li> Application Drive</li>
+<li> Timer Value</li>
+<li> Timer Hundreds</li>
+<li> Counter Value</li>
+<li> Current Frame</li>
+<li> Get Flag</li>
+<li> Get Command Item</li>
+<li> Display Mode</li>
+<li> Get Clipboard</li>
+<li> Total Object Count</li>
+<li> Frame Rate</li>
+<li> Temporary Path</li>
+<li> Get Collision Mask</li>
+<li> Font Color</li>
+<li> RGB Coefficient</li>
+<li> Movement Number</li>
+<li> Frame Background Color</li></ul>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Shaders">Shaders</span></h4>
+<ul><li> Subtract</li>
+<li> Add</li>
+<li> Color Mixer</li>
+<li> Looki Offset</li>
+<li> Hue</li>
+<li> Dodge Blur</li>
+<li> Monochrome</li>
+<li> Blend</li>
+<li> Subtract</li>
+<li> Hard Mix</li>
+<li> Overlay</li>
+<li> Lens</li>
+<li> Linear Dodge</li>
+<li> Soft Light</li>
+<li> Pin Light</li>
+<li> Invert</li>
+<li> Grain PS2</li>
+<li> Multiply</li>
+<li> Hard Light</li>
+<li> Tint</li>
+<li> Channel Blur</li>
+<li> Bg Bloom</li>
+<li> Under Water</li>
+<li> Rotate Sub</li>
+<li> Simple Mask</li>
+<li> Offsetstationary</li>
+<li> Pattern Overlay</li>
+<li> Sub Px</li>
+<li> Col Dir Blur</li>
+<li> Overlay Alpha</li>
+<li> Gradient</li>
+<li> Zoom Offset</li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20180529155209
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.110 seconds
+Real time usage: 0.106 seconds
+Preprocessor visited node count: 27/1000000
+Preprocessor generated node count: 32/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 - -total
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:57-0!*!0!!en!*!* and timestamp 20180529155209 and revision id 1409
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Lh37&amp;action=edit&amp;redlink=1" class="new" title="User:Lh37 (page does not exist)">Lh37</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Chowdren/Compatibility&amp;oldid=1409">http://clickwiki.net/w/index.php?title=Chowdren/Compatibility&amp;oldid=1409</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="../Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="../Category:Chowdren" title="Category:Chowdren">Chowdren</a></li></ul></div></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Chowdren%2FCompatibility"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="../Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":410});});</script>
+  </body>
+</html>

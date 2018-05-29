@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Firefly - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Firefly","wgTitle":"Firefly","wgCurRevisionId":2057,"wgRevisionId":2057,"wgArticleId":954,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Firefly","wgRelevantArticleId":954,"wgRequestId":"cb0bb95c8d7d1fd8e56f8a59","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Firefly rootpage-Firefly skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img2.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Firefly#mw-head">navigation</a>,
+          <a href="Firefly#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Firefly</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="wikitable" style="float:right;">
+
+<tr style="text-align:center;">
+<td colspan="2"><a href="./File:Firefly.png" class="image"><img alt="Firefly.png" src="../w/images/d/d7/Firefly.png" width="300" height="206" /></a>
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td><a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a>
+</td></tr>
+<tr>
+<td><b>Status</b>
+</td>
+<td>Released, In Development
+</td></tr>
+<tr>
+<td><b>Release Date</b>
+</td>
+<td>November 30<sup>th</sup>, 2016
+</td></tr>
+<tr style="display: none;">
+<td> <b>Last Updated</b>
+</td>
+<td> {{{LastUpdated}}}
+</td></tr>
+<tr>
+<td><b>Available for</b>
+</td>
+<td><a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>Supported Runtimes</b>
+</td>
+<td><a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>License</b>
+</td>
+<td>Paid
+</td></tr>
+<tr>
+<td> <b>Attributes</b>
+</td>
+<td> <a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a>
+</td></tr>
+<tr>
+<th colspan="2"> Download
+</th></tr>
+<tr>
+<td><b>Includes Examples</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Includes Help Files</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Links</b>
+</td>
+<td style="text-align:center;width:24px"> <div class="center"><div class="floatnone"><a href="http://clickstore.clickteam.com/firefly3D" title="View extension on the ClickStore" rel="nofollow"><img alt="View extension on the ClickStore" src="../w/images/c/c7/Main_ClickStore.png" width="24" height="27" /></a></div></div> <a href="http://store.steampowered.com/app/267655/" title="Purchase the Steam version" rel="nofollow"><img alt="Purchase the Steam version" src="../w/images/b/bf/Icon_Steam.png" width="24" height="24" /></a> <a rel="nofollow" class="external text" href="http://library.clickteam.com/firefly/firefly-tutorials/">Tutorials</a>
+</td></tr>
+
+<tr>
+<td> <b>Alternates</b>
+</td>
+<td> See <a href="3D_Techniques" title="3D Techniques">3D Techniques</a>
+</td></tr>
+</table>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Firefly#Firefly_-_3D_for_Fusion"><span class="tocnumber">1</span> <span class="toctext">Firefly - 3D for Fusion</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="Firefly#The_objects"><span class="tocnumber">1.1</span> <span class="toctext">The objects</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="Firefly#Firefly_Engine"><span class="tocnumber">1.1.1</span> <span class="toctext">Firefly Engine</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="Firefly#Firefly_Node_-_Camera"><span class="tocnumber">1.1.2</span> <span class="toctext">Firefly Node - Camera</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="Firefly#Firefly_2D_Text"><span class="tocnumber">1.1.3</span> <span class="toctext">Firefly 2D Text</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="Firefly#Firefly_Image"><span class="tocnumber">1.1.4</span> <span class="toctext">Firefly Image</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="Firefly#Firefly_Material_Cache"><span class="tocnumber">1.1.5</span> <span class="toctext">Firefly Material Cache</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="Firefly#Firefly_Movement"><span class="tocnumber">1.1.6</span> <span class="toctext">Firefly Movement</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="Firefly#Firefly_Node_-_Animated_Mesh"><span class="tocnumber">1.1.7</span> <span class="toctext">Firefly Node - Animated Mesh</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="Firefly#Firefly_Node_-_Billboard"><span class="tocnumber">1.1.8</span> <span class="toctext">Firefly Node - Billboard</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="Firefly#Firefly_Node_-_Dummy"><span class="tocnumber">1.1.9</span> <span class="toctext">Firefly Node - Dummy</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="Firefly#Firefly_Node_-_Light"><span class="tocnumber">1.1.10</span> <span class="toctext">Firefly Node - Light</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="Firefly#Firefly_Node_-_Particle_System"><span class="tocnumber">1.1.11</span> <span class="toctext">Firefly Node - Particle System</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="Firefly#Firefly_Node_-_Primitive"><span class="tocnumber">1.1.12</span> <span class="toctext">Firefly Node - Primitive</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="Firefly#Firefly_Node_-_Static_Mesh"><span class="tocnumber">1.1.13</span> <span class="toctext">Firefly Node - Static Mesh</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="Firefly#Firefly_Node_-_Terrain"><span class="tocnumber">1.1.14</span> <span class="toctext">Firefly Node - Terrain</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="Firefly#Firefly_Node_-_Text"><span class="tocnumber">1.1.15</span> <span class="toctext">Firefly Node - Text</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="Firefly#Firefly_Node_-_Water"><span class="tocnumber">1.1.16</span> <span class="toctext">Firefly Node - Water</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="Firefly#Firefly_Sky"><span class="tocnumber">1.1.17</span> <span class="toctext">Firefly Sky</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="Firefly#Basic_Node_Conditions_and_Actions"><span class="tocnumber">2</span> <span class="toctext">Basic Node Conditions and Actions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="Firefly#Shared_Conditions"><span class="tocnumber">2.1</span> <span class="toctext">Shared Conditions</span></a>
+<ul>
+<li class="toclevel-3 tocsection-22"><a href="Firefly#Is_added_to_Firefly_Engine"><span class="tocnumber">2.1.1</span> <span class="toctext">Is added to Firefly Engine</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="Firefly#Node_Properties"><span class="tocnumber">2.1.2</span> <span class="toctext">Node Properties</span></a>
+<ul>
+<li class="toclevel-4 tocsection-24"><a href="Firefly#Has_Parent_Node"><span class="tocnumber">2.1.2.1</span> <span class="toctext">Has Parent Node</span></a></li>
+<li class="toclevel-4 tocsection-25"><a href="Firefly#Position"><span class="tocnumber">2.1.2.2</span> <span class="toctext">Position</span></a>
+<ul>
+<li class="toclevel-5 tocsection-26"><a href="Firefly#Compare_.28X.2CY_or_Z.29_of_a_Position"><span class="tocnumber">2.1.2.2.1</span> <span class="toctext">Compare (X,Y or Z) of a Position</span></a></li>
+</ul>
+</li>
+<li class="toclevel-4 tocsection-27"><a href="Firefly#Visibility"><span class="tocnumber">2.1.2.3</span> <span class="toctext">Visibility</span></a>
+<ul>
+<li class="toclevel-5 tocsection-28"><a href="Firefly#Is_visible"><span class="tocnumber">2.1.2.3.1</span> <span class="toctext">Is visible</span></a></li>
+<li class="toclevel-5 tocsection-29"><a href="Firefly#Is_truly_visible"><span class="tocnumber">2.1.2.3.2</span> <span class="toctext">Is truly visible</span></a></li>
+</ul>
+</li>
+<li class="toclevel-4 tocsection-30"><a href="Firefly#Is_Drawing_Debug_Data"><span class="tocnumber">2.1.2.4</span> <span class="toctext">Is Drawing Debug Data</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-31"><a href="Firefly#Uses_collisions"><span class="tocnumber">2.1.3</span> <span class="toctext">Uses collisions</span></a></li>
+<li class="toclevel-3 tocsection-32"><a href="Firefly#Has_collided_with_a_node"><span class="tocnumber">2.1.4</span> <span class="toctext">Has collided with a node</span></a></li>
+<li class="toclevel-3 tocsection-33"><a href="Firefly#Radius_collides_with_another_node_object.E2.80.99s_mesh"><span class="tocnumber">2.1.5</span> <span class="toctext">Radius collides with another node object’s mesh</span></a></li>
+<li class="toclevel-3 tocsection-34"><a href="Firefly#Has_collided_with_a_particular_node"><span class="tocnumber">2.1.6</span> <span class="toctext">Has collided with a particular node</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-35"><a href="Firefly#Shared_Actions"><span class="tocnumber">2.2</span> <span class="toctext">Shared Actions</span></a>
+<ul>
+<li class="toclevel-3 tocsection-36"><a href="Firefly#Add_to_Firefly_Engine"><span class="tocnumber">2.2.1</span> <span class="toctext">Add to Firefly Engine</span></a>
+<ul>
+<li class="toclevel-4 tocsection-37"><a href="Firefly#Select_an_object"><span class="tocnumber">2.2.1.1</span> <span class="toctext">Select an object</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-38"><a href="Firefly#Remove_from_Firefly_Engine"><span class="tocnumber">2.2.2</span> <span class="toctext">Remove from Firefly Engine</span></a>
+<ul>
+<li class="toclevel-4 tocsection-39"><a href="Firefly#Select_an_object_2"><span class="tocnumber">2.2.2.1</span> <span class="toctext">Select an object</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-40"><a href="Firefly#Node_Properties_2"><span class="tocnumber">2.2.3</span> <span class="toctext">Node Properties</span></a>
+<ul>
+<li class="toclevel-4 tocsection-41"><a href="Firefly#Set_Parent_Node"><span class="tocnumber">2.2.3.1</span> <span class="toctext">Set Parent Node</span></a>
+<ul>
+<li class="toclevel-5 tocsection-42"><a href="Firefly#Enter_Fixed_Value_of_an_Firefly_Node_.280_for_none.29"><span class="tocnumber">2.2.3.1.1</span> <span class="toctext">Enter Fixed Value of an Firefly Node (0 for none)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-4 tocsection-43"><a href="Firefly#Position.2C_Rotation.2C_Scale"><span class="tocnumber">2.2.3.2</span> <span class="toctext">Position, Rotation, Scale</span></a>
+<ul>
+<li class="toclevel-5 tocsection-44"><a href="Firefly#Position.28X.2C_Y_or_Z.29"><span class="tocnumber">2.2.3.2.1</span> <span class="toctext">Position(X, Y or Z)</span></a></li>
+<li class="toclevel-5 tocsection-45"><a href="Firefly#Rotation.28X.2C_Y_or_Z.29"><span class="tocnumber">2.2.3.2.2</span> <span class="toctext">Rotation(X, Y or Z)</span></a></li>
+<li class="toclevel-5 tocsection-46"><a href="Firefly#Scale.28X.2C_Y_or_Z.29"><span class="tocnumber">2.2.3.2.3</span> <span class="toctext">Scale(X, Y or Z)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-4 tocsection-47"><a href="Firefly#Visibility_2"><span class="tocnumber">2.2.3.3</span> <span class="toctext">Visibility</span></a></li>
+<li class="toclevel-4 tocsection-48"><a href="Firefly#Automatic_Culling"><span class="tocnumber">2.2.3.4</span> <span class="toctext">Automatic Culling</span></a>
+<ul>
+<li class="toclevel-5 tocsection-49"><a href="Firefly#Box"><span class="tocnumber">2.2.3.4.1</span> <span class="toctext">Box</span></a></li>
+<li class="toclevel-5 tocsection-50"><a href="Firefly#Frustum_Box"><span class="tocnumber">2.2.3.4.2</span> <span class="toctext">Frustum Box</span></a></li>
+<li class="toclevel-5 tocsection-51"><a href="Firefly#Frustum_Sphere"><span class="tocnumber">2.2.3.4.3</span> <span class="toctext">Frustum Sphere</span></a></li>
+<li class="toclevel-5 tocsection-52"><a href="Firefly#Off"><span class="tocnumber">2.2.3.4.4</span> <span class="toctext">Off</span></a></li>
+<li class="toclevel-5 tocsection-53"><a href="Firefly#Set"><span class="tocnumber">2.2.3.4.5</span> <span class="toctext">Set</span></a></li>
+</ul>
+</li>
+<li class="toclevel-4 tocsection-54"><a href="Firefly#Draw_Debug_Data"><span class="tocnumber">2.2.3.5</span> <span class="toctext">Draw Debug Data</span></a>
+<ul>
+<li class="toclevel-5 tocsection-55"><a href="Firefly#Off_2"><span class="tocnumber">2.2.3.5.1</span> <span class="toctext">Off</span></a></li>
+<li class="toclevel-5 tocsection-56"><a href="Firefly#On"><span class="tocnumber">2.2.3.5.2</span> <span class="toctext">On</span></a></li>
+<li class="toclevel-5 tocsection-57"><a href="Firefly#Set_2"><span class="tocnumber">2.2.3.5.3</span> <span class="toctext">Set</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-58"><a href="Firefly#Collisions"><span class="tocnumber">2.2.4</span> <span class="toctext">Collisions</span></a>
+<ul>
+<li class="toclevel-4 tocsection-59"><a href="Firefly#Use_Collisions"><span class="tocnumber">2.2.4.1</span> <span class="toctext">Use Collisions</span></a></li>
+<li class="toclevel-4 tocsection-60"><a href="Firefly#Radius"><span class="tocnumber">2.2.4.2</span> <span class="toctext">Radius</span></a></li>
+<li class="toclevel-4 tocsection-61"><a href="Firefly#Translation"><span class="tocnumber">2.2.4.3</span> <span class="toctext">Translation</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Firefly_-_3D_for_Fusion">Firefly - 3D for Fusion</span></h2>
+<p>A brand new set of objects to power your Clickteam Fusion 2.5 Standard or Developer with the ability to leverage the event editor to build your own 3D games and apps. Now you can build First Person Shooters, Third Person Adventures, 3D Puzzle Games and more. All using the same kind of Properties, Actions, Conditions and Expressions methods you use for 2D projects in Fusion. 
+</p>
+<h3><span class="mw-headline" id="The_objects">The objects</span></h3>
+<h4><span class="mw-headline" id="Firefly_Engine"><a href="Firefly_Engine" title="Firefly Engine">Firefly Engine</a></span></h4>
+<p>The Firefly Engine object does almost all the work within these set of extensions. First, you should add one to the frame and then resize it to cover the frame. The area covered by this extension dictates the resolution of your 3D scene.
+</p>
+<h4><span class="mw-headline" id="Firefly_Node_-_Camera"><a href="Firefly_Node_-_Camera" title="Firefly Node - Camera">Firefly Node - Camera</a></span></h4>
+<p>The Firefly Node Camera object is necessary to draw anything to the frame. It works similarly to how the Engine object works, except the area covered by the Camera object dictates where to draw the scene to (through the camera). Through this system, split-screen effects can be achieved, but usually the Engine object and your singular Camera will both be at the same point on the frame and both be of the same size.
+</p>
+<h4><span class="mw-headline" id="Firefly_2D_Text"><a href="Firefly_2D_Text" title="Firefly 2D Text">Firefly 2D Text</a></span></h4>
+<p>The Firefly 2D Text object puts 2D text inside your 3D world useful for things like names above heads and other User Interface information
+</p>
+<h4><span class="mw-headline" id="Firefly_Image"><a href="/w/index.php?title=Firefly_Image&amp;action=edit&amp;redlink=1" class="new" title="Firefly Image (page does not exist)">Firefly Image</a></span></h4>
+<p>The Firefly Image object puts images inside your 3D world useful for backdrops for all that User Interface information you have.
+</p>
+<h4><span class="mw-headline" id="Firefly_Material_Cache"><a href="/w/index.php?title=Firefly_Material_Cache&amp;action=edit&amp;redlink=1" class="new" title="Firefly Material Cache (page does not exist)">Firefly Material Cache</a></span></h4>
+<p>The Firefly Material Cache object represents and acts as an array of Materials. A Material has an Index that it resides at within a Material Cache object, and it can also have a name. Most node objects require one or more materials to render something other than a gray mass in the scene.
+</p>
+<h4><span class="mw-headline" id="Firefly_Movement"><a href="/w/index.php?title=Firefly_Movement&amp;action=edit&amp;redlink=1" class="new" title="Firefly Movement (page does not exist)">Firefly Movement</a></span></h4>
+<p>The Firefly Movement object is one of the most important objects in the Firefly set as it helps you move all your other nodes around.
+</p>
+<h4><span class="mw-headline" id="Firefly_Node_-_Animated_Mesh"><a href="Firefly_Node_-_Animated_Mesh" title="Firefly Node - Animated Mesh">Firefly Node - Animated Mesh</a></span></h4>
+<p>With the Firefly Animated Mesh node you can insert an animated mesh into the scene. An Animated Mesh is animated across a number of Frames by calculating the position, scale, and rotation of the mesh's Joints using each one's collection of keyframes across those Frames.
+</p><p>So, an Animated Mesh might have many Joints, and each Joint can have many Key Frames of a Position and/or Scale and/or Rotation type. When the animation takes place, it calculates what Position, Scale, and Rotation each Joint should be set to at a given frame by working out each difference between the last and next Key Frame.
+</p>
+<h4><span class="mw-headline" id="Firefly_Node_-_Billboard">Firefly Node - Billboard</span></h4>
+<p>The Firefly Node - Billboard object is like a 3D sprite: A 2D element, which always looks to the camera. It is usually used for explosions, fire, lens flares, particles and things like that.
+</p>
+<h4><span class="mw-headline" id="Firefly_Node_-_Dummy">Firefly Node - Dummy</span></h4>
+<p>The Firefly Node - Dummy object isn't really an object at all, in fact it isn't anything and you will never see it in through the Node Camera, but it's incredibly useful for holding data. For example you could have players mark an area in your world and put a dummy node there and use its values in your calculations.
+</p>
+<h4><span class="mw-headline" id="Firefly_Node_-_Light">Firefly Node - Light</span></h4>
+<p>The Firefly Node - Light object places various light sources such as spot lights or directional lights in your scene, Lights are often needed to brighten up a scene. Any Material (from the Material Cache object) that has its 'Lighting' setting set to true/on (which it is by default) means that it requires light to be rendered in some color other than black.
+</p>
+<h4><span class="mw-headline" id="Firefly_Node_-_Particle_System"><a href="/w/index.php?title=Firefly_Node_-_Particle_System&amp;action=edit&amp;redlink=1" class="new" title="Firefly Node - Particle System (page does not exist)">Firefly Node - Particle System</a></span></h4>
+<p>With the Firefly Node - Particle System you can insert a particle emitter into the scene. A Particle System node can be one of these types: Point, Box, Sphere, Animated Mesh Node, Cylinder, Mesh, Ring. These types describe the shape of the emitter. What is actually emitted is similar to a Billboard node object.
+</p><p>A Particle System Node also can one or more Effectors. An Affecter is something located at a X,Y,Z position within the scene and will affect particles generated by the node object in different ways. The different types of Effectors are 'Attraction', 'Fade-Out', 'Gravity', 'Rotation', 'Scale'.
+</p>
+<h4><span class="mw-headline" id="Firefly_Node_-_Primitive">Firefly Node - Primitive</span></h4>
+<p>The Firefly Node - Primitive object is capable of very quickly creating a mesh in the shape of standard objects such as cubes, spheres, arrows, tubes cones, cylinders and planes.
+</p>
+<h4><span class="mw-headline" id="Firefly_Node_-_Static_Mesh"><a href="/w/index.php?title=Firefly_Node_-_Static_Mesh&amp;action=edit&amp;redlink=1" class="new" title="Firefly Node - Static Mesh (page does not exist)">Firefly Node - Static Mesh</a></span></h4>
+<p>The Firefly Node - Static Mesh object isn't static as in not able to move its just static as in not containing any animations, most of your 3d objects will be static meshes.
+</p>
+<h4><span class="mw-headline" id="Firefly_Node_-_Terrain">Firefly Node - Terrain</span></h4>
+<p>The Firefly Node - Terrain object is capable of very quickly loading terrains and updating the indices at runtime to enable viewing very large terrains. It uses a CLOD (Continuous Level of Detail) algorithm which updates the indices for each patch based on a LOD (Level of Detail) which is determined based on a patch's distance from the camera.
+</p>
+<h4><span class="mw-headline" id="Firefly_Node_-_Text">Firefly Node - Text</span></h4>
+<p>The Firefly Node Text object lets you insert 2D text within the 3D scene. It works similar to the Billboard object in that it will always face the camera and the size of the text as it appears is not dependent on how close the object is to the camera.
+</p>
+<h4><span class="mw-headline" id="Firefly_Node_-_Water">Firefly Node - Water</span></h4>
+<p>This Firefly Node Water object for rendering an animated water surface mesh. Looks really good when a Material with Transparent Reflection is used.
+</p>
+<h4><span class="mw-headline" id="Firefly_Sky">Firefly Sky</span></h4>
+<p>The Firefly Sky object is not quite a node object in that you can only have one in the scene, and it cannot be moved around. you can however choose to have a skydome or a skybox which will allow your players to feel that the world is massive around them.
+</p>
+<h2><span class="mw-headline" id="Basic_Node_Conditions_and_Actions">Basic Node Conditions and Actions</span></h2>
+<p>Many of the node objects share similar conditions, actions and expressions. Learn what those ACE's are here.
+</p>
+<h3><span class="mw-headline" id="Shared_Conditions">Shared Conditions</span></h3>
+<h4><span class="mw-headline" id="Is_added_to_Firefly_Engine">Is added to Firefly Engine</span></h4>
+<p>Has this object been added to an Firefly Engine instance?
+</p>
+<h4><span class="mw-headline" id="Node_Properties">Node Properties</span></h4>
+<h5><span class="mw-headline" id="Has_Parent_Node">Has Parent Node</span></h5>
+<p>Has this object been set a parent node?
+</p>
+<h5><span class="mw-headline" id="Position">Position</span></h5>
+<h6><span class="mw-headline" id="Compare_.28X.2CY_or_Z.29_of_a_Position">Compare (X,Y or Z) of a Position</span></h6>
+<p>Using the expression editor compare on the three three dimensional position values to a expression.
+</p>
+<h5><span class="mw-headline" id="Visibility">Visibility</span></h5>
+<h6><span class="mw-headline" id="Is_visible">Is visible</span></h6>
+<p>Is the object set to be visible or not?
+</p>
+<h6><span class="mw-headline" id="Is_truly_visible">Is truly visible</span></h6>
+<p>Will return true if the object and all of its possible parent nodes are visible also.
+</p>
+<h5><span class="mw-headline" id="Is_Drawing_Debug_Data">Is Drawing Debug Data</span></h5>
+<p>Returns whether Debug Data is set to draw or not.
+</p>
+<h4><span class="mw-headline" id="Uses_collisions">Uses collisions</span></h4>
+<p>Returns whether Use Collisions has been turned on or not.
+</p>
+<h4><span class="mw-headline" id="Has_collided_with_a_node">Has collided with a node</span></h4>
+<p>Is a true condition that will happen when this node object’s Collision.
+</p>
+<h4><span class="mw-headline" id="Radius_collides_with_another_node_object.E2.80.99s_mesh">Radius collides with another node object’s mesh</span></h4>
+<p>No info available, please add some!
+</p>
+<h4><span class="mw-headline" id="Has_collided_with_a_particular_node">Has collided with a particular node</span></h4>
+<p>Enter Fixed Value of Firefly Node that the object may collide with Is a true condition that will happen when this node object’s Collision Radius collides with another node object’s mesh that has the Fixed Value equal to the inputted parameter.
+</p>
+<h3><span class="mw-headline" id="Shared_Actions">Shared Actions</span></h3>
+<h4><span class="mw-headline" id="Add_to_Firefly_Engine">Add to Firefly Engine</span></h4>
+<h5><span class="mw-headline" id="Select_an_object">Select an object</span></h5>
+<p>This action adds the object to the Firefly Engine object instance specified in the parameter. This is necessary so that the engine knows about the Node object.
+</p>
+<h4><span class="mw-headline" id="Remove_from_Firefly_Engine">Remove from Firefly Engine</span></h4>
+<h5><span class="mw-headline" id="Select_an_object_2">Select an object</span></h5>
+<p>This action removes the object from the Firefly Engine object instance specified in the parameter.
+</p>
+<h4><span class="mw-headline" id="Node_Properties_2">Node Properties</span></h4>
+<h5><span class="mw-headline" id="Set_Parent_Node">Set Parent Node</span></h5>
+<h6><span class="mw-headline" id="Enter_Fixed_Value_of_an_Firefly_Node_.280_for_none.29">Enter Fixed Value of an Firefly Node (0 for none)</span></h6>
+<p>This action sets another Firefly – Node object (any type of Node) as the parent of this object. Which then means its Position, Rotation, Scale, etc settings are relative to its parent.
+</p>
+<h5><span class="mw-headline" id="Position.2C_Rotation.2C_Scale">Position, Rotation, Scale</span></h5>
+<h6><span class="mw-headline" id="Position.28X.2C_Y_or_Z.29">Position(X, Y or Z)</span></h6>
+<p>Move the node along either the X, Y or Z planes using the expression editor.
+</p>
+<h6><span class="mw-headline" id="Rotation.28X.2C_Y_or_Z.29">Rotation(X, Y or Z)</span></h6>
+<p>Rotate the node along the X, Y or Z axes
+</p>
+<h6><span class="mw-headline" id="Scale.28X.2C_Y_or_Z.29">Scale(X, Y or Z)</span></h6>
+<p>Scale the node in either of the 3 dimensions
+</p>
+<h5><span class="mw-headline" id="Visibility_2">Visibility</span></h5>
+<p>This boolean setting denotes whether the object is visible in the scene or not.
+</p>
+<h5><span class="mw-headline" id="Automatic_Culling">Automatic Culling</span></h5>
+<p>Determines if objects outside of camera view are drawn or not
+</p>
+<h6><span class="mw-headline" id="Box">Box</span></h6>
+<p>Camera bounding box draws invisible lines to the object bounding box, if any lines connect then the object is drawn.
+</p>
+<h6><span class="mw-headline" id="Frustum_Box">Frustum Box</span></h6>
+<p>Draws an invisible bounding Box and checks if the camera can see any part of it.
+</p>
+<h6><span class="mw-headline" id="Frustum_Sphere">Frustum Sphere</span></h6>
+<p>Draws an invisible bounding sphere and checks if the camera can see any part of it
+</p>
+<h6><span class="mw-headline" id="Off">Off</span></h6>
+<p>Never hides meshes out of sight, this can have a huge negative impact on larger scenes.
+</p>
+<h6><span class="mw-headline" id="Set">Set</span></h6>
+<p>Allows you to set which mode the Automatic culling uses during runtime.
+</p>
+<h5><span class="mw-headline" id="Draw_Debug_Data">Draw Debug Data</span></h5>
+<h6><span class="mw-headline" id="Off_2">Off</span></h6>
+<p>Turns off debug data
+</p>
+<h6><span class="mw-headline" id="On">On</span></h6>
+<p>Turns on debug data
+</p>
+<h6><span class="mw-headline" id="Set_2">Set</span></h6>
+<p>Sets if debug data like bounding boxes should be drawn (0 off 1 on)
+</p>
+<h4><span class="mw-headline" id="Collisions">Collisions</span></h4>
+<p>Collisions work like this: When node A (that Uses Collisions) might collide with node B (that Uses Collisions, it compares node A’s Collision Radius and Translation against node B’s mesh. If they collide, it is that node A has collided with node B, not the other way around. If node A’s collision Radius is equal to 0, then it cannot collide with node B. For node B to collide with A, it has to compare B’s Radius and Translation against A’s mesh.
+</p>
+<h5><span class="mw-headline" id="Use_Collisions">Use Collisions</span></h5>
+<p>If this is set true, then this Node can collide and be collided into by other colliding nodes.
+</p>
+<h5><span class="mw-headline" id="Radius">Radius</span></h5>
+<p>If this node Uses Collisions, then this is the radius of the space that it takes up around its position when it collides into Meshes of other nodes (that use collisions also).
+</p>
+<h5><span class="mw-headline" id="Translation">Translation</span></h5>
+<p>If this node Uses Collisions, then this is an offset from its position that it uses to calculate when it collides into Meshes of other nodes (that use collisions also).
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155117
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.320 seconds
+Real time usage: 0.325 seconds
+Preprocessor visited node count: 314/1000000
+Preprocessor generated node count: 736/1000000
+Post‐expand include size: 2338/2097152 bytes
+Template argument size: 1194/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   87.412      1 - -total
+100.00%   87.412      1 - Template:InfoExtension
+  9.36%    8.184      1 - Template:ExtPurchase
+  9.28%    8.112      2 - Template:Yes
+  9.18%    8.023      1 - Template:ShopSteam
+  8.30%    7.252      2 - Template:ClickteamExtension
+  8.14%    7.116      1 - Template:CF2.5
+  8.07%    7.051      1 - Template:EXE
+  7.91%    6.914      1 - Template:CF2.5Dev
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:954-0!*!0!!en!5!* and timestamp 20180529155117 and revision id 2057
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (100.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Firefly&amp;oldid=2057">http://clickwiki.net/w/index.php?title=Firefly&amp;oldid=2057</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Firefly"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":645});});</script>
+  </body>
+</html>

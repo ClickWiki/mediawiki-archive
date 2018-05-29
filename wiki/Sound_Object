@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Sound Object - ClickWiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sound_Object","wgTitle":"Sound Object","wgCurRevisionId":1911,"wgRevisionId":1911,"wgArticleId":83,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Extensions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sound_Object","wgRelevantArticleId":83,"wgRequestId":"4236601647dfd19085971381","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","skins.strapping":"loading"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1eu4hyo",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="../w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%252Cshared%257Cmediawiki.sectionAnchor&amp;only=styles&amp;skin=strapping"/>
+<script async="" src="../w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=strapping"></script>
+<link rel="stylesheet" href="../w/skins/strapping/bootstrap/css/bootstrap.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/bootstrap/awesome/css/font-awesome.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/screen.css?303" media="screen"/><link rel="stylesheet" href="../w/skins/strapping/theme.css?303" media="screen"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.28.2"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ClickWiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://clickwiki.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ClickWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="ClickWiki"><meta name="application-name" content="ClickWiki"><link rel="apple-touch-icon" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/icon-72.png"><link rel="apple-touch-icon-precomposed" href="/ico/icon-57.png"><meta name="theme-color" content="#2a75f8"><meta name="msapplication-TileColor" content="#2a75f8"><meta name="msapplication-TileImage" content="resources/assets/mobile/icon-144.png"><link rel="shortcut icon" sizes="144x144" href="/ico/icon-144.png"><link rel="shortcut icon" sizes="114x144" href="/ico/icon-114.png"><link rel="shortcut icon" sizes="72x72" href="/ico/icon-72.png"><link rel="shortcut icon" sizes="57x57" href="/ico/icon-57.png"><link rel="image_src" href="/logo.png" /><meta property="og:image" content="http://clickwiki.net/logo.png" /><meta property="og:description" content="The community Wiki all about Clickteam. Here you'll find lots of detail about past products, exporters and the growing number of extensions and features." /><link href="/manifest.json" rel="manifest">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/strapping/csshover.min.htc")}</style><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sound_Object rootpage-Sound_Object skin-strapping action-view">
+
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+
+    <!-- Header -->
+    <div id="page-header" class="container signed-out">
+      <section class="span12">
+
+      
+                  <ul class="nav logo-container" style="background: url('../w/resources/assets/bkgndcycle/img3.png') no-repeat right bottom" role="navigation"><!--<a href="/wiki/Main_Page"  title="Visit the main page">--><a href="Main_Page"><img src="../w/resources/assets/Header-Logo.png" alt="ClickWiki" width="150px"></a></ul>
+
+      <ul class="navigation nav nav-pills pull-right searchform-disabled">
+
+      
+<!-- 0 -->
+          <li><a class="nav-pills" href="/"><i class="icon-home"></i> Home</a></li>
+
+          <ul class="navigation nav nav-pills pull-right searchform-disabled">
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-list-ul"></i> Categories<b class="caret"></b></a>
+              <ul aria-labelledby="Categories" role="menu" class="dropdown-menu">
+                <li><b>&nbsp;&nbsp;All Things Clickteam</b></li>
+                <li><a href="./Category:Clickteam" id="n-Clickteam"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="./Category:Products" id="n-Products"><img src="../w/images/e/ef/Icon_CF2.5.png" width="16px" height="16px"/> Products</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Fusion</b></li>
+                <li><a href="Exporters" id="n-Exporters"><img src="../w/images/7/7d/Main_Exporters.png" width="16px" height="16px"/> Exporters</a></li>
+                <li><a href="./Category:Extensions" id="n-Extensions"><img src="../w/images/d/de/Main_Extensions.png" width="16px" height="16px"/> Extensions</a></li>
+                <li><a href="./Category:Community" id="n-Community"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Community Resources</a></li>
+                <li><a href="./Category:Guidance" id="n-Help-.26-Guidance"><i class="icon-question-sign"></i> Help &amp; Guidance</a></li>
+                <li><a href="./Category:Interface" id="n-Interface"><img src="../w/images/c/c4/Main_Editors.png" width="16px" height="16px"/> Interface</a></li>
+                <li><br></li>
+                <li><b>&nbsp;&nbsp;Advanced</b></li>
+                <li><a href="./Category:File_Extensions" id="n-File-Extensions"><img src="../w/images/b/b6/Icon_GAM.png" width="16px" height="16px"/> File Extensions</a></li>
+                <li><a href="./Category:Chowdren" id="n-Chowdren"><img src="../w/images/4/42/ChowdrenIcon.png" width="16px" height="16px"/> Chowdren</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button"><i class="icon-external-link-sign"></i> External Links<b class="caret"></b></a>
+              <ul aria-labelledby="External Links" role="menu" class="dropdown-menu">
+                <li><a href="http://www.clickteam.com/" id="n-Clickteam-Home-Page" rel="nofollow"><img src="../w/images/c/c0/Clickteam_Logo.png" width="16px" height="16px"/> Clickteam</a></li>
+                <li><a href="http://community.clickteam.com/" id="n-Community-Forums" rel="nofollow"><i class="icon-user"></i> Clickteam Forums</a></li>
+                <li><a href="http://community.clickteam.com/passport" id="n-Community-Passport" rel="nofollow"><i class="icon-key"></i> Community Passport</a></li>
+                <li><a href="http://www.clickteam.com/web-shop" id="n-Clickteam-Shop" rel="nofollow"><img src="../w/images/2/25/Icon_Shop.png" width="16px" height="16px"/> Clickteam Shop</a></li>
+                <li><a href="http://clickstore.clickteam.com/" id="n-ClickStore" rel="nofollow"><img src="../w/images/c/c7/Main_ClickStore.png" width="16px" height="16px"/> ClickStore</a></li>
+                <li><a href="http://bugbox.clickteam.com/" id="n-Bug-Tracker" rel="nofollow"><img src="../w/images/9/9e/Main_BugBox.png" width="16px" height="16px"/> Bug Tracker</a></li>
+              </ul>
+            </li>
+<!--
+            <li><a id="n-Search" class="search-link"><i class="icon-search"></i>Search</a></li>
+-->
+          </ul>
+
+
+<!-- /0 -->
+
+      </ul>
+
+    </section>
+    </div>
+
+    
+    
+    <!-- content -->
+    <section id="content" class="mw-body container 0">
+      <div id="top"></div>
+      <div id="mw-js-message" style="display:none;"></div>
+            <!-- sitenotice -->
+      <div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><center><div align="left" style="width:75%;border:3px solid #508BF2;background-color:#F5F9FF;padding:3px;">
+<table>
+<tr>
+<td rowspan="3" style="background-color: #508BF2; padding-right:8px">
+</td></tr>
+<tr>
+<td rowspan="2" style="width:48px;padding-left:2px;padding-right:10px">   <div class="floatleft"><img alt="BoxSymbol Clock.png" src="../w/images/2/2a/BoxSymbol_Clock.png" width="48" height="48" style="vertical-align: middle" /></div>
+</td>
+<td> <b>This is an archive.</b>
+</td></tr>
+<tr>
+<td> See the new ClickWiki at <a rel="nofollow" class="external free" href="https://clickwiki.net">https://clickwiki.net</a>. This version is just an archive for the purposes of migrating content to the new structure.
+</td></tr></table>
+</div></center>
+<p><br />
+</p></div></div>
+      <!-- /sitenotice -->
+            <!-- bodyContent -->
+      <div id="bodyContent">
+                        <!-- jumpto -->
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="Sound_Object#mw-head">navigation</a>,
+          <a href="Sound_Object#p-search">search</a>
+        </div>
+        <!-- /jumpto -->
+        
+
+        <!-- innerbodycontent -->
+                  <div id="innerbodycontent" class="row nolayout"><div class="offset1 span10">
+            <h1 id="firstHeading" class="firstHeading page-header">
+              <span dir="auto">Sound Object</span>
+            </h1>
+            <!-- subtitle -->
+            <div id="contentSub" ></div>
+            <!-- /subtitle -->
+                        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><br />
+</p>
+<table class="wikitable" style="float:right;">
+
+<tr style="text-align:center;">
+<td colspan="2"><a href="./File:Icon_SoundObject.png" class="image"><img alt="Icon SoundObject.png" src="../w/images/7/72/Icon_SoundObject.png" width="48" height="48" /></a>
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td><a href="Clickteam" title="Official extension or is supported by Clickteam."><img alt="Official extension or is supported by Clickteam." src="../w/images/c/c0/Clickteam_Logo.png" width="24" height="20" /></a>
+</td></tr>
+<tr>
+<td><b>Status</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Released
+</td></tr>
+<tr>
+<td><b>Release Date</b>
+</td>
+<td>1998
+</td></tr>
+<tr>
+<td> <b>Last Updated</b>
+</td>
+<td> 2006
+</td></tr>
+<tr>
+<td><b>Available for</b>
+</td>
+<td><a href="Multimedia_Fusion_1.5" title="Multimedia Fusion 1.5"><img alt="Multimedia Fusion 1.5" src="../w/images/f/f7/Icon_MMF1.5.png" width="24" height="24" /></a> <a href="The_Games_Factory_2" title="The Games Factory 2"><img alt="The Games Factory 2" src="../w/images/0/00/Icon_TGF2.png" width="24" height="24" /></a> <a href="Multimedia_Fusion_2" title="Multimedia Fusion 2 Standard"><img alt="Multimedia Fusion 2 Standard" src="../w/images/f/f0/Icon_MMF2.png" width="24" height="24" /></a> <a href="Multimedia_Fusion_2#Developer" title="Multimedia Fusion Developer 2"><img alt="Multimedia Fusion Developer 2" src="../w/images/d/de/Icon_MMF2Dev.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Free Edition"><img alt="Clickteam Fusion 2.5 Free Edition" src="../w/images/6/6c/Icon_CF2.5Free.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Standard"><img alt="Clickteam Fusion 2.5 Standard" src="../w/images/e/ef/Icon_CF2.5.png" width="24" height="24" /></a> <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5 Developer"><img alt="Clickteam Fusion 2.5 Developer" src="../w/images/7/72/Icon_CF2.5Dev.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>Supported Runtimes</b>
+</td>
+<td><a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a> <a href="Mac_Runtime" title="Compatible with the Mac Runtime"><img alt="Compatible with the Mac Runtime" src="../w/images/8/85/Supported_Mac.png" width="24" height="24" /></a> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a> <a href="XNA_Runtime" title="XNA Runtime (now deprecated)"><img alt="XNA Runtime (now deprecated)" src="../w/images/9/9f/Runtime_XNA.png" width="24" height="24" /></a> <a href="UWP_Runtime" title="UWP Runtime"><img alt="UWP Runtime" src="../w/images/5/5a/Runtime_UWP.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<td><b>License</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Free
+</td></tr>
+<tr style="display: none;">
+<td> <b>Attributes</b>
+</td>
+<td> {{{Attributes}}}
+</td></tr>
+<tr>
+<th colspan="2"> Download
+</th></tr>
+<tr>
+<td><b>Includes Examples</b>
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">No
+</td></tr>
+<tr>
+<td><b>Includes Help Files</b>
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td></tr>
+<tr>
+<td><b>Links</b>
+</td>
+<td><i>Included with Fusion.</i>
+</td></tr>
+
+<tr>
+<td> <b>Alternates</b>
+</td>
+<td> <a href="/w/index.php?title=DirectShow&amp;action=edit&amp;redlink=1" class="new" title="DirectShow (page does not exist)">DirectShow</a>, <a href="/w/index.php?title=Sound_Player&amp;action=edit&amp;redlink=1" class="new" title="Sound Player (page does not exist)">Sound Player</a>
+</td></tr>
+</table>
+<p>The Sound object plays different sound files in your <a href="Clickteam_Fusion_2.5" title="Clickteam Fusion 2.5">Clickteam Fusion 2.5</a> applications. The formats supported depend on your version of Clickteam Fusion 2.5 and on the sound filters installed. All the versions of Clickteam Fusion 2.5 support at least .WAV, .MOD and .MID files. Samples and music can be started, stopped, and looped using this object. The Sound object can also detect if a sound or music is not playing, should you want to trigger an action at the end of a particular sound effect. It is always available so you don't need to add an object to a frame to play sounds.
+</p><p>The sounds played by the Play Sample and Play Music actions of the Sound object are integrated into the application's file, you do not need to redistribute them with your application. The sounds played by the Play Sample File and Play Music File actions are not embedded into your application and should be redistributed with your stand-alone application.
+</p><p>The Sound object is a system object: it is only available in the event editor. 
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Sound_Object#Formats_Supported"><span class="tocnumber">1</span> <span class="toctext">Formats Supported</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="Sound_Object#Internal_vs_External"><span class="tocnumber">2</span> <span class="toctext">Internal vs External</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="Sound_Object#Internal"><span class="tocnumber">2.1</span> <span class="toctext">Internal</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="Sound_Object#External"><span class="tocnumber">2.2</span> <span class="toctext">External</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="Sound_Object#Features"><span class="tocnumber">3</span> <span class="toctext">Features</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="Sound_Object#Conditions"><span class="tocnumber">4</span> <span class="toctext">Conditions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="Sound_Object#Samples"><span class="tocnumber">4.1</span> <span class="toctext">Samples</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="Sound_Object#Is_a_sample_not_playing.3F"><span class="tocnumber">4.1.1</span> <span class="toctext">Is a sample not playing?</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="Sound_Object#Is_a_specific_sample_not_playing.3F"><span class="tocnumber">4.1.2</span> <span class="toctext">Is a specific sample not playing?</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="Sound_Object#Is_a_specific_channel_not_playing.3F"><span class="tocnumber">4.1.3</span> <span class="toctext">Is a specific channel not playing?</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="Sound_Object#Is_a_specific_sample_paused.3F"><span class="tocnumber">4.1.4</span> <span class="toctext">Is a specific sample paused?</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="Sound_Object#Is_a_specific_channel_paused.3F"><span class="tocnumber">4.1.5</span> <span class="toctext">Is a specific channel paused?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="Sound_Object#Music"><span class="tocnumber">4.2</span> <span class="toctext">Music</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="Sound_Object#Is_music_not_playing.3F"><span class="tocnumber">4.2.1</span> <span class="toctext">Is music not playing?</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="Sound_Object#Is_music_paused.3F"><span class="tocnumber">4.2.2</span> <span class="toctext">Is music paused?</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="Sound_Object#Is_specific_music_not_playing.3F"><span class="tocnumber">4.2.3</span> <span class="toctext">Is specific music not playing?</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="Sound_Object#Has_music_just_finished.3F"><span class="tocnumber">4.2.4</span> <span class="toctext">Has music just finished?</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="Sound_Object#Actions"><span class="tocnumber">5</span> <span class="toctext">Actions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="Sound_Object#Samples_2"><span class="tocnumber">5.1</span> <span class="toctext">Samples</span></a>
+<ul>
+<li class="toclevel-3 tocsection-20"><a href="Sound_Object#Play_Sample"><span class="tocnumber">5.1.1</span> <span class="toctext">Play Sample</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="Sound_Object#Play_sample_on_a_specific_channel"><span class="tocnumber">5.1.2</span> <span class="toctext">Play sample on a specific channel</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="Sound_Object#Play_sample_file_on_a_specific_channel"><span class="tocnumber">5.1.3</span> <span class="toctext">Play sample file on a specific channel</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="Sound_Object#Play_And_Loop_Sample"><span class="tocnumber">5.1.4</span> <span class="toctext">Play And Loop Sample</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="Sound_Object#Play_and_loop_sample_on_a_specific_channel"><span class="tocnumber">5.1.5</span> <span class="toctext">Play and loop sample on a specific channel</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="Sound_Object#Play_and_loop_sample_file_on_a_specific_channel"><span class="tocnumber">5.1.6</span> <span class="toctext">Play and loop sample file on a specific channel</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="Sound_Object#Pause_sample"><span class="tocnumber">5.1.7</span> <span class="toctext">Pause sample</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="Sound_Object#Pause_channel"><span class="tocnumber">5.1.8</span> <span class="toctext">Pause channel</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="Sound_Object#Pause_all_sounds"><span class="tocnumber">5.1.9</span> <span class="toctext">Pause all sounds</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="Sound_Object#Resume_sample"><span class="tocnumber">5.1.10</span> <span class="toctext">Resume sample</span></a></li>
+<li class="toclevel-3 tocsection-30"><a href="Sound_Object#Resume_channel"><span class="tocnumber">5.1.11</span> <span class="toctext">Resume channel</span></a></li>
+<li class="toclevel-3 tocsection-31"><a href="Sound_Object#Resume_all_sounds"><span class="tocnumber">5.1.12</span> <span class="toctext">Resume all sounds</span></a></li>
+<li class="toclevel-3 tocsection-32"><a href="Sound_Object#Stop_a_specific_sample"><span class="tocnumber">5.1.13</span> <span class="toctext">Stop a specific sample</span></a></li>
+<li class="toclevel-3 tocsection-33"><a href="Sound_Object#Stop_Channel"><span class="tocnumber">5.1.14</span> <span class="toctext">Stop Channel</span></a></li>
+<li class="toclevel-3 tocsection-34"><a href="Sound_Object#Stop_any_sample_playing"><span class="tocnumber">5.1.15</span> <span class="toctext">Stop any sample playing</span></a></li>
+<li class="toclevel-3 tocsection-35"><a href="Sound_Object#Set_main_volume"><span class="tocnumber">5.1.16</span> <span class="toctext">Set main volume</span></a></li>
+<li class="toclevel-3 tocsection-36"><a href="Sound_Object#Set_sample_volume"><span class="tocnumber">5.1.17</span> <span class="toctext">Set sample volume</span></a></li>
+<li class="toclevel-3 tocsection-37"><a href="Sound_Object#Set_channel_volume"><span class="tocnumber">5.1.18</span> <span class="toctext">Set channel volume</span></a></li>
+<li class="toclevel-3 tocsection-38"><a href="Sound_Object#Set_main_pan"><span class="tocnumber">5.1.19</span> <span class="toctext">Set main pan</span></a></li>
+<li class="toclevel-3 tocsection-39"><a href="Sound_Object#Set_sample_pan"><span class="tocnumber">5.1.20</span> <span class="toctext">Set sample pan</span></a></li>
+<li class="toclevel-3 tocsection-40"><a href="Sound_Object#Set_channel_pan"><span class="tocnumber">5.1.21</span> <span class="toctext">Set channel pan</span></a></li>
+<li class="toclevel-3 tocsection-41"><a href="Sound_Object#Set_sample_position"><span class="tocnumber">5.1.22</span> <span class="toctext">Set sample position</span></a></li>
+<li class="toclevel-3 tocsection-42"><a href="Sound_Object#Set_channel_position"><span class="tocnumber">5.1.23</span> <span class="toctext">Set channel position</span></a></li>
+<li class="toclevel-3 tocsection-43"><a href="Sound_Object#Set_sample_frequency"><span class="tocnumber">5.1.24</span> <span class="toctext">Set sample frequency</span></a></li>
+<li class="toclevel-3 tocsection-44"><a href="Sound_Object#Set_channel_frequency"><span class="tocnumber">5.1.25</span> <span class="toctext">Set channel frequency</span></a></li>
+<li class="toclevel-3 tocsection-45"><a href="Sound_Object#Lock_Channel"><span class="tocnumber">5.1.26</span> <span class="toctext">Lock Channel</span></a></li>
+<li class="toclevel-3 tocsection-46"><a href="Sound_Object#Unlock_Channel"><span class="tocnumber">5.1.27</span> <span class="toctext">Unlock Channel</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-47"><a href="Sound_Object#Music_2"><span class="tocnumber">5.2</span> <span class="toctext">Music</span></a>
+<ul>
+<li class="toclevel-3 tocsection-48"><a href="Sound_Object#Play_Music"><span class="tocnumber">5.2.1</span> <span class="toctext">Play Music</span></a></li>
+<li class="toclevel-3 tocsection-49"><a href="Sound_Object#Play_Music_File"><span class="tocnumber">5.2.2</span> <span class="toctext">Play Music File</span></a></li>
+<li class="toclevel-3 tocsection-50"><a href="Sound_Object#Play_And_Loop_Music"><span class="tocnumber">5.2.3</span> <span class="toctext">Play And Loop Music</span></a></li>
+<li class="toclevel-3 tocsection-51"><a href="Sound_Object#Play_And_Loop_Music_File"><span class="tocnumber">5.2.4</span> <span class="toctext">Play And Loop Music File</span></a></li>
+<li class="toclevel-3 tocsection-52"><a href="Sound_Object#Pause_music"><span class="tocnumber">5.2.5</span> <span class="toctext">Pause music</span></a></li>
+<li class="toclevel-3 tocsection-53"><a href="Sound_Object#Resume_music"><span class="tocnumber">5.2.6</span> <span class="toctext">Resume music</span></a></li>
+<li class="toclevel-3 tocsection-54"><a href="Sound_Object#Stop_any_music_playing"><span class="tocnumber">5.2.7</span> <span class="toctext">Stop any music playing</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-55"><a href="Sound_Object#Tips_.26_Tricks"><span class="tocnumber">6</span> <span class="toctext">Tips &amp; Tricks</span></a>
+<ul>
+<li class="toclevel-2 tocsection-56"><a href="Sound_Object#Play_different_samples_one_after_the_other"><span class="tocnumber">6.1</span> <span class="toctext">Play different samples one after the other</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Formats_Supported">Formats Supported</span></h2>
+<table class="wikitable" style="width:100%">
+<tr>
+<th rowspan="2"> File Extension
+</th>
+<th rowspan="2"> Description
+</th>
+<th colspan="9"> Compatibility with Exporter
+</th></tr>
+<tr>
+<td style="text-align:center"> <a href="Windows_Runtime" title="Windows Runtime"><img alt="Windows Runtime" src="../w/images/0/07/Supported_Windows.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center"> <a href="Mac_Runtime" title="Compatible with the Mac Runtime"><img alt="Compatible with the Mac Runtime" src="../w/images/8/85/Supported_Mac.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center"> <a href="Flash_Runtime" title="Flash Runtime"><img alt="Flash Runtime" src="../w/images/4/4c/Runtime_Flash.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center"> <a href="IOS_Runtime" title="iOS Runtime"><img alt="iOS Runtime" src="../w/images/e/e0/Runtime_iOS.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center"> <a href="Android_Runtime" title="Android Runtime"><img alt="Android Runtime" src="../w/images/c/c3/Runtime_Android.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center"> <a href="HTML5_Runtime.1" title="HTML5 Runtime"><img alt="HTML5 Runtime" src="../w/images/d/d1/Runtime_HTML5.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center"> <a href="XNA_Runtime" title="XNA Runtime (now deprecated)"><img alt="XNA Runtime (now deprecated)" src="../w/images/9/9f/Runtime_XNA.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center"> <a href="/wiki/Java_Runtime" title="Java Runtime (now deprecated)"><img alt="Java Runtime (now deprecated)" src="../w/images/a/a6/Icon_Java.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center"> <a href="UWP_Runtime" title="UWP Runtime"><img alt="UWP Runtime" src="../w/images/5/5a/Runtime_UWP.png" width="24" height="24" /></a>
+</td></tr>
+<tr>
+<th colspan="11"> Samples
+</th></tr>
+<tr>
+<td> .wav
+</td>
+<td>Microsoft Wave Sound
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td></tr>
+<tr>
+<td> .ogg
+</td>
+<td> OGG Vorbis
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td></tr>
+<tr>
+<td> .aif / .aiff
+</td>
+<td> Audio Interchange File Format
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td></tr>
+<tr>
+<td> .mod / .it / .s3m / .xm
+</td>
+<td> Amiga Music Module File
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td></tr>
+<tr>
+<td> .mp3
+</td>
+<td> MPEG-2 Audio Layer III
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">No
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td></tr>
+<tr>
+<th colspan="11"> Music
+</th></tr>
+<tr>
+<td> .mid / .rmi
+</td>
+<td> MIDI Sequencer Files
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;">Yes
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">No
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">No
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">No
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">No
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">No
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;">No
+</td>
+<td style="background:#E4E4E4;vertical-align:middle;text-align:center;">?
+</td></tr></table>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Internal_vs_External">Internal vs External</span></h2>
+<p>Depending on the platform you are building for, you will have to face a choice of whether you want your audio to be internal to your application, or as external files elsewhere on the system.
+</p>
+<h3><span class="mw-headline" id="Internal">Internal</span></h3>
+<p>Files that are internal are saved within the application itself. This is the case with many mobile runtimes (such as <a href="IOS_Runtime" title="IOS Runtime">iOS</a> and <a href="Android_Runtime" title="Android Runtime">Android</a>). For the <a href="Windows_Runtime" title="Windows Runtime">Windows</a> runtime, this packs the audio inside the executable itself, making it difficult for hackers to steal assets.
+</p>
+<h3><span class="mw-headline" id="External">External</span></h3>
+<p>External files are stored outside of the application, so it is important that you check they exist prior to trying to play such file (otherwise nothing will play with no error). These files could be relative to the application's working directory (by using '<i>Apppath </i>) or played based on the user's system (for instance, they have selected their own audio file in a Fusion-built media player)
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Features">Features</span></h2>
+<p>The Fusion runtime can use up to 32 channels for samples as well as offer additional features for its playback. Do note that some of these features are not available in all exporters.
+</p>
+<ul><li> <b>Loop</b> samples a number of times or forever.</li>
+<li> <b>Pause</b> and <b>resume</b> specific samples or channels.</li>
+<li> <b>Stop</b> a specific sample or channel altogether.</li>
+<li> <b>Pan</b> (set the position with stereo speakers) of specific samples or channels.</li>
+<li> Rearrange the <b>position</b> of a specific sample or channel.</li>
+<li> Set the <b>frequency</b> of a specific sample or channel.</li>
+<li> <b>Lock</b> and <b>unlock</b> channels.</li></ul>
+<h2><span class="mw-headline" id="Conditions">Conditions</span></h2>
+<h3><span class="mw-headline" id="Samples">Samples</span></h3>
+<p>The Samples conditions test for sound samples being played or paused. The Samples conditions are
+</p>
+<h4><span class="mw-headline" id="Is_a_sample_not_playing.3F">Is a sample not playing?</span></h4>
+<p>Tests to see if any sound sample is not playing. 
+</p>
+<h4><span class="mw-headline" id="Is_a_specific_sample_not_playing.3F">Is a specific sample not playing?</span></h4>
+<p>Tests to see if a specific sound sample is not playing. 
+</p>
+<h4><span class="mw-headline" id="Is_a_specific_channel_not_playing.3F">Is a specific channel not playing?</span></h4>
+<p>Tests to see if a specific channel is not playing. 
+</p>
+<h4><span class="mw-headline" id="Is_a_specific_sample_paused.3F">Is a specific sample paused?</span></h4>
+<p>Test to see if a specific sound sample is paused. 
+</p>
+<h4><span class="mw-headline" id="Is_a_specific_channel_paused.3F">Is a specific channel paused?</span></h4>
+<p>Test to see if a specific sound channel is paused. 
+</p>
+<h3><span class="mw-headline" id="Music">Music</span></h3>
+<p>The Music conditions test for MIDI music files not being played. The Music conditions are
+</p>
+<h4><span class="mw-headline" id="Is_music_not_playing.3F">Is music not playing?</span></h4>
+<p>Tests to see if any MIDI music file is not playing. 
+</p>
+<h4><span class="mw-headline" id="Is_music_paused.3F">Is music paused?</span></h4>
+<p>Tests to see if a music is currently paused. 
+</p>
+<h4><span class="mw-headline" id="Is_specific_music_not_playing.3F">Is specific music not playing?</span></h4>
+<p>Tests to see if a specific MIDI music file is not playing. 
+</p>
+<h4><span class="mw-headline" id="Has_music_just_finished.3F">Has music just finished?</span></h4>
+<p>Tests to see if any MIDI music file has finished playing. 
+</p>
+<h2><span class="mw-headline" id="Actions">Actions</span></h2>
+<h3><span class="mw-headline" id="Samples_2">Samples</span></h3>
+<h4><span class="mw-headline" id="Play_Sample">Play Sample</span></h4>
+<p>The Play Sample action plays a specific sound sample.
+</p>
+<h4><span class="mw-headline" id="Play_sample_on_a_specific_channel">Play sample on a specific channel</span></h4>
+<p>Plays a sound on one of the 32 different sound channels available.
+</p>
+<h4><span class="mw-headline" id="Play_sample_file_on_a_specific_channel">Play sample file on a specific channel</span></h4>
+<p>Plays an external sample file on one of the 32 different sound channels available.
+</p>
+<h4><span class="mw-headline" id="Play_And_Loop_Sample">Play And Loop Sample</span></h4>
+<p>The Play And Loop Sample action plays a sound sample and replays the sample the number of times you specify. If the number of loops is equal to 0, the sample will continuously loop.
+</p>
+<h4><span class="mw-headline" id="Play_and_loop_sample_on_a_specific_channel">Play and loop sample on a specific channel</span></h4>
+<p>Plays a sound on one of the 32 different sound channels available and replays the sample the number of times you specify. If the number of loops is equal to 0, the sample will continuously loop.
+</p>
+<h4><span class="mw-headline" id="Play_and_loop_sample_file_on_a_specific_channel">Play and loop sample file on a specific channel</span></h4>
+<p>Plays an external sample file on one of the 32 different sound channels available and replays the sample the number of times you specify. If the number of loops is equal to 0, the sample will continuously loop.
+</p>
+<h4><span class="mw-headline" id="Pause_sample">Pause sample</span></h4>
+<p>Interrupts the sound being played.
+</p>
+<h4><span class="mw-headline" id="Pause_channel">Pause channel</span></h4>
+<p>Interrupts the sound played on a specific channel only (1-32). All other channels will continue to play.
+</p>
+<h4><span class="mw-headline" id="Pause_all_sounds">Pause all sounds</span></h4>
+<p>Interrupts all the sounds being played.
+</p>
+<h4><span class="mw-headline" id="Resume_sample">Resume sample</span></h4>
+<p>Resumes a paused sample.
+</p>
+<h4><span class="mw-headline" id="Resume_channel">Resume channel</span></h4>
+<p>Resumes the playing of a specific channel (1-32). Does not interfere with the other channels.
+</p>
+<h4><span class="mw-headline" id="Resume_all_sounds">Resume all sounds</span></h4>
+<p>Resumes all the paused samples.
+</p>
+<h4><span class="mw-headline" id="Stop_a_specific_sample">Stop a specific sample</span></h4>
+<p>Stops a sound being played at the moment.
+</p>
+<h4><span class="mw-headline" id="Stop_Channel">Stop Channel</span></h4>
+<p>Stops the sound being played on a specific channel (1-32). Does not interfere with the other channels.
+</p>
+<h4><span class="mw-headline" id="Stop_any_sample_playing">Stop any sample playing</span></h4>
+<p>Stop any sound sample playing.
+</p>
+<h4><span class="mw-headline" id="Set_main_volume">Set main volume</span></h4>
+<p>Changes the main volume level. The volume is indicated by a number from 0 (quiet) to 100 (loud).
+</p>
+<h4><span class="mw-headline" id="Set_sample_volume">Set sample volume</span></h4>
+<p>Changes the volume level of a specific sample. The volume is indicated by a number from 0 (quiet) to 100 (loud).
+</p>
+<h4><span class="mw-headline" id="Set_channel_volume">Set channel volume</span></h4>
+<p>Changes the volume level on a specific channel (1-32). The volume is indicated by a number from 0 (quiet) to 100 (loud).
+</p>
+<h4><span class="mw-headline" id="Set_main_pan">Set main pan</span></h4>
+<p>Sets the main pan. The pan is indicated by a number from -100 (all the sound on the left, no sound on the right) to 100 (all the sound on the right, no sound on the left), 0 being in the middle.
+</p>
+<h4><span class="mw-headline" id="Set_sample_pan">Set sample pan</span></h4>
+<p>Sets the pan of a specific sample. The pan is indicated by a number from -100 (all the sound on the left, no sound on the right) to 100 (all the sound on the right, no sound on the left), 0 being in the middle.
+</p>
+<h4><span class="mw-headline" id="Set_channel_pan">Set channel pan</span></h4>
+<p>Sets the pan of a specific channel (1-32). The pan is indicated by a number from -100 (all the sound on the left, no sound on the right) to 100 (all the sound on the right, no sound on the left), 0 being in the middle.
+</p>
+<h4><span class="mw-headline" id="Set_sample_position">Set sample position</span></h4>
+<p>This action changes the position in the sample. It asks for the name of the sample to change, and the index to start playing at, in milliseconds.
+</p>
+<h4><span class="mw-headline" id="Set_channel_position">Set channel position</span></h4>
+<p>Same action as above, but for a specific channel (1-32).
+</p>
+<h4><span class="mw-headline" id="Set_sample_frequency">Set sample frequency</span></h4>
+<p>Changes the frequency of a specific sample. 0 to use the original frequency of the sound.
+</p>
+<h4><span class="mw-headline" id="Set_channel_frequency">Set channel frequency</span></h4>
+<p>Changes the frequency of a specific channel (1-32). 0 to use the original frequency of the sounds played on this channel.
+</p>
+<h4><span class="mw-headline" id="Lock_Channel">Lock Channel</span></h4>
+<p>Locks a channel. Locked channels are ignored by the Play Sample action when it looks for an available channel to play a sound on.
+</p>
+<h4><span class="mw-headline" id="Unlock_Channel">Unlock Channel</span></h4>
+<p>Unlocks a channel.
+</p>
+<h3><span class="mw-headline" id="Music_2">Music</span></h3>
+<h4><span class="mw-headline" id="Play_Music">Play Music</span></h4>
+<p>This action plays a specific MIDI music file. 
+</p>
+<h4><span class="mw-headline" id="Play_Music_File">Play Music File</span></h4>
+<p>This action plays an external MIDI music file. 
+</p>
+<h4><span class="mw-headline" id="Play_And_Loop_Music">Play And Loop Music</span></h4>
+<p>This action plays a MIDI music file and replays the music file the number of times you specify. If the number of loops is equal to 0, the music will continuously loop. 
+</p>
+<h4><span class="mw-headline" id="Play_And_Loop_Music_File">Play And Loop Music File</span></h4>
+<p>This action plays a MIDI music file and replays the music file the number of times you specify. If the number of loops is equal to 0, the music will continuously loop. 
+</p>
+<h4><span class="mw-headline" id="Pause_music">Pause music</span></h4>
+<p>Temporary stops the music. 
+</p>
+<h4><span class="mw-headline" id="Resume_music">Resume music</span></h4>
+<p>Resumes a paused music. 
+</p>
+<h4><span class="mw-headline" id="Stop_any_music_playing">Stop any music playing</span></h4>
+<p>Stops the music playing. 
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Tips_.26_Tricks">Tips &amp; Tricks</span></h2>
+<h3><span class="mw-headline" id="Play_different_samples_one_after_the_other">Play different samples one after the other</span></h3>
+<p>There is no condition to check when a specific sample has finished playing, therefore, this can be worked around by using a form of counter. In this example, we will be using a global variable.
+</p><p><br />
+</p>
+<table class="wikitable">
+<tr>
+<td colspan="2">
+<p><br />
+</p>
+</td>
+<td valign="middle" style="width:32px;height:32px;text-align:center;vertical-align:middle;background-color:#F0F0F0;border:1px solid #A0A0A0"> <a href="/wiki/Special_Conditions" title="Special Conditions"><img alt="Special Conditions" src="../w/images/d/d6/Special_Condition.png" width="32" height="32" /></a>
+</td>
+<td valign="middle" style="width:32px;height:32px;text-align:center;vertical-align:middle;background-color:#F0F0F0;border:1px solid #A0A0A0"> <a href="Sound_Object" title="Sound Object"><img alt="Sound Object" src="../w/images/7/72/Icon_SoundObject.png" width="32" height="32" /></a>
+</td>
+<td valign="middle" style="width:32px;height:32px;text-align:center;vertical-align:middle;background-color:#F0F0F0;border:1px solid #A0A0A0"> <a href="Storyboard_Object" title="Storyboard Object"><img alt="Storyboard Object" src="../w/images/f/fb/Storyboard_Controls.png" width="32" height="32" /></a>
+</td></tr>
+<tr style="font-family:Verdana;font-size:12px;background-color:#F1F1F1;border: 1px solid #A0A0A0">
+<td style="width:28px;height:16px;text-align:center;background-color:#F0F0F0;border:1px solid #A0A0A0"> 1
+</td>
+<td style="width:300px;text-align:left;background-color:#F0F0F0;border:1px solid #A0A0A0;"> • Start of Frame
+</td>
+<td style="width:16px;height:16px"> <img class="simple-tooltip simple-tooltip-img" data-simple-tooltip="Set Global Variable A to 0" src="https://clickwiki.net/w/images/0/07/EE_Checkmark.png"></img>
+</td>
+<td style="width:16px;height:16px"> <img class="simple-tooltip simple-tooltip-img" data-simple-tooltip="Play Sample &quot;Intro.ogg&quot;" src="https://clickwiki.net/w/images/0/07/EE_Checkmark.png"></img>
+</td>
+<td>
+</td></tr>
+<tr style="font-family:Verdana;font-size:12px;background-color:#F1F1F1;border: 1px solid #A0A0A0">
+<td style="width:28px;height:16px;text-align:center;background-color:#F0F0F0;border:1px solid #A0A0A0"> 2
+</td>
+<td style="width:300px;text-align:left;background-color:#F0F0F0;border:1px solid #A0A0A0;"> • No sample is playing
+<p>• Global Variable A = 0
+</p>
+</td>
+<td style="width:16px;height:16px"> <img class="simple-tooltip simple-tooltip-img" data-simple-tooltip="Set Global Variable A to 1" src="https://clickwiki.net/w/images/0/07/EE_Checkmark.png"></img>
+</td>
+<td style="width:16px;height:16px"> <img class="simple-tooltip simple-tooltip-img" data-simple-tooltip="Play Sample &quot;Middle.ogg&quot;" src="https://clickwiki.net/w/images/0/07/EE_Checkmark.png"></img>
+</td>
+<td>
+</td></tr>
+<tr style="font-family:Verdana;font-size:12px;background-color:#F1F1F1;border: 1px solid #A0A0A0">
+<td style="width:28px;height:16px;text-align:center;background-color:#F0F0F0;border:1px solid #A0A0A0"> 3
+</td>
+<td style="width:300px;text-align:left;background-color:#F0F0F0;border:1px solid #A0A0A0;"> • No sample is playing
+<p>• Global Variable A = 1
+</p>
+</td>
+<td style="width:16px;height:16px"> <img class="simple-tooltip simple-tooltip-img" data-simple-tooltip="Set Global Variable A to 2" src="https://clickwiki.net/w/images/0/07/EE_Checkmark.png"></img>
+</td>
+<td style="width:16px;height:16px"> <img class="simple-tooltip simple-tooltip-img" data-simple-tooltip="Play Sample &quot;End.ogg&quot;" src="https://clickwiki.net/w/images/0/07/EE_Checkmark.png"></img>
+</td>
+<td>
+</td></tr>
+<tr style="font-family:Verdana;font-size:12px;background-color:#F1F1F1;border: 1px solid #A0A0A0">
+<td style="width:28px;height:16px;text-align:center;background-color:#F0F0F0;border:1px solid #A0A0A0"> 4
+</td>
+<td style="width:300px;text-align:left;background-color:#F0F0F0;border:1px solid #A0A0A0;"> • No sample is playing
+<p>• Global Variable A = 2
+</p>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="width:16px;height:16px"> <img class="simple-tooltip simple-tooltip-img" data-simple-tooltip="Next Frame" src="https://clickwiki.net/w/images/0/07/EE_Checkmark.png"></img>
+</td></tr>
+<tr style="font-family:Verdana;font-size:12px;background-color:#F1F1F1;border: 1px solid #A0A0A0">
+<td style="width:28px;height:16px;text-align:center;background-color:#F0F0F0;border:1px solid #A0A0A0"> 5
+</td>
+<td style="width:300px;text-align:left;background-color:#F0F0F0;border:1px solid #A0A0A0;"> • New condition
+</td></tr></table>
+<p><br />
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180529155155
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.950 seconds
+Real time usage: 0.944 seconds
+Preprocessor visited node count: 646/1000000
+Preprocessor generated node count: 1914/1000000
+Post‐expand include size: 10977/2097152 bytes
+Template argument size: 2130/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  363.469      1 - -total
+ 53.47%  194.331      1 - Template:InfoExtension
+  5.57%   20.244      7 - Template:EventCheck
+  5.48%   19.910      4 - Template:EventLine
+  3.91%   14.214     39 - Template:Unknown
+  3.87%   14.059      3 - Template:EventColumn
+  3.82%   13.900      1 - Template:MMF1
+  3.20%   11.613     11 - Template:Yes
+  2.66%    9.680      1 - Template:MMF2
+  2.59%    9.412      8 - Template:No
+-->
+
+<!-- Saved in parser cache with key clickwiki:pcache:idhash:83-0!*!0!!en!5!* and timestamp 20180529155154 and revision id 1911
+ -->
+
+<div id="ContributionCredits"><p><br />
+</p>
+<h5><span class="mw-headline" id="Contributors_to_this_page">Contributors to this page</span></h5>
+<p><a href="/w/index.php?title=User:Advaith&amp;action=edit&amp;redlink=1" class="new" title="User:Advaith (page does not exist)">Advaith</a> (53.0%), <a href="/w/index.php?title=User:Lh37&amp;action=edit&amp;redlink=1" class="new" title="User:Lh37 (page does not exist)">Lh37</a> (47.0%)
+</p></div></div>          </div></div>
+                <!-- /innerbodycontent -->
+
+                <!-- printfooter -->
+        <div class="printfooter">
+        Retrieved from "<a dir="ltr" href="http://clickwiki.net/w/index.php?title=Sound_Object&amp;oldid=1911">http://clickwiki.net/w/index.php?title=Sound_Object&amp;oldid=1911</a>"        </div>
+        <!-- /printfooter -->
+                        <!-- catlinks -->
+        <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="./Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="./Category:Extensions" title="Category:Extensions">Extensions</a></li></ul></div></div>        <!-- /catlinks -->
+                        <div class="visualClear"></div>
+        <!-- debughtml -->
+                <!-- /debughtml -->
+      </div>
+      <!-- /bodyContent -->
+    </section>
+    <!-- /content -->
+
+      <!-- footer -->
+
+      <div id="footer" class="footer container custom-footer"><!-- Custom Footer -->
+<style>
+.icon-ftr {
+  width: 16px; height: 16px;
+  object-position: 0 0;  object-fit: none;
+  vertical-align: middle;
+  pointer-events: none }
+.ftr-about { object-position: -0px 0px; }
+.ftr-welcome { object-position: -16px 0px; }
+.ftr-todo { object-position: -32px 0px; }
+.ftr-stats { object-position: -48px 0px; }
+.ftr-donate { object-position: -64px 0px; }
+.ftr-fb { object-position: 0px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-tr { object-position: -32px -16px; width: 32px; height: 32px; pointer-events: auto }
+.ftr-discord { object-position: -64px -16px; width: 32px; height: 32px; }
+.ftr-login { object-position: -80px 0px; }
+.ftr-powered { object-position: 0px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-license { object-position: -88px -49px; width: 88px; height: 31px; pointer-events: auto }
+.ftr-exit { object-position: -96px 0px; }
+</style>
+<div id="footer" class="footer container">
+  <div class="row">
+    <ul>
+      <li><a href="https://clickwiki.net/">Go to new site</a></li>
+      <li><a href="https://clickwiki.net/about/" alt="About ClickWiki"><img src="/global/footer-sprite.png" class="icon-ftr ftr-about"> About ClickWiki</a></li>
+
+    <!-- If the visitor isn't signed in, show them the link -->
+    <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sound+Object"><img src="/global/footer-sprite.png" class="icon-ftr ftr-login"><b> Log in</b></a></li>    <!-- End -->
+    </ul>
+    <ul>
+     <li>
+       <a href="https://facebook.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-fb" alt="Like on Facebook"></a> 
+       <a href="https://twitter.com/ClickWiki" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-tr"  alt="Follow on Twitter"></a>
+      <a href="https://discord.gg/42jVPPd" target="_blank"><img src="/global/footer-sprite.png" class="icon-ftr ftr-discord" alt="Join us on Discord"></a> 
+     </li>
+    </ul>
+    <ul>
+    <small>
+      <p>
+      ClickWiki is written and maintained by clickers like you. This community project is not affiliated in any way with <a href="Clickteam">Clickteam</a>.
+      </p>
+    </small>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-license"></a></li>
+        <li><a href="https://www.mediawiki.org/"><img src="/global/footer-sprite.png" class="icon-ftr ftr-powered"></a></li>
+    </ul>
+  </div>
+</div>
+</div>
+    <script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=skins.strapping\u0026only=scripts\u0026skin=strapping");mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1350});});</script>
+  </body>
+</html>
